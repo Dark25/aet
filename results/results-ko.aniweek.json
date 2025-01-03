@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/모멘타리 릴리",
+                                "title": "모멘타리 릴리",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/a0c2b3bad8a86be1b0855305cc846fee_1735923521_3736.jpg"
+                            },
+                            {
+                                "url": "/c/황혼 호텔",
+                                "title": "황혼 호텔",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/a0c2b3bad8a86be1b0855305cc846fee_1735921438_5106.jpg"
+                            },
+                            {
+                                "url": "/c/결혼한다는 게, 정말인가요",
+                                "title": "결혼한다는 게, 정말인가요",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/92cf6d5825df45b9fdd368e09fae3279_1727933623_7327.jpg"
+                            },
+                            {
                                 "url": "/c/푸른 상자",
                                 "title": "푸른 상자",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727982170_7073.jpg"
@@ -45,11 +60,6 @@
                                 "url": "/c/밤은 고양이와 함께 (2024)",
                                 "title": "밤은 고양이와 함께 (2024)",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/bf2d4eb551d4812ee2b7d60527428479_1735754877_3422.jpg"
-                            },
-                            {
-                                "url": "/c/결혼한다는 게, 정말인가요",
-                                "title": "결혼한다는 게, 정말인가요",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/92cf6d5825df45b9fdd368e09fae3279_1727933623_7327.jpg"
                             },
                             {
                                 "url": "/c/페이트 스트레인지 페이크",
@@ -529,10 +539,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/푸른 상자",
-                    "title": "푸른 상자",
-                    "description": "원제: アオのハコ\n원작: 미우라 코지\n감독: 야노 유이치로\n각본: 카키하라 유코\n캐릭터디자인: 카타니노 미호\n음악: 오마마 타카시\n장르: 로맨스, 코미디, 스포츠\n방영일: 2024.10.03 23:56 (목)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727982170_7073.jpg",
+                    "url": "/c/모멘타리 릴리",
+                    "title": "모멘타리 릴리",
+                    "description": "원제: もめんたりー・リリィ\n원작: Go Hands\n감독: 스즈키 신고, 쿠도 스스무, 요코미네 카츠마사\n각본: 야나기 타마조\n캐릭터 디자인: 스즈키 신고\n음악: Ryosuke Kojima\n장르: 포스트 아포칼립스, 액션\n방영일: 2025.01.02 23:30 (목)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/a0c2b3bad8a86be1b0855305cc846fee_1735923521_3736.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -540,22 +550,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/푸른 상자 14화",
-                        "name": "푸른 상자 14화",
-                        "date_upload": 1735862400000,
-                        "episode_number": 14.0
-                    },
-                    {
-                        "url": "/e/푸른 상자 13화",
-                        "name": "푸른 상자 13화",
-                        "date_upload": 1735257600000,
-                        "episode_number": 13.0
+                        "url": "/e/모멘타리 릴리 1화",
+                        "name": "모멘타리 릴리 1화",
+                        "date_upload": 1735948800000,
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-11292657408369248961/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-11292657408369248961/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-11292657408369248961/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-11497495721993993871/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-11497495721993993871/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-11497495721993993871/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

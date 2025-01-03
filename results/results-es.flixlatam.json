@@ -3,28 +3,584 @@
         "name": "FlixLatam (ES)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/pelicula/la-noche-que-luche-contra-dios/",
+                                "title": "La noche que luché contra Dios",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kx2pehQgSSn8oT9AuOk3H5ILOWc.jpg"
+                            },
+                            {
+                                "url": "/pelicula/nunca-me-encontraras/",
+                                "title": "Nunca Me Encontrarás",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8ICsXZQHPfYijFw6FyEXJ5ccIPq.jpg"
+                            },
+                            {
+                                "url": "/pelicula/bagman-espiritu-del-mal/",
+                                "title": "Bagman: Espíritu Del Mal",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/mpdSrcuGctWLdHsuil27x58VAWI.jpg"
+                            },
+                            {
+                                "url": "/pelicula/culpa-tuya/",
+                                "title": "Culpa tuya",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg"
+                            },
+                            {
+                                "url": "/pelicula/chiyoko-la-actriz-milenaria/",
+                                "title": "Chiyoko, la actriz milenaria",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wUdmMRnux7WkoK7DgffCa87HeUS.jpg"
+                            },
+                            {
+                                "url": "/pelicula/sonic-3-la-pelicula/",
+                                "title": "Sonic 3 : La película",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rqvtiGmHubDElsKxlCWPuCTkwPI.jpg"
+                            },
+                            {
+                                "url": "/pelicula/gladiador-ii/",
+                                "title": "Gladiador II",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg"
+                            },
+                            {
+                                "url": "/pelicula/un-mensaje-antes-de-navidad/",
+                                "title": "Un mensaje antes de Navidad",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9xxaEV3TVr50sh0UJcLQhyHu8UR.jpg"
+                            },
+                            {
+                                "url": "/pelicula/navidad-en-familia/",
+                                "title": "Navidad en familia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8MrhtbRHgeL3pnvGd69xmlSoQXS.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-hora-del-silencio/",
+                                "title": "La hora del silencio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nOCPjP1kPxfn4PFwbpMlOzedjNW.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-despertar-de-la-bestia/",
+                                "title": "El despertar de la bestia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/yL3zTOAGPExxBDT8mmo62CNj08g.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mision-salvar-el-bosque/",
+                                "title": "Mision: Salvar el bosque",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/az74JlHFXMW2h0Ra26DbWpGeNn.jpg"
+                            },
+                            {
+                                "url": "/pelicula/siempre-jovenes/",
+                                "title": "Siempre jóvenes",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zDFuyTDG4L0HJ3PqjFjBCv1Ap78.jpg"
+                            },
+                            {
+                                "url": "/pelicula/ferry-2/",
+                                "title": "Ferry 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/oIeHeuhxUpU7wWDqqo769s8D91s.jpg"
+                            },
+                            {
+                                "url": "/pelicula/amor-a-39-grados/",
+                                "title": "Amor a 39 grados",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9vcohEsWqLlFtDANavII0Webhdu.jpg"
+                            },
+                            {
+                                "url": "/pelicula/minore/",
+                                "title": "Minore",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/lGs5rO0RY91ncoHlO4WdHL4FwUI.jpg"
+                            },
+                            {
+                                "url": "/pelicula/odio-el-verano/",
+                                "title": "Odio el verano",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jYGDR24XdGne6yr5uhG2waaHxDF.jpg"
+                            },
+                            {
+                                "url": "/pelicula/santa-eres-tu/",
+                                "title": "Santa, eres tu?",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jxw3PqYMJCagqYar723PnyVOvvz.jpg"
+                            },
+                            {
+                                "url": "/pelicula/seis-triple-ocho/",
+                                "title": "Seis Triple Ocho",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qhY85nXwvYj5tVyqjzo4j97Mxlq.jpg"
+                            },
+                            {
+                                "url": "/pelicula/umjolo-desde-el-primer-dia/",
+                                "title": "Umjolo: desde el primer dia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iIBek2FZg2dDYksRP3ibpuquC5X.jpg"
+                            },
+                            {
+                                "url": "/pelicula/my-mother-stole-my-life/",
+                                "title": "My Mother Stole My Life",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/a157ViKAjurnUZYimc14BWTghoK.jpg"
+                            },
+                            {
+                                "url": "/pelicula/timestalker/",
+                                "title": "Timestalker",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6uCtkFoVe6cwdZyrjG3VxZRr97k.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-way-my-way/",
+                                "title": "The Way, My Way",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nZ2vpoSmVKBb53mp2RH7J0aRpuw.jpg"
+                            },
+                            {
+                                "url": "/pelicula/wicked-season/",
+                                "title": "Wicked Season",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nyYHkbSKSx6o8Qqrj4LpIMmcpyt.jpg"
+                            },
+                            {
+                                "url": "/pelicula/wasabi-not-a-fairy-tale/",
+                                "title": "Wasabi: Not a Fairy Tale",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/krlhBdoyFy4c8QF76W8476a9vhI.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-tiempo-que-tenemos/",
+                                "title": "El Tiempo Que Tenemos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/auolCteE2cbybdIkfjiszIjzslt.jpg"
+                            },
+                            {
+                                "url": "/pelicula/milagro-en-la-calle-34-2/",
+                                "title": "Milagro en la calle 34",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/uKIaTjEfy3znX39bgaoCwsX5cm1.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mufasa-el-rey-leon/",
+                                "title": "Mufasa: El rey león",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nt4E7hZqKfIJbf8GOxZKCL1ahvG.jpg"
+                            },
+                            {
+                                "url": "/pelicula/rob-peace/",
+                                "title": "Rob Peace",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1BwKbTidW5QaEKb1pVY3p4u9cVg.jpg"
+                            },
+                            {
+                                "url": "/pelicula/hotel-bitcoin/",
+                                "title": "Hotel Bitcoin",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/h26S6MLRsHTUlecrqJul7YbJFVp.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/pelicula/la-noche-que-luche-contra-dios/",
+                                "title": "La noche que luché contra Dios",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kx2pehQgSSn8oT9AuOk3H5ILOWc.jpg"
+                            },
+                            {
+                                "url": "/pelicula/bagman-espiritu-del-mal/",
+                                "title": "Bagman: Espíritu Del Mal",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/mpdSrcuGctWLdHsuil27x58VAWI.jpg"
+                            },
+                            {
+                                "url": "/pelicula/culpa-tuya/",
+                                "title": "Culpa tuya",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg"
+                            },
+                            {
+                                "url": "/series/nina-the-starry-bride/",
+                                "title": "Nina the Starry Bride",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dCO0ihJjo7y7ptzbdHuJ3UEA8MI.jpg"
+                            },
+                            {
+                                "url": "/pelicula/sonic-3-la-pelicula/",
+                                "title": "Sonic 3 : La película",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rqvtiGmHubDElsKxlCWPuCTkwPI.jpg"
+                            },
+                            {
+                                "url": "/series/la-reina-woo/",
+                                "title": "La Reina Woo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7t3kdcPqVqTo0sn2OiXWgBKRpDB.jpg"
+                            },
+                            {
+                                "url": "/pelicula/gladiador-ii/",
+                                "title": "Gladiador II",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg"
+                            },
+                            {
+                                "url": "/series/el-cuento-de-la-dama-ok/",
+                                "title": "El cuento de la dama Ok",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/g5vriJY8b7JLna3qYv2ksWFRR4.jpg"
+                            },
+                            {
+                                "url": "/pelicula/navidad-en-familia/",
+                                "title": "Navidad en familia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8MrhtbRHgeL3pnvGd69xmlSoQXS.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-hora-del-silencio/",
+                                "title": "La hora del silencio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nOCPjP1kPxfn4PFwbpMlOzedjNW.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-despertar-de-la-bestia/",
+                                "title": "El despertar de la bestia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/yL3zTOAGPExxBDT8mmo62CNj08g.jpg"
+                            },
+                            {
+                                "url": "/series/ahora-que-no-estas/",
+                                "title": "Ahora que no estás",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wdplyQQQtvhoszj2mxkizcXu8p6.jpg"
+                            },
+                            {
+                                "url": "/series/dc-metal-force/",
+                                "title": "DC Metal Force",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/31m6BPJUzNfBmDSUpoUC31hNUs0.jpg"
+                            },
+                            {
+                                "url": "/series/ranma1-2-2024/",
+                                "title": "Ranma1/2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jIruxmslQoLlHHqE5ILLy1AcFWl.jpg"
+                            },
+                            {
+                                "url": "/series/light-shop-entre-la-vida-y-la-muerte/",
+                                "title": "Light Shop: Entre la vida y la muerte",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/eMKCeTCLwvl4ej4v2xL9r45P4nZ.jpg"
+                            },
+                            {
+                                "url": "/series/before/",
+                                "title": "Before",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/AeoPVoc7Ojq7zZ6bujJCZFeKhDM.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mision-salvar-el-bosque/",
+                                "title": "Mision: Salvar el bosque",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/az74JlHFXMW2h0Ra26DbWpGeNn.jpg"
+                            },
+                            {
+                                "url": "/pelicula/siempre-jovenes/",
+                                "title": "Siempre jóvenes",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zDFuyTDG4L0HJ3PqjFjBCv1Ap78.jpg"
+                            },
+                            {
+                                "url": "/pelicula/ferry-2/",
+                                "title": "Ferry 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/oIeHeuhxUpU7wWDqqo769s8D91s.jpg"
+                            },
+                            {
+                                "url": "/pelicula/amor-a-39-grados/",
+                                "title": "Amor a 39 grados",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9vcohEsWqLlFtDANavII0Webhdu.jpg"
+                            },
+                            {
+                                "url": "/pelicula/minore/",
+                                "title": "Minore",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/lGs5rO0RY91ncoHlO4WdHL4FwUI.jpg"
+                            },
+                            {
+                                "url": "/pelicula/odio-el-verano/",
+                                "title": "Odio el verano",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jYGDR24XdGne6yr5uhG2waaHxDF.jpg"
+                            },
+                            {
+                                "url": "/pelicula/seis-triple-ocho/",
+                                "title": "Seis Triple Ocho",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qhY85nXwvYj5tVyqjzo4j97Mxlq.jpg"
+                            },
+                            {
+                                "url": "/pelicula/umjolo-desde-el-primer-dia/",
+                                "title": "Umjolo: desde el primer dia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iIBek2FZg2dDYksRP3ibpuquC5X.jpg"
+                            },
+                            {
+                                "url": "/pelicula/my-mother-stole-my-life/",
+                                "title": "My Mother Stole My Life",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/a157ViKAjurnUZYimc14BWTghoK.jpg"
+                            },
+                            {
+                                "url": "/pelicula/timestalker/",
+                                "title": "Timestalker",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6uCtkFoVe6cwdZyrjG3VxZRr97k.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-way-my-way/",
+                                "title": "The Way, My Way",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nZ2vpoSmVKBb53mp2RH7J0aRpuw.jpg"
+                            },
+                            {
+                                "url": "/pelicula/wicked-season/",
+                                "title": "Wicked Season",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nyYHkbSKSx6o8Qqrj4LpIMmcpyt.jpg"
+                            },
+                            {
+                                "url": "/pelicula/wasabi-not-a-fairy-tale/",
+                                "title": "Wasabi: Not a Fairy Tale",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/krlhBdoyFy4c8QF76W8476a9vhI.jpg"
+                            },
+                            {
+                                "url": "/series/la-vida-secreta-de-los-animales/",
+                                "title": "La vida secreta de los animales",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/uH3uuCHmfeJoG8b2mgK2jJ5CzKr.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/jurassic-world-teoria-del-dinocaos/",
+                                "title": "Jurassic World: Teoría del dinocaos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/leEcJUuf0dfMWMK1CGbBR5VyiLq.jpg"
+                            },
+                            {
+                                "url": "/series/quality-assurance-in-another-world/",
+                                "title": "Quality Assurance in Another World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/am7dab5D46Pee5KH951qQrpXJy7.jpg"
+                            },
+                            {
+                                "url": "/series/a-journey-through-another-world-raising-kids-while-adventuring/",
+                                "title": "A Journey Through Another World: Raising Kids While Adventuring",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/1uAbyIVfe1LQQnLCX0dlAiUx1yP.jpg"
+                            },
+                            {
+                                "url": "/series/jurassic-world-campamento-cretacico/",
+                                "title": "Jurassic World: Campamento Cretácico",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/hZBfUWdUbsoFccvuQNmauXbEVIY.jpg"
+                            },
+                            {
+                                "url": "/series/our-last-crusade-or-the-rise-of-a-new-world/",
+                                "title": "Our Last Crusade or the Rise of a New World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5Rr5mjyGufwXiffYoIDeXeTgeQy.jpg"
+                            },
+                            {
+                                "url": "/series/star-trek-strange-new-worlds/",
+                                "title": "Star Trek: Strange New Worlds",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/vMFxmogUUe5lhhzNnS59o51C77i.jpg"
+                            },
+                            {
+                                "url": "/series/westworld/",
+                                "title": "Westworld",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/thifl4fkIH4YBb5MVBqr937NDSQ.jpg"
+                            },
+                            {
+                                "url": "/series/world-trigger/",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/lchqxvVvOeSfkpuvVAIxaDm8Mth.jpg"
+                            },
+                            {
+                                "url": "/pelicula/boy-kills-world/",
+                                "title": "Boy Kills World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/2TIz7cpjEOWO51PjF6twWJFJnLw.jpg"
+                            },
+                            {
+                                "url": "/pelicula/ape-x-mecha-ape-new-world-order/",
+                                "title": "Ape X Mecha Ape: New World Order",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/mtab55cpOA5xq9OcW626oR8ZXyj.jpg"
+                            },
+                            {
+                                "url": "/series/jessicas-big-little-world/",
+                                "title": "Jessica’s Big Little World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/zrpQmt7Qtas0PkSfJOVzMMtzD96.jpg"
+                            },
+                            {
+                                "url": "/series/the-walking-dead-world-beyond/",
+                                "title": "The Walking Dead: World Beyond",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/j9rVq4XHOwEDWjnLb7CZFcg9H90.jpg"
+                            },
+                            {
+                                "url": "/series/the-world-ends-with-you-the-animation/",
+                                "title": "The World Ends with You The Animation",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/apHvxqMVuxIGDOL9lLOyA9q2a3z.jpg"
+                            },
+                            {
+                                "url": "/pelicula/offworld-alien-planet/",
+                                "title": "Offworld : Alien Planet",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/llqV9DIglm04mtXFSsfWhECN9Xb.jpg"
+                            },
+                            {
+                                "url": "/pelicula/justice-society-world-war-ii/",
+                                "title": "Justice Society: World War II",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/jU7Lu33uJO5kDZodsiv3XWgdJbx.jpg"
+                            },
+                            {
+                                "url": "/pelicula/jurassic-world-dominio/",
+                                "title": "Jurassic World: Dominio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/sXeWfpT1EhG7f4uBouqraOhmouH.jpg"
+                            },
+                            {
+                                "url": "/pelicula/jurassic-world-el-reino-caido/",
+                                "title": "Jurassic World: El Reino Caído",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"
+                            },
+                            {
+                                "url": "/pelicula/jurassic-world-mundo-jurasico/",
+                                "title": "Jurassic World: Mundo jurásico",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg"
+                            },
+                            {
+                                "url": "/series/the-iceblade-sorcerer-shall-rule-the-world/",
+                                "title": "The Iceblade Sorcerer Shall Rule the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/nTUGnwgKYfcKqhYNUiol9c8UwRU.jpg"
+                            },
+                            {
+                                "url": "/series/death-march-to-the-parallel-world-rhapsody/",
+                                "title": "Death March to the Parallel World Rhapsody",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/s5TfCS6XfLNnQaCfBpQciP1UEEo.jpg"
+                            },
+                            {
+                                "url": "/pelicula/battlefield-fall-of-the-world/",
+                                "title": "Battlefield: Fall of the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/8VTUd9kTBySAedlM3gsPi6EVte4.jpg"
+                            },
+                            {
+                                "url": "/series/saving-80000-gold-in-another-world-for-my-retirement/",
+                                "title": "Saving 80,000 Gold in Another World for my Retirement",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/eW7WipQUnl4zFEqGyoZxDvhgMYK.jpg"
+                            },
+                            {
+                                "url": "/series/ningen-fushin-adventurers-who-dont-believe-in-humanity-will-save-the-world/",
+                                "title": "Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/3d8C2DEEBe70SIVZZWw1Q08oPvN.jpg"
+                            },
+                            {
+                                "url": "/series/the-worlds-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat/",
+                                "title": "The World’s Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ouXd86v2v3malAgMiFlUa0dYqr9.jpg"
+                            },
+                            {
+                                "url": "/series/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too/",
+                                "title": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/3vlTiBRCXvT3yWTbiltNxSR1faL.jpg"
+                            },
+                            {
+                                "url": "/series/in-another-world-with-my-smartphone/",
+                                "title": "In Another World With My Smartphone",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/8IZgvLzBnclalS1o6rzdYle3oIP.jpg"
+                            },
+                            {
+                                "url": "/series/konosuba-an-explosion-on-this-wonderful-world/",
+                                "title": "KONOSUBA: An Explosion on This Wonderful World!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/xcPT8KuiYAKvhCRaYa9SOtiEWSO.jpg"
+                            },
+                            {
+                                "url": "/series/campfire-cooking-in-another-world-with-my-absurd-skills/",
+                                "title": "Campfire Cooking in Another World with My Absurd Skills",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/6IZkTbgZEkzeVPKqfe644mSxbfF.jpg"
+                            },
+                            {
+                                "url": "/pelicula/war-of-the-worlds-the-attack/",
+                                "title": "War of the Worlds: The Attack",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/c3CUKHtQUvPvp9NSFsKwYsPLAdW.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-world-to-come/",
+                                "title": "The World to Come",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/pelicula/la-noche-que-luche-contra-dios/",
+                    "title": "La noche que luché contra Dios",
+                    "description": "El 18 de julio de 1994, el joven Benjamín Sheinberg inicia su primer día como médico residente en el Hospital de Clínicas, en Buenos Aires, mientras que al mismo tiempo una bomba explota en la AMIA causando la muerte de 85 personas. Sheinberg se ve sobrepasado por la situación y decide marcharse a Israel. Allí, de la mano de Rubén (Yair Dori), un viejo amigo de su abuelo, «viajará» en el tiempo, adentrándose en la antigua historia de Israel, viéndose reflejada en la historia bíblica del patriarca Jacob. La Noche que luché contra Dios es una historia basada en hechos reales que cuenta las vivencias de Benjamín y de Jacob, hombres separados por casi 4.000 años, pero unidos por una misma causa enmarcada en la búsqueda de la Memoria, Verdad y Justicia.\n\nTítulo original: La noche que luché contra Dios",
+                    "genre": "Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/kx2pehQgSSn8oT9AuOk3H5ILOWc.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/pelicula/la-noche-que-luche-contra-dios/",
+                        "name": "Película",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/03275/c0qiga20iu8s_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=4SOfwvfck8xW6S2-_9P4stIt749I8KeUCi4rwPo5w3U&s=1735927634&e=129600&f=16377003&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=8075",
+                        "quality": " [LAT] StreamHideVid:720p",
+                        "videoUrl": "https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/03275/c0qiga20iu8s_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=4SOfwvfck8xW6S2-_9P4stIt749I8KeUCi4rwPo5w3U&s=1735927634&e=129600&f=16377003&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidhideplus.com",
+                            "Referer": "https://vidhideplus.com/embed/c0qiga20iu8s"
+                        }
+                    },
+                    {
+                        "url": "https://u22adcjg1tm012.premilkyway.com/hls2/01/07622/fofe4xg1oo9t_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=SLSyk4GJF0j4kbj1uo0-9EInErxs10QeILWyWqplUZY&s=1735927631&e=129600&f=38114802&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "quality": " [LAT] StreamWish: - 720p",
+                        "videoUrl": "https://u22adcjg1tm012.premilkyway.com/hls2/01/07622/fofe4xg1oo9t_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=SLSyk4GJF0j4kbj1uo0-9EInErxs10QeILWyWqplUZY&s=1735927631&e=129600&f=38114802&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playerwish.com",
+                            "Referer": "https://playerwish.com/e/fofe4xg1oo9t"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-yf64cjytox0jmhrc.voe-network.net/engine/hls2-c/01/13214/56pxbcvdcznk_,n,.urlset/index-v1-a1.m3u8?t=Ui_IPw6BFfF5_7RFMOVj9pZhnG450EnhochqjcztQZM&s=1735927636&e=14400&f=66071246&node=Y0KHGfl9QQsG/hnJQy4YMlg5PipBN8Q9+7i/ywA/hFo=&i=20.55&sp=2500&asn=8075&q=n",
+                        "quality": " [LAT] Voe:1080p",
+                        "videoUrl": "https://delivery-node-yf64cjytox0jmhrc.voe-network.net/engine/hls2-c/01/13214/56pxbcvdcznk_,n,.urlset/index-v1-a1.m3u8?t=Ui_IPw6BFfF5_7RFMOVj9pZhnG450EnhochqjcztQZM&s=1735927636&e=14400&f=66071246&node=Y0KHGfl9QQsG/hnJQy4YMlg5PipBN8Q9+7i/ywA/hFo=&i=20.55&sp=2500&asn=8075&q=n",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/03275/c0qiga20iu8s_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=4SOfwvfck8xW6S2-_9P4stIt749I8KeUCi4rwPo5w3U&s=1735927634&e=129600&f=16377003&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=8075",
+                        "quality": " [LAT] StreamHideVid:1080p",
+                        "videoUrl": "https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/03275/c0qiga20iu8s_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=4SOfwvfck8xW6S2-_9P4stIt749I8KeUCi4rwPo5w3U&s=1735927634&e=129600&f=16377003&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidhideplus.com",
+                            "Referer": "https://vidhideplus.com/embed/c0qiga20iu8s"
+                        }
+                    },
+                    {
+                        "url": "https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/03275/c0qiga20iu8s_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=4SOfwvfck8xW6S2-_9P4stIt749I8KeUCi4rwPo5w3U&s=1735927634&e=129600&f=16377003&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=8075",
+                        "quality": " [LAT] StreamHideVid:480p",
+                        "videoUrl": "https://1bnpkpnpqghq0.acek-cdn.com/hls2/01/03275/c0qiga20iu8s_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=4SOfwvfck8xW6S2-_9P4stIt749I8KeUCi4rwPo5w3U&s=1735927634&e=129600&f=16377003&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidhideplus.com",
+                            "Referer": "https://vidhideplus.com/embed/c0qiga20iu8s"
+                        }
+                    },
+                    {
+                        "url": "https://u22adcjg1tm012.premilkyway.com/hls2/01/07622/fofe4xg1oo9t_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=SLSyk4GJF0j4kbj1uo0-9EInErxs10QeILWyWqplUZY&s=1735927631&e=129600&f=38114802&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "quality": " [LAT] StreamWish: - 1080p",
+                        "videoUrl": "https://u22adcjg1tm012.premilkyway.com/hls2/01/07622/fofe4xg1oo9t_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=SLSyk4GJF0j4kbj1uo0-9EInErxs10QeILWyWqplUZY&s=1735927631&e=129600&f=38114802&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playerwish.com",
+                            "Referer": "https://playerwish.com/e/fofe4xg1oo9t"
+                        }
+                    },
+                    {
+                        "url": "https://u22adcjg1tm012.premilkyway.com/hls2/01/07622/fofe4xg1oo9t_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=SLSyk4GJF0j4kbj1uo0-9EInErxs10QeILWyWqplUZY&s=1735927631&e=129600&f=38114802&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "quality": " [LAT] StreamWish: - 480p",
+                        "videoUrl": "https://u22adcjg1tm012.premilkyway.com/hls2/01/07622/fofe4xg1oo9t_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=SLSyk4GJF0j4kbj1uo0-9EInErxs10QeILWyWqplUZY&s=1735927631&e=129600&f=38114802&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playerwish.com",
+                            "Referer": "https://playerwish.com/e/fofe4xg1oo9t"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

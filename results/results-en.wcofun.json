@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tasokare-hotel-english-subbed",
+                                "title": "Tasokare Hotel English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933834.jpg"
+                            },
+                            {
                                 "url": "/anime/momentary-lily-english-subbed",
                                 "title": "Momentary Lily English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933833.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/dc-heroes-united",
                                 "title": "DC Heroes United",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933818.jpg"
-                            },
-                            {
-                                "url": "/anime/jentry-chau-vs-the-underworld",
-                                "title": "Jentry Chau vs the Underworld",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933817.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/momentary-lily-english-subbed",
-                    "title": "Momentary Lily English Subbed",
-                    "description": "Robotic invaders wiped out all life, but Renge fights to survive using her powers. With no memories, she roams the city until she meets five other young women, each with unique abilities. Together, they make the most of their lives, cooking delicious meals between battles with mechanical monstrosities. As they uncover the secrets of their powers and pasts, they find strength in their friendship.",
-                    "genre": "Action, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933833.jpg",
+                    "url": "/anime/tasokare-hotel-english-subbed",
+                    "title": "Tasokare Hotel English Subbed",
+                    "description": "Tasokare Hotel is a hotel that is engulfed in twilight all day long, with no distinction between day and night. It exists as a place between life and death, where souls unable to decide whether to move on to the afterlife or return to the present world can rest their wings. The protagonist, Neko Tsukahara, wanders into Tasokare Hotel without remembering who she is or why she’s there. Guided by the hotel staff, she is led to her room. “There should be items related to the customer’s memories in the room. These might serve as clues to help the customer regain their memories.” While searching for a way to return to the present world and remembering who she is, she encounters a certain incident…",
+                    "genre": "Mystery, Supernatural, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933834.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/momentary-lily-episode-1-english-subbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWEvMHubdrpZ5T-5Ev9lijTs_XkalMPEDq2LDn0ZFAAyQ3TdYum_6NHmhpU4a88jn1oAmrAE-REes-R5hKMNGbbHxwDCTyin89-ALxBn_mhJ3C6RT-fsulcGeJb3qS8ZG8NCWlnuPtxKZZTSv271yHZeyRZWCUT1HdoTCnW5yfHmWo4dCy-eP4JbGNqa-PTLcVadTYvLoBNiB1GFo75yCS2wfQUdnegzPy7JU_N5w1utqBK_JN4S-97Rs7X21J0wLODpSF8eGg46mzoPbyLbpp7bAevq5lOxkW4kD4hhomSksaihRj9rL12QS-0TR7c93PenjxOzqccAKOf8cfML4WJMIJotR7xLl49CgE_d5KrsckSzCZMvI1jz5ZwUzz-Tynf3Gcdjftk7mGIa8YlikoZbBBxWIsOskkxn5bhlh03KA",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWEvMHubdrpZ5T-5Ev9lijTs_XkalMPEDq2LDn0ZFAAyQ3TdYum_6NHmhpU4a88jn1oAmrAE-REes-R5hKMNGbbHxwDCTyin89-ALxBn_mhJ3C6RT-fsulcGeJb3qS8ZG8NCWlnuPtxKZZTSv271yHZeyRZWCUT1HdoTCnW5yfHmWo4dCy-eP4JbGNqa-PTLcVadTYvLoBNiB1GFo75yCS2wfQUdnegzPy7JU_N5w1utqBK_JN4S-97Rs7X21J0wLODpSF8eGg46mzoPbyLbpp7bAevq5lOxkW4kD4hhomSksaihRj9rL12QS-0TR7c93PenjxOzqccAKOf8cfML4WJMIJotR7xLl49CgE_d5KrsckSzCZMvI1jz5ZwUzz-Tynf3Gcdjftk7mGIa8YlikoZbBBxWIsOskkxn5bhlh03KA"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWEvMHubdrpZ5T-5Ev9lijTs_XkalMPEDq2LDn0ZFAAyQ3TdYum_6NHmhpU4a88jn1oAmrAE-REes-R5hKMNGbbHxwDCTyin89-ALxBn_mhJ3C6RT-fsulcGeJb3qS8ZG8NCWlnuPtxKZZTSv271yHZtdWjpYwlEi9jld0Nn5JgFXABb-B1pCcpNkMWzwj8ywnjYTQzCqN8aulnTqDFlcd0zH2UnwNYX-aTxjRyUBVBl5PVAKuK_zuD4_6M8Yud8MG3FGE_fkGUumAnZ6T-qw0lRXagIpzs5uc1oqjPi7aTFeLoUiryHgd82zoc8VMftVa3yezTBDtNrb-GSoJFoL9by0R9FZ60VWSk4q50R3EuM8v1g3JYSQbExcltf2DuGKz_26ebER8WuDMMJqQHhYI4Y60GdyRUY0MA_XP6wjZpCQ",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWEvMHubdrpZ5T-5Ev9lijTs_XkalMPEDq2LDn0ZFAAyQ3TdYum_6NHmhpU4a88jn1oAmrAE-REes-R5hKMNGbbHxwDCTyin89-ALxBn_mhJ3C6RT-fsulcGeJb3qS8ZG8NCWlnuPtxKZZTSv271yHZtdWjpYwlEi9jld0Nn5JgFXABb-B1pCcpNkMWzwj8ywnjYTQzCqN8aulnTqDFlcd0zH2UnwNYX-aTxjRyUBVBl5PVAKuK_zuD4_6M8Yud8MG3FGE_fkGUumAnZ6T-qw0lRXagIpzs5uc1oqjPi7aTFeLoUiryHgd82zoc8VMftVa3yezTBDtNrb-GSoJFoL9by0R9FZ60VWSk4q50R3EuM8v1g3JYSQbExcltf2DuGKz_26ebER8WuDMMJqQHhYI4Y60GdyRUY0MA_XP6wjZpCQ"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWEvMHubdrpZ5T-5Ev9lijTs_XkalMPEDq2LDn0ZFAAyQ3TdYum_6NHmhpU4a88jn1oAmrAE-REes-R5hKMNGbbHxwDCTyin89-ALxBn_mhJ3C6RT-fsulcGeJb3qS8ZG8NCWlnuPtxKZZTSv271yHZ5UvfTAMTN6_E4rlyiF9TwkjwRSP86GGdntJx48NEfR51vW2vg7U-ZMqIfSIsgsTgFO9b4O6gyh3OJb7D4lZB0eMg27sk69cGmAZG0frgdeuSHuq2BkIm9HeXpxUzFrMbhJbFEtk_M4gPiBIYB6L1ibaC9-qcLdE4N2RUGfYIRw0OO4yxxOB82Z-Q9-CXQ7U_C5s38L1qipMRN8zLe3AfFtBAQz1imvDPAep29dF6DGdu4C6hArMftNn-3SQE3Alpch9hbgBmQi_whMOz5bVDUA",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWEvMHubdrpZ5T-5Ev9lijTs_XkalMPEDq2LDn0ZFAAyQ3TdYum_6NHmhpU4a88jn1oAmrAE-REes-R5hKMNGbbHxwDCTyin89-ALxBn_mhJ3C6RT-fsulcGeJb3qS8ZG8NCWlnuPtxKZZTSv271yHZ5UvfTAMTN6_E4rlyiF9TwkjwRSP86GGdntJx48NEfR51vW2vg7U-ZMqIfSIsgsTgFO9b4O6gyh3OJb7D4lZB0eMg27sk69cGmAZG0frgdeuSHuq2BkIm9HeXpxUzFrMbhJbFEtk_M4gPiBIYB6L1ibaC9-qcLdE4N2RUGfYIRw0OO4yxxOB82Z-Q9-CXQ7U_C5s38L1qipMRN8zLe3AfFtBAQz1imvDPAep29dF6DGdu4C6hArMftNn-3SQE3Alpch9hbgBmQi_whMOz5bVDUA"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

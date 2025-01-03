@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/saikyou-shieshoku-sub-indo/",
+                                "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Wajutsushi-Sub-Indo.jpg"
+                            },
+                            {
                                 "url": "/anime/tsumasho-sub-indo/",
                                 "title": "Tsuma, Shougakusei ni Naru.",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/Tsuma-Shougakusei-ni-Naru-Sub-Indo.jpg"
@@ -125,11 +130,6 @@
                                 "url": "/anime/yuru-no-camp-season-3-sub-indo/",
                                 "title": "Yuru Camp Season 3",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Yuru-Camp-Season-3-Sub-Indo.jpg"
-                            },
-                            {
-                                "url": "/anime/touken-ranbu-sub-indo/",
-                                "title": "Touken Ranbu Kai",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Touken-Ranbu-Kai-Sub-Indo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-9746163941809029650/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-9746163941809029650/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-9746163941809029650/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-11998650911830942461/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-11998650911830942461/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-11998650911830942461/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-9746163941809029650/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-9746163941809029650/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-9746163941809029650/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-11998650911830942461/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-11998650911830942461/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-11998650911830942461/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

@@ -7,9 +7,14 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-serie/x-men-evolucion/",
+                                "title": "X-Men: Evolución",
+                                "thumbnail_url": ""
+                            },
+                            {
                                 "url": "/ver-pelicula/el-mago-de-oz/",
                                 "title": "El mago de Oz",
-                                "thumbnail_url": ""
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//ybn1CQdMZrhdBTTYqVZG4m9epNB.jpg"
                             },
                             {
                                 "url": "/ver-serie/yellowstone/",
@@ -60,11 +65,6 @@
                                 "url": "/ver-pelicula/seis-triple-ocho/",
                                 "title": "Seis Triple Ocho",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342//s6rbC03EEhsyljKrmSjJ4mY3Xqn.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/culpa-tuya/",
-                                "title": "Culpa tuya",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//1jvCVdlgInyItAUEvvvCakm1Yxz.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -118,11 +118,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/el-mago-de-oz/",
-                    "artist": "Adriana Caselotti",
-                    "description": "Dorothy Gale es arrastrada de una granja en Kansas a una tierra mágica de Oz en un tornado y se embarca en una búsqueda con sus nuevos amigos para ver al Mago que puede ayudarla a volver a casa en Kansas y ayudar a sus amigos también.   ",
-                    "genre": "Aventura, Familia, Fantasía",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w342//ybn1CQdMZrhdBTTYqVZG4m9epNB.jpg",
+                    "url": "/ver-serie/x-men-evolucion/",
+                    "artist": "Brad Swaile",
+                    "author": "David Wise",
+                    "description": "X-Men: Evolution es una serie de televisión animada estadounidense sobre el equipo de superhéroes de Marvel Comics X-Men. En esta encarnación, muchos de los personajes son adolescentes en lugar de adultos. La serie corrió durante un total de cuatro temporadas desde noviembre de 2000 hasta octubre de 2003 en Kids ‘WB, que la convirtió en la tercera serie animada de Marvel Comics más longeva, detrás solo de las series animadas X Kids y Spider-Man de Fox Kids. La serie comenzó a ejecutarse en Disney XD el 15 de junio de 2009.   ",
+                    "genre": "Acción y Aventura, Animación, Drama, Kids, Sci-Fi & Fantasy",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w342//At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -130,16 +131,93 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/el-mago-de-oz/",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
+                        "url": "/ver-el-episodio/x-men-evolucion-4x9/",
+                        "name": "T4 - E9 - Ascensión. Segunda parte",
+                        "episode_number": 52.0
+                    },
+                    {
+                        "url": "/ver-el-episodio/x-men-evolucion-4x8/",
+                        "name": "T4 - E8 - Ascensión. Primera parte",
+                        "episode_number": 51.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-iurolyzyhfcxnbpg.voe-network.net/engine/hls2-c/01/13250/vkej5ekbfh0h_,n,l,.urlset/index-f1-v1-a1.m3u8?t=FChAKyVaSgwzSuJltx0nSkzcybYJlY1e9zUriBGHvzo&s=1736013951&e=14400&f=66253010&node=gbR2FVWUEnUExeqDx8emmWiNsGleSesjKKTykKt/rL8=&i=68.154&sp=2500&asn=8075&q=n,l",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-iurolyzyhfcxnbpg.voe-network.net/engine/hls2-c/01/13250/vkej5ekbfh0h_,n,l,.urlset/index-f1-v1-a1.m3u8?t=FChAKyVaSgwzSuJltx0nSkzcybYJlY1e9zUriBGHvzo&s=1736013951&e=14400&f=66253010&node=gbR2FVWUEnUExeqDx8emmWiNsGleSesjKKTykKt/rL8=&i=68.154&sp=2500&asn=8075&q=n,l",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-iurolyzyhfcxnbpg.voe-network.net/engine/hls2-c/01/13250/vkej5ekbfh0h_,n,l,.urlset/index-f2-v1-a1.m3u8?t=FChAKyVaSgwzSuJltx0nSkzcybYJlY1e9zUriBGHvzo&s=1736013951&e=14400&f=66253010&node=gbR2FVWUEnUExeqDx8emmWiNsGleSesjKKTykKt/rL8=&i=68.154&sp=2500&asn=8075&q=n,l",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-iurolyzyhfcxnbpg.voe-network.net/engine/hls2-c/01/13250/vkej5ekbfh0h_,n,l,.urlset/index-f2-v1-a1.m3u8?t=FChAKyVaSgwzSuJltx0nSkzcybYJlY1e9zUriBGHvzo&s=1736013951&e=14400&f=66253010&node=gbR2FVWUEnUExeqDx8emmWiNsGleSesjKKTykKt/rL8=&i=68.154&sp=2500&asn=8075&q=n,l",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://b3e1hpsn4lad.cdn-centaurus.com/hls2/01/07700/wel412d9ds7g_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=a7z9e5EuUpQHl4feLr1vm0D85YBMNXYrPS11tf7Rp58&s=1736013950&e=129600&f=38502934&srv=07s7cile1o9s&i=0.4&sp=500&p1=07s7cile1o9s&p2=07s7cile1o9s&asn=8075",
+                        "quality": "StreamWish:1080p",
+                        "videoUrl": "https://b3e1hpsn4lad.cdn-centaurus.com/hls2/01/07700/wel412d9ds7g_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=a7z9e5EuUpQHl4feLr1vm0D85YBMNXYrPS11tf7Rp58&s=1736013950&e=129600&f=38502934&srv=07s7cile1o9s&i=0.4&sp=500&p1=07s7cile1o9s&p2=07s7cile1o9s&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://hlswish.com",
+                            "Referer": "https://hlswish.com/e/wel412d9ds7g"
+                        }
+                    },
+                    {
+                        "url": "https://b3e1hpsn4lad.cdn-centaurus.com/hls2/01/07700/wel412d9ds7g_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=a7z9e5EuUpQHl4feLr1vm0D85YBMNXYrPS11tf7Rp58&s=1736013950&e=129600&f=38502934&srv=07s7cile1o9s&i=0.4&sp=500&p1=07s7cile1o9s&p2=07s7cile1o9s&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://b3e1hpsn4lad.cdn-centaurus.com/hls2/01/07700/wel412d9ds7g_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=a7z9e5EuUpQHl4feLr1vm0D85YBMNXYrPS11tf7Rp58&s=1736013950&e=129600&f=38502934&srv=07s7cile1o9s&i=0.4&sp=500&p1=07s7cile1o9s&p2=07s7cile1o9s&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://hlswish.com",
+                            "Referer": "https://hlswish.com/e/wel412d9ds7g"
+                        }
+                    },
+                    {
+                        "url": "https://b3e1hpsn4lad.cdn-centaurus.com/hls2/01/07700/wel412d9ds7g_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=a7z9e5EuUpQHl4feLr1vm0D85YBMNXYrPS11tf7Rp58&s=1736013950&e=129600&f=38502934&srv=07s7cile1o9s&i=0.4&sp=500&p1=07s7cile1o9s&p2=07s7cile1o9s&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://b3e1hpsn4lad.cdn-centaurus.com/hls2/01/07700/wel412d9ds7g_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=a7z9e5EuUpQHl4feLr1vm0D85YBMNXYrPS11tf7Rp58&s=1736013950&e=129600&f=38502934&srv=07s7cile1o9s&i=0.4&sp=500&p1=07s7cile1o9s&p2=07s7cile1o9s&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://hlswish.com",
+                            "Referer": "https://hlswish.com/e/wel412d9ds7g"
+                        }
+                    },
+                    {
+                        "url": "https://e327l.cloudatacdn.com/u5kj7absxhc3sdgge5d7uikaiviop6nvxry6jn53f64zzasseojbhmwbpzna/84klolk1bd~FH1BTwMZk4?token=arthjnhfr0h6yv9oevi465tk&expiry=1736013946260",
+                        "quality": "DoodStreamDoodstream  mirror",
+                        "videoUrl": "https://e327l.cloudatacdn.com/u5kj7absxhc3sdgge5d7uikaiviop6nvxry6jn53f64zzasseojbhmwbpzna/84klolk1bd~FH1BTwMZk4?token=arthjnhfr0h6yv9oevi465tk&expiry=1736013946260",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://https://dood.to/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=390YydlQeRidKYY&expires=1736083947&ip=GRusD0MNKxSHDN&token=VYJa8SuIW0w8",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=390YydlQeRidKYY&expires=1736083947&ip=GRusD0MNKxSHDN&token=VYJa8SuIW0w8"
+                    },
+                    {
+                        "url": "https://s1.goodstream.one/vtt/02/00013/4cwpikoexv4f_sli.vtt",
+                        "quality": "GoodStream: ",
+                        "videoUrl": "https://s1.goodstream.one/vtt/02/00013/4cwpikoexv4f_sli.vtt",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

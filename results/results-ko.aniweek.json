@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/나 혼자만 레벨업 2기",
+                                "title": "나 혼자만 레벨업 2기",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/b997cea165962c7eb15e99daba4420dc_1736009165_315.jpg"
+                            },
+                            {
+                                "url": "/c/S랭크 몬스터 베헤모스지만 고양이라고 착각하길래 엘프 소녀의 기사(애완묘)로 살고 있습니다",
+                                "title": "S랭크 몬스터 베헤모스지만 고양이라고 착각하길래 엘프 소녀의 기사(애완묘)로 살고 있습니다",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2412/9f0979fd4e4a4b3db5ef278787e9a4e3_1735414280_3746.jpg"
+                            },
+                            {
                                 "url": "/c/과학×모험 서바이벌",
                                 "title": "과학×모험 서바이벌",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/8afe4bce33cc6df39ad9eeb8374fcafc_1728228775_0805.jpg"
@@ -150,11 +160,6 @@
                                 "url": "/c/마왕 2099",
                                 "title": "마왕 2099",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/b95872099a8d0d6c02f0753cc3ce091e_1728780846_3747.jpg"
-                            },
-                            {
-                                "url": "/c/S랭크 몬스터 베헤모스지만 고양이라고 착각하길래 엘프 소녀의 기사(애완묘)로 살고 있습니다",
-                                "title": "S랭크 몬스터 베헤모스지만 고양이라고 착각하길래 엘프 소녀의 기사(애완묘)로 살고 있습니다",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2412/9f0979fd4e4a4b3db5ef278787e9a4e3_1735414280_3746.jpg"
                             },
                             {
                                 "url": "/c/지. -지구의 운동에 대하여-",
@@ -549,10 +554,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/과학×모험 서바이벌",
-                    "title": "과학×모험 서바이벌",
-                    "description": "원제: 科学×冒険サバイバル!\n원작: 미래엔 아이세움\n감독: 호소다 마사히로\n각본: 무라야마 이사오\n캐릭터 디자인: 노길보\n음악: 요시카와 케이\n장르: 모험, 서바이벌\n방영일: 2024.10.05 18:25 (토)\n등급: 전체\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2410/8afe4bce33cc6df39ad9eeb8374fcafc_1728228775_0805.jpg",
+                    "url": "/c/나 혼자만 레벨업 2기",
+                    "title": "나 혼자만 레벨업 2기",
+                    "description": "원제: 俺だけレベルアップな件 Season 2\n원작: 추공, 장성락, 현군\n감독: 나카시게 슌스케\n각본: 키무라 노보루\n캐릭터 디자인: 스도 토모코\n음악: 사와노 히로유키\n장르: 판타지, 액션\n방영일: 2025.01.05 00:00 (일)\n등급: 15\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/b997cea165962c7eb15e99daba4420dc_1736009165_315.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -560,22 +565,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/과학×모험 서바이벌 13화",
-                        "name": "과학×모험 서바이벌 13화",
-                        "date_upload": 1735948800000,
-                        "episode_number": 11.0
-                    },
-                    {
-                        "url": "/e/과학×모험 서바이벌 12화 10~11화 방송사 생략",
-                        "name": "과학×모험 서바이벌 12화 10~11화 방송사 생략",
-                        "date_upload": 1733702400000,
-                        "episode_number": 10.0
+                        "url": "/e/나 혼자만 레벨업 2기 1화",
+                        "name": "나 혼자만 레벨업 2기 1화",
+                        "date_upload": 1736035200000,
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-10842972659077390440/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-10842972659077390440/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-10842972659077390440/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4482480706936783592/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4482480706936783592/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4482480706936783592/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

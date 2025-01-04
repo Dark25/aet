@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/medalist-latino",
+                                "title": "Medalist Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/medalist-latino-1736013289.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/ouran-high-school-host-club-latino",
                                 "title": "Ouran High School Host Club Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/ouran-high-school-host-club-latino-1734738481.jpg?v=1.5"
@@ -115,11 +120,6 @@
                                 "url": "/anime/rezero-kara-hajimeru-isekai-seikatsu-s3-latino",
                                 "title": "Re:Zero kara Hajimeru Isekai Seikatsu S3 Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/rezero-kara-hajimeru-isekai-seikatsu-s3-latino-1729117474.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/oye-tonbo-s2-latino",
-                                "title": "¡Oye, Tonbo! S2 Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/oye-tonbo-s2-latino-1728082936.jpg?v=1.5"
                             },
                             {
                                 "url": "/anime/el-asombroso-circo-digital-latino",
@@ -324,10 +324,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/ouran-high-school-host-club-latino",
-                    "title": "Ouran High School Host Club Latino",
-                    "description": "En la prestigiosa Academia Ouran, donde asisten hijos e hijas de familias extremadamente adineradas, Haruhi Fujioka ingresa como una estudiante común becada. Tras perder a su madre y ser criada por su padre, Haruhi muestra poco interés por la moda y asiste a clases con un aspecto casi masculino. Un día, accidentalmente entra en la sala del Host Club y rompe un jarrón valuado en 8 millones de yenes. Acorralada por los miembros del club, el carismático Tamaki le ofrece una solución: conseguir cien clientas para saldar su deuda. De este modo, Haruhi pasa a formar parte del Host Club como su séptimo miembro para entretener a las alumnas de la academia.",
-                    "genre": "Comedia, Escolares, Harem, Romance",
+                    "url": "/anime/medalist-latino",
+                    "title": "Medalist Latino",
+                    "description": "Tsukasa Akeuraji forma equipo con Inori Yuitsuka para que se convierta en una gloriosa medallista.",
+                    "genre": "Deportes, Drama, Seinen",
                     "initialized": true
                 },
                 "passed": true
@@ -335,31 +335,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/ouran-high-school-host-club-latino-episodio-2",
-                        "name": "Ouran High School Host Club Latino Capitulo 2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/ver/ouran-high-school-host-club-latino-episodio-1",
-                        "name": "Ouran High School Host Club Latino Capitulo 1",
+                        "url": "/ver/medalist-latino-episodio-1",
+                        "name": "Medalist Latino Capitulo 1",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www3.mp4upload.com:183/d/r2x7l2evz3b4quuou6rbezkpdcsoz44xpvg6nzdkzk4ssnugojsv2eqht7mxzuylw7ajh2cq/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://www3.mp4upload.com:183/d/r2x7l2evz3b4quuou6rbezkpdcsoz44xpvg6nzdkzk4ssnugojsv2eqht7mxzuylw7ajh2cq/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }

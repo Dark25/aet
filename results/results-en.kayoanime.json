@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/im-living-with-an-otaku-neet-kunoich-anime/",
+                                "title": "I’m Living with an Otaku NEET Kunoichi",
+                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2025/01/im-living-with-an-otaku-neet-kunoich-anime-390x220.jpg"
+                            },
+                            {
                                 "url": "/ameku-m-d-doctor-detective-anime/",
                                 "title": "Ameku M.D.: Doctor Detective",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2025/01/ameku-m-d-doctor-detective-anime-390x220.jpg"
@@ -50,11 +55,6 @@
                                 "url": "/im-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic-episode-1-english-subbed/",
                                 "title": "I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/12/im-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic-episode-1-english-subbed-390x220.jpg"
-                            },
-                            {
-                                "url": "/beheneko-anime/",
-                                "title": "Beheneko: The Elf-Girl’s Cat is Secretly an S-Ranked Monster",
-                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/12/beheneko-anime-390x220.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -66,6 +66,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/im-living-with-an-otaku-neet-kunoich-anime/",
+                                "title": "I’m Living with an Otaku NEET Kunoichi",
+                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2025/01/im-living-with-an-otaku-neet-kunoich-anime-220x150.jpg"
+                            },
                             {
                                 "url": "/ameku-m-d-doctor-detective-anime/",
                                 "title": "Ameku M.D.: Doctor Detective",
@@ -85,11 +90,6 @@
                                 "url": "/ubel-blatt-anime/",
                                 "title": "Ubel Blatt",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/12/ubel-blatt-anime-220x150.jpg"
-                            },
-                            {
-                                "url": "/okitsura-anime-full/",
-                                "title": "Okitsura: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She’s Saying",
-                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/12/okitsura-anime-full-220x150.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -159,17 +159,16 @@
             },
             "details": {
                 "result": {
-                    "url": "/ameku-m-d-doctor-detective-anime/",
-                    "author": "Project No.9",
-                    "description": "\n\nType: TV\nEpisodes: 11\nStatus: Currently Airing\nAired: Jan 2, 2025 to ?\nPremiered: Winter 2025\nBroadcast: Thursdays at 00:30 (JST)\nProducers: Aniplex, Magic Capsule\nLicensors: None found, add some\nStudios: Project No.9\nSource: Novel\nGenre: Mystery\nThemes: Adult Cast, Medical\nDuration: 25 min. per ep.\nRating: None",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "/im-living-with-an-otaku-neet-kunoich-anime/",
+                    "author": "Quad",
+                    "description": "\n\nType: TV\nEpisodes: Unknown\nStatus: Not yet aired\nAired: Jan 5, 2025 to ?\nPremiered: Winter 2025\nBroadcast: Sundays at 01:30 (JST)\nProducers: None found, add some\nLicensors: None found, add some\nStudios: Quad\nSource: Web manga\nGenres: Comedy, Romance, Supernatural\nDuration: 15 min.\nRating: None",
+                    "genre": "Comedy, Romance, Supernatural",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.Exception: Failed to load items, please log in to google drive through webview",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {

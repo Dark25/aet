@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/과학×모험 서바이벌",
+                                "title": "과학×모험 서바이벌",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/8afe4bce33cc6df39ad9eeb8374fcafc_1728228775_0805.jpg"
+                            },
+                            {
+                                "url": "/c/푸른 미부로",
+                                "title": "푸른 미부로",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/1d9693d967d8e4671622e2c719792624_1729522051_178.jpg"
+                            },
+                            {
+                                "url": "/c/반에서 가장 싫어하는 여자애와 결혼하게 되었다",
+                                "title": "반에서 가장 싫어하는 여자애와 결혼하게 되었다",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/6316c192137b1e8b5bf5bd20e5c23add_1735961284_1271.jpg"
+                            },
+                            {
                                 "url": "/c/하늘색 유틸리티",
                                 "title": "하늘색 유틸리티",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/635e94184529d216f529eafbe627b87b_1735948381_1411.jpg"
@@ -35,11 +50,6 @@
                                 "url": "/c/뱅 드림! Ave Mujica",
                                 "title": "뱅 드림! Ave Mujica",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/3b00de9784768f0d818a3b4b02f328ce_1735840558_8056.jpg"
-                            },
-                            {
-                                "url": "/c/푸른 미부로",
-                                "title": "푸른 미부로",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/1d9693d967d8e4671622e2c719792624_1729522051_178.jpg"
                             },
                             {
                                 "url": "/c/언젠가 최강의 연금술사",
@@ -402,11 +412,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2407/7500452d927c75169ddcaed4f0830992_1719892498_2645.jpg"
                             },
                             {
-                                "url": "/c/과학×모험 서바이벌",
-                                "title": "과학×모험 서바이벌",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/8afe4bce33cc6df39ad9eeb8374fcafc_1728228775_0805.jpg"
-                            },
-                            {
                                 "url": "/c/델리코스 너서리",
                                 "title": "델리코스 너서리",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2407/2595074404af44af29bd5ad1abe76910_1719960795_6773.jpg"
@@ -544,10 +549,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/하늘색 유틸리티",
-                    "title": "하늘색 유틸리티",
-                    "description": "원제: 空色ユーティリティ\n원작: Yostar Pictures\n감독: 사이토 켄고\n각본: 사토 유타카\n캐릭터 디자인: 사이토 켄고\n음악: 다이스케 호리타\n장르: 일상, 청춘, 스포츠, 코미디\n방영일: 2025.01.04 01:00 (토)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/635e94184529d216f529eafbe627b87b_1735948381_1411.jpg",
+                    "url": "/c/과학×모험 서바이벌",
+                    "title": "과학×모험 서바이벌",
+                    "description": "원제: 科学×冒険サバイバル!\n원작: 미래엔 아이세움\n감독: 호소다 마사히로\n각본: 무라야마 이사오\n캐릭터 디자인: 노길보\n음악: 요시카와 케이\n장르: 모험, 서바이벌\n방영일: 2024.10.05 18:25 (토)\n등급: 전체\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2410/8afe4bce33cc6df39ad9eeb8374fcafc_1728228775_0805.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -555,16 +560,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/하늘색 유틸리티 1화",
-                        "name": "하늘색 유틸리티 1화",
+                        "url": "/e/과학×모험 서바이벌 13화",
+                        "name": "과학×모험 서바이벌 13화",
                         "date_upload": 1735948800000,
-                        "episode_number": 1.0
+                        "episode_number": 11.0
+                    },
+                    {
+                        "url": "/e/과학×모험 서바이벌 12화 10~11화 방송사 생략",
+                        "name": "과학×모험 서바이벌 12화 10~11화 방송사 생략",
+                        "date_upload": 1733702400000,
+                        "episode_number": 10.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15676305805569322084/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15676305805569322084/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15676305805569322084/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-305120527673027139/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-305120527673027139/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-305120527673027139/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

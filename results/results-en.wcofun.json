@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/sorairo-utility-tv",
+                                "title": "Sorairo Utility (TV)",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933836.jpg"
+                            },
+                            {
+                                "url": "/anime/class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
+                                "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933835.jpg"
+                            },
+                            {
                                 "url": "/anime/tasokare-hotel-english-subbed",
                                 "title": "Tasokare Hotel English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933834.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/matt-bird-break-loose",
                                 "title": "Matt & Bird Break Loose",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933820.jpg"
-                            },
-                            {
-                                "url": "/anime/angry-birds-mystery-island",
-                                "title": "Angry Birds: Mystery Island",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933819.jpg"
-                            },
-                            {
-                                "url": "/anime/dc-heroes-united",
-                                "title": "DC Heroes United",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933818.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/tasokare-hotel-english-subbed",
-                    "title": "Tasokare Hotel English Subbed",
-                    "description": "Tasokare Hotel is a hotel that is engulfed in twilight all day long, with no distinction between day and night. It exists as a place between life and death, where souls unable to decide whether to move on to the afterlife or return to the present world can rest their wings. The protagonist, Neko Tsukahara, wanders into Tasokare Hotel without remembering who she is or why she’s there. Guided by the hotel staff, she is led to her room. “There should be items related to the customer’s memories in the room. These might serve as clues to help the customer regain their memories.” While searching for a way to return to the present world and remembering who she is, she encounters a certain incident…",
-                    "genre": "Mystery, Supernatural, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933834.jpg",
+                    "url": "/anime/sorairo-utility-tv",
+                    "title": "Sorairo Utility (TV)",
+                    "description": "High schooler Minami Aoba has no strengths or aspirations and worries that she will graduate as a mere “villager A.” In search of her uniqueness, she comes across a golf driving range and is approached by the part-timer and genius golfer Haruka Akane. That is Minami’s first encounter with golf. Together with the Haruka and influencer Ayaka Hoshimi, the unremarkable Minami aims for the moment when she becomes a protagonist.",
+                    "genre": "Sports, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933836.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/sorairo-utility-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXitM_oNDhqxWbhMHKe_shfjElv9aHbTK_C4dHtfbwIBBxtNfRXLTVNKSiIbV1IjAEOFhmXAB--eHdWHG3czvQU0bpu0KgqKB2gB5bn5hLEMBB3Nbe3RbHONIk-GikaMaGSQWtpklKGBfxH1ixYo8wMwoqG6cigSIejP-0SsABXDw9XMgb0ztJw3q43rd_8zNuUKv_mTPpm4crc7Jdj_5b5ZJohkOchoJprlaMRC8AZsnVcTK_xFxgDYkjutyV04pZHyP6VQogBxnoqUNzQvYLsII2IHxAjGSeI2DhFXhPB8qwbF94hHUcH57ayn604U7B1rHmsKik0AcxukVjDQ6oBxCq1a9HsHfd1RLmKHKcTmw",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXitM_oNDhqxWbhMHKe_shfjElv9aHbTK_C4dHtfbwIBBxtNfRXLTVNKSiIbV1IjAEOFhmXAB--eHdWHG3czvQU0bpu0KgqKB2gB5bn5hLEMBB3Nbe3RbHONIk-GikaMaGSQWtpklKGBfxH1ixYo8wMwoqG6cigSIejP-0SsABXDw9XMgb0ztJw3q43rd_8zNuUKv_mTPpm4crc7Jdj_5b5ZJohkOchoJprlaMRC8AZsnVcTK_xFxgDYkjutyV04pZHyP6VQogBxnoqUNzQvYLsII2IHxAjGSeI2DhFXhPB8qwbF94hHUcH57ayn604U7B1rHmsKik0AcxukVjDQ6oBxCq1a9HsHfd1RLmKHKcTmw"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXitM_oNDhqxWbhMHKe_shfjElv9aHbTK_C4dHtfbwIBBxtNfRXLTVNKSiIbV1IjAEOFhmXAB--eHdWHG3czvQU7wFgOJ7nv-XGRSaf527ejcY8OfSqkZHA9K8DsbbnwOAzvpF03UW6IqAj8q7EIV-Sq-cqkumdplDJrJ8sPhjmBeAZ0CkYPY98ZHrYszye-4vmHwG69_415alY0DqnigGLZ7C1V9hrUTLIQAdEG97x30ZT4Np8c5ksm9CfKIKE4N9k8yJaMoWKIaUxFZHJ2zuGsZdp1m1aTZ9QAIGGDH1nPOAtQQUvGa9wxPsFNgiSVsQfVVl09wdHFoHNq8XvXDGrGhCeCic8L7DjV8dBj_Cj3g",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXitM_oNDhqxWbhMHKe_shfjElv9aHbTK_C4dHtfbwIBBxtNfRXLTVNKSiIbV1IjAEOFhmXAB--eHdWHG3czvQU7wFgOJ7nv-XGRSaf527ejcY8OfSqkZHA9K8DsbbnwOAzvpF03UW6IqAj8q7EIV-Sq-cqkumdplDJrJ8sPhjmBeAZ0CkYPY98ZHrYszye-4vmHwG69_415alY0DqnigGLZ7C1V9hrUTLIQAdEG97x30ZT4Np8c5ksm9CfKIKE4N9k8yJaMoWKIaUxFZHJ2zuGsZdp1m1aTZ9QAIGGDH1nPOAtQQUvGa9wxPsFNgiSVsQfVVl09wdHFoHNq8XvXDGrGhCeCic8L7DjV8dBj_Cj3g"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXitM_oNDhqxWbhMHKe_shfjElv9aHbTK_C4dHtfbwIBBxtNfRXLTVNKSiIbV1IjAEOFhmXAB--eHdWHG3czvQUVfmRPtx2bU6baMkKXPSbTy0zVt7_ZwtiogHfTcJQ-14DXCcNzi8LuOGRg3Fjl3Qx4lUr7J9VFIVjIKq0IFWZj-fzsxCtnevJQ-XPEjQUQhVHbkRC13THokH7Zls0k01luzYXdN6ouvIjrxMbbmyNH8PenmGKztHOhDyWqnLbnIQm7Wne5NUsbwC0ojhoIq1XNG47UJWVhsiVF61zpA50c9NFyQo_l0RnN9CTCQOuK9nscEXTr58-wI-9mhxIpSneSGq75wDXzWsYKdPY9h9Xfg",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuXitM_oNDhqxWbhMHKe_shfjElv9aHbTK_C4dHtfbwIBBxtNfRXLTVNKSiIbV1IjAEOFhmXAB--eHdWHG3czvQUVfmRPtx2bU6baMkKXPSbTy0zVt7_ZwtiogHfTcJQ-14DXCcNzi8LuOGRg3Fjl3Qx4lUr7J9VFIVjIKq0IFWZj-fzsxCtnevJQ-XPEjQUQhVHbkRC13THokH7Zls0k01luzYXdN6ouvIjrxMbbmyNH8PenmGKztHOhDyWqnLbnIQm7Wne5NUsbwC0ojhoIq1XNG47UJWVhsiVF61zpA50c9NFyQo_l0RnN9CTCQOuK9nscEXTr58-wI-9mhxIpSneSGq75wDXzWsYKdPY9h9Xfg"
+                    }
+                ],
+                "passed": true
             }
         }
     }

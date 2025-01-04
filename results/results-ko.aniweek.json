@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/하늘색 유틸리티",
+                                "title": "하늘색 유틸리티",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/635e94184529d216f529eafbe627b87b_1735948381_1411.jpg"
+                            },
+                            {
                                 "url": "/c/모멘타리 릴리",
                                 "title": "모멘타리 릴리",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/a0c2b3bad8a86be1b0855305cc846fee_1735923521_3736.jpg"
@@ -539,10 +544,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/모멘타리 릴리",
-                    "title": "모멘타리 릴리",
-                    "description": "원제: もめんたりー・リリィ\n원작: Go Hands\n감독: 스즈키 신고, 쿠도 스스무, 요코미네 카츠마사\n각본: 야나기 타마조\n캐릭터 디자인: 스즈키 신고\n음악: Ryosuke Kojima\n장르: 포스트 아포칼립스, 액션\n방영일: 2025.01.02 23:30 (목)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/a0c2b3bad8a86be1b0855305cc846fee_1735923521_3736.jpg",
+                    "url": "/c/하늘색 유틸리티",
+                    "title": "하늘색 유틸리티",
+                    "description": "원제: 空色ユーティリティ\n원작: Yostar Pictures\n감독: 사이토 켄고\n각본: 사토 유타카\n캐릭터 디자인: 사이토 켄고\n음악: 다이스케 호리타\n장르: 일상, 청춘, 스포츠, 코미디\n방영일: 2025.01.04 01:00 (토)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/635e94184529d216f529eafbe627b87b_1735948381_1411.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -550,8 +555,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/모멘타리 릴리 1화",
-                        "name": "모멘타리 릴리 1화",
+                        "url": "/e/하늘색 유틸리티 1화",
+                        "name": "하늘색 유틸리티 1화",
                         "date_upload": 1735948800000,
                         "episode_number": 1.0
                     }
@@ -559,7 +564,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-11497495721993993871/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-11497495721993993871/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-11497495721993993871/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15676305805569322084/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15676305805569322084/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15676305805569322084/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

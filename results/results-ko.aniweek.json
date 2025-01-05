@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/오키나와에서 좋아하게 된 아이가 사투리가 심해서 너무 괴로워",
+                                "title": "오키나와에서 좋아하게 된 아이가 사투리가 심해서 너무 괴로워",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/1ac3ffa883d8d4104e931d55a9776f00_1736072062_0208.jpg"
+                            },
+                            {
                                 "url": "/c/원더풀 프리큐어!",
                                 "title": "원더풀 프리큐어!",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2402/dc320190a488c927b4ab05446981033e_1707019760_931.jpg"
@@ -500,11 +505,6 @@
                                 "url": "/c/작혼 KAN!!",
                                 "title": "작혼 KAN!!",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2405/35b4e651c3a6ac46d66622c0396bec22_1714926793_9669.jpg"
-                            },
-                            {
-                                "url": "/c/도주중 그레이트 미션",
-                                "title": "도주중 그레이트 미션",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2304/1cd0a36ebfc2ba1c5ab6144020dfd187_1680446607_3244.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -554,10 +554,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/원더풀 프리큐어!",
-                    "title": "원더풀 프리큐어!",
-                    "description": "원제: わんだふるぷりきゅあ!\n원작: 토도 이즈미\n감독: 사토 마사노리\n각본: 나리타 요시미\n캐릭터 디자인: 우치다 요코\n음악: 후카자와 에리카\n장르: 동물, 마법소녀, 변신\n방영일: 2024.02.04 08:30 (일)\n등급: 전체\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2402/dc320190a488c927b4ab05446981033e_1707019760_931.jpg",
+                    "url": "/c/오키나와에서 좋아하게 된 아이가 사투리가 심해서 너무 괴로워",
+                    "title": "오키나와에서 좋아하게 된 아이가 사투리가 심해서 너무 괴로워",
+                    "description": "원제: 沖縄で好きになった子が 方言すぎてツラすぎる\n원작: 정보없음\n감독: 타나베 신고\n각본: 이타가키 신, 타나베 신고\n캐릭터디자인: 정보없음\n음악: 이시카와 토모히사\n장르: 로맨스, 코미디\n방영일: 2025.01.05 01:00 (일)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/1ac3ffa883d8d4104e931d55a9776f00_1736072062_0208.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -565,22 +565,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/원더풀 프리큐어! 47화",
-                        "name": "원더풀 프리큐어! 47화",
+                        "url": "/e/오키나와에서 좋아하게 된 아이가 사투리가 심해서 너무 괴로워 1화",
+                        "name": "오키나와에서 좋아하게 된 아이가 사투리가 심해서 너무 괴로워 1화",
                         "date_upload": 1736035200000,
-                        "episode_number": 47.0
-                    },
-                    {
-                        "url": "/e/원더풀 프리큐어! 46화",
-                        "name": "원더풀 프리큐어! 46화",
-                        "date_upload": 1734825600000,
-                        "episode_number": 46.0
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-10304624073150705427/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-10304624073150705427/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-10304624073150705427/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4963196357576415661/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4963196357576415661/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4963196357576415661/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

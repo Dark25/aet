@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/fuerza-policial-india/",
+                                "title": "FUERZA POLICIAL INDIA",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/eScKMsLBXjtbtcOGZEf92a9bisJ.jpg"
+                            },
+                            {
+                                "url": "/serie/cirugia-facial/",
+                                "title": "Cirugía facial",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zt4oFvqHdPvqvDzS0pGDHJReRc3.jpg"
+                            },
+                            {
+                                "url": "/serie/como-agua-para-chocolate/",
+                                "title": "Como agua para chocolate",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/cGdOB0ld7eIpd5GlZg5DOZX8HPK.jpg"
+                            },
+                            {
+                                "url": "/serie/narrativas-negras-nao-contadas/",
+                                "title": "Narrativas Negras Não Contadas",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9aBlEFcjvEYAvjSiSZBKZEKTz9V.jpg"
+                            },
+                            {
                                 "url": "/serie/deadly-influence-the-social-media-murders/",
                                 "title": "Deadly Influence: The Social Media Murders",
                                 "description": "",
@@ -89,30 +113,6 @@
                                 "title": "Creature Commandos",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/zVC3YIA8C3Lyf30UGVRaxrBW3GE.jpg"
-                            },
-                            {
-                                "url": "/serie/elizabeth-taylor-la-superestrella-rebelde/",
-                                "title": "Elizabeth Taylor: la superestrella rebelde",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hfUuWsFZ77O9Y8uriPB1Mojh1m3.jpg"
-                            },
-                            {
-                                "url": "/serie/jentry-chau-contra-el-inframundo/",
-                                "title": "Jentry Chau contra el inframundo",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/wz9bpOMLXJemaC6qVL9tyDtSBxp.jpg"
-                            },
-                            {
-                                "url": "/serie/dune-la-profecia/",
-                                "title": "Dune: La profecía",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kwWQHEBTL2TrUFcINqgLjSJdqIQ.jpg"
-                            },
-                            {
-                                "url": "/serie/los-asesinatos-de-elm-street/",
-                                "title": "Los asesinatos de Elm Street",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/oeEYqS8uKvguZ8UhlPcGbvOIOMi.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,100 +240,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/deadly-influence-the-social-media-murders/",
-                    "title": "Deadly Influence: The Social Media Murders",
-                    "description": "Asesinatos En Las Redes Sociales Los influencers de las redes sociales parecen tenerlo todo: dinero, celebridad y poder. Pero en estas impactantes historias de crímenes reales, hay un horrible lado oscuro de la fama, que revela cómo estos sueños en línea pueden convertirse rápidamente en pesadillas empapadas de sangre.",
-                    "genre": "Crimen, Documental",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1aQ5HK1m9WLEOnlBcjiCmB2BuXV.jpg",
+                    "url": "/serie/fuerza-policial-india/",
+                    "title": "FUERZA POLICIAL INDIA",
+                    "description": "इंडियन पुलिस फोर्स | Fuerza policial: Ataque en la India “Fuerza policial india” es una serie cargada de acción que sigue el terrible viaje del agente de la policía de Delhi Kabir Malik en su batalla contra un pérfido adversario, Zarar, que ha elegido la senda del terrorismo. Este drama policial nos narra una apasionante historia de persecución que capta la inexorable búsqueda de la justicia y los sacrificios que se hacen en cumplimiento del deber.",
+                    "genre": "Action & Adventure, Crimen",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eScKMsLBXjtbtcOGZEf92a9bisJ.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/capitulo/deadly-influence-the-social-media-murders-temporada-1-episodio-6/",
-                        "name": "T1 - Episodio 6",
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/capitulo/deadly-influence-the-social-media-murders-temporada-1-episodio-5/",
-                        "name": "T1 - Episodio 5",
-                        "episode_number": 5.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s39.fastream.to/hls2/07/00070/b4pe9o1nbwup_h/index-v1-a1.m3u8?t=Mkkgo03B88wQQr-BAmpBwhMKvhi-Jw-XpNSZCbuoqAE&s=1736036404&e=43200&v=49773050&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/07/00070/b4pe9o1nbwup_h/index-v1-a1.m3u8?t=Mkkgo03B88wQQr-BAmpBwhMKvhi-Jw-XpNSZCbuoqAE&s=1736036404&e=43200&v=49773050&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/07/00070/b4pe9o1nbwup_n/index-v1-a1.m3u8?t=Mkkgo03B88wQQr-BAmpBwhMKvhi-Jw-XpNSZCbuoqAE&s=1736036404&e=43200&v=49773050&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/07/00070/b4pe9o1nbwup_n/index-v1-a1.m3u8?t=Mkkgo03B88wQQr-BAmpBwhMKvhi-Jw-XpNSZCbuoqAE&s=1736036404&e=43200&v=49773050&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/07/00070/b4pe9o1nbwup_l/index-v1-a1.m3u8?t=Mkkgo03B88wQQr-BAmpBwhMKvhi-Jw-XpNSZCbuoqAE&s=1736036404&e=43200&v=49773050&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/07/00070/b4pe9o1nbwup_l/index-v1-a1.m3u8?t=Mkkgo03B88wQQr-BAmpBwhMKvhi-Jw-XpNSZCbuoqAE&s=1736036404&e=43200&v=49773050&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/12/00070/pr99soo81blf_h/index-v1-a1.m3u8?t=7Xn6ze3XQnp6XAxEICeCDxmnwKfTxQf9O8gbECUhu-E&s=1736036405&e=43200&v=49773062&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/12/00070/pr99soo81blf_h/index-v1-a1.m3u8?t=7Xn6ze3XQnp6XAxEICeCDxmnwKfTxQf9O8gbECUhu-E&s=1736036405&e=43200&v=49773062&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/12/00070/pr99soo81blf_n/index-v1-a1.m3u8?t=7Xn6ze3XQnp6XAxEICeCDxmnwKfTxQf9O8gbECUhu-E&s=1736036405&e=43200&v=49773062&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/12/00070/pr99soo81blf_n/index-v1-a1.m3u8?t=7Xn6ze3XQnp6XAxEICeCDxmnwKfTxQf9O8gbECUhu-E&s=1736036405&e=43200&v=49773062&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s39.fastream.to/hls2/12/00070/pr99soo81blf_l/index-v1-a1.m3u8?t=7Xn6ze3XQnp6XAxEICeCDxmnwKfTxQf9O8gbECUhu-E&s=1736036405&e=43200&v=49773062&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/12/00070/pr99soo81blf_l/index-v1-a1.m3u8?t=7Xn6ze3XQnp6XAxEICeCDxmnwKfTxQf9O8gbECUhu-E&s=1736036405&e=43200&v=49773062&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

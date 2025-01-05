@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/okinawa-de-suki-ni-natta-ko-ga-hougen-sugite-tsurasugiru",
+                                "title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933838.jpg"
+                            },
+                            {
                                 "url": "/anime/neet-kunoichi-to-nazeka-dousei-hajimemashita",
                                 "title": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933837.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/carl-the-collector",
                                 "title": "Carl the Collector",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933822.jpg"
-                            },
-                            {
-                                "url": "/anime/barneys-world",
-                                "title": "Barney's World",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933821.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -392,6 +392,11 @@
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/756658.jpg"
                             },
                             {
+                                "url": "/anime/arifureta-from-commonplace-to-world-s-strongest",
+                                "title": "Arifureta: From Commonplace to World's Strongest",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/764895.jpg"
+                            },
+                            {
                                 "url": "/anime/sd-gundam-world-sangoku-souketsuden-english-subbed",
                                 "title": "SD Gundam World: Sangoku Souketsuden English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/766758.jpg"
@@ -460,6 +465,11 @@
                                 "url": "/anime/world-witches-hasshin-shimasu-english-subbed",
                                 "title": "World Witches Hasshin Shimasu! English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/873225.jpg"
+                            },
+                            {
+                                "url": "/anime/hetalia-world★stars-english-subbed",
+                                "title": "Hetalia World★Stars English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/883968.jpg"
                             },
                             {
                                 "url": "/anime/sd-gundam-world-heroes-english-subbed",
@@ -585,16 +595,6 @@
                                 "url": "/anime/this-world-cant-tear-me-down",
                                 "title": "This World Can't Tear Me Down",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932962.jpg"
-                            },
-                            {
-                                "url": "/anime/jessicas-big-little-world",
-                                "title": "Jessica's Big Little World",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933188.jpg"
-                            },
-                            {
-                                "url": "/anime/good-night-world-english-subbed",
-                                "title": "Good Night World English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933205.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/neet-kunoichi-to-nazeka-dousei-hajimemashita",
-                    "title": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
-                    "description": "Otaku Kunoichi ≒ Otaku NEET ≒ Girl with Zero Romantic Experience!",
-                    "genre": "Comedy, Romance, Supernatural, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933837.jpg",
+                    "url": "/anime/okinawa-de-suki-ni-natta-ko-ga-hougen-sugite-tsurasugiru",
+                    "title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
+                    "description": "I, Teruaki Nakamura, transferred to Okinawa and fell in love with a girl… but I can’t understand her dialect. Thankfully, Higa-san is always helping me out with translations.",
+                    "genre": "Comedy, Romance, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933838.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/okinawa-de-suki-ni-natta-ko-ga-hougen-sugite-tsurasugiru-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVFYcx8MvZyeCxl2i-_GPy-ai2SNsl_DccivfGgIytZrw-EKlwoQFKfMOsstrHZw2ztfXwkprBHMNXCPNYlxLKcS8ZBR1-6yMHFYTZxkoGC3f_z74NFxomakcv7iUVl4WSYlRzkGWVhkZHfXf6ORtyIZgbEh9WdiRZrNougJZDQhJ7H9wGZZKjACdlNtUnKPWL6BWqPJ3QABu1XYi277Yyp4cqY-qod9Kasf4f7IYIb6eh_vPmSfiN2b2TtaYTT1XKAshR1y1CRYaxqQ4WzX-RXyBmVaFlH7qrWvvtivNBBsqIbfBBMUHkGAyHPrFGzmSQkBnATg-0xXYXJK-BG5e-REqEHaYMELcdQ0dfBRGaylsU5reHn3RMIJGG5kDDnoBRFTZWvj2bhke7qBENOferY-TD6hAvWwM_AW_MztvDWtg",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVFYcx8MvZyeCxl2i-_GPy-ai2SNsl_DccivfGgIytZrw-EKlwoQFKfMOsstrHZw2ztfXwkprBHMNXCPNYlxLKcS8ZBR1-6yMHFYTZxkoGC3f_z74NFxomakcv7iUVl4WSYlRzkGWVhkZHfXf6ORtyIZgbEh9WdiRZrNougJZDQhJ7H9wGZZKjACdlNtUnKPWL6BWqPJ3QABu1XYi277Yyp4cqY-qod9Kasf4f7IYIb6eh_vPmSfiN2b2TtaYTT1XKAshR1y1CRYaxqQ4WzX-RXyBmVaFlH7qrWvvtivNBBsqIbfBBMUHkGAyHPrFGzmSQkBnATg-0xXYXJK-BG5e-REqEHaYMELcdQ0dfBRGaylsU5reHn3RMIJGG5kDDnoBRFTZWvj2bhke7qBENOferY-TD6hAvWwM_AW_MztvDWtg"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVFYcx8MvZyeCxl2i-_GPy-ai2SNsl_DccivfGgIytZrw-EKlwoQFKfMOsstrHZw2ztfXwkprBHMNXCPNYlxLKcS8ZBR1-6yMHFYTZxkoGC3f_z74NFxomakcv7iUVl4WQk674t5M6QiQkF6QyfqxCOBAt-W6DfXs810MfvCF18iI7Pb0wiA6uo3yPp2T1ODG5sK52HGj0100eTRRgWx7irj5nfC2SCIrblRHM5J3SaX92EYykVMYTzCv3_nBa8vnE-cbf2DAiG376mKGfdMczrE3HkYh4kZhuVnbKogNfyb7rhcAs1hgTOaNAQ-bi5ANSc0lgadzZszgd2pPl-XQ3dRtx575fVL61vofTVK_C9CsudhG6ybr2NA6U6zYAm7UVecyYRJS3kFDoFIQZgxNCsSovGjY98oz9GozAgWC0pHg",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVFYcx8MvZyeCxl2i-_GPy-ai2SNsl_DccivfGgIytZrw-EKlwoQFKfMOsstrHZw2ztfXwkprBHMNXCPNYlxLKcS8ZBR1-6yMHFYTZxkoGC3f_z74NFxomakcv7iUVl4WQk674t5M6QiQkF6QyfqxCOBAt-W6DfXs810MfvCF18iI7Pb0wiA6uo3yPp2T1ODG5sK52HGj0100eTRRgWx7irj5nfC2SCIrblRHM5J3SaX92EYykVMYTzCv3_nBa8vnE-cbf2DAiG376mKGfdMczrE3HkYh4kZhuVnbKogNfyb7rhcAs1hgTOaNAQ-bi5ANSc0lgadzZszgd2pPl-XQ3dRtx575fVL61vofTVK_C9CsudhG6ybr2NA6U6zYAm7UVecyYRJS3kFDoFIQZgxNCsSovGjY98oz9GozAgWC0pHg"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVFYcx8MvZyeCxl2i-_GPy-ai2SNsl_DccivfGgIytZrw-EKlwoQFKfMOsstrHZw2ztfXwkprBHMNXCPNYlxLKcS8ZBR1-6yMHFYTZxkoGC3f_z74NFxomakcv7iUVl4WQA4YcFHvEwFGALQ-cHbo4wMZQxyyvPWxTfdz9jjye-KgElJqBfAMynsnSwPHWDBgwnHq3wMgSG9SHq_5BRo9OfckB8_71-gJjM26YokO8vX0RVibW-4ofckw4CZnCnDuLHkMk_AUM6jjz87vhp0zLwxyhaqTdfBf6q2BAloRLQuniMcYwGh4pWEZc1cbLj0lNFp49d7ylaJFpn3ij5SEiTMlZmNCBVuXta11kGyMX2v4bjhQPVbcjmBgq0_C9YHimlAbtlW0KKikz1F0SgJZpc",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuVFYcx8MvZyeCxl2i-_GPy-ai2SNsl_DccivfGgIytZrw-EKlwoQFKfMOsstrHZw2ztfXwkprBHMNXCPNYlxLKcS8ZBR1-6yMHFYTZxkoGC3f_z74NFxomakcv7iUVl4WQA4YcFHvEwFGALQ-cHbo4wMZQxyyvPWxTfdz9jjye-KgElJqBfAMynsnSwPHWDBgwnHq3wMgSG9SHq_5BRo9OfckB8_71-gJjM26YokO8vX0RVibW-4ofckw4CZnCnDuLHkMk_AUM6jjz87vhp0zLwxyhaqTdfBf6q2BAloRLQuniMcYwGh4pWEZc1cbLj0lNFp49d7ylaJFpn3ij5SEiTMlZmNCBVuXta11kGyMX2v4bjhQPVbcjmBgq0_C9YHimlAbtlW0KKikz1F0SgJZpc"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/니트 쿠노이치와 어째서인지 동거 시작했습니다",
+                                "title": "니트 쿠노이치와 어째서인지 동거 시작했습니다",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/b997cea165962c7eb15e99daba4420dc_1736025231_0017.jpg"
+                            },
+                            {
+                                "url": "/c/메달리스트",
+                                "title": "메달리스트",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/b997cea165962c7eb15e99daba4420dc_1736019671_242.jpg"
+                            },
+                            {
                                 "url": "/c/나 혼자만 레벨업 2기",
                                 "title": "나 혼자만 레벨업 2기",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/b997cea165962c7eb15e99daba4420dc_1736009165_315.jpg"
@@ -495,19 +505,9 @@
                                 "url": "/c/도주중 그레이트 미션",
                                 "title": "도주중 그레이트 미션",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2304/1cd0a36ebfc2ba1c5ab6144020dfd187_1680446607_3244.jpg"
-                            },
-                            {
-                                "url": "/c/극주부도 2기",
-                                "title": "극주부도 2기",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2309/1ee71fce3d37bde64e91853d5a9e6ad7_1695750921_7396.jpg"
-                            },
-                            {
-                                "url": "/c/닌자라",
-                                "title": "닌자라",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2202/3ded5fbdf9a34390322526bc6ff2de68_1644689999_7554.jpg"
                             }
                         ],
-                        "hasNextPage": false
+                        "hasNextPage": true
                     }
                 ],
                 "passed": true
@@ -554,10 +554,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/나 혼자만 레벨업 2기",
-                    "title": "나 혼자만 레벨업 2기",
-                    "description": "원제: 俺だけレベルアップな件 Season 2\n원작: 추공, 장성락, 현군\n감독: 나카시게 슌스케\n각본: 키무라 노보루\n캐릭터 디자인: 스도 토모코\n음악: 사와노 히로유키\n장르: 판타지, 액션\n방영일: 2025.01.05 00:00 (일)\n등급: 15\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/b997cea165962c7eb15e99daba4420dc_1736009165_315.jpg",
+                    "url": "/c/니트 쿠노이치와 어째서인지 동거 시작했습니다",
+                    "title": "니트 쿠노이치와 어째서인지 동거 시작했습니다",
+                    "description": "원제: ニートくノ一となぜか同棲はじめました\n원작: 코타츠, 야키 토마토\n감독: 사이토 히사시\n각본: 아오시마 타카시\n캐릭터 디자인: 스즈키 마사히코\n음악: CMJK\n장르: 로맨스, 코미디, 일상, 퇴마, 닌자\n방영일: 2025.01.05 01:30 (일)\n등급: 15\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/b997cea165962c7eb15e99daba4420dc_1736025231_0017.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -565,8 +565,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/나 혼자만 레벨업 2기 1화",
-                        "name": "나 혼자만 레벨업 2기 1화",
+                        "url": "/e/니트 쿠노이치와 어째서인지 동거 시작했습니다 1화",
+                        "name": "니트 쿠노이치와 어째서인지 동거 시작했습니다 1화",
                         "date_upload": 1736035200000,
                         "episode_number": 1.0
                     }
@@ -574,7 +574,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4482480706936783592/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4482480706936783592/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4482480706936783592/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-5202516478781459205/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-5202516478781459205/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-5202516478781459205/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

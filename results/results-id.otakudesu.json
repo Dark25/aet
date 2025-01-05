@@ -142,9 +142,29 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/okitsura-sub-indo/",
+                                "title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146843.jpg"
+                            },
+                            {
                                 "url": "/anime/solo-level-s2-sub-indo/",
                                 "title": "Solo Leveling Season 2",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/145502.jpg"
+                            },
+                            {
+                                "url": "/anime/medalist-sub-indo/",
+                                "title": "Medalist",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146850.jpg"
+                            },
+                            {
+                                "url": "/anime/ao-exorcist-yosuga-sub-indo/",
+                                "title": "Ao no Exorcist: Yosuga-hen",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/147040.jpg"
+                            },
+                            {
+                                "url": "/anime/chi-chikyuu-tsuite-sub-indo/",
+                                "title": "Chi.: Chikyuu no Undou ni Tsuite",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Chi-Chikyuu-no-Undou-ni-Tsuite.jpg"
                             },
                             {
                                 "url": "/anime/momentary-lily-sub-indo/",
@@ -232,11 +252,6 @@
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/144860.jpg"
                             },
                             {
-                                "url": "/anime/chi-chikyuu-tsuite-sub-indo/",
-                                "title": "Chi.: Chikyuu no Undou ni Tsuite",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Chi-Chikyuu-no-Undou-ni-Tsuite.jpg"
-                            },
-                            {
                                 "url": "/anime/maou-2099-sub-indo/",
                                 "title": "Maou 2099",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Maou-2099.jpg"
@@ -250,21 +265,6 @@
                                 "url": "/anime/sengoku-youko-s2-sub-indo/",
                                 "title": "Sengoku Youko: Senma Konton-hen",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/07/Sengoku-Youko-Senam-Konton.jpg"
-                            },
-                            {
-                                "url": "/anime/tennis-world-cup-sub-indo/",
-                                "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/145670.jpg"
-                            },
-                            {
-                                "url": "/anime/yarjou-ryuchu-sub-indo/",
-                                "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Yarinaoshi.jpg"
-                            },
-                            {
-                                "url": "/anime/tasuketsu-sub-indo/",
-                                "title": "Tasuuketsu",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/07/143629.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-13003530534697859661/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-13003530534697859661/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-13003530534697859661/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6230781862259422020/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6230781862259422020/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6230781862259422020/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-13003530534697859661/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-13003530534697859661/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-13003530534697859661/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6230781862259422020/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6230781862259422020/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6230781862259422020/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

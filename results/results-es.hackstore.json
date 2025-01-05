@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/lagrimas-del-sol-2003/",
+                                "title": "Lágrimas del Sol (2003)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/h4r3AwNkYdrDYZeM8gG9zheiW7r.jpg"
+                            },
+                            {
                                 "url": "/peliculas/barbie-en-el-cascanueces-2001/",
                                 "title": "Barbie en El Cascanueces (2001)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Cascanueces (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/18TSHJTTnVvy0FbDOnb9gZkUxwn.jpg"
-                            },
-                            {
-                                "url": "/peliculas/los-simpson-santa-homero-2024/",
-                                "title": "Los Simpson: Santa Homero (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/dg2f0K94eksauopGC2TUbJVruWM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/barbie-en-el-cascanueces-2001/",
-                    "title": "Barbie en El Cascanueces (2001)",
-                    "artist": "Alex Doduk",
-                    "author": "Owen Hurley",
-                    "description": "Barbie y su hermana Kelly practican difíciles pasos de ballet para una importante presentación; sin embargo cuando la pequeña siente que no puede ejecutar correctamente los pasos de baile y quiere darse por vencida, Barbie le cuenta a Kelly una historia llena de la magia de la Navidad.",
-                    "genre": "Animación, Familia",
+                    "url": "/peliculas/lagrimas-del-sol-2003/",
+                    "title": "Lágrimas del Sol (2003)",
+                    "artist": "Bruce Willis",
+                    "author": "Antoine Fuqua",
+                    "description": "Un equipo comandado por el teniente Waters, un veterano oficial de la unidad especial SEAL, se adentra en el corazón de África con la misión de rescatar a Lena Kendrick, una doctora americana que trabaja en una zona muy conflictiva. Pero, cuando la encuentran, ella se niega a abandonar a los refugiados y exige a Waters que los escolte a todos a través de la peligrosa jungla nigeriana. El oficial tendrá que enfrentarse a un grave dilema: obedecer las órdenes recibidas o, por el contrario, seguir los dictados de su propia conciencia.",
+                    "genre": "Acción, Bélica, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/yR1sGr7Fz3Lw6yhEf6RvWAWI96e.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/h4r3AwNkYdrDYZeM8gG9zheiW7r.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/barbie-en-el-cascanueces-2001/",
+                        "url": "/peliculas/lagrimas-del-sol-2003/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -266,9 +266,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/13249/g9nkt4en7asf_,n,.urlset/index-v1-a1.m3u8?t=eBAaPjigbXJkmUuyPG2Cv7JQidFhp1HLyVzdTtovnws&s=1736013978&e=14400&f=66249316&node=GmpPRqw3OT7DrcfyEFpnHXCcd+v3f/Vh/y6Y62FyEbA=&i=40.76&sp=2500&asn=8075&q=n",
+                        "url": "https://delivery-node-u4yfpsfvtp7chlfm.voe-network.net/engine/hls2-c/01/13257/jjqphjanbdwt_,n,.urlset/index-v1-a1.m3u8?t=Q7a1zVmKjQ5UHhRvySyQ4KSJPGvHLS40OFB4UU7kye4&s=1736036348&e=14400&f=66286861&node=UOx5276IumOH4BADikx4rlHC+ibdAWZ+mo07sx3WfaU=&i=20.98&sp=2500&asn=8075&q=n",
                         "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/13249/g9nkt4en7asf_,n,.urlset/index-v1-a1.m3u8?t=eBAaPjigbXJkmUuyPG2Cv7JQidFhp1HLyVzdTtovnws&s=1736013978&e=14400&f=66249316&node=GmpPRqw3OT7DrcfyEFpnHXCcd+v3f/Vh/y6Y62FyEbA=&i=40.76&sp=2500&asn=8075&q=n",
+                        "videoUrl": "https://delivery-node-u4yfpsfvtp7chlfm.voe-network.net/engine/hls2-c/01/13257/jjqphjanbdwt_,n,.urlset/index-v1-a1.m3u8?t=Q7a1zVmKjQ5UHhRvySyQ4KSJPGvHLS40OFB4UU7kye4&s=1736036348&e=14400&f=66286861&node=UOx5276IumOH4BADikx4rlHC+ibdAWZ+mo07sx3WfaU=&i=20.98&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }

@@ -343,8 +343,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www2.mp4upload.com:183/d/xcx7b4euz3b4quuowwrbaj2kijqe3nnqxemhrmaqftzyxhnuypbzqxscn5tb5ztm3r7u7jfk/video.mp4",
+                        "quality": "mp4upload -  Mp4Upload - 1080p",
+                        "videoUrl": "https://www2.mp4upload.com:183/d/xcx7b4euz3b4quuowwrbaj2kijqe3nnqxemhrmaqftzyxhnuypbzqxscn5tb5ztm3r7u7jfk/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

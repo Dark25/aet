@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/kisaki-kyouiku-kara-nigetai-watashi",
+                                "title": "I Want to Escape from Princess Lessons",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kisaki-kyouiku-kara-nigetai-watashi-cover.jpg"
+                            },
+                            {
                                 "url": "/media/ao-no-exorcist-yosuga-hen",
                                 "title": "Blue Exorcist: The Blue Night Saga",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ao-no-exorcist-yosuga-hen-cover.png"
@@ -100,11 +105,6 @@
                                 "url": "/media/uzumaki-1",
                                 "title": "Uzumaki",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-uzumaki-cover-1.jpg"
-                            },
-                            {
-                                "url": "/media/ao-no-miburo",
-                                "title": "Blue Miburo",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ao-no-miburo-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/ao-no-exorcist-yosuga-hen",
-                    "title": "Blue Exorcist: The Blue Night Saga",
+                    "url": "/media/kisaki-kyouiku-kara-nigetai-watashi",
+                    "title": "I Want to Escape from Princess Lessons",
                     "author": "",
-                    "description": "Fünfte Staffel von Blue Exorcist. Quelle: aniSearch",
-                    "genre": "Action",
+                    "description": "In ihren ersten Lebensjahren war Leticia »Lettie« Dorman, die in eine herzogliche Familie hineingeboren wurde, ein fröhliches, verspieltes und naturverbundenes Kind. Diese Unbeschwertheit musste sie jedoch im Alter von sieben Jahren aufgeben, als sie mit keinem Geringeren als Kronprinz Clarke verlobt wurde. Daraufhin wurde dem unschuldigen, kleinen Mädchen beigebracht, was es heißt, eine Prinzessin zu sein. All die folgenden »Umerziehungsmaßnahmen« passten Lettie jedoch so gar nicht in den Plan, weshalb sie immer darauf hoffte, dass eines Tages ein anderes Mädchen auftauchen würde, das Clarke den Kopf verdrehen würde und sie endlich wieder in Freiheit leben könnte. Eines Tages scheint dieser Traum tatsächlich Wirklichkeit zu werden, als der Kronprinz mit einer fremden, bildhübschen jungen Dame zum königlichen Ball erscheint. Allein die Hoffnung, dass sie nun nicht mehr verlobt sei, bringt sie dazu, ihre Siebensachen zu packen und aufs Land zu flüchten. Wenig später ereilt sie jedoch eine böse Überraschung: Denn kaum hat sie sich an ihrem neuen Wohnort eingelebt, taucht plötzlich Clarke auf und erklärt Lettie, dass es sich um einen Irrtum ihrerseits gehandelt habe und die Hochzeit trotzdem stattfinden solle. Doch damit gibt sich die junge Frau nicht zufrieden und weigert sich, an den königlichen Hof zurückzukehren. Wird es Lettie gelingen, ihrem tristen Leben zu entfliehen? Oder gelingt es dem charmanten Kronprinzen, sie vom Land in seinen Palast zurückzuholen? Ein scheinbar unlösbarer Konflikt um Liebe und Freiheit nimmt seinen Lauf! Quelle: aniSearch",
+                    "genre": "Romantische Komödie",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ao-no-exorcist-yosuga-hen-cover.png",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kisaki-kyouiku-kara-nigetai-watashi-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,15 +239,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/ao-no-exorcist-yosuga-hen#streams_episodes_1_0",
-                        "name": "Ep.1 Shirō und Yuri",
+                        "url": "/media/kisaki-kyouiku-kara-nigetai-watashi#streams_episodes_1_0",
+                        "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-11697809791629506633/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-11697809791629506633/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-11697809791629506633/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7003218940849458074/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7003218940849458074/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7003218940849458074/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

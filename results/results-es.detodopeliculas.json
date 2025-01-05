@@ -618,25 +618,12 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/avicii-mi-ultimo-show-2024/",
-                    "title": "Avicii: Mi último show (2024)",
-                    "description": "El 28 de agosto de 2016, Tim Bergling, más conocido como Avicii, subió al escenario del club ibicenco Ushuaïa para la que sería su última actuación.\n\nTítulo original: Avicii - My Last Show\nTítulo original: Avicii - My Last Show",
-                    "genre": "Música",
-                    "thumbnail_url": "https://detodopeliculas.nu/wp-content/uploads/2025/01/jWS3WSTr2sbBpaeD0aWvTdO8CSc.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/pelicula/avicii-mi-ultimo-show-2024/",
-                        "name": "Película",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

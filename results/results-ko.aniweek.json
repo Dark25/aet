@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/페어리 테일: 100년 퀘스트",
+                                "title": "페어리 테일: 100년 퀘스트",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2407/bd6a8327b9b44db5cabeca6eff113c28_1720319035_2067.jpg"
+                            },
+                            {
                                 "url": "/c/오키나와에서 좋아하게 된 아이가 사투리가 심해서 너무 괴로워",
                                 "title": "오키나와에서 좋아하게 된 아이가 사투리가 심해서 너무 괴로워",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/1ac3ffa883d8d4104e931d55a9776f00_1736072062_0208.jpg"
@@ -292,11 +297,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/8afe4bce33cc6df39ad9eeb8374fcafc_1728226609_0977.jpg"
                             },
                             {
-                                "url": "/c/페어리 테일: 100년 퀘스트",
-                                "title": "페어리 테일: 100년 퀘스트",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2407/bd6a8327b9b44db5cabeca6eff113c28_1720319035_2067.jpg"
-                            },
-                            {
                                 "url": "/c/포켓몬스터 (2023)",
                                 "title": "포켓몬스터 (2023)",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2305/219ba1df6fcdf57f5283e36ec86129fb_1684040739_2062.jpg"
@@ -554,10 +554,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/오키나와에서 좋아하게 된 아이가 사투리가 심해서 너무 괴로워",
-                    "title": "오키나와에서 좋아하게 된 아이가 사투리가 심해서 너무 괴로워",
-                    "description": "원제: 沖縄で好きになった子が 方言すぎてツラすぎる\n원작: 정보없음\n감독: 타나베 신고\n각본: 이타가키 신, 타나베 신고\n캐릭터디자인: 정보없음\n음악: 이시카와 토모히사\n장르: 로맨스, 코미디\n방영일: 2025.01.05 01:00 (일)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/1ac3ffa883d8d4104e931d55a9776f00_1736072062_0208.jpg",
+                    "url": "/c/페어리 테일: 100년 퀘스트",
+                    "title": "페어리 테일: 100년 퀘스트",
+                    "description": "원제: フェアリーテイル 100年クエスト\n원작: 마시마 히로\n감독: 오타나베 오다히로\n각본: 토미오카 아츠히로\n캐릭터 디자인: 사코 유리카\n음악: 타카나시 야스하루\n장르: 판타지, 모험, 액션, 배틀, 드래곤, 코미디\n방영일: 2024.07.07 17:30 (일)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2407/bd6a8327b9b44db5cabeca6eff113c28_1720319035_2067.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -565,16 +565,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/오키나와에서 좋아하게 된 아이가 사투리가 심해서 너무 괴로워 1화",
-                        "name": "오키나와에서 좋아하게 된 아이가 사투리가 심해서 너무 괴로워 1화",
+                        "url": "/e/페어리 테일: 100년 퀘스트 25화",
+                        "name": "페어리 테일: 100년 퀘스트 25화",
                         "date_upload": 1736035200000,
-                        "episode_number": 1.0
+                        "episode_number": 26.0
+                    },
+                    {
+                        "url": "/e/페어리 테일: 100년 퀘스트 24화",
+                        "name": "페어리 테일: 100년 퀘스트 24화",
+                        "date_upload": 1734825600000,
+                        "episode_number": 25.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4963196357576415661/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4963196357576415661/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4963196357576415661/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3671751216003344115/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3671751216003344115/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3671751216003344115/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/1992/",
+                                "title": "1992",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/brg7JhfiUDZWsKCMLi7nQK4rAi3.jpg"
+                            },
+                            {
                                 "url": "/serie/la-luchadora-invencible/",
                                 "title": "La luchadora invencible",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "¿Eres más listo que un famoso?",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/wUmSXrfqxNvnVAzAmD4JHUORqWS.jpg"
-                            },
-                            {
-                                "url": "/serie/zorro-francia-2024/",
-                                "title": "Zorro [Francia] (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/8fofhCU3SRcRdXYL3psiW4zfyDt.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,11 +240,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/la-luchadora-invencible/",
-                    "title": "La luchadora invencible",
-                    "description": "Invincible Fight Girl Andy, una joven sueña con convertirse en la mejor luchadora profesional de todos los tiempos. Asumiendo el alias de la luchadora: \"Fight Girl\", Andy se adentra en el extraño y colorido mundo de la lucha libre, decidida a hacerse un nombre.",
-                    "genre": "Action & Adventure, Animación, Comedia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/61I9cYCwPuT2iNvHc25434nYikD.jpg",
+                    "url": "/serie/1992/",
+                    "title": "1992",
+                    "description": "Tras la muerte de su marido, una viuda afligida y un expolicía atormentado investigan una serie de asesinatos aparentemente relacionados con la Expo Universal celebrada en Sevilla en 1992.",
+                    "genre": "Drama, Misterio",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/brg7JhfiUDZWsKCMLi7nQK4rAi3.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -252,14 +252,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/capitulo/la-luchadora-invencible-temporada-1-episodio-8/",
-                        "name": "T1 - Episodio 8",
-                        "episode_number": 8.0
+                        "url": "/capitulo/1992-temporada-1-capitulo-6/",
+                        "name": "T1 - Episodio 6",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/capitulo/la-luchadora-invencible-temporada-1-episodio-7/",
-                        "name": "T1 - Episodio 7",
-                        "episode_number": 7.0
+                        "url": "/capitulo/1992-temporada-1-capitulo-5/",
+                        "name": "T1 - Episodio 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -267,9 +267,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s40.fastream.to/hls2/23/00071/pmq35r9undap_h/index-v1-a1.m3u8?t=AkiqXAkd88x-BWEpf-IdXh4FtLSfeUribsfkdUMmJCs&s=1736165385&e=43200&v=50823504&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/23/00071/pmq35r9undap_h/index-v1-a1.m3u8?t=AkiqXAkd88x-BWEpf-IdXh4FtLSfeUribsfkdUMmJCs&s=1736165385&e=43200&v=50823504&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/19/00071/l3hje699xlle_x/index-v1-a1.m3u8?t=EQUoaHZ_Fv0EXdm_xKhXb3SayQgYiNkmqY2qQNKfysQ&s=1736186883&e=43200&v=50966893&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:1080p",
+                        "videoUrl": "https://s39.fastream.to/hls2/19/00071/l3hje699xlle_x/index-v1-a1.m3u8?t=EQUoaHZ_Fv0EXdm_xKhXb3SayQgYiNkmqY2qQNKfysQ&s=1736186883&e=43200&v=50966893&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -278,9 +278,9 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/23/00071/pmq35r9undap_n/index-v1-a1.m3u8?t=AkiqXAkd88x-BWEpf-IdXh4FtLSfeUribsfkdUMmJCs&s=1736165385&e=43200&v=50823504&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/23/00071/pmq35r9undap_n/index-v1-a1.m3u8?t=AkiqXAkd88x-BWEpf-IdXh4FtLSfeUribsfkdUMmJCs&s=1736165385&e=43200&v=50823504&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/19/00071/l3hje699xlle_h/index-v1-a1.m3u8?t=EQUoaHZ_Fv0EXdm_xKhXb3SayQgYiNkmqY2qQNKfysQ&s=1736186883&e=43200&v=50966893&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:720p",
+                        "videoUrl": "https://s39.fastream.to/hls2/19/00071/l3hje699xlle_h/index-v1-a1.m3u8?t=EQUoaHZ_Fv0EXdm_xKhXb3SayQgYiNkmqY2qQNKfysQ&s=1736186883&e=43200&v=50966893&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -289,9 +289,9 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/23/00071/pmq35r9undap_l/index-v1-a1.m3u8?t=AkiqXAkd88x-BWEpf-IdXh4FtLSfeUribsfkdUMmJCs&s=1736165385&e=43200&v=50823504&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/23/00071/pmq35r9undap_l/index-v1-a1.m3u8?t=AkiqXAkd88x-BWEpf-IdXh4FtLSfeUribsfkdUMmJCs&s=1736165385&e=43200&v=50823504&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/19/00071/l3hje699xlle_n/index-v1-a1.m3u8?t=EQUoaHZ_Fv0EXdm_xKhXb3SayQgYiNkmqY2qQNKfysQ&s=1736186883&e=43200&v=50966893&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/19/00071/l3hje699xlle_n/index-v1-a1.m3u8?t=EQUoaHZ_Fv0EXdm_xKhXb3SayQgYiNkmqY2qQNKfysQ&s=1736186883&e=43200&v=50966893&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -300,31 +300,9 @@
                         }
                     },
                     {
-                        "url": "https://s40.fastream.to/hls2/13/00070/rknfoly6mlgf_h/index-v1-a1.m3u8?t=S7lACRGIM9a3crT2LfRao4tJfGAXeIhPrQYHLfbWq2I&s=1736165388&e=43200&v=50823513&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/13/00070/rknfoly6mlgf_h/index-v1-a1.m3u8?t=S7lACRGIM9a3crT2LfRao4tJfGAXeIhPrQYHLfbWq2I&s=1736165388&e=43200&v=50823513&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/13/00070/rknfoly6mlgf_n/index-v1-a1.m3u8?t=S7lACRGIM9a3crT2LfRao4tJfGAXeIhPrQYHLfbWq2I&s=1736165388&e=43200&v=50823513&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/13/00070/rknfoly6mlgf_n/index-v1-a1.m3u8?t=S7lACRGIM9a3crT2LfRao4tJfGAXeIhPrQYHLfbWq2I&s=1736165388&e=43200&v=50823513&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/13/00070/rknfoly6mlgf_l/index-v1-a1.m3u8?t=S7lACRGIM9a3crT2LfRao4tJfGAXeIhPrQYHLfbWq2I&s=1736165388&e=43200&v=50823513&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/13/00070/rknfoly6mlgf_l/index-v1-a1.m3u8?t=S7lACRGIM9a3crT2LfRao4tJfGAXeIhPrQYHLfbWq2I&s=1736165388&e=43200&v=50823513&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/19/00071/l3hje699xlle_l/index-v1-a1.m3u8?t=EQUoaHZ_Fv0EXdm_xKhXb3SayQgYiNkmqY2qQNKfysQ&s=1736186883&e=43200&v=50966893&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/19/00071/l3hje699xlle_l/index-v1-a1.m3u8?t=EQUoaHZ_Fv0EXdm_xKhXb3SayQgYiNkmqY2qQNKfysQ&s=1736186883&e=43200&v=50966893&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",

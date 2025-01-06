@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/나의 행복한 결혼 2기",
+                                "title": "나의 행복한 결혼 2기",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736179469_1161.jpg"
+                            },
+                            {
                                 "url": "/c/왕비 교육에서 도망치고 싶은 나",
                                 "title": "왕비 교육에서 도망치고 싶은 나",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/9463a5a2229c7a0e4ab314dc4dc8f29c_1736133995_479.jpg"
@@ -500,11 +505,6 @@
                                 "url": "/c/도주중 그레이트 미션",
                                 "title": "도주중 그레이트 미션",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2304/1cd0a36ebfc2ba1c5ab6144020dfd187_1680446607_3244.jpg"
-                            },
-                            {
-                                "url": "/c/극주부도 2기",
-                                "title": "극주부도 2기",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2309/1ee71fce3d37bde64e91853d5a9e6ad7_1695750921_7396.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -554,10 +554,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/왕비 교육에서 도망치고 싶은 나",
-                    "title": "왕비 교육에서 도망치고 싶은 나",
-                    "description": "원제: 妃教育から逃げたい私\n원작: 사와노 이즈미\n감독: 타가시라 시노부\n각본: 카네마키 토모코\n캐릭터 디자인: 타가시라 시노부\n음악: 하야시 유키, 치카타니 나오유키\n장르: 순정, 로맨스, 코미디\n방영일: 2025.01.05 22:00 (일)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/9463a5a2229c7a0e4ab314dc4dc8f29c_1736133995_479.jpg",
+                    "url": "/c/나의 행복한 결혼 2기",
+                    "title": "나의 행복한 결혼 2기",
+                    "description": "원제: わたしの幸せな結婚 2期\n원작: 아기토기 아쿠미\n감독: 쿠보타 타케히로, 코지마 마사유키\n각본: 사토 아미\n캐릭터 디자인: 야스다 쇼코\n음악: Evan Call\n장르: 판타지, 로맨스, 시대\n방영일: 2025.01.06 22:30 (월)\n등급: 15\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736179469_1161.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -565,16 +565,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/왕비 교육에서 도망치고 싶은 나 1화",
-                        "name": "왕비 교육에서 도망치고 싶은 나 1화",
-                        "date_upload": 1736121600000,
+                        "url": "/e/나의 행복한 결혼 2기 1화",
+                        "name": "나의 행복한 결혼 2기 1화",
+                        "date_upload": 1736208000000,
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7254809450730167680/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7254809450730167680/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7254809450730167680/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-12426081026439276491/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-12426081026439276491/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-12426081026439276491/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

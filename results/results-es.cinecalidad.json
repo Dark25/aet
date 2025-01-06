@@ -7,9 +7,19 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-serie/you/",
+                                "title": "You",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/ver-serie/yo-soy-groot/",
+                                "title": "Yo soy Groot",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//mAW22zvybqCo9PeLkUfwYdB4wZu.jpg"
+                            },
+                            {
                                 "url": "/ver-serie/willow/",
                                 "title": "Willow",
-                                "thumbnail_url": ""
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//sAq3tJOTj7UQUgV1Mz22BCQvh6S.jpg"
                             },
                             {
                                 "url": "/ver-serie/wolf-pack/",
@@ -55,16 +65,6 @@
                                 "url": "/ver-pelicula/sonic-2-la-pelicula/",
                                 "title": "Sonic 2: La Película",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342//sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/peter-pan-2-el-regreso-al-pais-de-nunca-jamas/",
-                                "title": "Peter Pan 2: El regreso al país de Nunca Jamás",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//kkFeLiMeih9jgXatztoloOyGSbc.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/wallace-y-gromit-la-venganza-se-sirve-con-plumas/",
-                                "title": "Wallace y Gromit: La venganza se sirve con plumas",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//oEh5FwqYTEshC9FjSAVq3S2vAd7.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -118,12 +118,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-serie/willow/",
-                    "artist": "Amar Chadha-Patel",
-                    "author": "Jonathan Kasdan",
-                    "description": "Veinte años después de vencer a la reina Bavmorda, el hechicero Willow Ufgood lidera a un grupo de inadaptados en una peligrosa misión de rescate en lo desconocido.   ",
-                    "genre": "Acción y Aventura, Drama, Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w342//sAq3tJOTj7UQUgV1Mz22BCQvh6S.jpg",
+                    "url": "/ver-serie/you/",
+                    "artist": "Amy-Leigh Hickman",
+                    "author": "Greg Berlanti",
+                    "description": "Cuando un brillante gerente de librería se cruza con un aspirante a escritor, usa internet y las redes sociales para reunir los detalles más íntimos y acercarse a ella. Un enamoramiento encantador e incómodo se convierte rápidamente en obsesión, ya que elimina silenciosamente y estratégicamente todos los obstáculos, y personas, en su camino.   ",
+                    "genre": "Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w342//1xO8LLhzohWjU9BoT8PNv8WQ57n.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -131,14 +131,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-el-episodio/willow-1x8/",
-                        "name": "T1 - E8 - Episodio 8",
-                        "episode_number": 8.0
+                        "url": "/ver-el-episodio/you-4x10/",
+                        "name": "T4 - E10 - Episodio 10",
+                        "episode_number": 40.0
                     },
                     {
-                        "url": "/ver-el-episodio/willow-1x7/",
-                        "name": "T1 - E7 - Episodio 7",
-                        "episode_number": 7.0
+                        "url": "/ver-el-episodio/you-4x9/",
+                        "name": "T4 - E9 - Episodio 9",
+                        "episode_number": 39.0
                     }
                 ],
                 "passed": true
@@ -146,36 +146,52 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://nghh2vbgdpqt.cdn-centaurus.com/hls2/01/07711/ru9819t60cbc_,l,n,.urlset/index-f2-v1-a1.m3u8?t=H3_--38we6inANMBTS8LHM7PaMGVyV_1y3AEXNTwgcc&s=1736165285&e=129600&f=38556647&srv=tamwni1asczu&i=0.4&sp=500&p1=tamwni1asczu&p2=tamwni1asczu&asn=8075",
+                        "url": "https://delivery-node-qr0aegqhvu9n9dym.voe-network.net/engine/hls2/01/13264/upgbvnsxz571_,n,l,.urlset/index-f1-v1-a1.m3u8?t=mmh9KE6Mw8pT74ceB1M0kXR-3BCGmINUDzbKXHbKdvE&s=1736186785&e=14400&f=66322862&node=h9P2Oo5Af+bLaV1vM12dFB/6EqYhkHdfYLONXMTHzxQ=&i=20.25&sp=2500&asn=8075&q=n,l",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-qr0aegqhvu9n9dym.voe-network.net/engine/hls2/01/13264/upgbvnsxz571_,n,l,.urlset/index-f1-v1-a1.m3u8?t=mmh9KE6Mw8pT74ceB1M0kXR-3BCGmINUDzbKXHbKdvE&s=1736186785&e=14400&f=66322862&node=h9P2Oo5Af+bLaV1vM12dFB/6EqYhkHdfYLONXMTHzxQ=&i=20.25&sp=2500&asn=8075&q=n,l",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-qr0aegqhvu9n9dym.voe-network.net/engine/hls2/01/13264/upgbvnsxz571_,n,l,.urlset/index-f2-v1-a1.m3u8?t=mmh9KE6Mw8pT74ceB1M0kXR-3BCGmINUDzbKXHbKdvE&s=1736186785&e=14400&f=66322862&node=h9P2Oo5Af+bLaV1vM12dFB/6EqYhkHdfYLONXMTHzxQ=&i=20.25&sp=2500&asn=8075&q=n,l",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-qr0aegqhvu9n9dym.voe-network.net/engine/hls2/01/13264/upgbvnsxz571_,n,l,.urlset/index-f2-v1-a1.m3u8?t=mmh9KE6Mw8pT74ceB1M0kXR-3BCGmINUDzbKXHbKdvE&s=1736186785&e=14400&f=66322862&node=h9P2Oo5Af+bLaV1vM12dFB/6EqYhkHdfYLONXMTHzxQ=&i=20.25&sp=2500&asn=8075&q=n,l",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://x25a7fyjve.cdn-centaurus.com/hls2/01/07773/rfe4fm1n3bf6_,l,n,.urlset/index-f2-v1-a1.m3u8?t=hJ_GuBhFepXlnxRqR3SBB4X5ZM32zGjmsat155jVI6A&s=1736186788&e=129600&f=38868325&srv=uvsyulgjoz8v&i=0.4&sp=500&p1=uvsyulgjoz8v&p2=uvsyulgjoz8v&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://nghh2vbgdpqt.cdn-centaurus.com/hls2/01/07711/ru9819t60cbc_,l,n,.urlset/index-f2-v1-a1.m3u8?t=H3_--38we6inANMBTS8LHM7PaMGVyV_1y3AEXNTwgcc&s=1736165285&e=129600&f=38556647&srv=tamwni1asczu&i=0.4&sp=500&p1=tamwni1asczu&p2=tamwni1asczu&asn=8075",
+                        "videoUrl": "https://x25a7fyjve.cdn-centaurus.com/hls2/01/07773/rfe4fm1n3bf6_,l,n,.urlset/index-f2-v1-a1.m3u8?t=hJ_GuBhFepXlnxRqR3SBB4X5ZM32zGjmsat155jVI6A&s=1736186788&e=129600&f=38868325&srv=uvsyulgjoz8v&i=0.4&sp=500&p1=uvsyulgjoz8v&p2=uvsyulgjoz8v&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/ru9819t60cbc"
+                            "Referer": "https://hlswish.com/e/rfe4fm1n3bf6"
                         }
                     },
                     {
-                        "url": "https://nghh2vbgdpqt.cdn-centaurus.com/hls2/01/07711/ru9819t60cbc_,l,n,.urlset/index-f1-v1-a1.m3u8?t=H3_--38we6inANMBTS8LHM7PaMGVyV_1y3AEXNTwgcc&s=1736165285&e=129600&f=38556647&srv=tamwni1asczu&i=0.4&sp=500&p1=tamwni1asczu&p2=tamwni1asczu&asn=8075",
+                        "url": "https://x25a7fyjve.cdn-centaurus.com/hls2/01/07773/rfe4fm1n3bf6_,l,n,.urlset/index-f1-v1-a1.m3u8?t=hJ_GuBhFepXlnxRqR3SBB4X5ZM32zGjmsat155jVI6A&s=1736186788&e=129600&f=38868325&srv=uvsyulgjoz8v&i=0.4&sp=500&p1=uvsyulgjoz8v&p2=uvsyulgjoz8v&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://nghh2vbgdpqt.cdn-centaurus.com/hls2/01/07711/ru9819t60cbc_,l,n,.urlset/index-f1-v1-a1.m3u8?t=H3_--38we6inANMBTS8LHM7PaMGVyV_1y3AEXNTwgcc&s=1736165285&e=129600&f=38556647&srv=tamwni1asczu&i=0.4&sp=500&p1=tamwni1asczu&p2=tamwni1asczu&asn=8075",
+                        "videoUrl": "https://x25a7fyjve.cdn-centaurus.com/hls2/01/07773/rfe4fm1n3bf6_,l,n,.urlset/index-f1-v1-a1.m3u8?t=hJ_GuBhFepXlnxRqR3SBB4X5ZM32zGjmsat155jVI6A&s=1736186788&e=129600&f=38868325&srv=uvsyulgjoz8v&i=0.4&sp=500&p1=uvsyulgjoz8v&p2=uvsyulgjoz8v&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/ru9819t60cbc"
+                            "Referer": "https://hlswish.com/e/rfe4fm1n3bf6"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=4AqPBY8d27uKPkm&expires=1736235284&ip=G0WsDRONKxSHDN&token=A-SdQX5fAZey",
+                        "url": "https://streamtape.com/get_video?id=reG2KjDWQGCb1Xk&expires=1736256785&ip=FROsDRMnDS9X&token=1zeBZDZN5zCj",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=4AqPBY8d27uKPkm&expires=1736235284&ip=G0WsDRONKxSHDN&token=A-SdQX5fAZey"
+                        "videoUrl": "https://streamtape.com/get_video?id=reG2KjDWQGCb1Xk&expires=1736256785&ip=FROsDRMnDS9X&token=1zeBZDZN5zCj"
                     },
                     {
-                        "url": "https://s1.goodstream.one/vtt/02/00013/9pghftg79l0z_sli.vtt",
+                        "url": "https://s1.goodstream.one/vtt/02/00013/ju8xn6zqqhhy_sli.vtt",
                         "quality": "GoodStream: ",
-                        "videoUrl": "https://s1.goodstream.one/vtt/02/00013/9pghftg79l0z_sli.vtt",
+                        "videoUrl": "https://s1.goodstream.one/vtt/02/00013/ju8xn6zqqhhy_sli.vtt",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0"
                         }

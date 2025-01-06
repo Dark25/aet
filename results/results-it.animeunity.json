@@ -267,6 +267,11 @@
                     {
                         "animes": [
                             {
+                                "url": "5881-my-happy-marriage-2-ita",
+                                "title": "My Happy Marriage 2 (ITA)",
+                                "thumbnail_url": "https://img.animeunity.so/anime/bx169441-wIQe1xfCc1XS.jpg"
+                            },
+                            {
                                 "url": "5880-theatre-of-darkness-yamishibai-14",
                                 "title": "Theatre of Darkness: Yamishibai 14",
                                 "thumbnail_url": "https://img.animeunity.so/anime/bx185088-pY2KxbG0KIoO.jpg"
@@ -315,11 +320,6 @@
                                 "url": "5871-mobile-suit-gundam-the-08th-ms-team-ita",
                                 "title": "Mobile Suit Gundam: The 08th MS Team (ITA)",
                                 "thumbnail_url": "https://img.animeunity.so/anime/bx81-qBgqd932d9lW.jpg"
-                            },
-                            {
-                                "url": "5870-oh-my-goddess-ita",
-                                "title": "Oh! My Goddess (ITA)",
-                                "thumbnail_url": "https://img.animeunity.so/anime/bx49-jv1G7rSP4lxg.png"
                             }
                         ],
                         "hasNextPage": true
@@ -362,8 +362,24 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-5525860051002492316/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-5525860051002492316/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-5525860051002492316/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/265056?type=video&rendition=1080p&token=3GT_RwWMpjM0E5aqW47LjQ&expires=1741370877&edge=au-u1-01",
+                        "quality": "1080p",
+                        "videoUrl": "https://vixcloud.co/playlist/265056?type=video&rendition=1080p&token=3GT_RwWMpjM0E5aqW47LjQ&expires=1741370877&edge=au-u1-01"
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/265056?type=video&rendition=720p&token=-cViddPS1i4P1NkX4gFlbQ&expires=1741370877&edge=au-u1-01",
+                        "quality": "720p",
+                        "videoUrl": "https://vixcloud.co/playlist/265056?type=video&rendition=720p&token=-cViddPS1i4P1NkX4gFlbQ&expires=1741370877&edge=au-u1-01"
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/265056?type=video&rendition=480p&token=quduLFe7byxmulLRYd0w7g&expires=1741370877&edge=au-u1-01",
+                        "quality": "480p",
+                        "videoUrl": "https://vixcloud.co/playlist/265056?type=video&rendition=480p&token=quduLFe7byxmulLRYd0w7g&expires=1741370877&edge=au-u1-01"
+                    }
+                ],
+                "passed": true
             }
         }
     }

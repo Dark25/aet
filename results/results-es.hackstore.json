@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/el-libro-de-la-selva-2-2003/",
+                                "title": "El Libro de la Selva 2 (2003)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/3yELRp1h8ngfTgWdeiozaiaMBnV.jpg"
+                            },
+                            {
                                 "url": "/peliculas/heidi-2015/",
                                 "title": "Heidi (2015)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "La habitación del frente (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/vuNoHG9DkJ6TYxAKvRf46CklK5e.jpg"
-                            },
-                            {
-                                "url": "/peliculas/gladiador-ii-2024/",
-                                "title": "Gladiador II (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/heidi-2015/",
-                    "title": "Heidi (2015)",
-                    "artist": "Anna Schinz",
-                    "author": "Alain Gsponer",
-                    "description": "Heidi, es un huérfano suizo de ocho años quien da su tía a su abuelo que mora en la montaña. Es robada entonces atrás por su tía de su abuelo para vivir en la casa de Sesemann rica en Francfort, Alemania como un compañero a Klara, una muchacha abrigada, minusválida en una silla de ruedas. Heidi está descontenta, pero hace la mejor de la situación, que siempre añora a su abuelo.",
-                    "genre": "Aventura, Drama, Familia",
+                    "url": "/peliculas/el-libro-de-la-selva-2-2003/",
+                    "title": "El Libro de la Selva 2 (2003)",
+                    "artist": "John Goodman",
+                    "author": "Steve Trenbirth",
+                    "description": "Mowgli, echando de menos la jungla y sus viejos amigos, huye de la aldea de hombres sin darse cuenta del peligro en el que se encuentra volviendo a la vida salvaje.",
+                    "genre": "Animación, Aventura, Familia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/jZeb1OadaGaZeDAsS2WPM9LkxCd.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/3yELRp1h8ngfTgWdeiozaiaMBnV.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/heidi-2015/",
+                        "url": "/peliculas/el-libro-de-la-selva-2-2003/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -266,9 +266,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-rg6oqeyreiawc7ir.voe-network.net/engine/hls2/01/13263/i4uf0gxwofkr_,n,.urlset/index-v1-a1.m3u8?t=eCY2vDKAYbvx6o0SceA7972WxtxO2DE5qTYCgByGUUM&s=1736165297&e=14400&f=66317135&node=SvuPdIaEvq9SwuJDhf5aT75d2h3qOT/F8orlMr+V6iM=&i=20.75&sp=2500&asn=8075&q=n",
+                        "url": "https://delivery-node-z7bcj1oywfrzq0b0.voe-network.net/engine/hls2/01/13271/oqq4cqohow39_,n,.urlset/index-v1-a1.m3u8?t=h4xY5WM0cqMFn-CuAA7OjSJaikIXRQaBMa83eEmH95o&s=1736186790&e=14400&f=66355495&node=4prfljwBg7uQxcwds15DlI0pMtNpyl+mDjROq3/I74I=&i=74.235&sp=2500&asn=8075&q=n",
                         "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-rg6oqeyreiawc7ir.voe-network.net/engine/hls2/01/13263/i4uf0gxwofkr_,n,.urlset/index-v1-a1.m3u8?t=eCY2vDKAYbvx6o0SceA7972WxtxO2DE5qTYCgByGUUM&s=1736165297&e=14400&f=66317135&node=SvuPdIaEvq9SwuJDhf5aT75d2h3qOT/F8orlMr+V6iM=&i=20.75&sp=2500&asn=8075&q=n",
+                        "videoUrl": "https://delivery-node-z7bcj1oywfrzq0b0.voe-network.net/engine/hls2/01/13271/oqq4cqohow39_,n,.urlset/index-v1-a1.m3u8?t=h4xY5WM0cqMFn-CuAA7OjSJaikIXRQaBMa83eEmH95o&s=1736186790&e=14400&f=66355495&node=4prfljwBg7uQxcwds15DlI0pMtNpyl+mDjROq3/I74I=&i=74.235&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }

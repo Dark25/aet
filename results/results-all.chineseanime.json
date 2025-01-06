@@ -3,27 +3,27 @@
         "name": "ChineseAnime (ALL)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: www.chineseanime.vip: Temporary failure in name resolution",
                 "passed": false
             },
             "latest": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: www.chineseanime.vip",
                 "passed": false
             },
             "search": {
-                "error": "java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
+                "error": "java.net.UnknownHostException: www.chineseanime.vip",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.UnknownHostException: www.chineseanime.vip",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "java.net.UnknownHostException: www.chineseanime.vip",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.UnknownHostException: www.chineseanime.vip",
                 "passed": false
             }
         }

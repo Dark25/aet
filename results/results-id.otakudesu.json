@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/goukon-itara-hanashi-sub-indo/",
+                                "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/Goukon-ni-Ittara-Onna-ga-Inakatta-Hanashi-Sub-Indo.jpg"
+                            },
+                            {
                                 "url": "/anime/saikyou-shieshoku-sub-indo/",
                                 "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Wajutsushi-Sub-Indo.jpg"
@@ -125,11 +130,6 @@
                                 "url": "/anime/blue-archive-sub-indo/",
                                 "title": "Blue Archive the Animation",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Blue-Archive-the-Animation-Sub-Indo.jpg"
-                            },
-                            {
-                                "url": "/anime/yuru-no-camp-season-3-sub-indo/",
-                                "title": "Yuru Camp Season 3",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Yuru-Camp-Season-3-Sub-Indo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -141,6 +141,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/watashi-shiawase-s2-sub-indo/",
+                                "title": "Watashi no Shiawase na Kekkon Season 2",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146770.jpg"
+                            },
+                            {
+                                "url": "/anime/kono-kaisha-suki-imasu-sub-indo/",
+                                "title": "Kono Kaisha ni Suki na Hito ga Imasu",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146384.jpg"
+                            },
                             {
                                 "url": "/anime/zensu-sub-indo/",
                                 "title": "Zenshuu.",
@@ -255,16 +265,6 @@
                                 "url": "/anime/nanatsu-taizai-my-s2-sub-indo/",
                                 "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi S2",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi-S2-Subtitle-Indonesia.jpg"
-                            },
-                            {
-                                "url": "/anime/blelock-s2-sub-indo/",
-                                "title": "Blue Lock Season 2",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/144860.jpg"
-                            },
-                            {
-                                "url": "/anime/maou-2099-sub-indo/",
-                                "title": "Maou 2099",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Maou-2099.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-16706359030400827857/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-16706359030400827857/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-16706359030400827857/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-418623845493968572/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-418623845493968572/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-418623845493968572/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-16706359030400827857/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-16706359030400827857/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-16706359030400827857/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-418623845493968572/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-418623845493968572/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-418623845493968572/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

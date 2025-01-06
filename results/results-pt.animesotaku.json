@@ -1,17 +1,17 @@
 [
     {
-        "name": "RineCloud (PT-BR)",
+        "name": "Animes Otaku (PT)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "latest": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "search": {
-                "error": "java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "details": {

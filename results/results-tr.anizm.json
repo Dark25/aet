@@ -3,28 +3,481 @@
         "name": "Anizm (TR)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/fairy-tail-100-nen-quest",
+                                "title": "Fairy Tail: 100-nen Quest",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/182550001720349939.webp"
+                            },
+                            {
+                                "url": "/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183070001726560601.webp"
+                            },
+                            {
+                                "url": "/ao-no-hako",
+                                "title": "Ao no Hako",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183150001727991842.webp"
+                            },
+                            {
+                                "url": "/ore-dake-level-up-na-ken-season-2-arise-from-the-shadow",
+                                "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183840001736013242.jpg"
+                            },
+                            {
+                                "url": "/class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
+                                "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183820001735927562.jpg"
+                            },
+                            {
+                                "url": "/ameku-takao-no-suiri-karte",
+                                "title": "Ameku Takao no Suiri Karte",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183780001735841161.jpg"
+                            },
+                            {
+                                "url": "/shiguang-dailiren-yingdu-pian",
+                                "title": "Shiguang Dailiren: Yingdu Pian",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183710001735357635.webp"
+                            },
+                            {
+                                "url": "/izure-saikyou-no-renkinjutsushi",
+                                "title": "Izure Saikyou no Renkinjutsushi?",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183770001735776602.jpg"
+                            },
+                            {
+                                "url": "/hazure-skill-kinomi-master-skill-no-mi-tabetara-shinu-wo-mugen-ni-taberareru-you-ni-natta-ken-ni-tsuite",
+                                "title": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183760001735676162.jpg"
+                            },
+                            {
+                                "url": "/fatestrange-fake",
+                                "title": "Fate/strange Fake",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183740001735661281.jpg"
+                            },
+                            {
+                                "url": "/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen",
+                                "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183060001726560656.webp"
+                            },
+                            {
+                                "url": "/arifureta-shokugyou-de-sekai-saikyou-season-3",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183040001726560482.webp"
+                            },
+                            {
+                                "url": "/dragon-ball-daima",
+                                "title": "Dragon Ball Daima",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183090001726560721.webp"
+                            },
+                            {
+                                "url": "/trillion-game",
+                                "title": "Trillion Game",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183160001728041216.webp"
+                            },
+                            {
+                                "url": "/rurouni-kenshin-meiji-kenkaku-romantan---kyoto-douran",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183300001728416281.webp"
+                            },
+                            {
+                                "url": "/rezero-kara-hajimeru-isekai-seikatsu-3rd-season",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183000001726557961.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/zenshuu",
+                                "title": "Zenshuu.",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183880001736103362.jpg"
+                            },
+                            {
+                                "url": "/fairy-tail-100-nen-quest",
+                                "title": "Fairy Tail: 100-nen Quest",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/182550001720349939.webp"
+                            },
+                            {
+                                "url": "/kisaki-kyouiku-kara-nigetai-watashi",
+                                "title": "Kisaki Kyouiku kara Nigetai Watashi",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183870001736094122.jpg"
+                            },
+                            {
+                                "url": "/duel-masters-movie-1-yami-no-shiro-no-maryuuou-duel-masters-movie-1-yami-no-shiro-no-maryuuou",
+                                "title": "Duel Masters Movie 1: Yami no Shiro no Maryuuou",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183860001736090762.jpg"
+                            },
+                            {
+                                "url": "/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru",
+                                "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183550001732915141.webp"
+                            },
+                            {
+                                "url": "/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2nd-season",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183070001726560601.webp"
+                            },
+                            {
+                                "url": "/tasokare-hotel",
+                                "title": "Tasokare Hotel",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183850001736019481.jpg"
+                            },
+                            {
+                                "url": "/ao-no-hako",
+                                "title": "Ao no Hako",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183150001727991842.webp"
+                            },
+                            {
+                                "url": "/ore-dake-level-up-na-ken-season-2-arise-from-the-shadow",
+                                "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183840001736013242.jpg"
+                            },
+                            {
+                                "url": "/s-rank-monster-no-behemoth-dakedo-neko-to-machigawarete-elf-musume-no-pet-toshite-kurashitemasu",
+                                "title": "S-Rank Monster no \"Behemoth\" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183720001735400162.jpg"
+                            },
+                            {
+                                "url": "/chi-chikyuu-no-undou-ni-tsuite",
+                                "title": "Chi.: Chikyuu no Undou ni Tsuite",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183190001728148921.webp"
+                            },
+                            {
+                                "url": "/ao-no-miburo",
+                                "title": "Ao no Miburo",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183380001729450562.webp"
+                            },
+                            {
+                                "url": "/sorairo-utility-tv",
+                                "title": "Sorairo Utility (TV)",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183830001736002082.jpg"
+                            },
+                            {
+                                "url": "/ao-no-exorcist-yuki-no-hate-hen",
+                                "title": "Ao no Exorcist: Yuki no Hate-hen",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183350001729176001.webp"
+                            },
+                            {
+                                "url": "/class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
+                                "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183820001735927562.jpg"
+                            },
+                            {
+                                "url": "/kami-no-tou-koubou-sen-13-bolum-final",
+                                "title": "Kami no Tou: Koubou-sen",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183320001728822601.webp"
+                            },
+                            {
+                                "url": "/ameku-takao-no-suiri-karte",
+                                "title": "Ameku Takao no Suiri Karte",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183780001735841161.jpg"
+                            },
+                            {
+                                "url": "/walkure-romanze-12-bolum-final",
+                                "title": "Walkure Romanze",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/1021.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/accel-world",
+                                "title": "Accel World",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/14.webp"
+                            },
+                            {
+                                "url": "/accel-world-infiniteburst",
+                                "title": "Accel World: Infinite∞Burst",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17594.webp"
+                            },
+                            {
+                                "url": "/another-world",
+                                "title": "Another World",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17033.webp"
+                            },
+                            {
+                                "url": "/arifureta-shokugyou-de-sekai-saikyou",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/16876.webp"
+                            },
+                            {
+                                "url": "/arifureta-shokugyou-de-sekai-saikyou-2nd-season",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17633.webp"
+                            },
+                            {
+                                "url": "/arifureta-shokugyou-de-sekai-saikyou-season-3",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183040001726560482.webp"
+                            },
+                            {
+                                "url": "/boku-no-hero-academia-the-movie-3-world-heroes-mission",
+                                "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17660.webp"
+                            },
+                            {
+                                "url": "/cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore",
+                                "title": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17511.webp"
+                            },
+                            {
+                                "url": "/chou-yuu-sekai-being-the-reality",
+                                "title": "Chou Yuu Sekai: Being the Reality",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/12318.webp"
+                            },
+                            {
+                                "url": "/choujin-koukousei-tachi-wa-isekai-demo-yoyuu-de-ikinuku-you-desu",
+                                "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/16975.webp"
+                            },
+                            {
+                                "url": "/dr-stone-new-world",
+                                "title": "Dr. Stone: New World",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179330001680810181.webp"
+                            },
+                            {
+                                "url": "/dr-stone-new-world-part-2",
+                                "title": "Dr. Stone: New World Part 2",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180620001697365981.webp"
+                            },
+                            {
+                                "url": "/drifters",
+                                "title": "Drifters",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/9024.webp"
+                            },
+                            {
+                                "url": "/el-hazard-the-wanderers",
+                                "title": "El Hazard: The Wanderers",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/2760.webp"
+                            },
+                            {
+                                "url": "/fire-tripper",
+                                "title": "Fire Tripper",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/2741.webp"
+                            },
+                            {
+                                "url": "/glass-no-hana-to-kowasu-sekai",
+                                "title": "Glass no Hana to Kowasu Sekai",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/7935.webp"
+                            },
+                            {
+                                "url": "/good-night-world",
+                                "title": "Good Night World",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180690001698239462.webp"
+                            },
+                            {
+                                "url": "/heart-no-kuni-no-alice-wonderful-wonder-world",
+                                "title": "Heart no Kuni no Alice: Wonderful Wonder World",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/1582.webp"
+                            },
+                            {
+                                "url": "/hello-world",
+                                "title": "Hello World",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17132.webp"
+                            },
+                            {
+                                "url": "/hetalia-world-series",
+                                "title": "Hetalia World Series",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/1386.webp"
+                            },
+                            {
+                                "url": "/hetalia-worldstars",
+                                "title": "Hetalia World★Stars",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17409.webp"
+                            },
+                            {
+                                "url": "/hitoribocchi-no-isekai-kouryaku",
+                                "title": "Hitoribocchi no Isekai Kouryaku",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/183420001730024401.webp"
+                            },
+                            {
+                                "url": "/isekai-izakaya-japanese-food-from-another-world",
+                                "title": "Isekai Izakaya: Japanese Food From Another World",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/16784.webp"
+                            },
+                            {
+                                "url": "/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu",
+                                "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/14571.webp"
+                            },
+                            {
+                                "url": "/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-",
+                                "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17430.webp"
+                            },
+                            {
+                                "url": "/isekai-meikyuu-de-harem-wo",
+                                "title": "Isekai Meikyuu de Harem wo",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17775.webp"
+                            },
+                            {
+                                "url": "/isekai-ojisan",
+                                "title": "Isekai Ojisan",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17772.webp"
+                            },
+                            {
+                                "url": "/isekai-quartet-movie-another-world",
+                                "title": "Isekai Quartet Movie: Another World",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179410001681206421.webp"
+                            },
+                            {
+                                "url": "/isekai-shikkaku",
+                                "title": "Isekai Shikkaku",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/182700001720984259.webp"
+                            },
+                            {
+                                "url": "/isekai-shokudou-restaurant-to-another-world",
+                                "title": "Isekai Shokudou (Restaurant to Another World)",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/11243.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": {
+                    "url": "/fairy-tail-100-nen-quest",
+                    "title": "Fairy Tail: 100-nen Quest",
+                    "artist": "J.C.Staff",
+                    "description": "Alvarez İmparatorluğu ve Acnologia ile olan savaştan bir yıl sonra, Natsu ve ekibi bir asırdan fazla süredir kimsenin tamamlayamadığı 100 Yıllık Görev'e doğru yol alırlar. Görevin esas amacı, tek başlarınayken bile yıkıma sebep olacak Beş Ejder Tanrısı'nı mühürlemektir. Bu görevde karşılarına Diabolos adında yeni bir kara lonca çıkar. Tam da bu sırada Fairy Tail loncasına Touka adında gizemli bir kız katılır. Natsu ve arkadaşlarının karşılarındaki tek zorluk 100 Yıllık Görev değildir.\nDiğer adlar: Fairy Tail: 100 Years Quest,\nJaponca İsmi: FAIRY TAIL 100年クエスト\nStüdyo: J.C.Staff",
+                    "genre": "Aksiyon, Macera, Fantastik",
+                    "thumbnail_url": "https://anizm.net/storage/pcovers/182550001720349939l.webp",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/fairy-tail-100-nen-quest-25-bolum",
+                        "name": "25. Bölüm",
+                        "episode_number": 25.0
+                    },
+                    {
+                        "url": "/fairy-tail-100-nen-quest-24-bolum",
+                        "name": "24. Bölüm",
+                        "episode_number": 24.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4684298184520489150/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-qr0aegqhvu9n9dym.voe-network.net/engine/hls2/01/13262/kfvrpgrbxxok_,n,.urlset/index-v1-a1.m3u8?t=xWfWIVlZM1sDBKSq7F-c5WWU75M0FcGm9hPI8qOU4TI&s=1736165578&e=14400&f=66313864&node=h9P2Oo5Af+bLaV1vM12dFB/6EqYhkHdfYLONXMTHzxQ=&i=20.169&sp=2500&asn=8075&q=n",
+                        "quality": "[Seicode] Voe:720p",
+                        "videoUrl": "https://delivery-node-qr0aegqhvu9n9dym.voe-network.net/engine/hls2/01/13262/kfvrpgrbxxok_,n,.urlset/index-v1-a1.m3u8?t=xWfWIVlZM1sDBKSq7F-c5WWU75M0FcGm9hPI8qOU4TI&s=1736165578&e=14400&f=66313864&node=h9P2Oo5Af+bLaV1vM12dFB/6EqYhkHdfYLONXMTHzxQ=&i=20.169&sp=2500&asn=8075&q=n",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd202.okcdn.ru/?expires=1736251968883&srcIp=20.169.14.2&pr=10&srcAg=GECKO&ms=45.136.22.10&type=3&sig=yUQkOygmzow&ct=0&urls=185.226.55.20&clientType=0&zs=43&id=7621322803802",
+                        "quality": "[Seicode] Okru:720p",
+                        "videoUrl": "https://vd202.okcdn.ru/?expires=1736251968883&srcIp=20.169.14.2&pr=10&srcAg=GECKO&ms=45.136.22.10&type=3&sig=yUQkOygmzow&ct=0&urls=185.226.55.20&clientType=0&zs=43&id=7621322803802"
+                    },
+                    {
+                        "url": "https://anizmplayer.com/hls/cy85S1VKZnptZTRyK2hGS28rckhDbXRGVHczck5JVzV1OXV3WUpHQU56elhqTUxKNGhvazBWVWhzSmZscmhsbWJPcEl5ZWduY1pwcGsxUG5BdUdtdE5LWFBMTm5lYWM1bVdDbmxzcXpqaS9tK2hPaUh2NWp2REtTZzJINUNwdHIzUnpKekJWY25ka1d5dzZaL3V2WUFyTXBXWnhZSkpzQnV4eXlBUW42UThhR1R0TW5wbXN3OFVkM1Q0eFM3R3dJV1JSQXJhYkpSSlZsenlwRFRJYUdseVpjOUxTOGFnT3R4NFpxY1ZpWG15bXYxbHJXMnhTOWxTU0VFeU5oTzlPZU1WVVcwNE11ZkQ4V1JRYzNPYVFlS3JzOFJsYk43b3BGUFh3djl0Q1ZSdDA9",
+                        "quality": "[Seicode] Aincrad - 720p",
+                        "videoUrl": "https://anizmplayer.com/hls/cy85S1VKZnptZTRyK2hGS28rckhDbXRGVHczck5JVzV1OXV3WUpHQU56elhqTUxKNGhvazBWVWhzSmZscmhsbWJPcEl5ZWduY1pwcGsxUG5BdUdtdE5LWFBMTm5lYWM1bVdDbmxzcXpqaS9tK2hPaUh2NWp2REtTZzJINUNwdHIzUnpKekJWY25ka1d5dzZaL3V2WUFyTXBXWnhZSkpzQnV4eXlBUW42UThhR1R0TW5wbXN3OFVkM1Q0eFM3R3dJV1JSQXJhYkpSSlZsenlwRFRJYUdseVpjOUxTOGFnT3R4NFpxY1ZpWG15bXYxbHJXMnhTOWxTU0VFeU5oTzlPZU1WVVcwNE11ZkQ4V1JRYzNPYVFlS3JzOFJsYk43b3BGUFh3djl0Q1ZSdDA9",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizmplayer.com",
+                            "Referer": "https://anizmplayer.com/video/5f9e5ab9fb9870e880f101af42a46b23"
+                        }
+                    },
+                    {
+                        "url": "https://vd202.okcdn.ru/?expires=1736251968883&srcIp=20.169.14.2&pr=10&srcAg=GECKO&ms=45.136.22.10&type=5&sig=DNXgi5NBxuw&ct=0&urls=185.226.55.20&clientType=0&zs=43&id=7621322803802",
+                        "quality": "[Seicode] Okru:1080p",
+                        "videoUrl": "https://vd202.okcdn.ru/?expires=1736251968883&srcIp=20.169.14.2&pr=10&srcAg=GECKO&ms=45.136.22.10&type=5&sig=DNXgi5NBxuw&ct=0&urls=185.226.55.20&clientType=0&zs=43&id=7621322803802"
+                    },
+                    {
+                        "url": "https://anizmplayer.com/hls/cy85S1VKZnptZTRyK2hGS28rckhDbXRGVHczck5JVzV1OXV3WUpHQU56elhqTUxKNGhvazBWVWhzSmZscmhsbTJhcFZPQTJMaldVWkkzYUF5UnlGN20zUDByVEpaWDhTcGpGQk5tZEpqVlRuaGZ1M2lPU0pkRTZIczNQYUVDcXkxdEF4WFhFMjVvQThiR1ZGM3ZXTDZJckZqQy92SDl1TUVGeUxQUGtjaDRGZlQzVjJDRnNqVVJDNXJTK1RuUGlHOGxqY2xHeFBDQytBVDl6RWdvYVpXY1k5RjF2ZEZiZmcwZjkwV2xRNTV2U1c4ZGxWVEpUQ1hybXpiTitaM3ZTaVIxQ0ZyQ21uTC9PcVFabmNBYUVqaHlvR1pkbXphUXhFQk12T3FvWFlvUjRTTGZ1ODFGVHVhQiswa3VsdnpraWw%3D",
+                        "quality": "[Seicode] Aincrad - 1080p",
+                        "videoUrl": "https://anizmplayer.com/hls/cy85S1VKZnptZTRyK2hGS28rckhDbXRGVHczck5JVzV1OXV3WUpHQU56elhqTUxKNGhvazBWVWhzSmZscmhsbTJhcFZPQTJMaldVWkkzYUF5UnlGN20zUDByVEpaWDhTcGpGQk5tZEpqVlRuaGZ1M2lPU0pkRTZIczNQYUVDcXkxdEF4WFhFMjVvQThiR1ZGM3ZXTDZJckZqQy92SDl1TUVGeUxQUGtjaDRGZlQzVjJDRnNqVVJDNXJTK1RuUGlHOGxqY2xHeFBDQytBVDl6RWdvYVpXY1k5RjF2ZEZiZmcwZjkwV2xRNTV2U1c4ZGxWVEpUQ1hybXpiTitaM3ZTaVIxQ0ZyQ21uTC9PcVFabmNBYUVqaHlvR1pkbXphUXhFQk12T3FvWFlvUjRTTGZ1ODFGVHVhQiswa3VsdnpraWw%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizmplayer.com",
+                            "Referer": "https://anizmplayer.com/video/5f9e5ab9fb9870e880f101af42a46b23"
+                        }
+                    },
+                    {
+                        "url": "https://vd202.okcdn.ru/?expires=1736251968883&srcIp=20.169.14.2&pr=10&srcAg=GECKO&ms=45.136.22.10&type=2&sig=l7rr-1WfKRw&ct=0&urls=185.226.55.20&clientType=0&zs=43&id=7621322803802",
+                        "quality": "[Seicode] Okru:480p",
+                        "videoUrl": "https://vd202.okcdn.ru/?expires=1736251968883&srcIp=20.169.14.2&pr=10&srcAg=GECKO&ms=45.136.22.10&type=2&sig=l7rr-1WfKRw&ct=0&urls=185.226.55.20&clientType=0&zs=43&id=7621322803802"
+                    },
+                    {
+                        "url": "https://anizmplayer.com/hls/cy85S1VKZnptZTRyK2hGS28rckhDbXRGVHczck5JVzV1OXV3WUpHQU56elhqTUxKNGhvazBWVWhzSmZscmhsbTI0VDJuMitBczlkay80QzEzcXRLaU9OVkFJVkdXcXFIbnZFRkJMVFFEbWF0M3FCbEczVDJ2RUtFMGRjdUp0c1V5LzBNY3lod1V5L1IxdDVpNHBYb25JNlV5RXB5b00vejBGWGtlRGN5aCszeWQvcnlWaitwbUJ2SmVzU0JIcHU2TVVtZTVYRDdCS1JZWFo0MERkVW5pOEJ4SjY0alJKTWNreEhTd2NrVFRRTXpYYzc0V1lRY0F3anNtd0drRkRhTEp6RXAxUTJ2Yi9BTkVFZnJQbzF4bWtGQVpGNTB5SlNjMXpWL21XeXpTekk9",
+                        "quality": "[Seicode] Aincrad - 480p",
+                        "videoUrl": "https://anizmplayer.com/hls/cy85S1VKZnptZTRyK2hGS28rckhDbXRGVHczck5JVzV1OXV3WUpHQU56elhqTUxKNGhvazBWVWhzSmZscmhsbTI0VDJuMitBczlkay80QzEzcXRLaU9OVkFJVkdXcXFIbnZFRkJMVFFEbWF0M3FCbEczVDJ2RUtFMGRjdUp0c1V5LzBNY3lod1V5L1IxdDVpNHBYb25JNlV5RXB5b00vejBGWGtlRGN5aCszeWQvcnlWaitwbUJ2SmVzU0JIcHU2TVVtZTVYRDdCS1JZWFo0MERkVW5pOEJ4SjY0alJKTWNreEhTd2NrVFRRTXpYYzc0V1lRY0F3anNtd0drRkRhTEp6RXAxUTJ2Yi9BTkVFZnJQbzF4bWtGQVpGNTB5SlNjMXpWL21XeXpTekk9",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizmplayer.com",
+                            "Referer": "https://anizmplayer.com/video/5f9e5ab9fb9870e880f101af42a46b23"
+                        }
+                    },
+                    {
+                        "url": "https://redirect.gdrivecdn.work/drive/index.php?id=eOo7yAMKd%2BURsn61xxbQ8Aj2jF28rLUqvomASdSoIEKCVjBrCZrfRddQgO5m5QpmpKwZmkLUDpiM4%2BO9FXqO%2BE4RpdA3cM%2BaEoV9n1ppw3ClrGmPvcN%2F1qo2%2FQUM%2BuQQm5WQSpDv3v%2FbWfvo7dK%2FJr08nMfxd1ZdMTLkX%2Fg9VUMw%3D%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
+                        "quality": "[Seicode] GDRIVE 360p - GdrivePlayer",
+                        "videoUrl": "https://redirect.gdrivecdn.work/drive/index.php?id=eOo7yAMKd%2BURsn61xxbQ8Aj2jF28rLUqvomASdSoIEKCVjBrCZrfRddQgO5m5QpmpKwZmkLUDpiM4%2BO9FXqO%2BE4RpdA3cM%2BaEoV9n1ppw3ClrGmPvcN%2F1qo2%2FQUM%2BuQQm5WQSpDv3v%2FbWfvo7dK%2FJr08nMfxd1ZdMTLkX%2Fg9VUMw%3D%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
+                    },
+                    {
+                        "url": "https://vd202.okcdn.ru/?expires=1736251968883&srcIp=20.169.14.2&pr=10&srcAg=GECKO&ms=45.136.22.10&type=1&sig=wSg7IpHs25w&ct=0&urls=185.226.55.20&clientType=0&zs=43&id=7621322803802",
+                        "quality": "[Seicode] Okru:360p",
+                        "videoUrl": "https://vd202.okcdn.ru/?expires=1736251968883&srcIp=20.169.14.2&pr=10&srcAg=GECKO&ms=45.136.22.10&type=1&sig=wSg7IpHs25w&ct=0&urls=185.226.55.20&clientType=0&zs=43&id=7621322803802"
+                    },
+                    {
+                        "url": "https://anizmplayer.com/hls/cy85S1VKZnptZTRyK2hGS28rckhDbXRGVHczck5JVzV1OXV3WUpHQU56elhqTUxKNGhvazBWVWhzSmZscmhsbWM0YkVwWFRiakErSVFiUmp2aUxLQzJrQkNnUHZPYzlPU3p5T3lZZmlqK2psa1RUTDhhZzl1R3Z4OGNBem8yYUd0amdOY0llRTU5aFRhNmVMYSt1Tm8zSGxRQ0xKaG9IZkZWT2dEZ2wwK1NndGVMSmxJUzIyK25iaEs3UG5EdzF2SUNhY0VDOEdsMlduR0RyajNMNWpWSVRsK1JoUEtqK3NvRXhrZ2JnQjlHYVQzVHR6N2FyT01HNFp0cHV3QXl3TkV3WlJ0NUt0bCtMM3pSOWJ3bnBJNFVuVXp4OGk2eFI1SThCOVdGK0M5Z009",
+                        "quality": "[Seicode] Aincrad - 360p",
+                        "videoUrl": "https://anizmplayer.com/hls/cy85S1VKZnptZTRyK2hGS28rckhDbXRGVHczck5JVzV1OXV3WUpHQU56elhqTUxKNGhvazBWVWhzSmZscmhsbWM0YkVwWFRiakErSVFiUmp2aUxLQzJrQkNnUHZPYzlPU3p5T3lZZmlqK2psa1RUTDhhZzl1R3Z4OGNBem8yYUd0amdOY0llRTU5aFRhNmVMYSt1Tm8zSGxRQ0xKaG9IZkZWT2dEZ2wwK1NndGVMSmxJUzIyK25iaEs3UG5EdzF2SUNhY0VDOEdsMlduR0RyajNMNWpWSVRsK1JoUEtqK3NvRXhrZ2JnQjlHYVQzVHR6N2FyT01HNFp0cHV3QXl3TkV3WlJ0NUt0bCtMM3pSOWJ3bnBJNFVuVXp4OGk2eFI1SThCOVdGK0M5Z009",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizmplayer.com",
+                            "Referer": "https://anizmplayer.com/video/5f9e5ab9fb9870e880f101af42a46b23"
+                        }
+                    },
+                    {
+                        "url": "https://vd202.okcdn.ru/?expires=1736251968883&srcIp=20.169.14.2&pr=10&srcAg=GECKO&ms=45.136.22.10&type=0&sig=PUSWQvv51iU&ct=0&urls=185.226.55.20&clientType=0&zs=43&id=7621322803802",
+                        "quality": "[Seicode] Okru:240p",
+                        "videoUrl": "https://vd202.okcdn.ru/?expires=1736251968883&srcIp=20.169.14.2&pr=10&srcAg=GECKO&ms=45.136.22.10&type=0&sig=PUSWQvv51iU&ct=0&urls=185.226.55.20&clientType=0&zs=43&id=7621322803802"
+                    },
+                    {
+                        "url": "https://vd202.okcdn.ru/?expires=1736251968883&srcIp=20.169.14.2&pr=10&srcAg=GECKO&ms=45.136.22.10&type=4&sig=S1YWA5Rr3eM&ct=0&urls=185.226.55.20&clientType=0&zs=43&id=7621322803802",
+                        "quality": "[Seicode] Okru:144p",
+                        "videoUrl": "https://vd202.okcdn.ru/?expires=1736251968883&srcIp=20.169.14.2&pr=10&srcAg=GECKO&ms=45.136.22.10&type=4&sig=S1YWA5Rr3eM&ct=0&urls=185.226.55.20&clientType=0&zs=43&id=7621322803802"
+                    },
+                    {
+                        "url": "https://video.sibnet.ru/v/4dcd3c9a3b1a545169c5c0b0ff066373/5791372.mp4",
+                        "quality": "[Seicode] Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/4dcd3c9a3b1a545169c5c0b0ff066373/5791372.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5791372"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

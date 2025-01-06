@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/전수",
+                                "title": "전수",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/aae2f44fc2e9ee2fce1e3d9775d8062d_1736116987_8132.jpg"
+                            },
+                            {
+                                "url": "/c/백성귀족 2기",
+                                "title": "백성귀족 2기",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728070727_2346.jpg"
+                            },
+                            {
+                                "url": "/c/청의 엑소시스트 종야편",
+                                "title": "청의 엑소시스트 종야편",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/a8c248ea99e3780173255b6074c778c9_1736101955_5204.jpg"
+                            },
+                            {
                                 "url": "/c/페어리 테일: 100년 퀘스트",
                                 "title": "페어리 테일: 100년 퀘스트",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2407/bd6a8327b9b44db5cabeca6eff113c28_1720319035_2067.jpg"
@@ -457,11 +472,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/b95872099a8d0d6c02f0753cc3ce091e_1728564118_5899.jpg"
                             },
                             {
-                                "url": "/c/백성귀족 2기",
-                                "title": "백성귀족 2기",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728070727_2346.jpg"
-                            },
-                            {
                                 "url": "/c/모노가타리 시리즈 오프 & 몬스터 시즌",
                                 "title": "모노가타리 시리즈 오프 & 몬스터 시즌",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2407/2e2db0c5c9ca924c51b56dca381354aa_1720127909_3924.jpg"
@@ -495,16 +505,6 @@
                                 "url": "/c/섀도우버스 플레임 3기 아크편",
                                 "title": "섀도우버스 플레임 3기 아크편",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2404/ae7eb261d1af7448010c6203fb685e55_1714163658_1684.jpg"
-                            },
-                            {
-                                "url": "/c/너와 나의 최후의 전장, 혹은 세계가 시작되는 성전 2기",
-                                "title": "너와 나의 최후의 전장, 혹은 세계가 시작되는 성전 2기",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2407/7500452d927c75169ddcaed4f0830992_1719891749_2179.jpg"
-                            },
-                            {
-                                "url": "/c/작혼 KAN!!",
-                                "title": "작혼 KAN!!",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2405/35b4e651c3a6ac46d66622c0396bec22_1714926793_9669.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -554,10 +554,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/페어리 테일: 100년 퀘스트",
-                    "title": "페어리 테일: 100년 퀘스트",
-                    "description": "원제: フェアリーテイル 100年クエスト\n원작: 마시마 히로\n감독: 오타나베 오다히로\n각본: 토미오카 아츠히로\n캐릭터 디자인: 사코 유리카\n음악: 타카나시 야스하루\n장르: 판타지, 모험, 액션, 배틀, 드래곤, 코미디\n방영일: 2024.07.07 17:30 (일)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2407/bd6a8327b9b44db5cabeca6eff113c28_1720319035_2067.jpg",
+                    "url": "/c/전수",
+                    "title": "전수",
+                    "description": "원제: 全修。\n원작: 우에노 키미코, Mappa\n감독: 야마사키 미츠에\n각본: 우에노 키미코\n캐릭터 디자인: 이시카와 카요코\n음악: 하시모토 유카리\n장르: 드라마, 이세계, 판타지\n방영일: 2025.01.05 23:45 (일)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/aae2f44fc2e9ee2fce1e3d9775d8062d_1736116987_8132.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -565,22 +565,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/페어리 테일: 100년 퀘스트 25화",
-                        "name": "페어리 테일: 100년 퀘스트 25화",
-                        "date_upload": 1736035200000,
-                        "episode_number": 26.0
-                    },
-                    {
-                        "url": "/e/페어리 테일: 100년 퀘스트 24화",
-                        "name": "페어리 테일: 100년 퀘스트 24화",
-                        "date_upload": 1734825600000,
-                        "episode_number": 25.0
+                        "url": "/e/전수 1화",
+                        "name": "전수 1화",
+                        "date_upload": 1736121600000,
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3671751216003344115/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3671751216003344115/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3671751216003344115/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15332378830384017277/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15332378830384017277/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15332378830384017277/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

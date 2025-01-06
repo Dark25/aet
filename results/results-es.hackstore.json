@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/heidi-2015/",
+                                "title": "Heidi (2015)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/jZeb1OadaGaZeDAsS2WPM9LkxCd.jpg"
+                            },
+                            {
                                 "url": "/peliculas/una-llamada-perdida-2008/",
                                 "title": "Una Llamada Perdida (2008)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Gladiador II (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/fbcs5AxrdXwyj1b8bGGMgC9kXrM.jpg"
-                            },
-                            {
-                                "url": "/peliculas/el-tiempo-que-tenemos-2024/",
-                                "title": "El Tiempo Que Tenemos (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/h8KG7aabMl2Ay5VlhKzsg0xL1Ia.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/una-llamada-perdida-2008/",
-                    "title": "Una Llamada Perdida (2008)",
-                    "artist": "Shannyn Sossamon",
-                    "author": "Eric Valette",
-                    "description": "Una joven estudiante ve cómo sus amigos empiezan a recibir mensajes en el móvil que les muestran su próxima muerte. Cuando ella recibe un mensaje, dispondrá de tres días para conjurar la amenaza. Y lo hará con la ayuda de un detective.",
-                    "genre": "Misterio, Suspenso, Terror",
+                    "url": "/peliculas/heidi-2015/",
+                    "title": "Heidi (2015)",
+                    "artist": "Anna Schinz",
+                    "author": "Alain Gsponer",
+                    "description": "Heidi, es un huérfano suizo de ocho años quien da su tía a su abuelo que mora en la montaña. Es robada entonces atrás por su tía de su abuelo para vivir en la casa de Sesemann rica en Francfort, Alemania como un compañero a Klara, una muchacha abrigada, minusválida en una silla de ruedas. Heidi está descontenta, pero hace la mejor de la situación, que siempre añora a su abuelo.",
+                    "genre": "Aventura, Drama, Familia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/31FCVfcjrStD5CwhVd1Q2e6qDAP.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/jZeb1OadaGaZeDAsS2WPM9LkxCd.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/una-llamada-perdida-2008/",
+                        "url": "/peliculas/heidi-2015/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -266,9 +266,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-utzguzfstc6qeiys.voe-network.net/engine/hls2-c/01/13263/kcwzd1fmevkt_,n,.urlset/index-v1-a1.m3u8?t=83nigxWHbuUh6lHWWLmFdT15AiRWEz2H_IFecuJYOAI&s=1736100388&e=14400&f=66316140&node=6ulR/OxUUMCsqJIQSWHjwr0fJXNyI+Kk0KgF5VgTCHQ=&i=74.235&sp=2500&asn=8075&q=n",
+                        "url": "https://delivery-node-xvilochagwi6rqt2.voe-network.net/engine/hls2-c/01/13263/i4uf0gxwofkr_,n,.urlset/index-v1-a1.m3u8?t=a44-mOdzZW_z5nQKIlTp1dnCrYyqIW_SXIPxm-1uMM4&s=1736122730&e=14400&f=66317135&node=SvuPdIaEvq9SwuJDhf5aT75d2h3qOT/F8orlMr+V6iM=&i=172.210&sp=2500&asn=8075&q=n",
                         "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-utzguzfstc6qeiys.voe-network.net/engine/hls2-c/01/13263/kcwzd1fmevkt_,n,.urlset/index-v1-a1.m3u8?t=83nigxWHbuUh6lHWWLmFdT15AiRWEz2H_IFecuJYOAI&s=1736100388&e=14400&f=66316140&node=6ulR/OxUUMCsqJIQSWHjwr0fJXNyI+Kk0KgF5VgTCHQ=&i=74.235&sp=2500&asn=8075&q=n",
+                        "videoUrl": "https://delivery-node-xvilochagwi6rqt2.voe-network.net/engine/hls2-c/01/13263/i4uf0gxwofkr_,n,.urlset/index-v1-a1.m3u8?t=a44-mOdzZW_z5nQKIlTp1dnCrYyqIW_SXIPxm-1uMM4&s=1736122730&e=14400&f=66317135&node=SvuPdIaEvq9SwuJDhf5aT75d2h3qOT/F8orlMr+V6iM=&i=172.210&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }

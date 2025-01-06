@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/lisa-frank-luces-sombras-y-purpurina/",
+                                "title": "Lisa Frank: Luces, sombras y purpurina",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ri3vLLAe1Votkz3nVuFUix18D1Y.jpg"
+                            },
+                            {
                                 "url": "/serie/fuerza-policial-india/",
                                 "title": "FUERZA POLICIAL INDIA",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Churchill y la guerra",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/tsgqBgTYMqTlpJZWlJK3mdZMu7I.jpg"
-                            },
-                            {
-                                "url": "/serie/creature-commandos/",
-                                "title": "Creature Commandos",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zVC3YIA8C3Lyf30UGVRaxrBW3GE.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,22 +240,67 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/fuerza-policial-india/",
-                    "title": "FUERZA POLICIAL INDIA",
-                    "description": "इंडियन पुलिस फोर्स | Fuerza policial: Ataque en la India “Fuerza policial india” es una serie cargada de acción que sigue el terrible viaje del agente de la policía de Delhi Kabir Malik en su batalla contra un pérfido adversario, Zarar, que ha elegido la senda del terrorismo. Este drama policial nos narra una apasionante historia de persecución que capta la inexorable búsqueda de la justicia y los sacrificios que se hacen en cumplimiento del deber.",
-                    "genre": "Action & Adventure, Crimen",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eScKMsLBXjtbtcOGZEf92a9bisJ.jpg",
+                    "url": "/serie/lisa-frank-luces-sombras-y-purpurina/",
+                    "title": "Lisa Frank: Luces, sombras y purpurina",
+                    "description": "Glitter and Greed: The Lisa Frank Story Una mirada nostálgica a Lisa Frank Inc, la icónica marca de los 90 que definió la infancia de las niñas, explorando sus ilustraciones psicodélicas y el mundo oculto de la compañía.",
+                    "genre": "Documental",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/ri3vLLAe1Votkz3nVuFUix18D1Y.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/capitulo/lisa-frank-luces-sombras-y-purpurina-temporada-1-episodio-4/",
+                        "name": "T1 - Episodio 4",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/capitulo/lisa-frank-luces-sombras-y-purpurina-temporada-1-episodio-3/",
+                        "name": "T1 - Episodio 3",
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s39.fastream.to/hls2/08/00071/zbh4xgzlkiwy_h/index-v1-a1.m3u8?t=87aKSCWw8-wRfwPUoP38NXABW2pKsPFcBLuu-x6MBkQ&s=1736122836&e=43200&v=50522766&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:720p",
+                        "videoUrl": "https://s39.fastream.to/hls2/08/00071/zbh4xgzlkiwy_h/index-v1-a1.m3u8?t=87aKSCWw8-wRfwPUoP38NXABW2pKsPFcBLuu-x6MBkQ&s=1736122836&e=43200&v=50522766&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/08/00071/zbh4xgzlkiwy_n/index-v1-a1.m3u8?t=87aKSCWw8-wRfwPUoP38NXABW2pKsPFcBLuu-x6MBkQ&s=1736122836&e=43200&v=50522766&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/08/00071/zbh4xgzlkiwy_n/index-v1-a1.m3u8?t=87aKSCWw8-wRfwPUoP38NXABW2pKsPFcBLuu-x6MBkQ&s=1736122836&e=43200&v=50522766&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/08/00071/zbh4xgzlkiwy_l/index-v1-a1.m3u8?t=87aKSCWw8-wRfwPUoP38NXABW2pKsPFcBLuu-x6MBkQ&s=1736122836&e=43200&v=50522766&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/08/00071/zbh4xgzlkiwy_l/index-v1-a1.m3u8?t=87aKSCWw8-wRfwPUoP38NXABW2pKsPFcBLuu-x6MBkQ&s=1736122836&e=43200&v=50522766&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

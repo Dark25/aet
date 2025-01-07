@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/이 회사에 좋아하는 사람이 있습니다",
+                                "title": "이 회사에 좋아하는 사람이 있습니다",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736196370_5628.jpg"
+                            },
+                            {
+                                "url": "/c/쿠로이와 메다카에게 내 귀여움이 통하지 않아",
+                                "title": "쿠로이와 메다카에게 내 귀여움이 통하지 않아",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736188569_9274.jpg"
+                            },
+                            {
                                 "url": "/c/나의 행복한 결혼 2기",
                                 "title": "나의 행복한 결혼 2기",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736179469_1161.jpg"
@@ -495,16 +505,6 @@
                                 "url": "/c/너와 나의 최후의 전장, 혹은 세계가 시작되는 성전 2기",
                                 "title": "너와 나의 최후의 전장, 혹은 세계가 시작되는 성전 2기",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2407/7500452d927c75169ddcaed4f0830992_1719891749_2179.jpg"
-                            },
-                            {
-                                "url": "/c/작혼 KAN!!",
-                                "title": "작혼 KAN!!",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2405/35b4e651c3a6ac46d66622c0396bec22_1714926793_9669.jpg"
-                            },
-                            {
-                                "url": "/c/도주중 그레이트 미션",
-                                "title": "도주중 그레이트 미션",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2304/1cd0a36ebfc2ba1c5ab6144020dfd187_1680446607_3244.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -554,10 +554,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/나의 행복한 결혼 2기",
-                    "title": "나의 행복한 결혼 2기",
-                    "description": "원제: わたしの幸せな結婚 2期\n원작: 아기토기 아쿠미\n감독: 쿠보타 타케히로, 코지마 마사유키\n각본: 사토 아미\n캐릭터 디자인: 야스다 쇼코\n음악: Evan Call\n장르: 판타지, 로맨스, 시대\n방영일: 2025.01.06 22:30 (월)\n등급: 15\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736179469_1161.jpg",
+                    "url": "/c/이 회사에 좋아하는 사람이 있습니다",
+                    "title": "이 회사에 좋아하는 사람이 있습니다",
+                    "description": "원제: この会社に好きな人がいます\n원작: 에노모토 아카마루\n감독: 타케이치 나오코\n각본: 요코타니 마사히로\n캐릭터 디자인: 오오사와 미나\n음악: IM.Lab\n장르: 로맨스, 코미디\n방영일: 2025.01.06 23:00 (월)\n등급: 15\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736196370_5628.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -565,8 +565,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/나의 행복한 결혼 2기 1화",
-                        "name": "나의 행복한 결혼 2기 1화",
+                        "url": "/e/이 회사에 좋아하는 사람이 있습니다 1화",
+                        "name": "이 회사에 좋아하는 사람이 있습니다 1화",
                         "date_upload": 1736208000000,
                         "episode_number": 1.0
                     }
@@ -574,7 +574,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-12426081026439276491/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-12426081026439276491/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-12426081026439276491/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6401487577310042787/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6401487577310042787/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6401487577310042787/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

@@ -304,6 +304,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/la-granja",
+                                "title": "La Granja (2006)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/aXScU5uBAD5L7QTYGtvN0WJ2GwQ.jpg"
+                            },
+                            {
+                                "url": "/pelicula/sexo-con-amor",
+                                "title": "Sexo con amor (2003)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/9hpzzyMiVSHvoX9HHa3yG6d1Jb9.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-desayuno-de-los-campeones",
+                                "title": "El desayuno de los campeones (1999)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/7hu7wnswLjhxeg4rgqwoaBDz66X.jpg"
+                            },
+                            {
                                 "url": "/pelicula/un-rockero-de-pelotas",
                                 "title": "Un rockero de pelotas (2008)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/cRWbXeOnqEt9ZIXY2cWXFk8OCGD.jpg"
@@ -407,21 +422,6 @@
                                 "url": "/pelicula/moana-2",
                                 "title": "Moana 2 (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/hSjM4OPwfF3PvWsVgV6SKd6GeXJ.jpg"
-                            },
-                            {
-                                "url": "/pelicula/culpa-tuya",
-                                "title": "Culpa tuya (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-senor-de-los-anillos-la-guerra-de-los-rohirrim",
-                                "title": "El señor de los anillos: La guerra de los Rohirrim (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/hpBdT0o9EckoaGmPRPtcgNZpz4F.jpg"
-                            },
-                            {
-                                "url": "/pelicula/hechizo-del-corazon",
-                                "title": "Hechizo del corazón (2000)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/iuDzlI42E6foFrp5K2iKLfU8NTX.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -681,10 +681,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/un-rockero-de-pelotas",
-                    "title": "Un rockero de pelotas (2008)",
-                    "description": "Rob \"Fish\" Fishman es el baterista en la banda de hair metal de los 80 \"Vesuvius\". Cuando el grupo firma un contrato con una gran discográfica, lo despiden sin contemplaciones. Tras mantenerse 20 años apartado del mundillo de la música, recibe una segunda oportunidad con la banda de su sobrino.",
-                    "genre": "Comedia, Música",
+                    "url": "/pelicula/la-granja",
+                    "title": "La Granja (2006)",
+                    "description": "En la granja, el granjero está convencido de que está al mando, que vigila y protege a los animales. Pero en cuanto desaparece, la oveja que hace de centinela grita: \"¡Ya se ha ido!\" y todos los animales empiezan a andar a dos patas, hablan, miran la tele y se gastan bromas de mal gusto.",
+                    "genre": "Animación, Comedia, Familia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -694,7 +694,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/un-rockero-de-pelotas",
+                        "url": "/pelicula/la-granja",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -704,55 +704,28 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://ovyupmbb4t.guardstorage.net/hls_3/9uKQP4O_dmUA7K0vX8NggOCkAe9kk3DcKGpUf88mAkm5GUNIJFlYA-gr8NaVxr-QbFT4WJZI1Vy9u4dOd7KGlX9uH7C30qbaI5EYho8yyD9yeQdmHxq9MW80KdKTtM6dRe6lTC2o3b6uv6kxG2GiQv8TNcbTXREaslywMpNxJ4ZiKKHnwU1p3fb1BiP-YVvHbVvPA7eE8xEJqC2Wf38Lyw/index-f2-v1-a1.m3u8?sig=Ghc5aL7LAoJNgDbShrIE-g&expires=1736195884",
+                        "url": "https://fqpy8ovqad.guardstorage.net/hls_3/hW-JVc-lm4PH63TpLyGAPFgm3oNFEIfFW-1hVLDjCxt4sX_fyEg4DdCGyjn8738xDVqePt19ATf8ryC1NnshZipvxpyPfvK1A2SRFVF4TfbXhgVzRL2Plst6SWSS8R0Ih70BUU9-ofW9GhztNdcPF3YelzlFrGd-1vkvhOMpXa9ZzPRewtZVUDs1XM1LJF8HDdhdzYE6ww7dHDJi5rBjkw/index-f2-v1-a1.m3u8?sig=VApgNb6DlHPcAgHOfi4D5g&expires=1736218186",
                         "quality": "[LAT] VidGuard:720p",
-                        "videoUrl": "https://ovyupmbb4t.guardstorage.net/hls_3/9uKQP4O_dmUA7K0vX8NggOCkAe9kk3DcKGpUf88mAkm5GUNIJFlYA-gr8NaVxr-QbFT4WJZI1Vy9u4dOd7KGlX9uH7C30qbaI5EYho8yyD9yeQdmHxq9MW80KdKTtM6dRe6lTC2o3b6uv6kxG2GiQv8TNcbTXREaslywMpNxJ4ZiKKHnwU1p3fb1BiP-YVvHbVvPA7eE8xEJqC2Wf38Lyw/index-f2-v1-a1.m3u8?sig=Ghc5aL7LAoJNgDbShrIE-g&expires=1736195884",
+                        "videoUrl": "https://fqpy8ovqad.guardstorage.net/hls_3/hW-JVc-lm4PH63TpLyGAPFgm3oNFEIfFW-1hVLDjCxt4sX_fyEg4DdCGyjn8738xDVqePt19ATf8ryC1NnshZipvxpyPfvK1A2SRFVF4TfbXhgVzRL2Plst6SWSS8R0Ih70BUU9-ofW9GhztNdcPF3YelzlFrGd-1vkvhOMpXa9ZzPRewtZVUDs1XM1LJF8HDdhdzYE6ww7dHDJi5rBjkw/index-f2-v1-a1.m3u8?sig=VApgNb6DlHPcAgHOfi4D5g&expires=1736218186",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://streamsilk.com/data/677a1bda467c9/677a1bda467c9720.m3u8",
-                        "quality": "[LAT] StreamSilk:720p",
-                        "videoUrl": "https://streamsilk.com/data/677a1bda467c9/677a1bda467c9720.m3u8",
-                        "headers": {
-                            "Referer": "https://streamsilk.com/",
-                            "Origin": "https://streamsilk.com",
-                            "Accept": "*/*"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://streamsilk.com/storage/subtitles/677a1bda467c9/spa.srt",
-                                "lang": "spa"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://jturq6cd3wcv.premilkyway.com/hls2/01/07745/5g7ptkyvds5g_n/index-v1-a1.m3u8?t=4wP7qs4sQFE256yNkwfjhy3b0NnUxHIwkevBQB63vao&s=1736186862&e=129600&f=38727177&srv=0wnh534rdgf989&i=0.4&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=8075",
+                        "url": "https://6wyav2r9i6j.premilkyway.com/hls2/01/01919/15b367f53lsc_h/index-v1-a2.m3u8?t=XQJTf9yRIvC6yoFe2iSRiQ8Lw6fQxwYYeF-jZwOQmh4&s=1736209164&e=129600&f=39007542&srv=vy7cie2tqwc2cgp&i=0.4&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
                         "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://jturq6cd3wcv.premilkyway.com/hls2/01/07745/5g7ptkyvds5g_n/index-v1-a1.m3u8?t=4wP7qs4sQFE256yNkwfjhy3b0NnUxHIwkevBQB63vao&s=1736186862&e=129600&f=38727177&srv=0wnh534rdgf989&i=0.4&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=8075",
+                        "videoUrl": "https://6wyav2r9i6j.premilkyway.com/hls2/01/01919/15b367f53lsc_h/index-v1-a2.m3u8?t=XQJTf9yRIvC6yoFe2iSRiQ8Lw6fQxwYYeF-jZwOQmh4&s=1736209164&e=129600&f=39007542&srv=vy7cie2tqwc2cgp&i=0.4&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/5g7ptkyvds5g"
+                            "Referer": "https://streamwish.to/e/bke6n7m4curu"
                         }
                     },
                     {
-                        "url": "https://dd2stliwt0bc.acek-cdn.com/hls2/01/03364/6tmtyjwptqvu_,l,n,.urlset/index-f2-v1-a1.m3u8?t=bCP3BjPnFW-tm8cWWHx-2OnlCqcH8bgXtDxZEHjSfcw&s=1736186860&e=129600&f=16823866&srv=LFDu7HStkKAt&i=0.4&sp=500&p1=LFDu7HStkKAt&p2=LFDu7HStkKAt&asn=8075",
-                        "quality": "[LAT] StreamHideVid:720p",
-                        "videoUrl": "https://dd2stliwt0bc.acek-cdn.com/hls2/01/03364/6tmtyjwptqvu_,l,n,.urlset/index-f2-v1-a1.m3u8?t=bCP3BjPnFW-tm8cWWHx-2OnlCqcH8bgXtDxZEHjSfcw&s=1736186860&e=129600&f=16823866&srv=LFDu7HStkKAt&i=0.4&sp=500&p1=LFDu7HStkKAt&p2=LFDu7HStkKAt&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/v/6tmtyjwptqvu"
-                        }
-                    },
-                    {
-                        "url": "https://streamsilk.com/data/677a1bda467c9/677a1bda467c9480.m3u8",
-                        "quality": "[LAT] StreamSilk:480p",
-                        "videoUrl": "https://streamsilk.com/data/677a1bda467c9/677a1bda467c9480.m3u8",
+                        "url": "https://streamsilk.com/data/677bf8b6425df/677bf8b6425df720.m3u8",
+                        "quality": "[LAT] StreamSilk:720p",
+                        "videoUrl": "https://streamsilk.com/data/677bf8b6425df/677bf8b6425df720.m3u8",
                         "headers": {
                             "Referer": "https://streamsilk.com/",
                             "Origin": "https://streamsilk.com",
@@ -760,26 +733,61 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://streamsilk.com/storage/subtitles/677a1bda467c9/spa.srt",
+                                "url": "https://streamsilk.com/storage/subtitles/677bf8b6425df/spa.srt",
                                 "lang": "spa"
+                            },
+                            {
+                                "url": "https://streamsilk.com/storage/subtitles/677bf8b6425df/eng.srt",
+                                "lang": "eng"
                             }
                         ]
                     },
                     {
-                        "url": "https://dd2stliwt0bc.acek-cdn.com/hls2/01/03364/6tmtyjwptqvu_,l,n,.urlset/index-f1-v1-a1.m3u8?t=bCP3BjPnFW-tm8cWWHx-2OnlCqcH8bgXtDxZEHjSfcw&s=1736186860&e=129600&f=16823866&srv=LFDu7HStkKAt&i=0.4&sp=500&p1=LFDu7HStkKAt&p2=LFDu7HStkKAt&asn=8075",
-                        "quality": "[LAT] StreamHideVid:480p",
-                        "videoUrl": "https://dd2stliwt0bc.acek-cdn.com/hls2/01/03364/6tmtyjwptqvu_,l,n,.urlset/index-f1-v1-a1.m3u8?t=bCP3BjPnFW-tm8cWWHx-2OnlCqcH8bgXtDxZEHjSfcw&s=1736186860&e=129600&f=16823866&srv=LFDu7HStkKAt&i=0.4&sp=500&p1=LFDu7HStkKAt&p2=LFDu7HStkKAt&asn=8075",
+                        "url": "https://j3rmodimy1oj.acek-cdn.com/hls2/01/03408/8y31mkes5r3z_,l,n,.urlset/index-f2-v1-a1.m3u8?t=KLGS45dv6a5qcrTPR5D8TPlons7YYtfBrd0heAHD88M&s=1736209160&e=129600&f=17041022&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=8075",
+                        "quality": "[LAT] StreamHideVid:720p",
+                        "videoUrl": "https://j3rmodimy1oj.acek-cdn.com/hls2/01/03408/8y31mkes5r3z_,l,n,.urlset/index-f2-v1-a1.m3u8?t=KLGS45dv6a5qcrTPR5D8TPlons7YYtfBrd0heAHD88M&s=1736209160&e=129600&f=17041022&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/v/6tmtyjwptqvu"
+                            "Referer": "https://vidhideplus.com/v/8y31mkes5r3z"
                         }
                     },
                     {
-                        "url": "https://ovyupmbb4t.guardstorage.net/hls_3/9uKQP4O_dmUA7K0vX8NggOCkAe9kk3DcKGpUf88mAkm5GUNIJFlYA-gr8NaVxr-QbFT4WJZI1Vy9u4dOd7KGlX9uH7C30qbaI5EYho8yyD9yeQdmHxq9MW80KdKTtM6dRe6lTC2o3b6uv6kxG2GiQv8TNcbTXREaslywMpNxJ4ZiKKHnwU1p3fb1BiP-YVvHbVvPA7eE8xEJqC2Wf38Lyw/index-f1-v1-a1.m3u8?sig=Ghc5aL7LAoJNgDbShrIE-g&expires=1736195884",
+                        "url": "https://streamsilk.com/data/677bf8b6425df/677bf8b6425df480.m3u8",
+                        "quality": "[LAT] StreamSilk:480p",
+                        "videoUrl": "https://streamsilk.com/data/677bf8b6425df/677bf8b6425df480.m3u8",
+                        "headers": {
+                            "Referer": "https://streamsilk.com/",
+                            "Origin": "https://streamsilk.com",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://streamsilk.com/storage/subtitles/677bf8b6425df/spa.srt",
+                                "lang": "spa"
+                            },
+                            {
+                                "url": "https://streamsilk.com/storage/subtitles/677bf8b6425df/eng.srt",
+                                "lang": "eng"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://j3rmodimy1oj.acek-cdn.com/hls2/01/03408/8y31mkes5r3z_,l,n,.urlset/index-f1-v1-a1.m3u8?t=KLGS45dv6a5qcrTPR5D8TPlons7YYtfBrd0heAHD88M&s=1736209160&e=129600&f=17041022&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=8075",
+                        "quality": "[LAT] StreamHideVid:480p",
+                        "videoUrl": "https://j3rmodimy1oj.acek-cdn.com/hls2/01/03408/8y31mkes5r3z_,l,n,.urlset/index-f1-v1-a1.m3u8?t=KLGS45dv6a5qcrTPR5D8TPlons7YYtfBrd0heAHD88M&s=1736209160&e=129600&f=17041022&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidhideplus.com",
+                            "Referer": "https://vidhideplus.com/v/8y31mkes5r3z"
+                        }
+                    },
+                    {
+                        "url": "https://fqpy8ovqad.guardstorage.net/hls_3/hW-JVc-lm4PH63TpLyGAPFgm3oNFEIfFW-1hVLDjCxt4sX_fyEg4DdCGyjn8738xDVqePt19ATf8ryC1NnshZipvxpyPfvK1A2SRFVF4TfbXhgVzRL2Plst6SWSS8R0Ih70BUU9-ofW9GhztNdcPF3YelzlFrGd-1vkvhOMpXa9ZzPRewtZVUDs1XM1LJF8HDdhdzYE6ww7dHDJi5rBjkw/index-f1-v1-a1.m3u8?sig=VApgNb6DlHPcAgHOfi4D5g&expires=1736218186",
                         "quality": "[LAT] VidGuard:360p",
-                        "videoUrl": "https://ovyupmbb4t.guardstorage.net/hls_3/9uKQP4O_dmUA7K0vX8NggOCkAe9kk3DcKGpUf88mAkm5GUNIJFlYA-gr8NaVxr-QbFT4WJZI1Vy9u4dOd7KGlX9uH7C30qbaI5EYho8yyD9yeQdmHxq9MW80KdKTtM6dRe6lTC2o3b6uv6kxG2GiQv8TNcbTXREaslywMpNxJ4ZiKKHnwU1p3fb1BiP-YVvHbVvPA7eE8xEJqC2Wf38Lyw/index-f1-v1-a1.m3u8?sig=Ghc5aL7LAoJNgDbShrIE-g&expires=1736195884",
+                        "videoUrl": "https://fqpy8ovqad.guardstorage.net/hls_3/hW-JVc-lm4PH63TpLyGAPFgm3oNFEIfFW-1hVLDjCxt4sX_fyEg4DdCGyjn8738xDVqePt19ATf8ryC1NnshZipvxpyPfvK1A2SRFVF4TfbXhgVzRL2Plst6SWSS8R0Ih70BUU9-ofW9GhztNdcPF3YelzlFrGd-1vkvhOMpXa9ZzPRewtZVUDs1XM1LJF8HDdhdzYE6ww7dHDJi5rBjkw/index-f1-v1-a1.m3u8?sig=VApgNb6DlHPcAgHOfi4D5g&expires=1736218186",
                         "headers": {
                             "Accept": "*/*"
                         }

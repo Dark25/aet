@@ -711,20 +711,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://7c0tyw05nq.cdn-centaurus.com/hls2/01/02180/cbe3wgas07jz_h/index-v1-a1.m3u8?t=O28MO6OyrYGDf9ZDsg2enn5HkB8B-2vRG4bktXBKfbQ&s=1736230057&e=129600&f=10900061&srv=s2dlpo3gkmhi&i=0.4&sp=500&p1=s2dlpo3gkmhi&p2=s2dlpo3gkmhi&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://7c0tyw05nq.cdn-centaurus.com/hls2/01/02180/cbe3wgas07jz_h/index-v1-a1.m3u8?t=O28MO6OyrYGDf9ZDsg2enn5HkB8B-2vRG4bktXBKfbQ&s=1736230057&e=129600&f=10900061&srv=s2dlpo3gkmhi&i=0.4&sp=500&p1=s2dlpo3gkmhi&p2=s2dlpo3gkmhi&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "*/*",
-                            "Origin": "https://obeywish.com",
-                            "Referer": "https://obeywish.com/e/cbe3wgas07jz"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

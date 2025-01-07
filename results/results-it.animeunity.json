@@ -3,28 +3,383 @@
         "name": "AnimeUnity (IT)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "12-one-piece",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1810/139965.jpg"
+                            },
+                            {
+                                "url": "2791-jujutsu-kaisen",
+                                "title": "Jujutsu Kaisen",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113415-bbBWj4pEFseh.jpg"
+                            },
+                            {
+                                "url": "112-black-clover",
+                                "title": "Black Clover",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97940-bPydLjny8PUw.png"
+                            },
+                            {
+                                "url": "2899-mushoku-tensei-jobless-reincarnation",
+                                "title": "Mushoku Tensei: Jobless Reincarnation",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108465-B9S9zC68eS5j.jpg"
+                            },
+                            {
+                                "url": "2920-horimiya",
+                                "title": "Horimiya",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124080-h8EPH92nyRfS.jpg"
+                            },
+                            {
+                                "url": "2549-demon-slayer",
+                                "title": "Demon Slayer",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101922-PEn1CTc93blC.jpg"
+                            },
+                            {
+                                "url": "4290-solo-leveling",
+                                "title": "Solo Leveling",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151807-m1gX3iwfIsLu.png"
+                            },
+                            {
+                                "url": "214-hunter-x-hunter-2011",
+                                "title": "Hunter x Hunter (2011)",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11061-sIpBprNRfzCe.png"
+                            },
+                            {
+                                "url": "3871-chainsaw-man",
+                                "title": "Chainsaw Man",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-FlochcFsyoF4.png"
+                            },
+                            {
+                                "url": "4197-jujutsu-kaisen-2",
+                                "title": "Jujutsu Kaisen 2",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1732/139397.jpg"
+                            },
+                            {
+                                "url": "2996-tokyo-revengers",
+                                "title": "Tokyo Revengers",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120120-mBmQUtMloszF.jpg"
+                            },
+                            {
+                                "url": "297-seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai",
+                                "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101291-L71WpAkZPtgm.jpg"
+                            },
+                            {
+                                "url": "2610-my-hero-academia",
+                                "title": "My Hero Academia",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21459-DUKLgasrgeNO.jpg"
+                            },
+                            {
+                                "url": "2693-death-note-ita",
+                                "title": "Death Note (ITA)",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1535-lawCwhzhi96X.jpg"
+                            },
+                            {
+                                "url": "29-darling-in-the-franxx",
+                                "title": "Darling in the FranXX",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99423-8MBxtwCeHf8B.png"
+                            },
+                            {
+                                "url": "186-haikyu",
+                                "title": "Haikyu!!",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20464-eW7ZDBOcn74a.png"
+                            },
+                            {
+                                "url": "48-rezero-starting-life-in-another-world",
+                                "title": "Re:Zero -Starting Life in Another World-",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21355-IHaS50pvLYd0.jpg"
+                            },
+                            {
+                                "url": "2616-attack-on-titan",
+                                "title": "Attack on Titan",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16498-C6FPmWm59CyP.jpg"
+                            },
+                            {
+                                "url": "3337-demon-slayer-kimetsu-no-yaiba-entertainment-district-arc",
+                                "title": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142329-kET1PIXJv2eW.jpg"
+                            },
+                            {
+                                "url": "430-naruto-shippuden",
+                                "title": "Naruto Shippuden",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1735-Az5gbEdWeotG.png"
+                            },
+                            {
+                                "url": "3644-spy-x-family",
+                                "title": "Spy x Family",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140960-vN39AmOWrVB5.jpg"
+                            },
+                            {
+                                "url": "343-the-rising-of-the-shield-hero",
+                                "title": "The Rising of the Shield Hero",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99263-SJSk5d6mhQZO.jpg"
+                            },
+                            {
+                                "url": "279-that-time-i-got-reincarnated-as-a-slime",
+                                "title": "That Time I Got Reincarnated as a Slime",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101280-ezBXqEHi8pg0.jpg"
+                            },
+                            {
+                                "url": "4563-demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc",
+                                "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145139-rRimpHGWLhym.png"
+                            },
+                            {
+                                "url": "1034-dr-stone",
+                                "title": "Dr. Stone",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105333-BBxkPhen07Zj.jpg"
+                            },
+                            {
+                                "url": "2454-the-misfit-of-demon-king-academy",
+                                "title": "The Misfit of Demon King Academy",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112301-P1K5zjiQfacn.jpg"
+                            },
+                            {
+                                "url": "123-classroom-of-the-elite",
+                                "title": "Classroom of the Elite",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98659-sH5z5RfMuyMr.png"
+                            },
+                            {
+                                "url": "354-kaguya-sama-love-is-war",
+                                "title": "Kaguya-sama: Love is War",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101921-VvdGQy1ZySYf.jpg"
+                            },
+                            {
+                                "url": "80-bungo-stray-dogs",
+                                "title": "Bungo Stray Dogs",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21311-hAXyT8Yoh6G9.jpg"
+                            },
+                            {
+                                "url": "3434-my-dress-up-darling",
+                                "title": "My Dress-Up Darling",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132405-qP7FQYGmNI3d.jpg"
+                            },
+                            {
+                                "url": "2998-one-piece-ita",
+                                "title": "One Piece (ITA)",
+                                "thumbnail_url": "https://www.forbiddenlol.cloud/DDL/ANIME/T34tadfg.png"
+                            },
+                            {
+                                "url": "100-konosuba",
+                                "title": "Konosuba",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21202-TfzXuWQf2oLQ.png"
+                            },
+                            {
+                                "url": "4071-the-eminence-in-shadow",
+                                "title": "The Eminence in Shadow",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130298-O7nR1Wrav2dH.jpg"
+                            },
+                            {
+                                "url": "1094-arifureta-from-commonplace-to-worlds-strongest",
+                                "title": "Arifureta: From Commonplace to World&#039;s Strongest",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100668-DvOn5bMOt4cy.jpg"
+                            },
+                            {
+                                "url": "319-assassination-classroom",
+                                "title": "Assassination Classroom",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20755-q0b3Ok1cAbPd.jpg"
+                            },
+                            {
+                                "url": "2994-dont-toy-with-me-miss-nagatoro",
+                                "title": "Don&#039;t Toy with Me, Miss Nagatoro",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120697-72Sf22C9PTQn.jpg"
+                            },
+                            {
+                                "url": "1468-naruto-ita",
+                                "title": "Naruto (ITA)",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20-YJvLbgJQPCoI.jpg"
+                            },
+                            {
+                                "url": "2938-redo-of-healer",
+                                "title": "Redo of Healer",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113425-tYGRUa5pgZje.jpg"
+                            },
+                            {
+                                "url": "200-high-school-dxd",
+                                "title": "High School DxD",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11617-nmxMU9Zh3H5R.jpg"
+                            },
+                            {
+                                "url": "19-akame-ga-kill",
+                                "title": "Akame ga Kill!",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20613-4VGGPacciJBL.jpg"
+                            },
+                            {
+                                "url": "1041-fire-force",
+                                "title": "Fire Force",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105310-x4o2xMlfxIwb.jpg"
+                            },
+                            {
+                                "url": "69-bleach",
+                                "title": "Bleach",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx269-KxkqTIuQgJ6v.png"
+                            },
+                            {
+                                "url": "2997-my-hero-academia-5",
+                                "title": "My Hero Academia 5",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117193-E75BlZmDh1aB.jpg"
+                            },
+                            {
+                                "url": "2611-my-hero-academia-2",
+                                "title": "My Hero Academia 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21856-gutauxhWAwn6.png"
+                            },
+                            {
+                                "url": "26-charlotte",
+                                "title": "Charlotte",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20997-FGhaAtfnXCsH.jpg"
+                            },
+                            {
+                                "url": "4155-oshi-no-ko",
+                                "title": "Oshi No Ko",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150672-2WWJVXIAOG11.png"
+                            },
+                            {
+                                "url": "348-the-quintessential-quintuplets",
+                                "title": "The Quintessential Quintuplets",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103572-2MXV30htoCSh.png"
+                            },
+                            {
+                                "url": "554-blue-exorcist",
+                                "title": "Blue Exorcist",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9919-nXS7JOZrWHfS.jpg"
+                            },
+                            {
+                                "url": "4284-mashle-magic-and-muscles",
+                                "title": "Mashle: Magic and Muscles",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151801-wYg28dEaJAw3.png"
+                            },
+                            {
+                                "url": "2612-my-hero-academia-3",
+                                "title": "My Hero Academia 3",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100166-jUCZYbzn2XLw.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "5882-grendizer-u-ita",
+                                "title": "Grendizer U (ITA)",
+                                "thumbnail_url": "https://img.animeunity.so/anime/bx154195-N6OlozyNN3ZN.jpg"
+                            },
+                            {
+                                "url": "5881-my-happy-marriage-2-ita",
+                                "title": "My Happy Marriage 2 (ITA)",
+                                "thumbnail_url": "https://img.animeunity.so/anime/bx169441-wIQe1xfCc1XS.jpg"
+                            },
+                            {
+                                "url": "5880-theatre-of-darkness-yamishibai-14",
+                                "title": "Theatre of Darkness: Yamishibai 14",
+                                "thumbnail_url": "https://img.animeunity.so/anime/bx185088-pY2KxbG0KIoO.jpg"
+                            },
+                            {
+                                "url": "5879-the-lord-of-the-rings-the-war-of-the-rohirrim-ita",
+                                "title": "The Lord of the Rings: The War of the Rohirrim (ITA)",
+                                "thumbnail_url": "https://img.animeunity.so/anime/bx185613-9zocGYsTHeO5.jpg"
+                            },
+                            {
+                                "url": "5878-blue-exorcist-the-blue-night-saga",
+                                "title": "Blue Exorcist: The Blue Night Saga",
+                                "thumbnail_url": "https://img.animeunity.so/anime/bx185880-efBIcDBzPiHP.jpg"
+                            },
+                            {
+                                "url": "5877-im-living-with-an-otaku-neet-kunoichi",
+                                "title": "I'm Living with an Otaku NEET Kunoichi!?",
+                                "thumbnail_url": "https://img.animeunity.so/anime/bx174654-J8OduNFjRpVY.jpg"
+                            },
+                            {
+                                "url": "5876-solo-leveling-season-2-arise-from-the-shadow-ita",
+                                "title": "Solo Leveling Season 2: Arise from the Shadow (ITA)",
+                                "thumbnail_url": "https://img.animeunity.so/anime/bx176496-xCNtU4llsUpu.png"
+                            },
+                            {
+                                "url": "5875-jungle-wa-itsumo-hare-nochi-guu",
+                                "title": "Jungle wa Itsumo Hare nochi Guu",
+                                "thumbnail_url": "https://img.animeunity.so/anime/253.jpg"
+                            },
+                            {
+                                "url": "5874-gundam-evolve",
+                                "title": "Gundam Evolve",
+                                "thumbnail_url": "https://img.animeunity.so/anime/3288.jpg"
+                            },
+                            {
+                                "url": "5873-mobile-suit-gundam-the-08th-ms-team-millers-report-ita",
+                                "title": "Mobile Suit Gundam: The 08th MS Team - Miller's Report (ITA)",
+                                "thumbnail_url": "https://img.animeunity.so/anime/bx83-hMXIY88V9UDO.jpg"
+                            },
+                            {
+                                "url": "5872-mobile-suit-gundam-the-origin-ita",
+                                "title": "Mobile Suit Gundam: The Origin (ITA)",
+                                "thumbnail_url": "https://img.animeunity.so/anime/bx10937-yNrI4MUsigat.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 405",
                 "passed": false
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": {
+                    "url": "12-one-piece",
+                    "title": "One Piece",
+                    "artist": "Toei Animation",
+                    "description": "Monkey D. Rufy è un giovane pirata sognatore che da piccolo ha inavvertitamente mangiato il frutto del diavolo Gom Gom che lo rende \"elastico\", permettendogli di allungarsi e deformarsi a piacimento, a scapito, però, della capacità di nuotare. L'obiettivo che lo ha spinto in mare è quello ambizioso di diventare il Re dei pirati. Dovrà, dunque, ritrovare il leggendario \"One Piece\", il magnifico tesoro lasciato dal mitico pirata Gol D. Roger probabilmente sull'isola di Raftel, alla fine della Rotta Maggiore, mai ritrovato e sogno di ogni pirata.Nella sua avventura, Rufy riunirà intorno a lui una ciurma e si troverà in mezzo a situazioni bizzarre e stravaganti, tanto almeno quanto lo sono i personaggi, amici o nemici, presenti nell'universo che lo circonda, che raggiungono spesso livelli assurdi e grotteschi e che donano all'opera un'atmosfera surreale e divertente.\n\nTipo: TV\nStagione: Autunno 1999\nValutazione: ★9.43",
+                    "genre": "Action, Adventure, Comedy, Drama, Fantasy, Shounen",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/anime/12-one-piece/86018",
+                        "name": "Episode 1122",
+                        "date_upload": 1728818377000,
+                        "episode_number": 1122.0
+                    },
+                    {
+                        "url": "/anime/12-one-piece/85907",
+                        "name": "Episode 1121",
+                        "date_upload": 1728190758000,
+                        "episode_number": 1121.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-13444543593823805887/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/265056?type=video&rendition=1080p&token=mW2lIic9qH3k2LD0w0YNOg&expires=1741435824&edge=au-u1-01",
+                        "quality": "1080p",
+                        "videoUrl": "https://vixcloud.co/playlist/265056?type=video&rendition=1080p&token=mW2lIic9qH3k2LD0w0YNOg&expires=1741435824&edge=au-u1-01"
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/265056?type=video&rendition=720p&token=v9uJP8qM_1Dcq_zXv6Mi8g&expires=1741435824&edge=au-u1-01",
+                        "quality": "720p",
+                        "videoUrl": "https://vixcloud.co/playlist/265056?type=video&rendition=720p&token=v9uJP8qM_1Dcq_zXv6Mi8g&expires=1741435824&edge=au-u1-01"
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/265056?type=video&rendition=480p&token=TNL7lTHuMYxX0IyfTFYbnQ&expires=1741435824&edge=au-u1-01",
+                        "quality": "480p",
+                        "videoUrl": "https://vixcloud.co/playlist/265056?type=video&rendition=480p&token=TNL7lTHuMYxX0IyfTFYbnQ&expires=1741435824&edge=au-u1-01"
+                    }
+                ],
+                "passed": true
             }
         }
     }

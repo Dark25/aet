@@ -7,9 +7,29 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-pelicula/el-tiempo-que-tenemos/",
+                                "title": "El Tiempo Que Tenemos",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/ver-pelicula/bonhoeffer-pastor-spy-assassin/",
+                                "title": "Bonhoeffer: Pastor. Spy. Assassin",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//7sQUousjbOVlVj3rKuXYly19sjf.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/panda-plan/",
+                                "title": "Panda Plan",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//95EiKK6SM5k26cLlP37eGcJHzDQ.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/small-things-like-these/",
+                                "title": "Small Things Like These",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//vVxRLATTEgrLbVcuDki4VohFrzj.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/barbie-en-el-cascanueces/",
                                 "title": "Barbie en El Cascanueces",
-                                "thumbnail_url": ""
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//3M5fjV6Pze7zC6suGQAG2MWI2fk.jpg"
                             },
                             {
                                 "url": "/ver-serie/you/",
@@ -45,26 +65,6 @@
                                 "url": "/ver-serie/x-men-evolucion/",
                                 "title": "X-Men: Evolución",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342//At5aZIKkN8zHTAXOnQR9D3b7usW.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/el-mago-de-oz/",
-                                "title": "El mago de Oz",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//ybn1CQdMZrhdBTTYqVZG4m9epNB.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/yellowstone/",
-                                "title": "Yellowstone",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/sonic-la-pelicula/",
-                                "title": "Sonic: La Película",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//rK25c71fYVi0Bv7RrTChK7NAQjC.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/sonic-3-la-pelicula/",
-                                "title": "Sonic 3: La Película",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//rqvtiGmHubDElsKxlCWPuCTkwPI.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -118,11 +118,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/barbie-en-el-cascanueces/",
-                    "artist": "Abi Stafford",
-                    "description": "Barbie y su hermana Kelly practican difíciles pasos de ballet para una importante presentación; sin embargo cuando la pequeña siente que no puede ejecutar correctamente los pasos de baile y quiere darse por vencida, Barbie le cuenta a Kelly una historia llena de la magia de la Navidad.   ",
-                    "genre": "Animación, Familia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w342//3M5fjV6Pze7zC6suGQAG2MWI2fk.jpg",
+                    "url": "/ver-pelicula/el-tiempo-que-tenemos/",
+                    "artist": "Adam James",
+                    "description": "Una historia de amor eterna protagonizada por los nominados al Premio de la Academia© Florence Pugh y Andrew Garfield.   ",
+                    "genre": "Drama, Romance",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w342//qBVqPyNLdjMmQNzZFBZaBY1BDgL.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -130,7 +130,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/barbie-en-el-cascanueces/",
+                        "url": "/ver-pelicula/el-tiempo-que-tenemos/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -138,8 +138,60 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-slam0nrryh6aoi5z.voe-network.net/engine/hls2/01/13118/vit7bk1y7z1d_,n,l,.urlset/index-f1-v1-a1.m3u8?t=YbYZy1IRuGRtNh4BkHYdRY4guj9E4owME-GuQkkVqx8&s=1736338132&e=14400&f=65591552&node=VATgyu+9Mqi9HFHuqVBEMyx6tYk8ibTo4WmJouWz9yQ=&i=20.161&sp=2500&asn=8075&q=n,l",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-slam0nrryh6aoi5z.voe-network.net/engine/hls2/01/13118/vit7bk1y7z1d_,n,l,.urlset/index-f1-v1-a1.m3u8?t=YbYZy1IRuGRtNh4BkHYdRY4guj9E4owME-GuQkkVqx8&s=1736338132&e=14400&f=65591552&node=VATgyu+9Mqi9HFHuqVBEMyx6tYk8ibTo4WmJouWz9yQ=&i=20.161&sp=2500&asn=8075&q=n,l",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-slam0nrryh6aoi5z.voe-network.net/engine/hls2/01/13118/vit7bk1y7z1d_,n,l,.urlset/index-f2-v1-a1.m3u8?t=YbYZy1IRuGRtNh4BkHYdRY4guj9E4owME-GuQkkVqx8&s=1736338132&e=14400&f=65591552&node=VATgyu+9Mqi9HFHuqVBEMyx6tYk8ibTo4WmJouWz9yQ=&i=20.161&sp=2500&asn=8075&q=n,l",
+                        "quality": "Voe:480p",
+                        "videoUrl": "https://delivery-node-slam0nrryh6aoi5z.voe-network.net/engine/hls2/01/13118/vit7bk1y7z1d_,n,l,.urlset/index-f2-v1-a1.m3u8?t=YbYZy1IRuGRtNh4BkHYdRY4guj9E4owME-GuQkkVqx8&s=1736338132&e=14400&f=65591552&node=VATgyu+9Mqi9HFHuqVBEMyx6tYk8ibTo4WmJouWz9yQ=&i=20.161&sp=2500&asn=8075&q=n,l",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://7ieciod7jz.cdn-centaurus.com/hls2/01/07499/pj4qkdn8z9w7_,l,n,.urlset/index-f2-v1-a1.m3u8?t=-eHPtshQy0xKMkG9iYqPAU1dn0cwazBNIlnV53t-Tac&s=1736338134&e=129600&f=37498324&srv=g4awrwdnyorf&i=0.4&sp=500&p1=g4awrwdnyorf&p2=g4awrwdnyorf&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://7ieciod7jz.cdn-centaurus.com/hls2/01/07499/pj4qkdn8z9w7_,l,n,.urlset/index-f2-v1-a1.m3u8?t=-eHPtshQy0xKMkG9iYqPAU1dn0cwazBNIlnV53t-Tac&s=1736338134&e=129600&f=37498324&srv=g4awrwdnyorf&i=0.4&sp=500&p1=g4awrwdnyorf&p2=g4awrwdnyorf&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://hlswish.com",
+                            "Referer": "https://hlswish.com/e/pj4qkdn8z9w7"
+                        }
+                    },
+                    {
+                        "url": "https://7ieciod7jz.cdn-centaurus.com/hls2/01/07499/pj4qkdn8z9w7_,l,n,.urlset/index-f1-v1-a1.m3u8?t=-eHPtshQy0xKMkG9iYqPAU1dn0cwazBNIlnV53t-Tac&s=1736338134&e=129600&f=37498324&srv=g4awrwdnyorf&i=0.4&sp=500&p1=g4awrwdnyorf&p2=g4awrwdnyorf&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://7ieciod7jz.cdn-centaurus.com/hls2/01/07499/pj4qkdn8z9w7_,l,n,.urlset/index-f1-v1-a1.m3u8?t=-eHPtshQy0xKMkG9iYqPAU1dn0cwazBNIlnV53t-Tac&s=1736338134&e=129600&f=37498324&srv=g4awrwdnyorf&i=0.4&sp=500&p1=g4awrwdnyorf&p2=g4awrwdnyorf&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://hlswish.com",
+                            "Referer": "https://hlswish.com/e/pj4qkdn8z9w7"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=0ZGRoebd4YibXpP&expires=1736408133&ip=FROsD0ISKxSHDN&token=wGdyjv0NL5Z0",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=0ZGRoebd4YibXpP&expires=1736408133&ip=FROsD0ISKxSHDN&token=wGdyjv0NL5Z0"
+                    },
+                    {
+                        "url": "https://s1.goodstream.one/vtt/02/00011/a8cyu9tn73fd_sli.vtt",
+                        "quality": "GoodStream: ",
+                        "videoUrl": "https://s1.goodstream.one/vtt/02/00011/a8cyu9tn73fd_sli.vtt",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

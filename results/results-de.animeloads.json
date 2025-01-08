@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/ishura-dai-2-ki",
+                                "title": "Ishura: Staffel 2",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ishura-dai-2-ki-cover.jpg"
+                            },
+                            {
                                 "url": "/media/hana-wa-saku-shura-no-gotoku",
                                 "title": "Flower and Asura",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-hana-wa-saku-shura-no-gotoku-cover-1.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi",
                                 "title": "Headhunted to Another World: From Salaryman to Big Four!",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi-cover.jpg"
-                            },
-                            {
-                                "url": "/media/grisaia-phantom-trigger",
-                                "title": "Grisaia Phantom Trigger",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-grisaia-phantom-trigger-cover-1.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/hana-wa-saku-shura-no-gotoku",
-                    "title": "Flower and Asura",
+                    "url": "/media/ishura-dai-2-ki",
+                    "title": "Ishura: Staffel 2",
                     "author": "",
-                    "description": "Hana Haruyama ist auf ihrer Heimatinsel, die nur 600 Einwohner hat, eine kleine Berühmtheit. Als einziges Kind in ihrem Alter hat sie ein Talent zum Vorlesen entdeckt und tritt manchmal sogar in den lokalen Medien auf. Ihre Fähigkeiten als Erzählerin sind unübertroffen und für die jüngeren Kinder der Insel ist sie zu einem Vorbild geworden. Aber mit ihrem Eintritt in die Oberschule, die sie nur mit der Fähre erreichen kann, wird sich ihr Leben bald von Grund auf ändern. So scheint es zumindest, doch kurz davor wird sie schon von Mizuki Usurai entdeckt, die den Vorsitz des Rundfunkclubs der Schule innehat. Die gleichaltrige Mizuki möchte Hanas großes Potenzial nicht verkommen lassen und lädt sie ein, ihrem Club beizutreten, wo sie große Pläne für sie hat. Mizuki weckt dabei sogar Hoffnungen auf einen Sieg beim nationalen Wettbewerb »N-Con«, wo tausende Literaturliebhaber gegeneinander antreten. Es dauert nicht lange, bis Hanas neue Freundin sie auf eine Reise mitnimmt, die nicht nur viele »erste Male« mit sich bringt, sondern bei der sie die wahre Liebe zum Lesen entdeckt – und auf dem Weg dorthin vielleicht sogar den Lauf ihres Lebens ändert. Quelle: aniSearch",
-                    "genre": "Drama",
+                    "description": "Zweite Staffel von Ishura. Quelle: aniSearch",
+                    "genre": "Action",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-hana-wa-saku-shura-no-gotoku-cover-1.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ishura-dai-2-ki-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,15 +239,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/hana-wa-saku-shura-no-gotoku#streams_episodes_1_0",
-                        "name": "Ep.1 Hana und Mizuki",
+                        "url": "/media/ishura-dai-2-ki#streams_episodes_1_0",
+                        "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-5144293477448300762/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-5144293477448300762/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-5144293477448300762/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-5051750217327469975/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-5051750217327469975/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-5051750217327469975/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

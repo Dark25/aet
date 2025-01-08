@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/numero-23-2007/",
+                                "title": "Número 23 (2007)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/h0T3FmHI7PFhUseoySCBPFjxP0O.jpg"
+                            },
+                            {
+                                "url": "/peliculas/s-w-a-t-2003/",
+                                "title": "S.W.A.T. (2003)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mBv6FzdqYnXpoosz3yyuCa2ifJS.jpg"
+                            },
+                            {
                                 "url": "/peliculas/flow-2024/",
                                 "title": "Flow (2024)",
                                 "description": "",
@@ -101,18 +113,6 @@
                                 "title": "Culpa tuya (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg"
-                            },
-                            {
-                                "url": "/peliculas/la-hora-del-silencio-2024/",
-                                "title": "La hora del silencio (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/nOCPjP1kPxfn4PFwbpMlOzedjNW.jpg"
-                            },
-                            {
-                                "url": "/peliculas/hachiko-2-siempre-a-tu-lado-2023/",
-                                "title": "Hachiko 2: Siempre a tu Lado",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/sT5SHjXlrKZwSbcvi70dmoDEHms.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/flow-2024/",
-                    "title": "Flow (2024)",
-                    "artist": "Servidores Online: Voe",
-                    "author": "Elenco: Servidores Online: Voe",
-                    "description": "Un gato se despierta en un mundo cubierto de agua, donde toda la raza humana parece haber desaparecido. Busca refugio en un barco con un grupo de animales. Pero llevarse bien con ellos resulta ser un reto aún mayor que superar su miedo al agua. Todos tendrán que aprender a superar sus diferencias y adaptarse a este nuevo mundo en el que se encuentran.",
-                    "genre": "Animación, Aventura, Fantasía, War & Politics, Western",
+                    "url": "/peliculas/numero-23-2007/",
+                    "title": "Número 23 (2007)",
+                    "artist": "Jim Carrey",
+                    "author": "Joel Schumacher Elenco: Jim Carrey",
+                    "description": "Un hombre vive obsesionado con un libro que parece describir detalles de su vida íntima. El hombre empieza a sentirse amenazado y se vuelve paranoico debido a un número que se repite una y otra vez en el libro: el 23.",
+                    "genre": "Crimen, Misterio, Suspenso",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/2PPvMc165yk0zafItbitQ2ZqZyo.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/h0T3FmHI7PFhUseoySCBPFjxP0O.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/flow-2024/",
+                        "url": "/peliculas/numero-23-2007/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -264,8 +264,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-gi44ckdfnm99vidr.voe-network.net/engine/hls2/01/13280/sp1q4pg1hsg4_,n,.urlset/index-v1-a1.m3u8?t=zVkDJFDvsebt0xxuEKrR3HWMsZBR5gN4ZscXotDL9X8&s=1736295440&e=14400&f=66400307&node=F4M3WQ74E+YxYp1ngHfYdN3eO+NE01nJ+SvVvDog8zM=&i=20.88&sp=2500&asn=8075&q=n",
+                        "quality": "[LAT] Voe:720p",
+                        "videoUrl": "https://delivery-node-gi44ckdfnm99vidr.voe-network.net/engine/hls2/01/13280/sp1q4pg1hsg4_,n,.urlset/index-v1-a1.m3u8?t=zVkDJFDvsebt0xxuEKrR3HWMsZBR5gN4ZscXotDL9X8&s=1736295440&e=14400&f=66400307&node=F4M3WQ74E+YxYp1ngHfYdN3eO+NE01nJ+SvVvDog8zM=&i=20.88&sp=2500&asn=8075&q=n",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

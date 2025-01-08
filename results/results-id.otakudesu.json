@@ -142,6 +142,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tasokare-hotel-sub-indo/",
+                                "title": "Tasokare Hotel",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/147269.jpg"
+                            },
+                            {
+                                "url": "/anime/unnamed-memo-s2-sub-indo/",
+                                "title": "Unnamed Memory Season 2",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/Unnamed-Memory-Season-2-Subtitle-Indonesia.jpg"
+                            },
+                            {
                                 "url": "/anime/kinomi-master-sub-indo/",
                                 "title": "Hazure Skill \"Kinomi Master\"",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146128.jpg"
@@ -255,16 +265,6 @@
                                 "url": "/anime/grisaia-phantom-trigger-sub-indo/",
                                 "title": "Grisaia: Phantom Trigger",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/142188.jpg"
-                            },
-                            {
-                                "url": "/anime/izure-saikysushi-sub-indo/",
-                                "title": "Izure Saikyou no Renkinjutsushi?",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146222.jpg"
-                            },
-                            {
-                                "url": "/anime/love-superstar-s3-sub-indo/",
-                                "title": "Love Live! Superstar!! Season 3",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Love-Live-Superstar-Season-3-Subtitle-Indonesia.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-1713141499491556205/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-1713141499491556205/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-1713141499491556205/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4823251814884519948/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4823251814884519948/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4823251814884519948/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-1713141499491556205/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-1713141499491556205/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-1713141499491556205/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4823251814884519948/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4823251814884519948/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4823251814884519948/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

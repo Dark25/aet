@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/unnamed-memory-act2-1838",
+                                "title": "Unnamed Memory Act.2",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1137/147179.jpg"
+                            },
+                            {
                                 "url": "/anime/botsuraku-yotei-no-kizoku-dakedo-hima-datta-kara-m-1837",
                                 "title": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1178/145396.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/touhai-ura-rate-mahjong-touhai-roku-1809",
                                 "title": "Touhai: Ura Rate Mahjong Touhai Roku",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1306/145571.jpg"
-                            },
-                            {
-                                "url": "/anime/ao-no-miburo-1808",
-                                "title": "Ao no Miburo",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1219/145596.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -514,13 +514,21 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://videos2.sendvid.com/8d/97/r5iq2s5x.mp4?validfrom=1736266085&validto=1736280485&rate=250k&ip=20.42.17.64&hash=FwZNOOJ45ZrrdxZuqBp3MZkPO8E%3D",
+                        "url": "https://videos2.sendvid.com/8d/97/r5iq2s5x.mp4?validfrom=1736288306&validto=1736302706&rate=250k&ip=172.190.111.22&hash=aBeJ%2B7O13Qu9zo5uJ8a6MoPiad8%3D",
                         "quality": "(VOSTFR) Sendvid:default",
-                        "videoUrl": "https://videos2.sendvid.com/8d/97/r5iq2s5x.mp4?validfrom=1736266085&validto=1736280485&rate=250k&ip=20.42.17.64&hash=FwZNOOJ45ZrrdxZuqBp3MZkPO8E%3D",
+                        "videoUrl": "https://videos2.sendvid.com/8d/97/r5iq2s5x.mp4?validfrom=1736288306&validto=1736302706&rate=250k&ip=172.190.111.22&hash=aBeJ%2B7O13Qu9zo5uJ8a6MoPiad8%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Origin": "https://https://sendvid.com/embed/r5iq2s5x",
                             "Referer": "https://https://sendvid.com/embed/r5iq2s5x/"
+                        }
+                    },
+                    {
+                        "url": "https://video.sibnet.ru/v/9e81574397229e07546ae225d99c1a58/5667905.mp4",
+                        "quality": "(VOSTFR) Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/9e81574397229e07546ae225d99c1a58/5667905.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5667905"
                         }
                     }
                 ],

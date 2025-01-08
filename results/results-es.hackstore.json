@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/quiz-show-el-dilema-1994/",
+                                "title": "Quiz Show: El dilema (1994)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/knukAW6MVHZOZBnEguH4tYzJwPM.jpg"
+                            },
+                            {
                                 "url": "/peliculas/numero-23-2007/",
                                 "title": "Número 23 (2007)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Wicked (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/q1czoLwMaiUO1bznWuETCP5ueZj.jpg"
-                            },
-                            {
-                                "url": "/peliculas/culpa-tuya-2024/",
-                                "title": "Culpa tuya (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/numero-23-2007/",
-                    "title": "Número 23 (2007)",
-                    "artist": "Jim Carrey",
-                    "author": "Joel Schumacher Elenco: Jim Carrey",
-                    "description": "Un hombre vive obsesionado con un libro que parece describir detalles de su vida íntima. El hombre empieza a sentirse amenazado y se vuelve paranoico debido a un número que se repite una y otra vez en el libro: el 23.",
-                    "genre": "Crimen, Misterio, Suspenso",
+                    "url": "/peliculas/quiz-show-el-dilema-1994/",
+                    "title": "Quiz Show: El dilema (1994)",
+                    "artist": "Ralph Fiennes",
+                    "author": "Robert Redford",
+                    "description": "Entre 1956 y 1959, Charles Van Doren, perteneciente a una prestigiosa familia de intelectuales y profesor de inglés de la universidad de Columbia, se convirtió en uno de los personajes más populares de Estados Unidos gracias a su participación en el concurso de televisión ”Twenty One”. Durante tres años contestó siempre las más variadas y difíciles preguntas. Pero, cuando su popularidad había llegado a todos los rincones del país, estalló el escándalo: uno de los concursantes eliminados denunció que el concurso estaba amañado.",
+                    "genre": "Drama, Historia, Misterio",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/h0T3FmHI7PFhUseoySCBPFjxP0O.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/knukAW6MVHZOZBnEguH4tYzJwPM.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/numero-23-2007/",
+                        "url": "/peliculas/quiz-show-el-dilema-1994/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -266,9 +266,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-gi44ckdfnm99vidr.voe-network.net/engine/hls2/01/13280/sp1q4pg1hsg4_,n,.urlset/index-v1-a1.m3u8?t=zVkDJFDvsebt0xxuEKrR3HWMsZBR5gN4ZscXotDL9X8&s=1736295440&e=14400&f=66400307&node=F4M3WQ74E+YxYp1ngHfYdN3eO+NE01nJ+SvVvDog8zM=&i=20.88&sp=2500&asn=8075&q=n",
+                        "url": "https://delivery-node-gfhwnzsavv8aeplx.voe-network.net/engine/hls2/01/13280/xqnjumuf8ynd_,n,.urlset/index-v1-a1.m3u8?t=hKVWSTl5I7UpYUdqFPhgVcfHhas1wqcTsyr0WdCwyf4&s=1736316445&e=14400&f=66402807&node=QGcobERqfcM2yswMIEocOI8J7zEGvFfdYIpB9DXxPOs=&i=172.183&sp=2500&asn=8075&q=n",
                         "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-gi44ckdfnm99vidr.voe-network.net/engine/hls2/01/13280/sp1q4pg1hsg4_,n,.urlset/index-v1-a1.m3u8?t=zVkDJFDvsebt0xxuEKrR3HWMsZBR5gN4ZscXotDL9X8&s=1736295440&e=14400&f=66400307&node=F4M3WQ74E+YxYp1ngHfYdN3eO+NE01nJ+SvVvDog8zM=&i=20.88&sp=2500&asn=8075&q=n",
+                        "videoUrl": "https://delivery-node-gfhwnzsavv8aeplx.voe-network.net/engine/hls2/01/13280/xqnjumuf8ynd_,n,.urlset/index-v1-a1.m3u8?t=hKVWSTl5I7UpYUdqFPhgVcfHhas1wqcTsyr0WdCwyf4&s=1736316445&e=14400&f=66402807&node=QGcobERqfcM2yswMIEocOI8J7zEGvFfdYIpB9DXxPOs=&i=172.183&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }

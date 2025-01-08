@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/el-rastro",
+                                "title": "El rastro (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/a0txtq4bL5CogdykQDdLMdtkc5C.jpg"
+                            },
+                            {
                                 "url": "/serie/la-dimension-desconocida",
                                 "title": "La dimensión desconocida (19591964)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/hCkoDjeFF3G619EQ58vCkYoIPsB.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/secret-level",
                                 "title": "Secret Level (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/vp1136OQ2mEp2KsEJrZDlXPMk8j.jpg"
-                            },
-                            {
-                                "url": "/serie/astronauta",
-                                "title": "Astronauta (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/vxpGmqRuyk4y179ltiJWvVqbbhh.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/la-dimension-desconocida",
-                    "title": "La dimensión desconocida (19591964)",
-                    "description": "Serie de televisión especializada en el género de la ciencia-ficción. Fue creada por su narrador y anfitrión, Rod Serling, y cada episodio recrea un relato de fantasía, terror, suspense o ciencia ficción, a menudo rematado por un final sorprendente..",
-                    "genre": "Drama, Misterio, Sci-Fi & Fantasy",
+                    "url": "/serie/el-rastro",
+                    "title": "El rastro (2024)",
+                    "description": "Tras 16 años sin resolver un impactante doble homicidio, un detective se alía con un genealogista para encontrar al asesino antes de que se archive el caso..",
+                    "genre": "Crimen, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hCkoDjeFF3G619EQ58vCkYoIPsB.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/a0txtq4bL5CogdykQDdLMdtkc5C.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/la-dimension-desconocida/temporada/4/capitulo/18",
-                        "name": "T4 - E18: El bardo",
-                        "episode_number": 120.0
+                        "url": "/serie/el-rastro/temporada/1/capitulo/4",
+                        "name": "T1 - E4: Episodio 4",
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/serie/la-dimension-desconocida/temporada/4/capitulo/17",
-                        "name": "T4 - E17: Pasaje en el Lady Anne",
-                        "episode_number": 119.0
+                        "url": "/serie/el-rastro/temporada/1/capitulo/3",
+                        "name": "T1 - E3: Episodio 3",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
@@ -714,9 +714,9 @@
                         }
                     },
                     {
-                        "url": "https://18jij6rntf.premilkyway.com/hls2/01/07819/m74vtubqtv86_n/index-v1-a1.m3u8?t=ve9bZbkVD0eCt7iwtKYG-UySzm3y1vIal6JFcDH2bnw&s=1736295544&e=129600&f=39098833&srv=44ltbh0sz473d&i=0.4&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
+                        "url": "https://18jij6rntf.premilkyway.com/hls2/01/07819/m74vtubqtv86_n/index-v1-a1.m3u8?t=P0hYfw6kPE08FIfrBJFxG3fkAoGC-xq2XweKJwk6m8c&s=1736316526&e=129600&f=39098833&srv=44ltbh0sz473d&i=0.4&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
                         "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://18jij6rntf.premilkyway.com/hls2/01/07819/m74vtubqtv86_n/index-v1-a1.m3u8?t=ve9bZbkVD0eCt7iwtKYG-UySzm3y1vIal6JFcDH2bnw&s=1736295544&e=129600&f=39098833&srv=44ltbh0sz473d&i=0.4&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
+                        "videoUrl": "https://18jij6rntf.premilkyway.com/hls2/01/07819/m74vtubqtv86_n/index-v1-a1.m3u8?t=P0hYfw6kPE08FIfrBJFxG3fkAoGC-xq2XweKJwk6m8c&s=1736316526&e=129600&f=39098833&srv=44ltbh0sz473d&i=0.4&sp=500&p1=44ltbh0sz473d&p2=44ltbh0sz473d&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -725,9 +725,9 @@
                         }
                     },
                     {
-                        "url": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/03421/6y52z3264754_,l,n,.urlset/index-f2-v1-a1.m3u8?t=popURDINoDSfBN6Q8plS6thfyDpPBWwwzFJok-pKNGM&s=1736295542&e=129600&f=17106110&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=8075",
+                        "url": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/03421/6y52z3264754_,l,n,.urlset/index-f2-v1-a1.m3u8?t=6h8pMkkIoikrCfE6ONFvAsYDSLyCb-0ML5w4Vr8Mvfc&s=1736316524&e=129600&f=17106110&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=8075",
                         "quality": "[LAT] StreamHideVid:720p",
-                        "videoUrl": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/03421/6y52z3264754_,l,n,.urlset/index-f2-v1-a1.m3u8?t=popURDINoDSfBN6Q8plS6thfyDpPBWwwzFJok-pKNGM&s=1736295542&e=129600&f=17106110&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=8075",
+                        "videoUrl": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/03421/6y52z3264754_,l,n,.urlset/index-f2-v1-a1.m3u8?t=6h8pMkkIoikrCfE6ONFvAsYDSLyCb-0ML5w4Vr8Mvfc&s=1736316524&e=129600&f=17106110&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -736,17 +736,17 @@
                         }
                     },
                     {
-                        "url": "https://a7pmc6uwtn.guardstorage.net/hls_3/M4wdVmCUpG9NJoBFqNhUHnyVnpcmCqsnx1ltYoQ-VUxIwu8AYJQMFCx321aiUCRl2JG3qNr9ROxJ0ewlQIq6Vg/index-f2-v1-a1.m3u8?sig=scjsTt8_1g4DM5yZN0PvCw&expires=1736304567",
+                        "url": "https://a7pmc6uwtn.guardstorage.net/hls_3/M4wdVmCUpG9NJoBFqNhUHnyVnpcmCqsnx1ltYoQ-VUxtCwA20Phno1Edj5E1zcjwY5qVv_2ReH-Z1DO0gw_juQ/index-f2-v1-a1.m3u8?sig=hyiTKfX7vpVggjLc1lRWVg&expires=1736325548",
                         "quality": "[LAT] VidGuard:480p",
-                        "videoUrl": "https://a7pmc6uwtn.guardstorage.net/hls_3/M4wdVmCUpG9NJoBFqNhUHnyVnpcmCqsnx1ltYoQ-VUxIwu8AYJQMFCx321aiUCRl2JG3qNr9ROxJ0ewlQIq6Vg/index-f2-v1-a1.m3u8?sig=scjsTt8_1g4DM5yZN0PvCw&expires=1736304567",
+                        "videoUrl": "https://a7pmc6uwtn.guardstorage.net/hls_3/M4wdVmCUpG9NJoBFqNhUHnyVnpcmCqsnx1ltYoQ-VUxtCwA20Phno1Edj5E1zcjwY5qVv_2ReH-Z1DO0gw_juQ/index-f2-v1-a1.m3u8?sig=hyiTKfX7vpVggjLc1lRWVg&expires=1736325548",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/03421/6y52z3264754_,l,n,.urlset/index-f1-v1-a1.m3u8?t=popURDINoDSfBN6Q8plS6thfyDpPBWwwzFJok-pKNGM&s=1736295542&e=129600&f=17106110&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=8075",
+                        "url": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/03421/6y52z3264754_,l,n,.urlset/index-f1-v1-a1.m3u8?t=6h8pMkkIoikrCfE6ONFvAsYDSLyCb-0ML5w4Vr8Mvfc&s=1736316524&e=129600&f=17106110&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=8075",
                         "quality": "[LAT] StreamHideVid:480p",
-                        "videoUrl": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/03421/6y52z3264754_,l,n,.urlset/index-f1-v1-a1.m3u8?t=popURDINoDSfBN6Q8plS6thfyDpPBWwwzFJok-pKNGM&s=1736295542&e=129600&f=17106110&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=8075",
+                        "videoUrl": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/03421/6y52z3264754_,l,n,.urlset/index-f1-v1-a1.m3u8?t=6h8pMkkIoikrCfE6ONFvAsYDSLyCb-0ML5w4Vr8Mvfc&s=1736316524&e=129600&f=17106110&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -755,9 +755,9 @@
                         }
                     },
                     {
-                        "url": "https://a7pmc6uwtn.guardstorage.net/hls_3/M4wdVmCUpG9NJoBFqNhUHnyVnpcmCqsnx1ltYoQ-VUxIwu8AYJQMFCx321aiUCRl2JG3qNr9ROxJ0ewlQIq6Vg/index-f1-v1-a1.m3u8?sig=scjsTt8_1g4DM5yZN0PvCw&expires=1736304567",
+                        "url": "https://a7pmc6uwtn.guardstorage.net/hls_3/M4wdVmCUpG9NJoBFqNhUHnyVnpcmCqsnx1ltYoQ-VUxtCwA20Phno1Edj5E1zcjwY5qVv_2ReH-Z1DO0gw_juQ/index-f1-v1-a1.m3u8?sig=hyiTKfX7vpVggjLc1lRWVg&expires=1736325548",
                         "quality": "[LAT] VidGuard:240p",
-                        "videoUrl": "https://a7pmc6uwtn.guardstorage.net/hls_3/M4wdVmCUpG9NJoBFqNhUHnyVnpcmCqsnx1ltYoQ-VUxIwu8AYJQMFCx321aiUCRl2JG3qNr9ROxJ0ewlQIq6Vg/index-f1-v1-a1.m3u8?sig=scjsTt8_1g4DM5yZN0PvCw&expires=1736304567",
+                        "videoUrl": "https://a7pmc6uwtn.guardstorage.net/hls_3/M4wdVmCUpG9NJoBFqNhUHnyVnpcmCqsnx1ltYoQ-VUxtCwA20Phno1Edj5E1zcjwY5qVv_2ReH-Z1DO0gw_juQ/index-f1-v1-a1.m3u8?sig=hyiTKfX7vpVggjLc1lRWVg&expires=1736325548",
                         "headers": {
                             "Accept": "*/*"
                         }

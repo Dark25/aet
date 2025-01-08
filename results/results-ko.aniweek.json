@@ -247,11 +247,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728071683_0959.jpg"
                             },
                             {
-                                "url": "/c/새출발 영애는 용제 폐하를 공략중",
-                                "title": "새출발 영애는 용제 폐하를 공략중",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/486033e329fc045a3996286d1fc7f010_1727840583_3643.jpg"
-                            },
-                            {
                                 "url": "/c/어~이! 톤보 2기",
                                 "title": "어~이! 톤보 2기",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/79e26b0e9d34cdcdf49d508d28e02a38_1729453986_8226.jpg"
@@ -270,11 +265,6 @@
                                 "url": "/c/비밀의 아이프리",
                                 "title": "비밀의 아이프리",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2404/2c7f2d9b065a5953e536605d8c669e95_1712431564_9196.jpg"
-                            },
-                            {
-                                "url": "/c/다수결 2쿨",
-                                "title": "다수결 2쿨",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/b95872099a8d0d6c02f0753cc3ce091e_1728564998_4557.jpg"
                             },
                             {
                                 "url": "/c/아마가미 씨네 인연 맺기",
@@ -427,16 +417,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2409/de7b6d3d4c2045e7f25b52ae5b2628bb_1727373277_7638.jpg"
                             },
                             {
-                                "url": "/c/아크로 트립",
-                                "title": "아크로 트립",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/486033e329fc045a3996286d1fc7f010_1727840378_5453.jpg"
-                            },
-                            {
-                                "url": "/c/사랑은 쌍둥이로 나눌 수 없어",
-                                "title": "사랑은 쌍둥이로 나눌 수 없어",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2407/7500452d927c75169ddcaed4f0830992_1719892498_2645.jpg"
-                            },
-                            {
                                 "url": "/c/델리코스 너서리",
                                 "title": "델리코스 너서리",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2407/2595074404af44af29bd5ad1abe76910_1719960795_6773.jpg"
@@ -505,9 +485,24 @@
                                 "url": "/c/작혼 KAN!!",
                                 "title": "작혼 KAN!!",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2405/35b4e651c3a6ac46d66622c0396bec22_1714926793_9669.jpg"
+                            },
+                            {
+                                "url": "/c/도주중 그레이트 미션",
+                                "title": "도주중 그레이트 미션",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2304/1cd0a36ebfc2ba1c5ab6144020dfd187_1680446607_3244.jpg"
+                            },
+                            {
+                                "url": "/c/극주부도 2기",
+                                "title": "극주부도 2기",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2309/1ee71fce3d37bde64e91853d5a9e6ad7_1695750921_7396.jpg"
+                            },
+                            {
+                                "url": "/c/닌자라",
+                                "title": "닌자라",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2202/3ded5fbdf9a34390322526bc6ff2de68_1644689999_7554.jpg"
                             }
                         ],
-                        "hasNextPage": true
+                        "hasNextPage": false
                     }
                 ],
                 "passed": true
@@ -574,7 +569,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-16307301916392334511/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-16307301916392334511/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-16307301916392334511/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15684743522199463022/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15684743522199463022/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15684743522199463022/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

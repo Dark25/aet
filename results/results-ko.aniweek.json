@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/닥터 스톤 SCIENCE FUTURE",
+                                "title": "닥터 스톤 SCIENCE FUTURE",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/b0deee87426b341e66a4f19185b82cea_1736445190_7026.jpg"
+                            },
+                            {
+                                "url": "/c/뱅 드림! Ave Mujica",
+                                "title": "뱅 드림! Ave Mujica",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/3b00de9784768f0d818a3b4b02f328ce_1735840558_8056.jpg"
+                            },
+                            {
+                                "url": "/c/운명권대",
+                                "title": "운명권대",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/b0deee87426b341e66a4f19185b82cea_1736440727_4266.jpg"
+                            },
+                            {
                                 "url": "/c/허니 레몬 소다",
                                 "title": "허니 레몬 소다",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/0af2b5930f6ccacb2ff9841d3f89ac28_1736413099_0462.jpg"
@@ -200,11 +215,6 @@
                                 "url": "/c/푸른 상자",
                                 "title": "푸른 상자",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727982170_7073.jpg"
-                            },
-                            {
-                                "url": "/c/뱅 드림! Ave Mujica",
-                                "title": "뱅 드림! Ave Mujica",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2501/3b00de9784768f0d818a3b4b02f328ce_1735840558_8056.jpg"
                             },
                             {
                                 "url": "/c/페이트 스트레인지 페이크",
@@ -524,10 +534,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/허니 레몬 소다",
-                    "title": "허니 레몬 소다",
-                    "description": "원제: ハニーレモンソーダ\n원작: 무라타 마유\n감독: 니시키오리 히로시\n각본: 와바 아키코\n캐릭터 디자인: 타나카 아이미\n음악: 코세무라 아키라\n장르: 순정, 연애, 학원\n방영일: 2025.01.09 00:55 (목)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/0af2b5930f6ccacb2ff9841d3f89ac28_1736413099_0462.jpg",
+                    "url": "/c/닥터 스톤 SCIENCE FUTURE",
+                    "title": "닥터 스톤 SCIENCE FUTURE",
+                    "description": "원제: ドクターストーン SCIENCE FUTURE\n원작: 이나가키 리이치로\n감독: 마츠시타 슈헤이\n각본: 스나야마 쿠라스미\n캐릭터 디자인: 이와사 유코\n음악: 카토 타츠야, 츠츠미 히로아키, 유키 카네사카\n장르: SF, 액션, 모험, 전투, 과학\n방영일: 2025.01.09 22:00 (목)\n등급: 15\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/b0deee87426b341e66a4f19185b82cea_1736445190_7026.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -535,16 +545,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/허니 레몬 소다 1화",
-                        "name": "허니 레몬 소다 1화",
-                        "date_upload": 1736380800000,
+                        "url": "/e/닥터 스톤 SCIENCE FUTURE 1화",
+                        "name": "닥터 스톤 SCIENCE FUTURE 1화",
+                        "date_upload": 1736467200000,
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7453514002332723768/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7453514002332723768/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7453514002332723768/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-1095303196814503209/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-1095303196814503209/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-1095303196814503209/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

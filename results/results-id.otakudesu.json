@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/meido-sama-sub-indo/",
+                                "title": "Kimi wa Meido-sama.",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/Kimi-wa-Meido-sama-Sub-Indo.jpg"
+                            },
+                            {
+                                "url": "/anime/party-kara-chyishu-sub-indo/",
+                                "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/Party-kara-Tsuihou-sareta-Sono-Chiyushi-Jitsu-wa-Saikyou-ni-Tsuki-Sub-Indo.jpg"
+                            },
+                            {
                                 "url": "/anime/nega-angler-sub-indo/",
                                 "title": "NegaPosi Angler",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/NegaPosi-Angler-Sub-Indo.jpg"
@@ -120,16 +130,6 @@
                                 "url": "/anime/lv2-kara-cheat-sub-indo/",
                                 "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Lv2-kara-Cheat-datta-Motoyuusha-Kouho-no-Mattari-Isekai-Life-Sub-Indo.jpg"
-                            },
-                            {
-                                "url": "/anime/hananoi-koi-yamai-sub-indo/",
-                                "title": "Hananoi-kun to Koi no Yamai",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Hananoi-kun-to-Koi-no-Yamai-Sub-Indo.jpg"
-                            },
-                            {
-                                "url": "/anime/brtender-kami-glass-sub-indo/",
-                                "title": "Bartender: Kami no Glass",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Bartender-Kami-no-Glass-Sub-Indo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7382401546489752599/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7382401546489752599/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7382401546489752599/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-16810569721998838426/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-16810569721998838426/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-16810569721998838426/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7382401546489752599/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7382401546489752599/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7382401546489752599/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-16810569721998838426/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-16810569721998838426/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-16810569721998838426/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

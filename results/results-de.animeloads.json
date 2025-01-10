@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/sousei-no-aquarion-myth-of-emotions",
+                                "title": "Aquarion: Myth of Emotions",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ezgif-5-e348774305.jpg"
+                            },
+                            {
+                                "url": "/media/douse-koishite-shimau-n-da",
+                                "title": "Anyway, I’m Falling in Love with You",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-douse-koishite-shimau-n-da-cover.jpg"
+                            },
+                            {
+                                "url": "/media/akuyaku-reijou-tensei-oji-san",
+                                "title": "From Bureaucrat to Villainess: Dad’s Been Reincarnated!",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-akuyaku-reijou-tensei-oji-san-cover.jpg"
+                            },
+                            {
                                 "url": "/media/dr-stone-science-future",
                                 "title": "Dr. Stone: Science Future",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-dr-stone-science-future-cover-1.jpg"
@@ -90,21 +105,6 @@
                                 "url": "/media/okinawa-de-suki-ni-natta-ko-ga-hougen-sugitetsura-sugiru",
                                 "title": "Okitsura: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She’s Saying",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-okinawa-de-suki-ni-natta-ko-ga-hougen-sugitetsura-sugiru-cover.jpg"
-                            },
-                            {
-                                "url": "/media/medalist",
-                                "title": "Medalist",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-medalist-cover.jpg"
-                            },
-                            {
-                                "url": "/media/ore-dake-level-up-na-ken-arise-from-the-shadow",
-                                "title": "Solo Leveling: Arise from the Shadow",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ore-dake-level-up-na-ken-arise-from-the-shadow-cover.png"
-                            },
-                            {
-                                "url": "/media/neet-kunoichi-to-naze-ka-dousei-hajimemashita",
-                                "title": "I’m Living with an Otaku NEET Kunoichi!?",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-neet-kunoichi-to-naze-ka-dousei-hajimemashita-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/dr-stone-science-future",
-                    "title": "Dr. Stone: Science Future",
+                    "url": "/media/sousei-no-aquarion-myth-of-emotions",
+                    "title": "Aquarion: Myth of Emotions",
                     "author": "",
-                    "description": "Vierte Staffel von Dr. Stone. Quelle: aniSearch",
-                    "genre": "Abenteuer",
+                    "description": "Quelle: aniSearch",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-dr-stone-science-future-cover-1.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ezgif-5-e348774305.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,15 +239,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/dr-stone-science-future#streams_episodes_1_0",
-                        "name": "Ep.1 Ryūsui vs. Senkū",
+                        "url": "/media/sousei-no-aquarion-myth-of-emotions#streams_episodes_1_0",
+                        "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-9598562992547755751/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-9598562992547755751/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-9598562992547755751/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-14391571556475561412/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-14391571556475561412/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-14391571556475561412/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/상성의 아쿠에리온 Myth of Emotions",
+                                "title": "상성의 아쿠에리온 Myth of Emotions",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/b0deee87426b341e66a4f19185b82cea_1736456539_7503.jpg"
+                            },
+                            {
+                                "url": "/c/악역영애 전생 아저씨",
+                                "title": "악역영애 전생 아저씨",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/b0deee87426b341e66a4f19185b82cea_1736454966_2182.jpg"
+                            },
+                            {
                                 "url": "/c/닥터 스톤 SCIENCE FUTURE",
                                 "title": "닥터 스톤 SCIENCE FUTURE",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/b0deee87426b341e66a4f19185b82cea_1736445190_7026.jpg"
@@ -534,10 +544,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/닥터 스톤 SCIENCE FUTURE",
-                    "title": "닥터 스톤 SCIENCE FUTURE",
-                    "description": "원제: ドクターストーン SCIENCE FUTURE\n원작: 이나가키 리이치로\n감독: 마츠시타 슈헤이\n각본: 스나야마 쿠라스미\n캐릭터 디자인: 이와사 유코\n음악: 카토 타츠야, 츠츠미 히로아키, 유키 카네사카\n장르: SF, 액션, 모험, 전투, 과학\n방영일: 2025.01.09 22:00 (목)\n등급: 15\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/b0deee87426b341e66a4f19185b82cea_1736445190_7026.jpg",
+                    "url": "/c/상성의 아쿠에리온 Myth of Emotions",
+                    "title": "상성의 아쿠에리온 Myth of Emotions",
+                    "description": "원제: 想星のアクエリオン Myth of Emotions\n원작: 카와모리 쇼지, Satelight\n감독: 이토소 켄지\n각본: 무라이 사다유키\n캐릭터 디자인: 쿠도 마사시\n음악: 오마마 타카시, 카네마츠 슈\n장르: 로봇, 메카닉\n방영일: 2025.01.10 00:30 (금)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/b0deee87426b341e66a4f19185b82cea_1736456539_7503.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -545,8 +555,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/닥터 스톤 SCIENCE FUTURE 1화",
-                        "name": "닥터 스톤 SCIENCE FUTURE 1화",
+                        "url": "/e/상성의 아쿠에리온 Myth of Emotions 1화",
+                        "name": "상성의 아쿠에리온 Myth of Emotions 1화",
                         "date_upload": 1736467200000,
                         "episode_number": 1.0
                     }
@@ -554,7 +564,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-1095303196814503209/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-1095303196814503209/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-1095303196814503209/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-5771164890925194161/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-5771164890925194161/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-5771164890925194161/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

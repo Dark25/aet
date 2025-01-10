@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/douse-koishite-shimaunda",
+                                "title": "Douse, Koishite Shimaunda.",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933858.jpg"
+                            },
+                            {
                                 "url": "/anime/sousei-no-aquarion-myth-of-emotions",
                                 "title": "Sousei no Aquarion: Myth of Emotions",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933857.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/zenshuu",
                                 "title": "Zenshuu.",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933843.jpg"
-                            },
-                            {
-                                "url": "/anime/kisaki-kyouiku-kara-nigetai-watashi",
-                                "title": "Kisaki Kyouiku kara Nigetai Watashi",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933842.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/sousei-no-aquarion-myth-of-emotions",
-                    "title": "Sousei no Aquarion: Myth of Emotions",
-                    "description": "Enoshima is a small island floating in the Shonan Sea. On its beautiful and tranquil beach is Private Enoshima Academy. The school gathers talented children from all over the country and provides them with a gifted education using the latest equipment. Sakko, Rimiya, and Toshi, who have been selected as students in the special reinforcement class “Elements”, are ordered to pilot the “Vector Machine”, a fighter plane powered by the power of emotion, and are forced to fight against the mysterious invasion weapon “Mythical Beasts”. The boys and girls, burdened with their destinies, will come face to face with the truth of the universe as the mysterious organization Space Egg Society and the intentions of adults intersect.",
-                    "genre": "Action, Sci-fi, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933857.jpg",
+                    "url": "/anime/douse-koishite-shimaunda",
+                    "title": "Douse, Koishite Shimaunda.",
+                    "description": "Mizuha’s 17th birthday is the pits. Her parents totally forgot, and the senpai she likes isn’t interested in her. But when her longtime childhood friend asks her out, Mizuha has to sort out what this change in relationship could mean. And her feelings may not be the only ones changing…!",
+                    "genre": "Drama, Romance, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933858.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/douse-koishite-shimaunda-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWeNBB7POn0kSIBUu1NkttAcqKmdUYtc7RCkxZXC14nvuAleL_8glkVzIINMAJd3sYH5gbcSTRFbdIooj6o1IeBT-aQarOE2TfDFyRE4wxnVYad6lYyekei2F9GLz8wYdYhaB1zpyPx41OXC6oYspbwa-lYvWz_UHfa19LfCJSszisSY_tQIiwbkoAxRX4q9UO2whWGUt5_UUvNlNT97krvzqSq2xsuhped8prc0Hb3a3Yiy7RIn-Sz9rmwmgAQmtBKG806Wf-_Q4o-K0HfKNozUQTJqfIbsW7DuIkUoOJMASVtS6_ql_PqCtqFcmWSzkxCmRzJo5NJ_zgGh6TNksZ1vWV94aJviyIf_JVjso1vuz8BOfxhFm1Lydu151NeSQY",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWeNBB7POn0kSIBUu1NkttAcqKmdUYtc7RCkxZXC14nvuAleL_8glkVzIINMAJd3sYH5gbcSTRFbdIooj6o1IeBT-aQarOE2TfDFyRE4wxnVYad6lYyekei2F9GLz8wYdYhaB1zpyPx41OXC6oYspbwa-lYvWz_UHfa19LfCJSszisSY_tQIiwbkoAxRX4q9UO2whWGUt5_UUvNlNT97krvzqSq2xsuhped8prc0Hb3a3Yiy7RIn-Sz9rmwmgAQmtBKG806Wf-_Q4o-K0HfKNozUQTJqfIbsW7DuIkUoOJMASVtS6_ql_PqCtqFcmWSzkxCmRzJo5NJ_zgGh6TNksZ1vWV94aJviyIf_JVjso1vuz8BOfxhFm1Lydu151NeSQY"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWeNBB7POn0kSIBUu1NkttAcqKmdUYtc7RCkxZXC14nvuAleL_8glkVzIINMAJd3sYH5gbcSTRFbdIooj6o1IeBT-aQarOE2TfDFyRE4wxnVTaGvQ4itkqmCg8o8VAe_MUtyFUm4AOE3DkS39mYtMxBw8RLQYYId3g_aKH8Yt-v1scqtyAJVwsduPRbyInpW1ivjJqNhpnGHPWix0TlO6eG7OxiXnN2fjwRx8-mxDlaP-AMZSKeOsu6NZkhg01EP2wFNPv4k3iiNm7xh3T8KzBDrNihAlXWW_yyUNOh-iQWEGU9irBVBHKdUsC6kessmipcYQvFG-rqZmoRu0-LobBGEbF3jpNfYAYGFO7S69ElcCUkWHJUSMCxMAUte6QoyWw",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWeNBB7POn0kSIBUu1NkttAcqKmdUYtc7RCkxZXC14nvuAleL_8glkVzIINMAJd3sYH5gbcSTRFbdIooj6o1IeBT-aQarOE2TfDFyRE4wxnVTaGvQ4itkqmCg8o8VAe_MUtyFUm4AOE3DkS39mYtMxBw8RLQYYId3g_aKH8Yt-v1scqtyAJVwsduPRbyInpW1ivjJqNhpnGHPWix0TlO6eG7OxiXnN2fjwRx8-mxDlaP-AMZSKeOsu6NZkhg01EP2wFNPv4k3iiNm7xh3T8KzBDrNihAlXWW_yyUNOh-iQWEGU9irBVBHKdUsC6kessmipcYQvFG-rqZmoRu0-LobBGEbF3jpNfYAYGFO7S69ElcCUkWHJUSMCxMAUte6QoyWw"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWeNBB7POn0kSIBUu1NkttAcqKmdUYtc7RCkxZXC14nvuAleL_8glkVzIINMAJd3sYH5gbcSTRFbdIooj6o1IeBT-aQarOE2TfDFyRE4wxnVUIOuDdmgXxoZ5lPNlE9fWj1ZU_Y6hTKeQgPsK1n_QAXesDTQk97-i5SEjS5fziORl528Y0QoK4ubTocIz3XJJBfsFwQLF4RIrVJ92QKFD80-WmOBjAedCkTjqjwSb_3297yKeLyyUwNP59qiUemoh9Cw7A1C_J0sZy-DHKJpvsSI0ww1Cx1nTO6jVECHQYB_o_ut8tncqa__Qb3jYQ-EuBTAzcjf7wyyfrxkMPuJadndIQStqPalmBgWLmoG3Ib98FqGcGyMB3b0hZfc7LV_iA",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuWeNBB7POn0kSIBUu1NkttAcqKmdUYtc7RCkxZXC14nvuAleL_8glkVzIINMAJd3sYH5gbcSTRFbdIooj6o1IeBT-aQarOE2TfDFyRE4wxnVUIOuDdmgXxoZ5lPNlE9fWj1ZU_Y6hTKeQgPsK1n_QAXesDTQk97-i5SEjS5fziORl528Y0QoK4ubTocIz3XJJBfsFwQLF4RIrVJ92QKFD80-WmOBjAedCkTjqjwSb_3297yKeLyyUwNP59qiUemoh9Cw7A1C_J0sZy-DHKJpvsSI0ww1Cx1nTO6jVECHQYB_o_ut8tncqa__Qb3jYQ-EuBTAzcjf7wyyfrxkMPuJadndIQStqPalmBgWLmoG3Ib98FqGcGyMB3b0hZfc7LV_iA"
+                    }
+                ],
+                "passed": true
             }
         }
     }

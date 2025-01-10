@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/불우직 【감정사】는 사실은 최강이었다",
+                                "title": "불우직 【감정사】는 사실은 최강이었다",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/77bc6a6333e062dc88fa1e1fe1f0c40e_1736509059_3014.jpg"
+                            },
+                            {
+                                "url": "/c/바람의 검심 -메이지 검객 낭만기- 교토동란",
+                                "title": "바람의 검심 -메이지 검객 낭만기- 교토동란",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728055386_3733.jpg"
+                            },
+                            {
                                 "url": "/c/상성의 아쿠에리온 Myth of Emotions",
                                 "title": "상성의 아쿠에리온 Myth of Emotions",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/b0deee87426b341e66a4f19185b82cea_1736456539_7503.jpg"
@@ -357,11 +367,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728073449_7172.jpg"
                             },
                             {
-                                "url": "/c/바람의 검심 -메이지 검객 낭만기- 교토동란",
-                                "title": "바람의 검심 -메이지 검객 낭만기- 교토동란",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728055386_3733.jpg"
-                            },
-                            {
                                 "url": "/c/던전에서 만남을 추구하면 안 되는 걸까 Ⅴ",
                                 "title": "던전에서 만남을 추구하면 안 되는 걸까 Ⅴ",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727979647_5952.jpg"
@@ -499,10 +504,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/상성의 아쿠에리온 Myth of Emotions",
-                    "title": "상성의 아쿠에리온 Myth of Emotions",
-                    "description": "원제: 想星のアクエリオン Myth of Emotions\n원작: 카와모리 쇼지, Satelight\n감독: 이토소 켄지\n각본: 무라이 사다유키\n캐릭터 디자인: 쿠도 마사시\n음악: 오마마 타카시, 카네마츠 슈\n장르: 로봇, 메카닉\n방영일: 2025.01.10 00:30 (금)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/b0deee87426b341e66a4f19185b82cea_1736456539_7503.jpg",
+                    "url": "/c/불우직 【감정사】는 사실은 최강이었다",
+                    "title": "불우직 【감정사】는 사실은 최강이었다",
+                    "description": "원제: 不遇職【鑑定士】が実は最強だった\n원작: 이바라키노\n감독: 오오니시 켄타\n각본: 마치다 토코\n캐릭터 디자인: 사키모토 사유리\n음악: 호노 사토시\n장르: 판타지\n방영일: 2025.01.09 23:30 (목)\n등급: 15\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/77bc6a6333e062dc88fa1e1fe1f0c40e_1736509059_3014.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -510,8 +515,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/상성의 아쿠에리온 Myth of Emotions 1화",
-                        "name": "상성의 아쿠에리온 Myth of Emotions 1화",
+                        "url": "/e/불우직 【감정사】는 사실은 최강이었다 1화",
+                        "name": "불우직 【감정사】는 사실은 최강이었다 1화",
                         "date_upload": 1736467200000,
                         "episode_number": 1.0
                     }
@@ -519,7 +524,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-5412560098611775644/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-5412560098611775644/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-5412560098611775644/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-11453894399054973326/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-11453894399054973326/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-11453894399054973326/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

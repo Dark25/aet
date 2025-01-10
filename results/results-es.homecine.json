@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/te-echo-de-menos/",
+                                "title": "Te echo de menos",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hstveoYFhEibMrHxnxfLhnlj3Sx.jpg"
+                            },
+                            {
+                                "url": "/serie/univerxo-dabiz/",
+                                "title": "UniverXO Dabiz",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/o4H9xlstZzLJZw0NJA95IaU1yor.jpg"
+                            },
+                            {
                                 "url": "/serie/elena-de-avalor/",
                                 "title": "Elena de Ávalor",
                                 "description": "",
@@ -101,18 +113,6 @@
                                 "title": "It's in the Game: Madden NFL",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/9mMLbARKdt1pICEkWAqeEzgO8Il.jpg"
-                            },
-                            {
-                                "url": "/serie/lisa-frank-luces-sombras-y-purpurina/",
-                                "title": "Lisa Frank: Luces, sombras y purpurina",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ri3vLLAe1Votkz3nVuFUix18D1Y.jpg"
-                            },
-                            {
-                                "url": "/serie/fuerza-policial-india/",
-                                "title": "FUERZA POLICIAL INDIA",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/eScKMsLBXjtbtcOGZEf92a9bisJ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,100 +240,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/elena-de-avalor/",
-                    "title": "Elena de Ávalor",
-                    "description": "Elena of Avalor La princesa adolescente Elena ha salvado su reino mágico, Avalor, de una hechicera malvada y ahora tiene que aprender a gobernar como su princesa coronada. Las aventuras de Elena la llevarán a entender que su nuevo rol requiere consideración, paciencia y compasión, las cualidades de los verdaderamente grandes líderes. Cómo solo tiene 16 años, un Consejo Mayor compuesto de sus abuelos; su primo mayor el Canciller Esteban, y una nueva amiga, Naomi, está allí para darle consejos. Elena también cuenta con su hermana más joven Isabel, sus amigos Mateo y Gabe, el espíritu de un animal llamado Zuzo, y un trío de criaturas mágicas voladoras llamado Jaquins (una raza de jaguares alados) para que sean sus guías y apoyo.",
-                    "genre": "Animación, Kids",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/se8bejjwLz56qm1gOCLpVjK8iVk.jpg",
+                    "url": "/serie/te-echo-de-menos/",
+                    "title": "Te echo de menos",
+                    "description": "Missing You Cuando la detective Kat Donovan encuentra a su exnovio desaparecido en una aplicación de citas, descubre que algunos secretos es mejor dejarlos enterrados.",
+                    "genre": "Crimen, Drama, Misterio",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hstveoYFhEibMrHxnxfLhnlj3Sx.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/capitulo/elena-de-avalor-temporada-2-episodio-25/",
-                        "name": "T2 - Episodio 24",
-                        "episode_number": 24.0
-                    },
-                    {
-                        "url": "/capitulo/elena-de-avalor-temporada-2-episodio-24/",
-                        "name": "T2 - Episodio 24",
-                        "episode_number": 24.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s40.fastream.to/hls2/06/00071/qvudetix5j4s_h/index-v1-a1.m3u8?t=WaJa1W4MR01DGYfktPvoOFHAvNII-B9RIRTas0n16TQ&s=1736510927&e=43200&v=53410915&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/06/00071/qvudetix5j4s_h/index-v1-a1.m3u8?t=WaJa1W4MR01DGYfktPvoOFHAvNII-B9RIRTas0n16TQ&s=1736510927&e=43200&v=53410915&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/06/00071/qvudetix5j4s_n/index-v1-a1.m3u8?t=WaJa1W4MR01DGYfktPvoOFHAvNII-B9RIRTas0n16TQ&s=1736510927&e=43200&v=53410915&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/06/00071/qvudetix5j4s_n/index-v1-a1.m3u8?t=WaJa1W4MR01DGYfktPvoOFHAvNII-B9RIRTas0n16TQ&s=1736510927&e=43200&v=53410915&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/06/00071/qvudetix5j4s_l/index-v1-a1.m3u8?t=WaJa1W4MR01DGYfktPvoOFHAvNII-B9RIRTas0n16TQ&s=1736510927&e=43200&v=53410915&i=0.3&sp=0",
-                        "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/06/00071/qvudetix5j4s_l/index-v1-a1.m3u8?t=WaJa1W4MR01DGYfktPvoOFHAvNII-B9RIRTas0n16TQ&s=1736510927&e=43200&v=53410915&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/16/00071/r8zc4tux977s_h/index-v1-a1.m3u8?t=FwtUQ8RB1w_Yvh-9lLjDu6Glq2Hz4JO24j3eGckaXkA&s=1736510928&e=43200&v=53410924&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:720p",
-                        "videoUrl": "https://s40.fastream.to/hls2/16/00071/r8zc4tux977s_h/index-v1-a1.m3u8?t=FwtUQ8RB1w_Yvh-9lLjDu6Glq2Hz4JO24j3eGckaXkA&s=1736510928&e=43200&v=53410924&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/16/00071/r8zc4tux977s_n/index-v1-a1.m3u8?t=FwtUQ8RB1w_Yvh-9lLjDu6Glq2Hz4JO24j3eGckaXkA&s=1736510928&e=43200&v=53410924&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:480p",
-                        "videoUrl": "https://s40.fastream.to/hls2/16/00071/r8zc4tux977s_n/index-v1-a1.m3u8?t=FwtUQ8RB1w_Yvh-9lLjDu6Glq2Hz4JO24j3eGckaXkA&s=1736510928&e=43200&v=53410924&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s40.fastream.to/hls2/16/00071/r8zc4tux977s_l/index-v1-a1.m3u8?t=FwtUQ8RB1w_Yvh-9lLjDu6Glq2Hz4JO24j3eGckaXkA&s=1736510928&e=43200&v=53410924&i=0.3&sp=0",
-                        "quality": "[CAST] Fastream:360p",
-                        "videoUrl": "https://s40.fastream.to/hls2/16/00071/r8zc4tux977s_l/index-v1-a1.m3u8?t=FwtUQ8RB1w_Yvh-9lLjDu6Glq2Hz4JO24j3eGckaXkA&s=1736510928&e=43200&v=53410924&i=0.3&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

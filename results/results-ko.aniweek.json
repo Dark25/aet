@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/어차피 사랑하고 만다",
+                                "title": "어차피 사랑하고 만다",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/77bc6a6333e062dc88fa1e1fe1f0c40e_1736524616_966.jpg"
+                            },
+                            {
+                                "url": "/c/푸른 상자",
+                                "title": "푸른 상자",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727982170_7073.jpg"
+                            },
+                            {
+                                "url": "/c/트릴리온 게임",
+                                "title": "트릴리온 게임",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728056359_4728.jpg"
+                            },
+                            {
+                                "url": "/c/아라포 남자의 이세계 통판",
+                                "title": "아라포 남자의 이세계 통판",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/6054a8360c0b63d3e88882323da5f2d3_1736513511_981.jpg"
+                            },
+                            {
                                 "url": "/c/불우직 【감정사】는 사실은 최강이었다",
                                 "title": "불우직 【감정사】는 사실은 최강이었다",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/77bc6a6333e062dc88fa1e1fe1f0c40e_1736509059_3014.jpg"
@@ -227,11 +247,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/a0c2b3bad8a86be1b0855305cc846fee_1735921438_5106.jpg"
                             },
                             {
-                                "url": "/c/푸른 상자",
-                                "title": "푸른 상자",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727982170_7073.jpg"
-                            },
-                            {
                                 "url": "/c/페이트 스트레인지 페이크",
                                 "title": "페이트 스트레인지 페이크",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/bf2d4eb551d4812ee2b7d60527428479_1735735126_891.jpg"
@@ -340,11 +355,6 @@
                                 "url": "/c/동패 ~뒷세계 레이트 마작투패록~",
                                 "title": "동패 ~뒷세계 레이트 마작투패록~",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/5135c9975f9b89ed9a4e44ebc9012b86_1728128490_6283.jpg"
-                            },
-                            {
-                                "url": "/c/트릴리온 게임",
-                                "title": "트릴리온 게임",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728056359_4728.jpg"
                             },
                             {
                                 "url": "/c/란마 ½ (2024)",
@@ -504,10 +514,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/불우직 【감정사】는 사실은 최강이었다",
-                    "title": "불우직 【감정사】는 사실은 최강이었다",
-                    "description": "원제: 不遇職【鑑定士】が実は最強だった\n원작: 이바라키노\n감독: 오오니시 켄타\n각본: 마치다 토코\n캐릭터 디자인: 사키모토 사유리\n음악: 호노 사토시\n장르: 판타지\n방영일: 2025.01.09 23:30 (목)\n등급: 15\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/77bc6a6333e062dc88fa1e1fe1f0c40e_1736509059_3014.jpg",
+                    "url": "/c/어차피 사랑하고 만다",
+                    "title": "어차피 사랑하고 만다",
+                    "description": "원제: どうせ、恋してしまうんだ。\n원작: 미츠이 하루카\n감독: 야마모토 준이치\n각본: 무라이 유우\n캐릭터디자인: 시이바 이오\n음악: 이나이 케이지\n장르: 순정, 로맨스, 학원\n방영일: 2025.01.10 01:28 (금)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/77bc6a6333e062dc88fa1e1fe1f0c40e_1736524616_966.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -515,16 +525,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/불우직 【감정사】는 사실은 최강이었다 1화",
-                        "name": "불우직 【감정사】는 사실은 최강이었다 1화",
-                        "date_upload": 1736467200000,
+                        "url": "/e/어차피 사랑하고 만다 1화",
+                        "name": "어차피 사랑하고 만다 1화",
+                        "date_upload": 1736553600000,
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-11453894399054973326/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-11453894399054973326/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-11453894399054973326/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-1237597362846142072/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-1237597362846142072/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-1237597362846142072/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

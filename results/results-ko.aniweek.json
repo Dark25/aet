@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/반에서 가장 싫어하는 여자애와 결혼하게 되었다",
+                                "title": "반에서 가장 싫어하는 여자애와 결혼하게 되었다",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/6316c192137b1e8b5bf5bd20e5c23add_1735961284_1271.jpg"
+                            },
+                            {
+                                "url": "/c/위벨 블라트",
+                                "title": "위벨 블라트",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/0af2b5930f6ccacb2ff9841d3f89ac28_1736560928_6153.jpg"
+                            },
+                            {
+                                "url": "/c/하늘색 유틸리티",
+                                "title": "하늘색 유틸리티",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/635e94184529d216f529eafbe627b87b_1735948381_1411.jpg"
+                            },
+                            {
                                 "url": "/c/드래곤볼 DAIMA",
                                 "title": "드래곤볼 DAIMA",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728071683_0959.jpg"
@@ -235,16 +250,6 @@
                                 "url": "/c/푸른 미부로",
                                 "title": "푸른 미부로",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/1d9693d967d8e4671622e2c719792624_1729522051_178.jpg"
-                            },
-                            {
-                                "url": "/c/반에서 가장 싫어하는 여자애와 결혼하게 되었다",
-                                "title": "반에서 가장 싫어하는 여자애와 결혼하게 되었다",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2501/6316c192137b1e8b5bf5bd20e5c23add_1735961284_1271.jpg"
-                            },
-                            {
-                                "url": "/c/하늘색 유틸리티",
-                                "title": "하늘색 유틸리티",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2501/635e94184529d216f529eafbe627b87b_1735948381_1411.jpg"
                             },
                             {
                                 "url": "/c/모멘타리 릴리",
@@ -519,10 +524,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/드래곤볼 DAIMA",
-                    "title": "드래곤볼 DAIMA",
-                    "description": "원제: ドラゴンボール DAIMA\n원작: 토리야마 아키라\n감독: 코마키 아야, 야시마 요시타카\n각본: 카키하라 유코\n캐릭터 디자인: 나카츠루 카츠요시\n음악: Zedd\n장르: 액션, 코미디, 능력, 전투, 전쟁, 외계인, 마법, 동물, 미스테리\n방영일: 2024.10.11 23:40 (금)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728071683_0959.jpg",
+                    "url": "/c/반에서 가장 싫어하는 여자애와 결혼하게 되었다",
+                    "title": "반에서 가장 싫어하는 여자애와 결혼하게 되었다",
+                    "description": "원제: クラスの大嫌いな女子と結婚することになった。\n원작: 아마노 세이주\n감독: 오오시마 히로유키\n각본: 타카하시 타츠야\n캐릭터 디자인: 타즈 나나코\n음악: 오케하자마 아리사\n장르: 학원, 로맨스, 코미디\n방영일: 2025.01.03 23:30 (금)\n등급: 15\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/6316c192137b1e8b5bf5bd20e5c23add_1735961284_1271.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -530,22 +535,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/드래곤볼 DAIMA 13화",
-                        "name": "드래곤볼 DAIMA 13화",
+                        "url": "/e/반에서 가장 싫어하는 여자애와 결혼하게 되었다 2화",
+                        "name": "반에서 가장 싫어하는 여자애와 결혼하게 되었다 2화",
                         "date_upload": 1736553600000,
-                        "episode_number": 13.0
+                        "episode_number": 2.0
                     },
                     {
-                        "url": "/e/드래곤볼 DAIMA 12화",
-                        "name": "드래곤볼 DAIMA 12화",
-                        "date_upload": 1735344000000,
-                        "episode_number": 12.0
+                        "url": "/e/반에서 가장 싫어하는 여자애와 결혼하게 되었다 1화",
+                        "name": "반에서 가장 싫어하는 여자애와 결혼하게 되었다 1화",
+                        "date_upload": 1735948800000,
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-11624578640387493486/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-11624578640387493486/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-11624578640387493486/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17957660469277487600/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17957660469277487600/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17957660469277487600/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

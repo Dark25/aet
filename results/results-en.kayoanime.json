@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/students-reach-the-dungeon-depths/",
+                                "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths",
+                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2025/01/students-reach-the-dungeon-depths-390x220.jpg"
+                            },
+                            {
                                 "url": "/from-bureaucrat-to-villainess-episode-1-english-subbed/",
                                 "title": "From Bureaucrat to Villainess: Dad’s Been Reincarnated",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2025/01/from-bureaucrat-to-villainess-episode-1-english-subbed-390x220.jpg"
@@ -50,11 +55,6 @@
                                 "url": "/okitsura-anime-full/",
                                 "title": "Okitsura: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She’s Saying",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/12/okitsura-anime-full-390x220.jpg"
-                            },
-                            {
-                                "url": "/can-you-keep-a-secret-anime/",
-                                "title": "Can You Keep a Secret?",
-                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/12/can-you-keep-a-secret-anime-390x220.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -66,6 +66,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/students-reach-the-dungeon-depths/",
+                                "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths",
+                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2025/01/students-reach-the-dungeon-depths-220x150.jpg"
+                            },
                             {
                                 "url": "/from-bureaucrat-to-villainess-episode-1-english-subbed/",
                                 "title": "From Bureaucrat to Villainess: Dad’s Been Reincarnated",
@@ -85,11 +90,6 @@
                                 "url": "/im-living-with-an-otaku-neet-kunoich-anime/",
                                 "title": "I’m Living with an Otaku NEET Kunoichi",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2025/01/im-living-with-an-otaku-neet-kunoich-anime-220x150.jpg"
-                            },
-                            {
-                                "url": "/ameku-m-d-doctor-detective-anime/",
-                                "title": "Ameku M.D.: Doctor Detective",
-                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2025/01/ameku-m-d-doctor-detective-anime-220x150.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -159,18 +159,16 @@
             },
             "details": {
                 "result": {
-                    "url": "/from-bureaucrat-to-villainess-episode-1-english-subbed/",
-                    "author": "Ajia-do",
-                    "description": "\n\nType: TV\nEpisodes: Unknown\nStatus: Currently Airing\nAired: Jan 10, 2025 to ?\nPremiered: Winter 2025\nBroadcast: Fridays at 00:26 (JST)\nPreviewed: Dec 8, 2024\nProducers: Mainichi Broadcasting System\nLicensors: Sentai Filmworks\nStudios: Ajia-do\nSource: Manga\nGenres: Comedy, Fantasy\nThemes: Isekai, School, Villainess\nDemographic: Seinen\nDuration: Unknown\nRating: PG-13 – Teens 13 or older",
-                    "genre": "Comedy, Fantasy",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "/students-reach-the-dungeon-depths/",
+                    "author": "Bandai Namco Pictures",
+                    "description": "\n\nType: TV\nEpisodes: Unknown\nStatus: Not yet aired\nAired: Jan 12, 2025 to ?\nPremiered: Winter 2025\nBroadcast: Sundays at 00:55 (JST)\nProducers: Lantis, Bandai Namco Filmworks\nLicensors: None found, add some\nStudios: Bandai Namco Pictures\nSource: Light novel\nGenres: Action, Adventure, Fantasy\nDuration: Unknown\nRating: None",
+                    "genre": "Action, Adventure, Fantasy",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.Exception: Failed to load items, please log in to google drive through webview",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {

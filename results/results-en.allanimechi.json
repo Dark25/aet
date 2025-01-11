@@ -58,18 +58,18 @@
                             },
                             {
                                 "url": "yDnMDyDDpxwG8sJXk",
-                                "title": "S-Rank Monster no \"Behemoth\" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu",
+                                "title": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176158-l0Ic9bAD6xJz.jpg"
-                            },
-                            {
-                                "url": "MzFRy4xL3AY7sY5CE",
-                                "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179689-kmlqdU3IbxeM.jpg"
                             },
                             {
                                 "url": "iPbyFKbQWjfeDminj",
                                 "title": "Dandadan",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-2ldCj6QywuOa.jpg"
+                            },
+                            {
+                                "url": "MzFRy4xL3AY7sY5CE",
+                                "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179689-kmlqdU3IbxeM.jpg"
                             },
                             {
                                 "url": "vDTSJHSpYnrkZnAvG",
@@ -97,19 +97,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178462-YW6BgSGGP4az.jpg"
                             },
                             {
-                                "url": "bw9NHMfmzd95geBBr",
-                                "title": "Seirei Gensouki 2",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141182-xNtdR0PenhRR.jpg"
-                            },
-                            {
                                 "url": "kibfyvtiFpKCGGoSD",
                                 "title": "B.C.",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1190/105182.jpg"
                             },
                             {
-                                "url": "y67MAbv2YqRZXi4Hp",
-                                "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154473-o55309dVGP3G.jpg"
+                                "url": "bw9NHMfmzd95geBBr",
+                                "title": "Seirei Gensouki 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141182-xNtdR0PenhRR.jpg"
                             },
                             {
                                 "url": "h4PMucgQwndzYNNxS",
@@ -120,6 +115,11 @@
                                 "url": "7RKs6LwFnpD3KgDoN",
                                 "title": "Ishura",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161476-ukTxAPHib1Fg.jpg"
+                            },
+                            {
+                                "url": "y67MAbv2YqRZXi4Hp",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154473-o55309dVGP3G.jpg"
                             },
                             {
                                 "url": "dzkCSddWhBwrZ2yY6",
@@ -142,14 +142,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-O7nR1Wrav2dH.jpg"
                             },
                             {
-                                "url": "Q4Aj2B9wj6hvbF3H5",
-                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-ld9HtIKiv7xo.jpg"
-                            },
-                            {
                                 "url": "gY3CkvgPRSF5NFP3k",
                                 "title": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg"
+                            },
+                            {
+                                "url": "Q4Aj2B9wj6hvbF3H5",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151970-ld9HtIKiv7xo.jpg"
                             },
                             {
                                 "url": "c5qQM4SZqe8PJFRmv",
@@ -163,12 +163,324 @@
                 "passed": true
             },
             "latest": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.SearchResult', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "cTE95q7tSed8Wjn22",
+                                "title": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1167/146455.jpg"
+                            },
+                            {
+                                "url": "uDcY5kG94t7BCKzKF",
+                                "title": "Medalist",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165171-nTOHsbh3pThN.jpg"
+                            },
+                            {
+                                "url": "krPwWcQMcHMG7uMRC",
+                                "title": "UniteUp! Uni:Birth",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167742-fFAj38cj7Wxo.png"
+                            },
+                            {
+                                "url": "9NdrgcZjsp7HEJ5oK",
+                                "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-xCNtU4llsUpu.png"
+                            },
+                            {
+                                "url": "27NxDnLsBJEuwZTHc",
+                                "title": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174654-J8OduNFjRpVY.jpg"
+                            },
+                            {
+                                "url": "LFgkxJv6gqY4tfner",
+                                "title": "Necromancer: King of the Scourge",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/qnxSWpZx6fzKFZDJi.webp"
+                            },
+                            {
+                                "url": "kspvFMAcFdmKhgecD",
+                                "title": "Chi. Chikyuu no Undou ni Tsuite",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151514-BcU5RmSWhvv0.jpg"
+                            },
+                            {
+                                "url": "QM42Mi2znLde7aBtN",
+                                "title": "Babanbabanban Vampire",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175422-4I9gEsW7px6C.png"
+                            },
+                            {
+                                "url": "dqNHFbAsJeFfX4oHX",
+                                "title": "SAKAMOTO DAYS",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-jBQ965JZG0l8.png"
+                            },
+                            {
+                                "url": "eLKoC6f5oJ2yGdmTD",
+                                "title": "Already Invincible at the Beginning",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/eLKoC6f5oJ2yGdmTD.png"
+                            },
+                            {
+                                "url": "yDnMDyDDpxwG8sJXk",
+                                "title": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176158-l0Ic9bAD6xJz.jpg"
+                            },
+                            {
+                                "url": "taSxDp8w4JTADN9hJ",
+                                "title": "Detective Conan (TV)",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-XucEZpR3CRaV.jpg"
+                            },
+                            {
+                                "url": "mgL8CshEj25LXz273",
+                                "title": "Ao no Hako",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-B77wUSM1jQTu.jpg"
+                            },
+                            {
+                                "url": "w3Nf28JafFqoYSJ45",
+                                "title": "It Turns Out – They Were the Protagonists All Along",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/w3Nf28JafFqoYSJ45.webp"
+                            },
+                            {
+                                "url": "owLkWbHDzPNYs53cW",
+                                "title": "My Empress Apprentice Is Becoming Evil",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/owLkWbHDzPNYs53cW.webp"
+                            },
+                            {
+                                "url": "66M56hAKZjzG6wJvG",
+                                "title": "The Ultimate Beast Master",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/66M56hAKZjzG6wJvG.webp"
+                            },
+                            {
+                                "url": "cPfScPLeucmyJCTcL",
+                                "title": "Ao no Miburo",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169258-kj8qoomfAKsB.jpg"
+                            },
+                            {
+                                "url": "s4XLtqctRLe69Jihr",
+                                "title": "Qin Dynasty: The First Emperor’s Son Levels Up to God by Killing Enemies",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/NR3dk2cxSto6zYm8H.webp"
+                            },
+                            {
+                                "url": "ukXSAWjc5jhbBSY4t",
+                                "title": "Disciples Upgrade, I Become Stronger Just By Lying Down",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/ukXSAWjc5jhbBSY4t.png"
+                            },
+                            {
+                                "url": "kXM4NAgh2fb4EwbBB",
+                                "title": "Zanting! Zhi Xu Chongzu",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185722-u61YRksNdMAF.jpg"
+                            },
+                            {
+                                "url": "auvmLg2sG4tcmkkuK",
+                                "title": "Pokemon (2023)",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
+                            },
+                            {
+                                "url": "4NvEN4j2PbthLfeHk",
+                                "title": "Dadao Chaotian",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156084-vQYir17FxUMl.jpg"
+                            },
+                            {
+                                "url": "hEQboPQtuKx2N2Lmb",
+                                "title": "Lian Qi Shi Wan Nian",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165524-XMXXm35IgGAB.jpg"
+                            },
+                            {
+                                "url": "r6bYnFT6WC823HEp9",
+                                "title": "Jueshi Zhan Hun",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179807-jWSQWQ9xj1Qr.jpg"
+                            },
+                            {
+                                "url": "FrgyJQ4m85b6odNNq",
+                                "title": "Wo Neng Wuxian Dunwu",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1830/146139.webp"
+                            },
+                            {
+                                "url": "aKxjf5rbXghxrkoQW",
+                                "title": "Wan Jie Du Zun Season 3",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/aKxjf5rbXghxrkoQW.webp"
+                            },
+                            {
+                                "url": "2KR356BJBinLHcqj7",
+                                "title": "Ka Tu",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120226-9ewPwescNRsJ.png"
+                            },
+                            {
+                                "url": "YEqZN7NiwKdJLvDrG",
+                                "title": "Tian Ying",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153472-kVWPBYb43DeN.png"
+                            },
+                            {
+                                "url": "6rQw3KRxagqh42hwk",
+                                "title": "Douluo Dalu II: Jueshi Tangmen",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/tuJPPDqTr8g4Wumq6.jpg"
+                            },
+                            {
+                                "url": "wTWPWR2ynCijvGypu",
+                                "title": "Zongmen Li Chule Wo Dou Shi Wodi",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/y4yisaAHGujC4mYWp.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'data' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.allanimechi.SearchResult', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "aKxjf5rbXghxrkoQW",
+                                "title": "Wan Jie Du Zun Season 3",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/aKxjf5rbXghxrkoQW.webp"
+                            },
+                            {
+                                "url": "2TEAEcrKZf3Rjnwkh",
+                                "title": "Reborn to Be a Zombie",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/2TEAEcrKZf3Rjnwkh.webp"
+                            },
+                            {
+                                "url": "zFcwjxJvEFDQcR263",
+                                "title": "Around 40 Otoko no Isekai Tsuuhan",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180292-GG0nwYZ5HeN7.jpg"
+                            },
+                            {
+                                "url": "KDfhLcpDXAps5qH4M",
+                                "title": "My Cultivation with Divine and Demonic Powers: Invincible in the World",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/KDfhLcpDXAps5qH4M.png"
+                            },
+                            {
+                                "url": "SZvdTvpjESzrMk5Fa",
+                                "title": "My Disciples are All Over the World",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/SZvdTvpjESzrMk5Fa.png"
+                            },
+                            {
+                                "url": "B45c53ackqdbbjTAZ",
+                                "title": "Hundreds of Millions of Apprentices Are Returned: This Master Is Invincible in the World",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/B45c53ackqdbbjTAZ.png"
+                            },
+                            {
+                                "url": "dzkCSddWhBwrZ2yY6",
+                                "title": "Magic Maker: Isekai Mahou no Tsukurikata",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179297-qaG8nCqMpR3o.jpg"
+                            },
+                            {
+                                "url": "azLFgCb8YQNuJeqoL",
+                                "title": "Prices Depreciated And I Became the Richest Man in the World",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/hE3LS4LcaXdGDwW6k.webp"
+                            },
+                            {
+                                "url": "WZXY2ePNLekFEm3X6",
+                                "title": "I, The Public Enemy of The World of Immortality",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/WZXY2ePNLekFEm3X6.webp"
+                            },
+                            {
+                                "url": "6HMykmbHmBq4HRMPN",
+                                "title": "Chang Sheng Jie",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/6HMykmbHmBq4HRMPN.webp"
+                            },
+                            {
+                                "url": "MzFRy4xL3AY7sY5CE",
+                                "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179689-kmlqdU3IbxeM.jpg"
+                            },
+                            {
+                                "url": "24EvTQRQ8jBhzWGQK",
+                                "title": "I Work Nine to Five in the Immortal Cultivation World",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/DCduk5Gq7oTsxop97.webp"
+                            },
+                            {
+                                "url": "MsQMzfMtztc93Eiui",
+                                "title": "Shinkalion: Change the World",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172395-TESU4M0kQ94c.jpg"
+                            },
+                            {
+                                "url": "y67MAbv2YqRZXi4Hp",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154473-o55309dVGP3G.jpg"
+                            },
+                            {
+                                "url": "3sL49myhDbDLZHRSP",
+                                "title": "Quanqiu Gao Wu",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137680-aqmYQ0HIfYqL.png"
+                            },
+                            {
+                                "url": "8Af6D48EzLgNXb7zY",
+                                "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165810-xEt3MeCRRRev.jpg"
+                            },
+                            {
+                                "url": "4C7xJbApR6LHo9rd9",
+                                "title": "Unparalleled in the Online Gaming World",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/sigMFp9CQrHmn6AGM.webp"
+                            },
+                            {
+                                "url": "iXTtwXfzgb2xRgGE2",
+                                "title": "Lord of the Wheel of Destiny! When Changes Descend Upon the Mortal Realm",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/iXTtwXfzgb2xRgGE2.webp"
+                            },
+                            {
+                                "url": "z38paKJGBeCkgpnRr",
+                                "title": "Lord of All Realms",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/z38paKJGBeCkgpnRr.webp"
+                            },
+                            {
+                                "url": "5Ybejzg26CyepMEA6",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru Season 2",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178434-UtRCL4WqNcgv.png"
+                            },
+                            {
+                                "url": "g7kNaZhPHa9dkjqHr",
+                                "title": "Rise of the Invincible Divine Son – Conquering the World with the System",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/g7kNaZhPHa9dkjqHr.webp"
+                            },
+                            {
+                                "url": "vS5k8Cyixxj4EwTTK",
+                                "title": "Infinite Extraction System: Shocking the Cultivation World",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/vS5k8Cyixxj4EwTTK.webp"
+                            },
+                            {
+                                "url": "9wmhnHMtxfsXbtHiJ",
+                                "title": "Post-Apocalyptic Gold Hunter",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/dQCTePcn9K3XBsNdw.webp"
+                            },
+                            {
+                                "url": "XAhBoEcsAWiqBXdg2",
+                                "title": "I Am The Boss Of The End Of The World (Boss Of The Apocalypse)",
+                                "thumbnail_url": "mcovers/a_tbs/dhw/XAhBoEcsAWiqBXdg2.webp"
+                            },
+                            {
+                                "url": "6oDA6BDxtLCJq5FZx",
+                                "title": "Wanmei Shijie",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120218-J6LXCFOHO9cT.jpg"
+                            },
+                            {
+                                "url": "ee6TDJJgTSPacWuPq11",
+                                "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177104-8fQUQdXGZG8j.jpg"
+                            },
+                            {
+                                "url": "BghhpbB242h5cKBnK",
+                                "title": "Bananya: Around the World",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180599-xT95wYTMQgBr.jpg"
+                            },
+                            {
+                                "url": "LSnXiAejBwDGNiKGq",
+                                "title": "Dr. Slump Movie 3: Arale-chan Hoyoyo! Sekai Isshuu Dai Race",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7667.jpg"
+                            },
+                            {
+                                "url": "CoDCuQcqrKk7eWQDc",
+                                "title": "Hitoribocchi no Isekai Kouryaku",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173693-tRLdDE1BieXe.png"
+                            },
+                            {
+                                "url": "3GrJ4atdK3TQ5HqaN",
+                                "title": "Andersen Monogatari",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7779.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
@@ -210,9 +522,9 @@
                         }
                     },
                     {
-                        "url": "https://anbgvvgzhm88.cdn-centaurus.com/hls2/01/05115/pbkeced5jsjr_n/index-v1-a1.m3u8?t=b1FWawxbvlIF9IZbKbiuAWaIhMl2QJsD_1cJx_vMuRM&s=1736597283&e=129600&f=25577913&srv=hg8ifg7jzbs5&i=0.4&sp=500&p1=hg8ifg7jzbs5&p2=hg8ifg7jzbs5&asn=8075",
+                        "url": "https://anbgvvgzhm88.cdn-centaurus.com/hls2/01/05115/pbkeced5jsjr_n/index-v1-a1.m3u8?t=ngk5G52rDPPK4Yl5vI-_NCiuWBm4svlZwIR2zZLn6h4&s=1736618848&e=129600&f=25577913&srv=hg8ifg7jzbs5&i=0.4&sp=500&p1=hg8ifg7jzbs5&p2=hg8ifg7jzbs5&asn=8075",
                         "quality": "Sw - 720p",
-                        "videoUrl": "https://anbgvvgzhm88.cdn-centaurus.com/hls2/01/05115/pbkeced5jsjr_n/index-v1-a1.m3u8?t=b1FWawxbvlIF9IZbKbiuAWaIhMl2QJsD_1cJx_vMuRM&s=1736597283&e=129600&f=25577913&srv=hg8ifg7jzbs5&i=0.4&sp=500&p1=hg8ifg7jzbs5&p2=hg8ifg7jzbs5&asn=8075",
+                        "videoUrl": "https://anbgvvgzhm88.cdn-centaurus.com/hls2/01/05115/pbkeced5jsjr_n/index-v1-a1.m3u8?t=ngk5G52rDPPK4Yl5vI-_NCiuWBm4svlZwIR2zZLn6h4&s=1736618848&e=129600&f=25577913&srv=hg8ifg7jzbs5&i=0.4&sp=500&p1=hg8ifg7jzbs5&p2=hg8ifg7jzbs5&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",

@@ -3,27 +3,161 @@
         "name": "LMAnime (ALL)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/another-journey-to-the-west/",
+                                "title": "Another Journey to the West",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/spy-x-sect/",
+                                "title": "Spy x Sect",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/divine-lord-of-the-heavens/",
+                                "title": "Divine Lord of the Heavens",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/all-hail-the-sect-leader/",
+                                "title": "All Hail the Sect Leader",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/nirvana-of-storm-rider/",
+                                "title": "Nirvana of Storm Rider",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/i-am-a-great-god-season-3/",
+                                "title": "I Am A Great God Season 3",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/the-young-brewmasters-adventure-season-02/",
+                                "title": "The Young Brewmaster’s Adventure Season 02",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/the-war-of-cards/",
+                                "title": "The War of Cards",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/world-of-immortals/",
+                                "title": "World of Immortals",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/martial-inverse/",
+                                "title": "Martial Inverse",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/a-will-eternal/",
+                                "title": "A Will Eternal",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/agate/",
+                                "title": "Agate",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/a-war-between-humans-and-ai/",
+                                "title": "A War between Humans and AI",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/tales-of-herding-gods/",
+                                "title": "Tales of Herding Gods",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/tiger-crane/",
+                                "title": "Tiger Crane",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/sword-of-coming/",
+                                "title": "Sword of Coming",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/shadow-of-heaven/",
+                                "title": "Shadow of Heaven",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/dont-give-up/",
+                                "title": "Don’t Give Up!",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/throne-of-seal-temporary/",
+                                "title": "Throne of Seal (Temporary)",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            },
+                            {
+                                "url": "/soul-land-2-the-peerless-tang-clan/",
+                                "title": "Soul Land 2: The Peerless Tang Clan",
+                                "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": {
+                    "url": "/another-journey-to-the-west/",
+                    "title": "Another Journey to the West",
+                    "description": "Watch streaming Another Journey to the West English Subbed on LMANIME. You can also download free Another Journey to the West Eng Sub, don't forget to watch online streaming of various quality 720P 360P 240P 480P according to your connection to save internet quota, Another Journey to the West on LMANIME MP4 MKV hardsub softsub English subbed is already contained in the video.\n\nProducers: Bu Kong Yingshi, Tencent Penguin Pictures\nPosted by: akak\nReleased on: October 4, 2024\nUpdated on: January 8, 2025\n",
+                    "genre": "Adventure, Comedy, Fantasy, Historical, Mythology",
+                    "thumbnail_url": "https://lmanime.com/wp-content/themes/animestream/assets/images/noimg165px.png",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/another-journey-to-the-west-episode-05/",
+                        "name": "Episode ",
+                        "date_upload": 1736294400000,
+                        "episode_number": 0.0,
+                        "scanlator": ""
+                    },
+                    {
+                        "url": "/another-journey-to-the-west-episode-04/",
+                        "name": "Episode ",
+                        "date_upload": 1728259200000,
+                        "episode_number": 0.0,
+                        "scanlator": ""
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

@@ -411,6 +411,11 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/watch/1So66c9SJ4PhvrG0gw2iAp2n2tshFWWX/2",
+                        "name": "Episode 2",
+                        "episode_number": 2.0
+                    },
+                    {
                         "url": "/watch/1So66c9SJ4PhvrG0gw2iAp2n2tshFWWX/1",
                         "name": "Episode 1",
                         "episode_number": 1.0
@@ -421,51 +426,13 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://ipfs.sudatchi.com/ipfs/bafybeibsgyxq3eokx5ohqi3lh5tjxmi4ifsvw4d5tn4l2kl42nnuxfybri/1920x1080.m3u8",
-                        "quality": "Sudatchi (Private IPFS Gateway) - 1080p",
-                        "videoUrl": "https://ipfs.sudatchi.com/ipfs/bafybeibsgyxq3eokx5ohqi3lh5tjxmi4ifsvw4d5tn4l2kl42nnuxfybri/1920x1080.m3u8",
+                        "url": "https://sudatchi.com/videos/m3u8/episode-9118.m3u8",
+                        "quality": "Sudatchi (Private IPFS Gateway) - Video",
+                        "videoUrl": "https://sudatchi.com/videos/m3u8/episode-9118.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://ipfs.sudatchi.com/ipfs/bafkreibay7hzbpzipbguhteahnitfsmgbyex4b4wulmp5vmebdomuuityu",
-                                "lang": "English (eng)"
-                            },
-                            {
-                                "url": "https://ipfs.sudatchi.com/ipfs/bafkreigj2v4e4yx2zgkhcvlpsrs5pzxtktm3e4qt6a6xehbq5hte4tsp7u",
-                                "lang": "Arabic (Saudi Arabia) (ara)"
-                            },
-                            {
-                                "url": "https://ipfs.sudatchi.com/ipfs/bafkreiglxua3b35hmz2yk4shjfcboh4pyl3kxaicjxoyzpizgjcmfqkxv4",
-                                "lang": "Brazilian Portuguese (por)"
-                            },
-                            {
-                                "url": "https://ipfs.sudatchi.com/ipfs/bafkreiei5mht7x3g3e2xceexezrohimsdztmhl6gkxyfcd242xeddvwfoq",
-                                "lang": "European Spanish (spa-es)"
-                            },
-                            {
-                                "url": "https://ipfs.sudatchi.com/ipfs/bafkreihoxp2z7ik4zjdsfifkpdxdvqkqvxvgarxmxsimtqjfjv6gis4ebe",
-                                "lang": "French (fra)"
-                            },
-                            {
-                                "url": "https://ipfs.sudatchi.com/ipfs/bafkreig3tcrkooqkjecng2akdzau4z5frzqthnnuug43e25i6zlcn2foru",
-                                "lang": "German (deu)"
-                            },
-                            {
-                                "url": "https://ipfs.sudatchi.com/ipfs/bafkreiawaorbnhpcesxqg3jeovfkqcl3z3dft3bcsnwdo66ybc7texyenu",
-                                "lang": "Italian (ita)"
-                            },
-                            {
-                                "url": "https://ipfs.sudatchi.com/ipfs/bafkreibfl6kgkth3pto7owssrusbszuzfd4giy47zfubjaalba3gboqdde",
-                                "lang": "Latin American Spanish (spa-419)"
-                            },
-                            {
-                                "url": "https://ipfs.sudatchi.com/ipfs/bafkreif4zzd7db7tpdri6y5qbe2zek6glyfgr2ltmmnwuxsilo6vzjz4xu",
-                                "lang": "Russian (rus)"
-                            }
-                        ]
+                        }
                     }
                 ],
                 "passed": true

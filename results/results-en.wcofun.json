@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ubel-blatt",
+                                "title": "Übel Blatt",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933862.jpg"
+                            },
+                            {
                                 "url": "/anime/guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu",
                                 "title": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933861.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai",
                                 "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933847.jpg"
-                            },
-                            {
-                                "url": "/anime/mahoutsukai-no-yakusoku",
-                                "title": "Mahoutsukai no Yakusoku",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933846.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu",
-                    "title": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
-                    "description": "Alina Clover signed up to be a receptionist for the Adventurers Guild thinking it would be her ticket to the good life. Unfortunately, her dream gig turns into an overtime nightmare whenever adventurers get stuck clearing a dungeon. To save herself from paperwork, Alina takes to beating down monsters herself to solve the problem! Now she just needs to keep her activities a secret…",
-                    "genre": "Action, Adventure, Comedy, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933861.jpg",
+                    "url": "/anime/ubel-blatt",
+                    "title": "Übel Blatt",
+                    "description": "Rumors stir throughout the land: when the wielder of the black sword draws his dark blade, all who stand in its path are torn asunder…! Köinzell, the mysterious young boy who carries the black sword, undeniably wields it with exceptional skill, but can he truly be responsible for the bloody rumors? Pursued by the Traitorous Lances, four powerful warriors who were thought to have been defeated by the Seven Heroes, the strength of the young swordsman will be tested to its limit. At battle’s end, only the shocking truth of Köinzell’s quest will stand above the corpses of his enemies… An epic fantasy on the grandest of scales!",
+                    "genre": "Action, Adventure, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933862.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ubel-blatt-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuV-brUsWdmn-C_nBShtp_CXnpf5sAenqnbZgTZkALL23sMeGLTbiPMbYof3ovX7V1ZyKd680S90WNnB7sWoroFb6iKvZ9TVnSnpqX2abjQYPBW-gU4ol0jIXNWhy0NtczdzTsJCtXI8l_w6yAmI2os28Ucee-bTkPp4Bg00B911YfqOx8uPIVPHSnaPo1KNIAeX54bP8j8cxQ9cYKDY9gELplBCV2Tp8DP_vyKOnDKfQrlo8EH4r59JghhB796ALvcNWmFFWFhdxeWMYHn1dluEqXNO1vqoUUekhvlIB49lY37aaEbJU_YzgrZ1_UriGvb4D2R5ixOhLJ1R3dXaeZRaq1j-yM-WbBGoFcCZgnXnPd3ETV039Ok8lTjEjVh46c-x2cdGtQ7S1eqjM76g0SjW",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuV-brUsWdmn-C_nBShtp_CXnpf5sAenqnbZgTZkALL23sMeGLTbiPMbYof3ovX7V1ZyKd680S90WNnB7sWoroFb6iKvZ9TVnSnpqX2abjQYPBW-gU4ol0jIXNWhy0NtczdzTsJCtXI8l_w6yAmI2os28Ucee-bTkPp4Bg00B911YfqOx8uPIVPHSnaPo1KNIAeX54bP8j8cxQ9cYKDY9gELplBCV2Tp8DP_vyKOnDKfQrlo8EH4r59JghhB796ALvcNWmFFWFhdxeWMYHn1dluEqXNO1vqoUUekhvlIB49lY37aaEbJU_YzgrZ1_UriGvb4D2R5ixOhLJ1R3dXaeZRaq1j-yM-WbBGoFcCZgnXnPd3ETV039Ok8lTjEjVh46c-x2cdGtQ7S1eqjM76g0SjW"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuV-brUsWdmn-C_nBShtp_CXnpf5sAenqnbZgTZkALL23sMeGLTbiPMbYof3ovX7V1ZyKd680S90WNnB7sWoroFb6iKvZ9TVnSnpqX2abjQYPBW-gU4ol0jIXNWhy0NtczcPB0gdz343beWHbIRdRR1uvhNgsDP9C2bSUfCTN_9jy_x8XGv4bKz0BegV22F9-L8ItzQoBZlBWcJWYG1RHvx4hul0quCzgGaOQC7qseOvWT01j0ioj-TbytPPceRuPppJ6WIev0GdjgF_qKDd_ulokHWQ5-rVdilsrB75-GJSZo5WWpOwEvWCoXxnw7o1Bdon6avmeksJYFPwFiidrvlFlT6YWq6wgylKrAvtUrIC2MUfTH1OaphcHPevfw74MNl8C3w4_aao5ZA0AAR49eUR",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuV-brUsWdmn-C_nBShtp_CXnpf5sAenqnbZgTZkALL23sMeGLTbiPMbYof3ovX7V1ZyKd680S90WNnB7sWoroFb6iKvZ9TVnSnpqX2abjQYPBW-gU4ol0jIXNWhy0NtczcPB0gdz343beWHbIRdRR1uvhNgsDP9C2bSUfCTN_9jy_x8XGv4bKz0BegV22F9-L8ItzQoBZlBWcJWYG1RHvx4hul0quCzgGaOQC7qseOvWT01j0ioj-TbytPPceRuPppJ6WIev0GdjgF_qKDd_ulokHWQ5-rVdilsrB75-GJSZo5WWpOwEvWCoXxnw7o1Bdon6avmeksJYFPwFiidrvlFlT6YWq6wgylKrAvtUrIC2MUfTH1OaphcHPevfw74MNl8C3w4_aao5ZA0AAR49eUR"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuV-brUsWdmn-C_nBShtp_CXnpf5sAenqnbZgTZkALL23sMeGLTbiPMbYof3ovX7V1ZyKd680S90WNnB7sWoroFb6iKvZ9TVnSnpqX2abjQYPBW-gU4ol0jIXNWhy0NtczdoN7SMM9d6mrFlVRT2UWNmhZYDiDd09TIHDCC9GovtOeofcitWqEGFpbjD9RzqCA7JIQT234XJ5RtnNo-sroCLGPhXNl-UID_cXIDWXmsGozzNCBFbLmyRASHFe5oeAsP3TpEOmfWuYZSV28TnTEcymmL352IycuZDcXz01iDngtgPx-BUz5xqmJGbvuwI6OPgbvLxPxy0POM7vmEN6Md3BIJWdtqS4eFOnAay9a3vEBWZLfpXhBZamZU1tFtbYSs",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsPPSIAtzrj5V-1F4CpqIuV-brUsWdmn-C_nBShtp_CXnpf5sAenqnbZgTZkALL23sMeGLTbiPMbYof3ovX7V1ZyKd680S90WNnB7sWoroFb6iKvZ9TVnSnpqX2abjQYPBW-gU4ol0jIXNWhy0NtczdoN7SMM9d6mrFlVRT2UWNmhZYDiDd09TIHDCC9GovtOeofcitWqEGFpbjD9RzqCA7JIQT234XJ5RtnNo-sroCLGPhXNl-UID_cXIDWXmsGozzNCBFbLmyRASHFe5oeAsP3TpEOmfWuYZSV28TnTEcymmL352IycuZDcXz01iDngtgPx-BUz5xqmJGbvuwI6OPgbvLxPxy0POM7vmEN6Md3BIJWdtqS4eFOnAay9a3vEBWZLfpXhBZamZU1tFtbYSs"
+                    }
+                ],
+                "passed": true
             }
         }
     }

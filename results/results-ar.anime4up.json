@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ubel-blatt/",
+                                "title": "Ubel Blatt",
+                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2025/01/bx175198-AtWwEQPTjQ6N-215x300.jpg"
+                            },
+                            {
                                 "url": "/anime/sakamoto-days/",
                                 "title": "Sakamoto Days",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2025/01/bx177709-jBQ965JZG0l8-215x300.png"
@@ -240,11 +245,6 @@
                                 "url": "/anime/haikyuu-movie-gomisuteba-no-kessen/",
                                 "title": "Haikyuu!! Movie: Gomisuteba no Kessen",
                                 "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/bx153658-KVnjW77cQw3y-215x300.jpg"
-                            },
-                            {
-                                "url": "/anime/mayo-chiki/",
-                                "title": "Mayo Chiki!",
-                                "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2024/10/Ashampoo_Snap_2024.10.21_12h59m53s_002_-215x300.png"
                             }
                         ],
                         "hasNextPage": true
@@ -364,24 +364,48 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/sakamoto-days/",
-                    "title": "Sakamoto Days",
-                    "description": "النوع: TV\nبداية العرض: 2025\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 24 دقيقة\nالموسم: شتاء 2025\nالمصدر: مانجا\n\nالقصة تتحدث عن مغتال أسطوري متقاعد أصبح رب أسرة بدينًا ليُجر ثانيةً إلى عالم الجريمة ولكن الآن لحماية عائلته من منظمة قاسية تسعى للانتقام.",
-                    "genre": "أكشن, شونين, كوميدي, TV, يعرض الان, شتاء 2025",
+                    "url": "/anime/ubel-blatt/",
+                    "title": "Ubel Blatt",
+                    "description": "النوع: TV\nبداية العرض: 2025\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 24 دقيقة\nالموسم: شتاء 2025\nالمصدر: مانجا\n\nعندما يزأر النصل الأسود سيتمزق كل من يقف في طريقه إربًا ما الذي يرغب به الصبي الغامض الذي يستخدم السيف بمهارة استثنائية هنا حيث تبدأ معركة ضد رماح الخيانة الذين يُعتقد أنهم هزموا على يد الأبطال السبعة وفي نهاية المعركة لن تبقى سوى الحقيقة المروعة وسط برك الدماء.",
+                    "genre": "أكشن, مغامرات, سينين, فنتازيا, TV, يعرض الان, شتاء 2025",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2025/01/bx177709-jBQ965JZG0l8.png",
+                    "thumbnail_url": "https://anime4up.rest/wp-content/uploads/2025/01/bx175198-AtWwEQPTjQ6N.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/ubel-blatt-الحلقة-1/",
+                        "name": "الحلقة 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m20.uqload.net/3rfk5uo65nw2q4drdi7ptjptcn3ffleest4dah2y4dtrzolcnfpyrsy2df3q/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m20.uqload.net/3rfk5uo65nw2q4drdi7ptjptcn3ffleest4dah2y4dtrzolcnfpyrsy2df3q/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    },
+                    {
+                        "url": "https://a1.mp4upload.com:183/d/x2x7woeuz3b4quuowcragpatchrgulvduthexd5jqponbo74px5qqql44j2xpz6b66yfrgzy/video.mp4",
+                        "quality": "Mp4Upload - 480p",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2x7woeuz3b4quuowcragpatchrgulvduthexd5jqponbo74px5qqql44j2xpz6b66yfrgzy/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

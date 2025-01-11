@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/드래곤볼 DAIMA",
+                                "title": "드래곤볼 DAIMA",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728071683_0959.jpg"
+                            },
+                            {
+                                "url": "/c/약사의 혼잣말 2기",
+                                "title": "약사의 혼잣말 2기",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/82896ee8587420e3e50e69b9da45b9bc_1736534743_6923.jpg"
+                            },
+                            {
                                 "url": "/c/어차피 사랑하고 만다",
                                 "title": "어차피 사랑하고 만다",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/77bc6a6333e062dc88fa1e1fe1f0c40e_1736524616_966.jpg"
@@ -297,11 +307,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/b95872099a8d0d6c02f0753cc3ce091e_1728780846_3747.jpg"
                             },
                             {
-                                "url": "/c/드래곤볼 DAIMA",
-                                "title": "드래곤볼 DAIMA",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728071683_0959.jpg"
-                            },
-                            {
                                 "url": "/c/어~이! 톤보 2기",
                                 "title": "어~이! 톤보 2기",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/79e26b0e9d34cdcdf49d508d28e02a38_1729453986_8226.jpg"
@@ -514,10 +519,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/어차피 사랑하고 만다",
-                    "title": "어차피 사랑하고 만다",
-                    "description": "원제: どうせ、恋してしまうんだ。\n원작: 미츠이 하루카\n감독: 야마모토 준이치\n각본: 무라이 유우\n캐릭터디자인: 시이바 이오\n음악: 이나이 케이지\n장르: 순정, 로맨스, 학원\n방영일: 2025.01.10 01:28 (금)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/77bc6a6333e062dc88fa1e1fe1f0c40e_1736524616_966.jpg",
+                    "url": "/c/드래곤볼 DAIMA",
+                    "title": "드래곤볼 DAIMA",
+                    "description": "원제: ドラゴンボール DAIMA\n원작: 토리야마 아키라\n감독: 코마키 아야, 야시마 요시타카\n각본: 카키하라 유코\n캐릭터 디자인: 나카츠루 카츠요시\n음악: Zedd\n장르: 액션, 코미디, 능력, 전투, 전쟁, 외계인, 마법, 동물, 미스테리\n방영일: 2024.10.11 23:40 (금)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728071683_0959.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -525,16 +530,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/어차피 사랑하고 만다 1화",
-                        "name": "어차피 사랑하고 만다 1화",
+                        "url": "/e/드래곤볼 DAIMA 13화",
+                        "name": "드래곤볼 DAIMA 13화",
                         "date_upload": 1736553600000,
-                        "episode_number": 1.0
+                        "episode_number": 13.0
+                    },
+                    {
+                        "url": "/e/드래곤볼 DAIMA 12화",
+                        "name": "드래곤볼 DAIMA 12화",
+                        "date_upload": 1735344000000,
+                        "episode_number": 12.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-1237597362846142072/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-1237597362846142072/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-1237597362846142072/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-11624578640387493486/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-11624578640387493486/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-11624578640387493486/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

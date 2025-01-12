@@ -157,14 +157,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132405-qP7FQYGmNI3d.jpg"
                             },
                             {
-                                "url": "2998-one-piece-ita",
-                                "title": "One Piece (ITA)",
-                                "thumbnail_url": "https://www.forbiddenlol.cloud/DDL/ANIME/T34tadfg.png"
-                            },
-                            {
                                 "url": "100-konosuba",
                                 "title": "Konosuba",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21202-TfzXuWQf2oLQ.png"
+                            },
+                            {
+                                "url": "2998-one-piece-ita",
+                                "title": "One Piece (ITA)",
+                                "thumbnail_url": "https://www.forbiddenlol.cloud/DDL/ANIME/T34tadfg.png"
                             },
                             {
                                 "url": "4071-the-eminence-in-shadow",
@@ -267,6 +267,11 @@
                     {
                         "animes": [
                             {
+                                "url": "5890-kinnikuman-perfect-origin-arc-2",
+                                "title": "Kinnikuman: Perfect Origin Arc 2",
+                                "thumbnail_url": "https://img.animeunity.so/anime/bx181886-gEqtKp6Wt2U2.jpg"
+                            },
+                            {
                                 "url": "5889-uniteup-unibirth",
                                 "title": "UniteUp! -Uni:Birth-",
                                 "thumbnail_url": "https://img.animeunity.so/anime/bx167742-fFAj38cj7Wxo.png"
@@ -315,11 +320,6 @@
                                 "url": "5880-theatre-of-darkness-yamishibai-14",
                                 "title": "Theatre of Darkness: Yamishibai 14",
                                 "thumbnail_url": "https://img.animeunity.so/anime/bx185088-pY2KxbG0KIoO.jpg"
-                            },
-                            {
-                                "url": "5879-the-lord-of-the-rings-the-war-of-the-rohirrim-ita",
-                                "title": "The Lord of the Rings: The War of the Rohirrim (ITA)",
-                                "thumbnail_url": "https://img.animeunity.so/anime/bx185613-9zocGYsTHeO5.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -362,7 +362,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7691843610354895008/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7691843610354895008/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7691843610354895008/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-13649953341391612621/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-13649953341391612621/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-13649953341391612621/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

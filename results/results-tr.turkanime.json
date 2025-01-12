@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/bleach-sennen-kessen-hen?animeId=5709",
+                                "title": "Bleach: Sennen Kessen-hen",
+                                "thumbnail_url": "https://www.turkanime.co/imajlar/seriler/5709.jpg"
+                            },
+                            {
                                 "url": "/anime/tian-guan-ci-fu-special?animeId=4825",
                                 "title": "Tian Guan Ci Fu Special",
                                 "thumbnail_url": "https://www.turkanime.co/imajlar/seriler/4825.jpg"
@@ -15,11 +20,6 @@
                                 "url": "/anime/kusuriya-no-hitorigoto?animeId=5951",
                                 "title": "Kusuriya no Hitorigoto",
                                 "thumbnail_url": "https://www.turkanime.co/imajlar/seriler/5951.jpg"
-                            },
-                            {
-                                "url": "/anime/bleach-sennen-kessen-hen?animeId=5709",
-                                "title": "Bleach: Sennen Kessen-hen",
-                                "thumbnail_url": "https://www.turkanime.co/imajlar/seriler/5709.jpg"
                             },
                             {
                                 "url": "/anime/bleach-sennen-kessen-hen-ketsubetsu-tan?animeId=5878",
@@ -274,12 +274,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/tian-guan-ci-fu-special?animeId=4825",
-                    "title": "Tian Guan Ci Fu Special",
-                    "author": "Haoliners Animation League",
-                    "description": "Tian Guan Ci Fu serisinin special bölümüdür.rnrn",
-                    "genre": "Tarihi, Doğaüstü Güçler, Dram",
-                    "thumbnail_url": "https://www.turkanime.co/imajlar/serilerb/4825.jpg",
+                    "url": "/anime/bleach-sennen-kessen-hen?animeId=5709",
+                    "title": "Bleach: Sennen Kessen-hen",
+                    "author": "Pierrot",
+                    "description": "Bleach animesinin \"Bin Yıllık Kanlı Savaş Arc\"ını konu alan devam sezonudur.",
+                    "genre": "Fantastik, Aksiyon, Macera",
+                    "thumbnail_url": "https://www.turkanime.co/imajlar/serilerb/5709.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -287,9 +287,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/video/tian-guan-ci-fu-special-1-bolum",
-                        "name": "Tian Guan Ci Fu Special 1. Bölüm",
-                        "episode_number": 1.0
+                        "url": "/video/bleach-sennen-kessen-hen-13-bolum-final",
+                        "name": "Bleach: Sennen Kessen-hen 13. Bölüm Final",
+                        "episode_number": 13.0
+                    },
+                    {
+                        "url": "/video/bleach-sennen-kessen-hen-12-bolum",
+                        "name": "Bleach: Sennen Kessen-hen 12. Bölüm",
+                        "episode_number": 12.0
                     }
                 ],
                 "passed": true
@@ -297,31 +302,67 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-fnvapstiqshd0vet.voe-network.net/engine/hls2/01/00207/xpbnf7vpzzr0_,n,.urlset/index-v1-a1.m3u8?t=miwdEfqNfhCt_E5ZHp51qSSML9zxTbgeddbF632j7xc&s=1736683939&e=14400&f=1036916&node=8xQmhgdmyZbNdL+vNOSUbnqqVR6Y+BCfiTNwwVyvyyY=&i=20.42&sp=2500&asn=8075&q=n",
-                        "quality": "(DonghuaTR) Voe:1080p",
-                        "videoUrl": "https://delivery-node-fnvapstiqshd0vet.voe-network.net/engine/hls2/01/00207/xpbnf7vpzzr0_,n,.urlset/index-v1-a1.m3u8?t=miwdEfqNfhCt_E5ZHp51qSSML9zxTbgeddbF632j7xc&s=1736683939&e=14400&f=1036916&node=8xQmhgdmyZbNdL+vNOSUbnqqVR6Y+BCfiTNwwVyvyyY=&i=20.42&sp=2500&asn=8075&q=n",
+                        "url": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1slO8DKxLUlwKdOXUQgzCbedlvGCSEYZ3",
+                        "quality": "HolySubs: Gdrive",
+                        "videoUrl": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1slO8DKxLUlwKdOXUQgzCbedlvGCSEYZ3",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                            "Cookie": ""
+                        }
+                    },
+                    {
+                        "url": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1xXPRhvrQ7qSyvC-zAMWF73o_EaI-rWjK",
+                        "quality": "Benihime Fansub: Gdrive",
+                        "videoUrl": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1xXPRhvrQ7qSyvC-zAMWF73o_EaI-rWjK",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                            "Cookie": ""
+                        }
+                    },
+                    {
+                        "url": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1zRYU16JKO2AEJa9XSeHxj3Yo5GEIMUAJ",
+                        "quality": "Arcadia: Gdrive",
+                        "videoUrl": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1zRYU16JKO2AEJa9XSeHxj3Yo5GEIMUAJ",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                            "Cookie": ""
+                        }
+                    },
+                    {
+                        "url": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1PZ1aii84UO0fUMr1fTORbiLUdTE2MY31",
+                        "quality": "AnimeWho: Gdrive",
+                        "videoUrl": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1PZ1aii84UO0fUMr1fTORbiLUdTE2MY31",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                            "Cookie": ""
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-z2a1mubxmjkn3ttc.voe-network.net/engine/hls2/01/08642/gz9wg0rnbh81_,n,.urlset/index-v1-a1.m3u8?t=jz2-lGnwBv8HXQ3ze_64IVlSY-0OwoKCs0g2F3vMzNw&s=1736705526&e=14400&f=43210233&node=ZRZ0K3iT4dJ85562a73rCEzGUukeH4sE88b4z/MvRGc=&i=20.25&sp=2500&asn=8075&q=n",
+                        "quality": "(PuzzleSubs) Voe:720p",
+                        "videoUrl": "https://delivery-node-z2a1mubxmjkn3ttc.voe-network.net/engine/hls2/01/08642/gz9wg0rnbh81_,n,.urlset/index-v1-a1.m3u8?t=jz2-lGnwBv8HXQ3ze_64IVlSY-0OwoKCs0g2F3vMzNw&s=1736705526&e=14400&f=43210233&node=ZRZ0K3iT4dJ85562a73rCEzGUukeH4sE88b4z/MvRGc=&i=20.25&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1PQGExu-N6bYa3-RUhx12eT92QvLAG8mw",
-                        "quality": "Heterophobia: Gdrive",
-                        "videoUrl": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1PQGExu-N6bYa3-RUhx12eT92QvLAG8mw",
+                        "url": "https://delivery-node-y8mchmxkjnjxvph4.voe-network.net/engine/hls2/01/08550/b0mgt8xih05l_,n,.urlset/index-v1-a1.m3u8?t=Y_Ey7YYvbySa59cYm3aFcvsls34yetRzG8lhhkGN9gg&s=1736705525&e=14400&f=42750339&node=il+uXrx5DkAliED7QNOfvHfvGvefjP4ulbmsE1of7oo=&i=20.25&sp=2500&asn=8075&q=n",
+                        "quality": "(HolySubs) Voe:720p",
+                        "videoUrl": "https://delivery-node-y8mchmxkjnjxvph4.voe-network.net/engine/hls2/01/08550/b0mgt8xih05l_,n,.urlset/index-v1-a1.m3u8?t=Y_Ey7YYvbySa59cYm3aFcvsls34yetRzG8lhhkGN9gg&s=1736705525&e=14400&f=42750339&node=il+uXrx5DkAliED7QNOfvHfvGvefjP4ulbmsE1of7oo=&i=20.25&sp=2500&asn=8075&q=n",
                         "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-                            "Cookie": ""
+                            "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1STpuTjnqlMCkXD5KOaRqLYxVp9_oEk9_",
-                        "quality": "DonghuaTR: Gdrive",
-                        "videoUrl": "https://drive.usercontent.google.com/download?id=https://drive.google.com/uc?id=1STpuTjnqlMCkXD5KOaRqLYxVp9_oEk9_",
+                        "url": "https://delivery-node-4mro8nnerm9lma2c.voe-network.net/engine/hls2-c/01/08817/35upwuvs2qrr_,n,.urlset/index-v1-a1.m3u8?t=sAsHK7B4mcs3UJOWsueeiPzM5YUVAR2VEsV6hEHeJYM&s=1736705525&e=14400&f=44085958&node=pI2T3nZbnS/mGxI9adFw4fyTnu5fEPDGaHDmyLOikzs=&i=20.25&sp=2500&asn=8075&q=n",
+                        "quality": "(AnimeWho) Voe:720p",
+                        "videoUrl": "https://delivery-node-4mro8nnerm9lma2c.voe-network.net/engine/hls2-c/01/08817/35upwuvs2qrr_,n,.urlset/index-v1-a1.m3u8?t=sAsHK7B4mcs3UJOWsueeiPzM5YUVAR2VEsV6hEHeJYM&s=1736705525&e=14400&f=44085958&node=pI2T3nZbnS/mGxI9adFw4fyTnu5fEPDGaHDmyLOikzs=&i=20.25&sp=2500&asn=8075&q=n",
                         "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-                            "Cookie": ""
+                            "Accept": "*/*"
                         }
                     }
                 ],

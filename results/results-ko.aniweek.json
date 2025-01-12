@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/포켓몬스터 (2023)",
+                                "title": "포켓몬스터 (2023)",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2305/219ba1df6fcdf57f5283e36ec86129fb_1684040739_2062.jpg"
+                            },
+                            {
                                 "url": "/c/마법사 프리큐어!! ~MIRAI DAYS~",
                                 "title": "마법사 프리큐어!! ~MIRAI DAYS~",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/9463a5a2229c7a0e4ab314dc4dc8f29c_1736670965_25.jpg"
@@ -25,11 +30,6 @@
                                 "url": "/c/메달리스트",
                                 "title": "메달리스트",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/b997cea165962c7eb15e99daba4420dc_1736019671_242.jpg"
-                            },
-                            {
-                                "url": "/c/A랭크 파티를 이탈한 나는, 전 제자들과 미궁 심부를 목표로 한다.",
-                                "title": "A랭크 파티를 이탈한 나는, 전 제자들과 미궁 심부를 목표로 한다.",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2501/cf73e6806cc6e93050f6d76f0740f3bb_1736624237_6186.jpg"
                             },
                             {
                                 "url": "/c/배뱀배뱀뱀뱀파이어",
@@ -332,11 +332,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/4d8c8e4ce62f4b0e7ffde45c35d863fc_1727806743_4554.jpg"
                             },
                             {
-                                "url": "/c/포켓몬스터 (2023)",
-                                "title": "포켓몬스터 (2023)",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2305/219ba1df6fcdf57f5283e36ec86129fb_1684040739_2062.jpg"
-                            },
-                            {
                                 "url": "/c/동패 ~뒷세계 레이트 마작투패록~",
                                 "title": "동패 ~뒷세계 레이트 마작투패록~",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/5135c9975f9b89ed9a4e44ebc9012b86_1728128490_6283.jpg"
@@ -439,10 +434,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/마법사 프리큐어!! ~MIRAI DAYS~",
-                    "title": "마법사 프리큐어!! ~MIRAI DAYS~",
-                    "description": "원제: 魔法つかいプリキュア!! ~MIRAI DAYS~\n원작: 토도 이즈미\n감독: 하마나 타카유키\n각본: 무라야마 이사오\n캐릭터 디자인: 소데야마 아사미\n음악: 타카키 히로시\n장르: 마법, 마법사, 전투, 변신, 백합\n방영일: 2025.01.12 02:00 (일)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/9463a5a2229c7a0e4ab314dc4dc8f29c_1736670965_25.jpg",
+                    "url": "/c/포켓몬스터 (2023)",
+                    "title": "포켓몬스터 (2023)",
+                    "description": "원제: ポケットモンスター(2023)\n원작: 타지리 사토시, 닌텐도\n감독: 덴 사오리\n각본: 사토 다이\n캐릭터 디자인: 야마자키 레이아\n음악: Conisch\n제작사: OLM\n장르: 판타지, 모험, 배틀, 여행\n분류: TV Series\n제작국가: 일본\n방영일: 2023.04.14 18:55 (금)\n등급: 전체",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2305/219ba1df6fcdf57f5283e36ec86129fb_1684040739_2062.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -450,16 +445,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/마법사 프리큐어!! ~MIRAI DAYS~ 1화",
-                        "name": "마법사 프리큐어!! ~MIRAI DAYS~ 1화",
+                        "url": "/e/포켓몬스터 (2023) 79화",
+                        "name": "포켓몬스터 (2023) 79화",
                         "date_upload": 1736640000000,
-                        "episode_number": 1.0
+                        "episode_number": 79.0
+                    },
+                    {
+                        "url": "/e/포켓몬스터 (2023) 78화",
+                        "name": "포켓몬스터 (2023) 78화",
+                        "date_upload": 1734825600000,
+                        "episode_number": 78.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-11890615940196431826/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-11890615940196431826/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-11890615940196431826/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4476536100489912401/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4476536100489912401/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4476536100489912401/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

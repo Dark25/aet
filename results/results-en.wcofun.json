@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/sentai-red-isekai-de-boukensha-ni-naru",
+                                "title": "Sentai Red Isekai de Boukensha ni Naru",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933868.jpg"
+                            },
+                            {
                                 "url": "/anime/sakamoto-days",
                                 "title": "Sakamoto Days",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933867.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/magic-maker-how-to-make-magic-in-another-world",
                                 "title": "Magic Maker: How to Make Magic in Another World",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933853.jpg"
-                            },
-                            {
-                                "url": "/anime/honey-lemon-soda-english-subbed",
-                                "title": "Honey Lemon Soda English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933852.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/sakamoto-days",
-                    "title": "Sakamoto Days",
-                    "description": "Tarou Sakamoto was considered the greatest hitman of all time. Feared by many, he stood at the top of the underground world until he met and fell in love with a woman. As a result, Sakamoto abandoned his life of crime and now works as a convenience store clerk.",
-                    "genre": "Action, Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933867.jpg",
+                    "url": "/anime/sentai-red-isekai-de-boukensha-ni-naru",
+                    "title": "Sentai Red Isekai de Boukensha ni Naru",
+                    "description": "In the final battle against the evil Exterminators, Tougo Asagaki, a power ranger, traded his life for the enemy’s. It seemed like everything was over, but suddenly he found himself in another world! He becomes an adventurer, transforming into Kizuna Red, and continues fighting to save people in trouble! Here he meets a young Wizard named Idola and his journey in this new world begins!",
+                    "genre": "Action, Adventure, Comedy, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933868.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/sakamoto-days-episode-2-english-dubbed",
-                        "name": "Season 1 - Episode 2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/sakamoto-days-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2h-N-t6NmlAXWVFqefuCjYbQOgnY5dv6ayGY5lDT-iCJsH5D9WpQvOaUO5N5mzw-HrAu1_Zzje7O7h6tLFpnB5nn3vJJL7Wm39tROUPAAkv0QiW_jZLrbFAh6nDp2zj9259nHP9b63HZcKXoKcfgjv2O-ZGB1fq5emvqrEgXZwVUmlqStLH5CCJxe9P5YW17IdTMMtzpJcfHVQNZfjKWCdnAFtKUP-DR1OyIuLItYTRvq-tdNgsodMj0T7i5vtb5hM-93hDOGOGr0KCOjirvXEtLM3lrqWKUEm75GOYjNB2UZfHrDvbQIDwp9aOomT_OWK2Gr0b5iNpaVpHlrzG2tnxYctCmEq7O7ImpQ2rsM-NsckKOUKYgXq45ed_WqiyEiMC5HXzOiQupecf2Xly6e-j",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2h-N-t6NmlAXWVFqefuCjYbQOgnY5dv6ayGY5lDT-iCJsH5D9WpQvOaUO5N5mzw-HrAu1_Zzje7O7h6tLFpnB5nn3vJJL7Wm39tROUPAAkv0QiW_jZLrbFAh6nDp2zj9259nHP9b63HZcKXoKcfgjv2O-ZGB1fq5emvqrEgXZwVUmlqStLH5CCJxe9P5YW17IdTMMtzpJcfHVQNZfjKWCdnAFtKUP-DR1OyIuLItYTRvq-tdNgsodMj0T7i5vtb5hM-93hDOGOGr0KCOjirvXEtLM3lrqWKUEm75GOYjNB2UZfHrDvbQIDwp9aOomT_OWK2Gr0b5iNpaVpHlrzG2tnxYctCmEq7O7ImpQ2rsM-NsckKOUKYgXq45ed_WqiyEiMC5HXzOiQupecf2Xly6e-j"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2h-N-t6NmlAXWVFqefuCjYbQOgnY5dv6ayGY5lDT-iCJsH5D9WpQvOaUO5N5mzw-HrAu1_Zzje7O7h6tLFpnB5nn3vJJL7Wm39tROUPAAkv0QiW_jZLrbFAh6nDp2zj9244r1j0mxTjMbl74Fv_SbKlPJ5XCPtelmqX8Rjlt6nR-gA4mjSwRJhHNFiAX-KgxmC4jopeyNc0FyzmBCosw3d-BWf6vddgDGnh8p3cMhyzHlR1P0zqImyDBWkVUghv1_Ns2F1ElgkgfcBvtNdILuwICmQtKlKjcLNxAa35wY3VBe7q6qvLBBuA_BY2QiDxruJJBdtxl3sPjOFNHeEyxsgKThQc-KaaO01J3Hk0X7QUz6AgJyoerl186Q1RNV413i9tUbg0kGkIXEXthiXJBcUm",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2h-N-t6NmlAXWVFqefuCjYbQOgnY5dv6ayGY5lDT-iCJsH5D9WpQvOaUO5N5mzw-HrAu1_Zzje7O7h6tLFpnB5nn3vJJL7Wm39tROUPAAkv0QiW_jZLrbFAh6nDp2zj9244r1j0mxTjMbl74Fv_SbKlPJ5XCPtelmqX8Rjlt6nR-gA4mjSwRJhHNFiAX-KgxmC4jopeyNc0FyzmBCosw3d-BWf6vddgDGnh8p3cMhyzHlR1P0zqImyDBWkVUghv1_Ns2F1ElgkgfcBvtNdILuwICmQtKlKjcLNxAa35wY3VBe7q6qvLBBuA_BY2QiDxruJJBdtxl3sPjOFNHeEyxsgKThQc-KaaO01J3Hk0X7QUz6AgJyoerl186Q1RNV413i9tUbg0kGkIXEXthiXJBcUm"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2h-N-t6NmlAXWVFqefuCjYbQOgnY5dv6ayGY5lDT-iCJsH5D9WpQvOaUO5N5mzw-HrAu1_Zzje7O7h6tLFpnB5nn3vJJL7Wm39tROUPAAkv0QiW_jZLrbFAh6nDp2zj926Mgcfpu1r22memG6eNVqTuy0hsnmB0F5_c-iOTw94Bbi9g3DfzcxIWlFH3nOYS6Pe-VZp-sloJciah6hbqNVM6oDUfBW18xIyvlvXAILWWn-sqxI2lm-wvEDCw6YzK_8AZw4QubgmFMIq1mnP8kvOuLTrm-ZehjA16ftz7wA1UT_keQ_0n4k8n3_VCXfDLrcGV7MZTkfNUQxY7tWpT9KbRI3GDgOvcG6zQCJb8Pwe_by06_icCfpMyM7DJlCo-rxk",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2h-N-t6NmlAXWVFqefuCjYbQOgnY5dv6ayGY5lDT-iCJsH5D9WpQvOaUO5N5mzw-HrAu1_Zzje7O7h6tLFpnB5nn3vJJL7Wm39tROUPAAkv0QiW_jZLrbFAh6nDp2zj926Mgcfpu1r22memG6eNVqTuy0hsnmB0F5_c-iOTw94Bbi9g3DfzcxIWlFH3nOYS6Pe-VZp-sloJciah6hbqNVM6oDUfBW18xIyvlvXAILWWn-sqxI2lm-wvEDCw6YzK_8AZw4QubgmFMIq1mnP8kvOuLTrm-ZehjA16ftz7wA1UT_keQ_0n4k8n3_VCXfDLrcGV7MZTkfNUQxY7tWpT9KbRI3GDgOvcG6zQCJb8Pwe_by06_icCfpMyM7DJlCo-rxk"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

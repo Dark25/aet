@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/kinnikuman-kanpeki-choujin-shiso-hen-season-2",
+                                "title": "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kinnikuman-kanpeki-choujin-shiso-hen-season-2-cover.jpg"
+                            },
+                            {
+                                "url": "/media/sentai-red-isekai-de-boukensha-ni-naru",
+                                "title": "The Red Ranger Becomes an Adventurer in Another World",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-sentai-red-isekai-de-boukensha-ni-naru-cover.jpg"
+                            },
+                            {
+                                "url": "/media/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-nin-no-kanojo-2",
+                                "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You: Staffel 2",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-nin-no-kanojo-2-cover.jpg"
+                            },
+                            {
                                 "url": "/media/jibaku-shounen-hanako-kun-2",
                                 "title": "Mein Schulgeist Hanako: Staffel 2",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-jibaku-shounen-hanako-kun-2-cover.jpg"
@@ -90,21 +105,6 @@
                                 "url": "/media/tasokare-hotel",
                                 "title": "Tasokare Hotel",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-tasokare-hotel-cover.jpg"
-                            },
-                            {
-                                "url": "/media/honey-lemon-soda",
-                                "title": "Honey Lemon Soda",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-honey-lemon-soda-cover.jpg"
-                            },
-                            {
-                                "url": "/media/magic-maker-isekai-mahou-no-tsukurikata",
-                                "title": "Magic Maker: How to Make Magic in Another World",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-magic-maker-isekai-mahou-no-tsukurikata-cover.jpg"
-                            },
-                            {
-                                "url": "/media/ishura-dai-2-ki",
-                                "title": "Ishura: Staffel 2",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ishura-dai-2-ki-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -177,6 +177,11 @@
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-world-destruction-sekai-bokumetsu-no-rokunin-cover.jpg"
                             },
                             {
+                                "url": "/media/sentai-red-isekai-de-boukensha-ni-naru",
+                                "title": "The Red Ranger Becomes an Adventurer in Another World",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-sentai-red-isekai-de-boukensha-ni-naru-cover.jpg"
+                            },
+                            {
                                 "url": "/media/arafoo-otoko-no-isekai-tsuuhan-seikatsu",
                                 "title": "The Daily Life of a Middle-Aged Online Shopper in Another World",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-arafoo-otoko-no-isekai-tsuuhan-seikatsu-cover.jpg"
@@ -210,11 +215,6 @@
                                 "url": "/media/tensei-kizoku-kantei-skill-de-nariagaru",
                                 "title": "As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the New World",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-tensei-kizoku-kantei-skill-de-nariagaru-cover.png"
-                            },
-                            {
-                                "url": "/media/shuumatsu-train-doko-e-iku",
-                                "title": "Train to the End of the World",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-shuumatsu-train-doko-e-iku-cover.png"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/jibaku-shounen-hanako-kun-2",
-                    "title": "Mein Schulgeist Hanako: Staffel 2",
+                    "url": "/media/kinnikuman-kanpeki-choujin-shiso-hen-season-2",
+                    "title": "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2",
                     "author": "",
-                    "description": "Die zweite geheimnisvolle Staffel von Mein Schulgeist Hanako. Quelle: aniSearch",
-                    "genre": "Geistergeschichten",
+                    "description": "*Keine Beschreibung verfügbar",
+                    "genre": "Actionkomödie",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-jibaku-shounen-hanako-kun-2-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kinnikuman-kanpeki-choujin-shiso-hen-season-2-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,7 +239,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/jibaku-shounen-hanako-kun-2#streams_episodes_1_0",
+                        "url": "/media/kinnikuman-kanpeki-choujin-shiso-hen-season-2#streams_episodes_1_0",
                         "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
@@ -247,7 +247,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-16808550541611693199/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-16808550541611693199/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-16808550541611693199/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-10658807757644886173/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-10658807757644886173/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-10658807757644886173/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

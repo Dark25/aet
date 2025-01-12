@@ -7,16 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/watch/orochi-the-eight-headed-dragon.html",
-                                "title": "Orochi, the Eight-Headed Dragon",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/orochi-the-eight-headed-dragon-thumb.png"
-                            },
-                            {
-                                "url": "/watch/armor-hero-star-ray.html",
-                                "title": "Armor Hero Star Ray",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/armor-hero-star-ray-thumb.png"
-                            },
-                            {
                                 "url": "/watch/bakuage-sentai-boonboomger.html",
                                 "title": "Bakuage Sentai Boonboomger",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
@@ -25,6 +15,16 @@
                                 "url": "/watch/kamen-rider-gavv.html",
                                 "title": "Kamen Rider Gavv",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gavv-thumb.png"
+                            },
+                            {
+                                "url": "/watch/orochi-the-eight-headed-dragon.html",
+                                "title": "Orochi, the Eight-Headed Dragon",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/orochi-the-eight-headed-dragon-thumb.png"
+                            },
+                            {
+                                "url": "/watch/armor-hero-star-ray.html",
+                                "title": "Armor Hero Star Ray",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/armor-hero-star-ray-thumb.png"
                             },
                             {
                                 "url": "/watch/gaion-sigma.html",
@@ -144,12 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/orochi-the-eight-headed-dragon.html",
-                    "title": "Orochi, the Eight-Headed Dragon",
-                    "author": "Year 1994",
-                    "description": "Orochi, the Eight-Headed Dragon is a 1994 tokusatsu fantasy kaiju film directed by Takao Okawara and written by Wataru Mimura, with special effects by Koichi Kawakita. It was produced by Toho Pictures, while its special effects were produced by Toho Eizo Bijutsu.",
-                    "genre": "Movie, Other",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/orochi-the-eight-headed-dragon-thumb.png",
+                    "url": "/watch/bakuage-sentai-boonboomger.html",
+                    "title": "Bakuage Sentai Boonboomger",
+                    "author": "Year 2024",
+                    "description": "Bakuage Sentai Boonboomger is an upcoming Japanese Tokusatsu-drama and the 48th installment in Toei Company’s Super Sentai Series.",
+                    "genre": "Series, Super Sentai",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -157,15 +159,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/orochi-the-eight-headed-dragon.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=44#watch",
+                        "name": "Episode 44",
+                        "episode_number": 44.0
+                    },
+                    {
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=43#watch",
+                        "name": "Episode 43",
+                        "episode_number": 43.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had 'H' instead at path: $\nJSON input: HjmzOptJTRNtfmjAUQjfYYLX9PRyIV.....",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had 'H' instead at path: $\nJSON input: HjmjPprJVRNrb/aMBRAF9Hxgu729Hs.....",
                 "passed": false
             }
         }

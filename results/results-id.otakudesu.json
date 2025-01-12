@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tensei-skill-nariagaru-s2-sub-indo/",
+                                "title": "Tensei Kizoku, Kantei Skill de Nariagaru Season 2",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/Tensei-Kizoku-Kantei-Skill-de-Nariagaru-Season-2-Sub-Indo.jpg"
+                            },
+                            {
                                 "url": "/anime/hoshifuru-nina-sub-indo/",
                                 "title": "Hoshifuru Oukoku no Nina",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/Hoshifuru-Oukoku-no-Nina-Sub-Indo.jpg"
@@ -125,11 +130,6 @@
                                 "url": "/anime/kaiju-gou-sub-indo/",
                                 "title": "Kaijuu 8-gou",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Kaijuu-8-gou-Sub-Indo.jpg"
-                            },
-                            {
-                                "url": "/anime/henjin-salad-bowl-sub-indo/",
-                                "title": "Henjin no Salad Bowl",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Henjin-no-Salad-Bowl-Sub-Indo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -141,6 +141,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/okitsura-sub-indo/",
+                                "title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146843.jpg"
+                            },
                             {
                                 "url": "/anime/medalist-sub-indo/",
                                 "title": "Medalist",
@@ -260,11 +265,6 @@
                                 "url": "/anime/around-40-otoko-isekai-tsuuhan-sub-indo/",
                                 "title": "Around 40 Otoko no Isekai Tsuuhan",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146512.jpg"
-                            },
-                            {
-                                "url": "/anime/grisaia-phantom-trigger-sub-indo/",
-                                "title": "Grisaia: Phantom Trigger",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/142188.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-12569676086599484811/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-12569676086599484811/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-12569676086599484811/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15106256399334987269/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15106256399334987269/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15106256399334987269/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-12569676086599484811/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-12569676086599484811/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-12569676086599484811/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15106256399334987269/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15106256399334987269/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15106256399334987269/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

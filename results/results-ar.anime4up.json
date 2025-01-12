@@ -376,12 +376,36 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/uniteup-unibirth-الحلقة-1/",
+                        "name": "الحلقة 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://mega99.uqload.net/3rfkvlft5jw2q4drdi37tmfgdlgech76vq6bu6c2k4a2xr4kim6wbwydfoiq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://mega99.uqload.net/3rfkvlft5jw2q4drdi37tmfgdlgech76vq6bu6c2k4a2xr4kim6wbwydfoiq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    },
+                    {
+                        "url": "https://a2.mp4upload.com:183/d/xwxwusuuz3b4quuowgrbonyrjaz62lc4mq6uubpjreznd6ozj4txsltmy4pkmxzp4t4bx2s6/video.mp4",
+                        "quality": "Mp4Upload - 480p",
+                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxwusuuz3b4quuowgrbonyrjaz62lc4mq6uubpjreznd6ozj4txsltmy4pkmxzp4t4bx2s6/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

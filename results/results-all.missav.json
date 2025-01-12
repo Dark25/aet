@@ -3,19 +3,19 @@
         "name": "MissAV (ALL)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: missav.com: No address associated with hostname",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: missav.com",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: missav.com",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: missav.com",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
@@ -27,7 +27,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.UnknownHostException: missav.com",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

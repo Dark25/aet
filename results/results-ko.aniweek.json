@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/마법사 프리큐어!! ~MIRAI DAYS~",
+                                "title": "마법사 프리큐어!! ~MIRAI DAYS~",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/9463a5a2229c7a0e4ab314dc4dc8f29c_1736670965_25.jpg"
+                            },
+                            {
                                 "url": "/c/원피스 어인섬편",
                                 "title": "원피스 어인섬편",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2411/cba573e931eff7e19ca958d0f05ee186_1730625839_3359.jpg"
@@ -434,10 +439,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/원피스 어인섬편",
-                    "title": "원피스 어인섬편",
-                    "description": "원제: ワンピース\n원작: 오다 에이치로\n감독: 우다 코우노스케, 사카이 무네히사\n각본: 카미사카 히로히코, 타케가미 쥰키\n캐릭터 디자인: 이노우에 에이사쿠\n음악: 하마구치 시로\n장르: 액션, 코미디, 능력\n방영일: 2024.11.03\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2411/cba573e931eff7e19ca958d0f05ee186_1730625839_3359.jpg",
+                    "url": "/c/마법사 프리큐어!! ~MIRAI DAYS~",
+                    "title": "마법사 프리큐어!! ~MIRAI DAYS~",
+                    "description": "원제: 魔法つかいプリキュア!! ~MIRAI DAYS~\n원작: 토도 이즈미\n감독: 하마나 타카유키\n각본: 무라야마 이사오\n캐릭터 디자인: 소데야마 아사미\n음악: 타카키 히로시\n장르: 마법, 마법사, 전투, 변신, 백합\n방영일: 2025.01.12 02:00 (일)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/9463a5a2229c7a0e4ab314dc4dc8f29c_1736670965_25.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -445,22 +450,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/원피스 어인섬편 11화",
-                        "name": "원피스 어인섬편 11화",
+                        "url": "/e/마법사 프리큐어!! ~MIRAI DAYS~ 1화",
+                        "name": "마법사 프리큐어!! ~MIRAI DAYS~ 1화",
                         "date_upload": 1736640000000,
-                        "episode_number": 11.0
-                    },
-                    {
-                        "url": "/e/원피스 어인섬편 10화",
-                        "name": "원피스 어인섬편 10화",
-                        "date_upload": 1736035200000,
-                        "episode_number": 10.0
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6720976640492185694/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6720976640492185694/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6720976640492185694/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-11890615940196431826/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-11890615940196431826/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-11890615940196431826/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

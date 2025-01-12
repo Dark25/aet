@@ -142,6 +142,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/shangri-frontier-s2-sub-indo/",
+                                "title": "Shangri-La Frontier Season 2",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Shangri-La-Frontier-Season-2.jpg"
+                            },
+                            {
+                                "url": "/anime/s-rank-monster-behemoth-sub-indo/",
+                                "title": "S-Rank Monster no \"Behemoth\" dakedo",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/146916l.jpg"
+                            },
+                            {
                                 "url": "/anime/okitsura-sub-indo/",
                                 "title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146843.jpg"
@@ -180,11 +190,6 @@
                                 "url": "/anime/solo-level-s2-sub-indo/",
                                 "title": "Solo Leveling Season 2",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/145502.jpg"
-                            },
-                            {
-                                "url": "/anime/s-rank-monster-behemoth-sub-indo/",
-                                "title": "S-Rank Monster no \"Behemoth\" dakedo",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/146916l.jpg"
                             },
                             {
                                 "url": "/anime/momentary-lily-sub-indo/",
@@ -260,11 +265,6 @@
                                 "url": "/anime/kanteishi-sub-indo/",
                                 "title": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146293.jpg"
-                            },
-                            {
-                                "url": "/anime/around-40-otoko-isekai-tsuuhan-sub-indo/",
-                                "title": "Around 40 Otoko no Isekai Tsuuhan",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146512.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15106256399334987269/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15106256399334987269/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15106256399334987269/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-2732467710283423459/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-2732467710283423459/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-2732467710283423459/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15106256399334987269/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15106256399334987269/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15106256399334987269/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-2732467710283423459/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-2732467710283423459/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-2732467710283423459/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/jibaku-shounen-hanako-kun-2",
+                                "title": "Mein Schulgeist Hanako: Staffel 2",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-jibaku-shounen-hanako-kun-2-cover.jpg"
+                            },
+                            {
                                 "url": "/media/a-rank-party-o-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-o-mezasu",
                                 "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-a-rank-party-o-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-o-mezasu-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/ishura-dai-2-ki",
                                 "title": "Ishura: Staffel 2",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ishura-dai-2-ki-cover.jpg"
-                            },
-                            {
-                                "url": "/media/hana-wa-saku-shura-no-gotoku",
-                                "title": "Flower and Asura",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-hana-wa-saku-shura-no-gotoku-cover-1.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/a-rank-party-o-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-o-mezasu",
-                    "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+                    "url": "/media/jibaku-shounen-hanako-kun-2",
+                    "title": "Mein Schulgeist Hanako: Staffel 2",
                     "author": "",
-                    "description": "In der Welt von Yuke Feldio genießen Abenteurer viel Ansehen und unzählige Menschen werden schier magisch vom Labyrinth in der Abenteurerstadt Finis angezogen. Doch die Aufgabe, seine Gruppe zu unterstützen, kann bisweilen ein überaus undankbarer Job sein. Der Rotmagier Yuke, der von seinen langjährigen Gruppenmitgliedern eher als Last denn als Bereicherung angesehen wird, hat davon wahrlich genug und beschließt seine hochgepriesene A-Rang-Truppe freiwillig zu verlassen. Von seinen ehemaligen Kollegen verspottet, die seinen Wert nicht erkennen, muss er sich nun also eine neue Gruppe suchen. Während er verzweifelt feststellt, dass es für einen Supporter kaum Solo-Missionen gibt und andere Gruppen einen – eher fernab der Frontlinie agierenden – Rotmagier wohl tatsächlich nicht aufnehmen wollen würden, bemerkt er eine junge Gruppe von Abenteurern in der Gildenhalle, die mächtig in Schwierigkeiten zu stecken scheinen. Als er den aufdringlichen Perversen, der sie belästigt, schließlich mit einem einzigen Zauber außer Gefecht setzt, bemerkt er, dass es sich bei den drei Mädchen um ehemalige Schülerinnen von ihm handelt. Freudig wollen sie ihn in ihre Gruppe aufnehmen, und da er momentan sowieso keine anderen Möglichkeiten vorzuweisen hat, geht er den Deal ein. Doch im Gegensatz zu seinen alten Kameraden lassen sie sein Talent nicht versteckt, und nachdem ihre neue Gruppe einen Dungeon nach dem anderen besiegt, wird schnell klar, dass Rotmagier zu Unrecht belächelt werden! Quelle: aniSearch",
-                    "genre": "Abenteuer",
+                    "description": "Die zweite geheimnisvolle Staffel von Mein Schulgeist Hanako. Quelle: aniSearch",
+                    "genre": "Geistergeschichten",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-a-rank-party-o-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-o-mezasu-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-jibaku-shounen-hanako-kun-2-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,7 +239,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/a-rank-party-o-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-o-mezasu#streams_episodes_1_0",
+                        "url": "/media/jibaku-shounen-hanako-kun-2#streams_episodes_1_0",
                         "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
@@ -247,7 +247,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-9842151643751799688/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-9842151643751799688/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-9842151643751799688/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-16808550541611693199/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-16808550541611693199/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-16808550541611693199/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

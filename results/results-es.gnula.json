@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/fyre-rises",
+                                "title": "Fyre Rises",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/v2P6lETuE5gMXZUhYq8bG12szVC.jpg"
+                            },
+                            {
+                                "url": "/movies/filthy-animals",
+                                "title": "Filthy Animals",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/eeNrdN2kgPvJDMSfMlBUdVWrLrF.jpg"
+                            },
+                            {
                                 "url": "/movies/zak-and-wowo",
                                 "title": "Zak & Wowo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/ovhBQGo4r8bgxzgQ8Zc2MxwmP7f.jpg"
@@ -120,16 +130,6 @@
                                 "url": "/movies/do-you-see-what-i-see-cerita-horor-64-first-love",
                                 "title": "Do You See What I See: Cerita Horor #64 - First Love",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/mk9jICB3vhe6qa2SphMY38QUAfr.jpg"
-                            },
-                            {
-                                "url": "/movies/carnage-for-christmas",
-                                "title": "Carnage for Christmas",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ff1ki4eq0YhNlqgpTbY0lnZomAR.jpg"
-                            },
-                            {
-                                "url": "/movies/audrey-1229346",
-                                "title": "Audrey",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/9rmNg1asmEo6WjZxw3aPMjkr531.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/zak-and-wowo",
-                    "title": "Zak & Wowo",
-                    "artist": "Jérôme Niel",
-                    "description": "En el corazón de un mundo imaginario poblado por criaturas fantásticas y monstruos peligrosos, Zak, de 13 años, busca a su hermano gemelo Kyle, quien ha desaparecido misteriosamente. Equipado con una piedra de jade mágica cuyos superpoderes aún no sabe controlar, se une a su abuela NaïNaï y a Indiana, una hermosa forajida que puede comunicarse con las criaturas fantásticas del mundo. Pero también está acompañado por Wowo, que antes era un pachiderma peludo de 3 metros de altura, y que ahora se ha convertido en un pequeño, lindo y excéntrico pelotón de pelo debido a la piedra de jade mágica.",
-                    "genre": "Animación, Aventura, Fantasía",
+                    "url": "/movies/fyre-rises",
+                    "title": "Fyre Rises",
+                    "artist": "Eric Roberts",
+                    "description": "Debt-ridden pacifist Richard Fyre is propositioned to return to his abandoned mercenary ways by flamboyant zealot Priest to eliminate his international competition in exchange for a clean slate. Standing at a crossroads, he must overcome his fears of becoming the monster he once was to the rightful man he needs to be now before his indecision has dire repercussions for his family.",
+                    "genre": "Acción, Crimen, Suspenso",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/ovhBQGo4r8bgxzgQ8Zc2MxwmP7f.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/v2P6lETuE5gMXZUhYq8bG12szVC.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/zak-and-wowo",
+                        "url": "/movies/fyre-rises",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,52 +429,22 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-f08jtimzq9nooa01.voe-network.net/engine/hls2/01/13289/keesqovrm9od_,n,.urlset/index-v1-a1.m3u8?t=ZBpHmJbF4Ry1BwYvwHKp2f3EpFOp6rEonnFzARTTHbQ&s=1736727577&e=14400&f=66580843&node=/zplS6AmaZ36zjmLboDB24vY2N9xP5sahat3dXw95gg=&i=20.246&sp=2500&asn=8075&q=n",
+                        "url": "https://delivery-node-v40ys08d7ceifgsy.voe-network.net/engine/hls2-c/01/13317/ljpc5molw98g_,n,.urlset/index-v1-a1.m3u8?t=l5hle2E1ymoewcBP_4p9OmJFVIwG3Rg_7hTry9FMc4A&s=1736748474&e=14400&f=66590036&node=j9A3uKlh9EJIvaW3p3v65VuzDBUEiinc24sqRscdXcg=&i=20.57&sp=2500&asn=8075&q=n",
                         "quality": "[LAT]Voe:720p",
-                        "videoUrl": "https://delivery-node-f08jtimzq9nooa01.voe-network.net/engine/hls2/01/13289/keesqovrm9od_,n,.urlset/index-v1-a1.m3u8?t=ZBpHmJbF4Ry1BwYvwHKp2f3EpFOp6rEonnFzARTTHbQ&s=1736727577&e=14400&f=66580843&node=/zplS6AmaZ36zjmLboDB24vY2N9xP5sahat3dXw95gg=&i=20.246&sp=2500&asn=8075&q=n",
+                        "videoUrl": "https://delivery-node-v40ys08d7ceifgsy.voe-network.net/engine/hls2-c/01/13317/ljpc5molw98g_,n,.urlset/index-v1-a1.m3u8?t=l5hle2E1ymoewcBP_4p9OmJFVIwG3Rg_7hTry9FMc4A&s=1736748474&e=14400&f=66590036&node=j9A3uKlh9EJIvaW3p3v65VuzDBUEiinc24sqRscdXcg=&i=20.57&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://m5qilv3g2l.premilkyway.com/hls2/01/07877/8a2p5p68s6zu_n/index-v1-a1.m3u8?t=MpGiGe5hqowfxST-fu5tkLV4lPebtdIMXqJUB5NN17Y&s=1736727579&e=129600&f=39673494&srv=z13jtbat10fahdh456&i=0.4&sp=500&p1=z13jtbat10fahdh456&p2=z13jtbat10fahdh456&asn=8075",
+                        "url": "https://xpbfsgque.cdn-centaurus.com/hls2/01/07944/ls3wt7wjzdby_h/index-v1-a1.m3u8?t=bSWUUmwDv6K7TK5rlK5CMSIUfQjzNpyuHGzMgLvk_Jk&s=1736748471&e=129600&f=39736833&srv=hptg5oweej5s&i=0.4&sp=500&p1=hptg5oweej5s&p2=hptg5oweej5s&asn=8075",
                         "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://m5qilv3g2l.premilkyway.com/hls2/01/07877/8a2p5p68s6zu_n/index-v1-a1.m3u8?t=MpGiGe5hqowfxST-fu5tkLV4lPebtdIMXqJUB5NN17Y&s=1736727579&e=129600&f=39673494&srv=z13jtbat10fahdh456&i=0.4&sp=500&p1=z13jtbat10fahdh456&p2=z13jtbat10fahdh456&asn=8075",
+                        "videoUrl": "https://xpbfsgque.cdn-centaurus.com/hls2/01/07944/ls3wt7wjzdby_h/index-v1-a1.m3u8?t=bSWUUmwDv6K7TK5rlK5CMSIUfQjzNpyuHGzMgLvk_Jk&s=1736748471&e=129600&f=39736833&srv=hptg5oweej5s&i=0.4&sp=500&p1=hptg5oweej5s&p2=hptg5oweej5s&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/icgboawh47z2"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-rvpuky9hp2glksoq.voe-network.net/engine/hls2/01/13289/lm1wg8uw5pdq_,n,.urlset/index-v1-a1.m3u8?t=0j-I2fDsHbk2FLVqc-Vtk9MeYSbv661gdvfzltMCZPc&s=1736727589&e=14400&f=66580883&node=bfinFs4uSrnmOxDmHRx4b4ZjH1INnkx85htkLPWfDV4=&i=20.246&sp=2500&asn=8075&q=n",
-                        "quality": "[SUB]Voe:720p",
-                        "videoUrl": "https://delivery-node-rvpuky9hp2glksoq.voe-network.net/engine/hls2/01/13289/lm1wg8uw5pdq_,n,.urlset/index-v1-a1.m3u8?t=0j-I2fDsHbk2FLVqc-Vtk9MeYSbv661gdvfzltMCZPc&s=1736727589&e=14400&f=66580883&node=bfinFs4uSrnmOxDmHRx4b4ZjH1INnkx85htkLPWfDV4=&i=20.246&sp=2500&asn=8075&q=n",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://ts09ruf2imyzcv.premilkyway.com/hls2/01/07934/kt4tn1a323qf_,l,n,.urlset/index-f2-v1-a1.m3u8?t=mK314gjrsK-9d_nv8shiwUvtiSVV7AUaspXrpdOZBy8&s=1736727590&e=129600&f=39673695&srv=vy7cie2tqwc2cgp&i=0.4&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
-                        "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://ts09ruf2imyzcv.premilkyway.com/hls2/01/07934/kt4tn1a323qf_,l,n,.urlset/index-f2-v1-a1.m3u8?t=mK314gjrsK-9d_nv8shiwUvtiSVV7AUaspXrpdOZBy8&s=1736727590&e=129600&f=39673695&srv=vy7cie2tqwc2cgp&i=0.4&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/kt4tn1a323qf"
-                        }
-                    },
-                    {
-                        "url": "https://ts09ruf2imyzcv.premilkyway.com/hls2/01/07934/kt4tn1a323qf_,l,n,.urlset/index-f1-v1-a1.m3u8?t=mK314gjrsK-9d_nv8shiwUvtiSVV7AUaspXrpdOZBy8&s=1736727590&e=129600&f=39673695&srv=vy7cie2tqwc2cgp&i=0.4&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
-                        "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://ts09ruf2imyzcv.premilkyway.com/hls2/01/07934/kt4tn1a323qf_,l,n,.urlset/index-f1-v1-a1.m3u8?t=mK314gjrsK-9d_nv8shiwUvtiSVV7AUaspXrpdOZBy8&s=1736727590&e=129600&f=39673695&srv=vy7cie2tqwc2cgp&i=0.4&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/kt4tn1a323qf"
+                            "Referer": "https://streamwish.to/e/bownrlq5shzd"
                         }
                     }
                 ],

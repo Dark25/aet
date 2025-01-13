@@ -416,8 +416,19 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/love-of-nirvana-episodio-40",
+                        "name": "Capítulo 40",
+                        "episode_number": 40.0
+                    },
+                    {
+                        "url": "/ver/love-of-nirvana-episodio-39",
+                        "name": "Capítulo 39",
+                        "episode_number": 39.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

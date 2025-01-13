@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/aoexocist-yuki-hen-sub-indo/",
+                                "title": "Ao no Exorcist Season 4",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/Ao-no-Exorcist-Season-4-Sub-Indo.jpg"
+                            },
+                            {
                                 "url": "/anime/tensei-skill-nariagaru-s2-sub-indo/",
                                 "title": "Tensei Kizoku, Kantei Skill de Nariagaru Season 2",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/Tensei-Kizoku-Kantei-Skill-de-Nariagaru-Season-2-Sub-Indo.jpg"
@@ -125,11 +130,6 @@
                                 "url": "/anime/kurositsuji-gakkou-sub-indo/",
                                 "title": "Kuroshitsuji: Kishuku Gakkou-hen",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Kuroshitsuji-Kishuku-Gakkou-hen-Sub-Indo.jpg"
-                            },
-                            {
-                                "url": "/anime/kaiju-gou-sub-indo/",
-                                "title": "Kaijuu 8-gou",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/Kaijuu-8-gou-Sub-Indo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -188,7 +188,7 @@
                             },
                             {
                                 "url": "/anime/ao-exorcist-yosuga-sub-indo/",
-                                "title": "Ao no Exorcist: Yosuga-hen",
+                                "title": "Ao no Exorcist Season 5",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/147040.jpg"
                             },
                             {
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-9628250096358234221/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-9628250096358234221/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-9628250096358234221/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-10861158858017872260/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-10861158858017872260/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-10861158858017872260/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-9628250096358234221/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-9628250096358234221/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-9628250096358234221/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-10861158858017872260/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-10861158858017872260/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-10861158858017872260/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

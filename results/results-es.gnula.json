@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/corina",
+                                "title": "Corina",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/hM8JHPhSTLSqdtDvAkzuBwbhCAP.jpg"
+                            },
+                            {
                                 "url": "/movies/fyre-rises",
                                 "title": "Fyre Rises",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/v2P6lETuE5gMXZUhYq8bG12szVC.jpg"
@@ -125,11 +130,6 @@
                                 "url": "/movies/el-robo-perfecto-pantera",
                                 "title": "El Robo Perfecto: Pantera",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/6qPzzRipjXVnwJXecKn7XwdHSvJ.jpg"
-                            },
-                            {
-                                "url": "/movies/do-you-see-what-i-see-cerita-horor-64-first-love",
-                                "title": "Do You See What I See: Cerita Horor #64 - First Love",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/mk9jICB3vhe6qa2SphMY38QUAfr.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -347,14 +347,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
                             },
                             {
-                                "url": "/movies/adios-mundo",
-                                "title": "Adios Mundo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/73Ek4bvUOUD0eHakQ8MTVxRbsJZ.jpg"
-                            },
-                            {
                                 "url": "/movies/dune-world",
                                 "title": "Dune World",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/ztRN5ng5g2FSGjt1WexuFuRESgM.jpg"
+                            },
+                            {
+                                "url": "/movies/adios-mundo",
+                                "title": "Adios Mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/73Ek4bvUOUD0eHakQ8MTVxRbsJZ.jpg"
                             },
                             {
                                 "url": "/series/jurassic-world-campamento-cretacico",
@@ -387,14 +387,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/AloFW4KnDYNlH9WOFmJUZusSORh.jpg"
                             },
                             {
-                                "url": "/movies/la-sociedad-de-la-justicia-de-america-segunda-guerra-mundial",
-                                "title": "La Sociedad De La Justicia De América: Segunda Guerra Mundial",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
-                            },
-                            {
                                 "url": "/movies/billie-eilish-the-worlds-a-little-blurry",
                                 "title": "Billie Eilish: The world's a little blurry",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg"
+                            },
+                            {
+                                "url": "/movies/la-sociedad-de-la-justicia-de-america-segunda-guerra-mundial",
+                                "title": "La Sociedad De La Justicia De América: Segunda Guerra Mundial",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/fyre-rises",
-                    "title": "Fyre Rises",
-                    "artist": "Eric Roberts",
-                    "description": "Debt-ridden pacifist Richard Fyre is propositioned to return to his abandoned mercenary ways by flamboyant zealot Priest to eliminate his international competition in exchange for a clean slate. Standing at a crossroads, he must overcome his fears of becoming the monster he once was to the rightful man he needs to be now before his indecision has dire repercussions for his family.",
-                    "genre": "Acción, Crimen, Suspenso",
+                    "url": "/movies/corina",
+                    "title": "Corina",
+                    "artist": "Naian González Norvind",
+                    "description": "Corina tiene 20 años y no sale de su casa más que para trabajar en una editorial que se encuentra en la colonia donde vive. Después de cometer un grave error con el final de la saga de libros más afamada de la empresa, Corina deberá vencer sus miedos con ayuda de Carlos y emprender un viaje en búsqueda de una misteriosa escritora para salvar su trabajo y el de sus compañeros.",
+                    "genre": "Drama, Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/v2P6lETuE5gMXZUhYq8bG12szVC.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/hM8JHPhSTLSqdtDvAkzuBwbhCAP.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/fyre-rises",
+                        "url": "/movies/corina",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,22 +429,31 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-wxoegnr3ejk5gd86.voe-network.net/engine/hls2-c/01/13317/ljpc5molw98g_,n,.urlset/index-v1-a1.m3u8?t=oIKvRPq4nEqnllViqzADKtbmIK7YbzVyA03EkKNuVxY&s=1736770130&e=14400&f=66590036&node=F4M3WQ74E+YxYp1ngHfYdN3eO+NE01nJ+SvVvDog8zM=&i=20.102&sp=2500&asn=8075&q=n",
+                        "url": "https://delivery-node-8uufmlrpmbmxp1dc.voe-network.net/engine/hls2-c/01/13323/udqjllilswe9_,n,.urlset/index-v1-a1.m3u8?t=SQh0sS-wlVbl-0U6hPy76UvXLJYzAidlAe70wA_B9aE&s=1736791684&e=14400&f=66616181&node=KIvTO2XqqxiySIWfr/pfK0defmlJ1DC/bsX7Zv4B8Vg=&i=68.154&sp=2500&asn=8075&q=n",
                         "quality": "[LAT]Voe:720p",
-                        "videoUrl": "https://delivery-node-wxoegnr3ejk5gd86.voe-network.net/engine/hls2-c/01/13317/ljpc5molw98g_,n,.urlset/index-v1-a1.m3u8?t=oIKvRPq4nEqnllViqzADKtbmIK7YbzVyA03EkKNuVxY&s=1736770130&e=14400&f=66590036&node=F4M3WQ74E+YxYp1ngHfYdN3eO+NE01nJ+SvVvDog8zM=&i=20.102&sp=2500&asn=8075&q=n",
+                        "videoUrl": "https://delivery-node-8uufmlrpmbmxp1dc.voe-network.net/engine/hls2-c/01/13323/udqjllilswe9_,n,.urlset/index-v1-a1.m3u8?t=SQh0sS-wlVbl-0U6hPy76UvXLJYzAidlAe70wA_B9aE&s=1736791684&e=14400&f=66616181&node=KIvTO2XqqxiySIWfr/pfK0defmlJ1DC/bsX7Zv4B8Vg=&i=68.154&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://xpbfsgque.cdn-centaurus.com/hls2/01/07944/ls3wt7wjzdby_h/index-v1-a1.m3u8?t=NfFMIZT-6TQF7wDxui12hXbCHWJFlW8zLGT1nMiLfVg&s=1736770126&e=129600&f=39736833&srv=hptg5oweej5s&i=0.4&sp=500&p1=hptg5oweej5s&p2=hptg5oweej5s&asn=8075",
-                        "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://xpbfsgque.cdn-centaurus.com/hls2/01/07944/ls3wt7wjzdby_h/index-v1-a1.m3u8?t=NfFMIZT-6TQF7wDxui12hXbCHWJFlW8zLGT1nMiLfVg&s=1736770126&e=129600&f=39736833&srv=hptg5oweej5s&i=0.4&sp=500&p1=hptg5oweej5s&p2=hptg5oweej5s&asn=8075",
+                        "url": "https://24q0stgk4bnr.cdn-centaurus.com/hls2/01/07965/35v51enkoo7o_o/index-v1-a1.m3u8?t=la_Ldz3C80iDWk2mV-JjJKDFBVxso4z9YCRAvW1kpVY&s=1736791685&e=129600&f=39826746&srv=a4iw3dysu2ow&i=0.4&sp=500&p1=a4iw3dysu2ow&p2=a4iw3dysu2ow&asn=8075",
+                        "quality": "[LAT] StreamWish:1080p",
+                        "videoUrl": "https://24q0stgk4bnr.cdn-centaurus.com/hls2/01/07965/35v51enkoo7o_o/index-v1-a1.m3u8?t=la_Ldz3C80iDWk2mV-JjJKDFBVxso4z9YCRAvW1kpVY&s=1736791685&e=129600&f=39826746&srv=a4iw3dysu2ow&i=0.4&sp=500&p1=a4iw3dysu2ow&p2=a4iw3dysu2ow&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/bownrlq5shzd"
+                            "Referer": "https://streamwish.to/e/35v51enkoo7o"
+                        }
+                    },
+                    {
+                        "url": "https://i290oo.cloudatacdn.com/u5kj6ubdz3c3sdgge5ipsny5dljmc3s5sryrg2ul6g74euxhd3mxjrjr32sa/p1p1wivbe5~tFARJQSPhZ?token=u72mzbp6ao3lxh18uzf4m9if&expiry=1736791683761",
+                        "quality": "[LAT]Doodstream ",
+                        "videoUrl": "https://i290oo.cloudatacdn.com/u5kj6ubdz3c3sdgge5ipsny5dljmc3s5sryrg2ul6g74euxhd3mxjrjr32sa/p1p1wivbe5~tFARJQSPhZ?token=u72mzbp6ao3lxh18uzf4m9if&expiry=1736791683761",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://https://dood.to/"
                         }
                     }
                 ],

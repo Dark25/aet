@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "TkowwdI0lu0a8He5",
+                                "title": "Mahoutsukai no Yakusoku",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/TkowwdI0lu0a8He5"
+                            },
+                            {
+                                "url": "RpMMVGPZA2NaVV7y",
+                                "title": "Kono Kaisha ni Suki na Hito ga Imasu",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/RpMMVGPZA2NaVV7y"
+                            },
+                            {
                                 "url": "e2pFkQYolFsJUkLW",
                                 "title": "Jibaku Shounen Hanako-kun 2nd Season",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/e2pFkQYolFsJUkLW"
@@ -95,16 +105,6 @@
                                 "url": "xfJGEepNBv7SzGjp",
                                 "title": "Kusuriya no Hitorigoto 2nd Season",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/xfJGEepNBv7SzGjp"
-                            },
-                            {
-                                "url": "CyyeOKoc7ibRF9l8",
-                                "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/CyyeOKoc7ibRF9l8"
-                            },
-                            {
-                                "url": "zELoGgpVRJCSTaoY",
-                                "title": "Ooi! Tonbo 2nd Season",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/zELoGgpVRJCSTaoY"
                             }
                         ],
                         "hasNextPage": true
@@ -359,14 +359,14 @@
             },
             "details": {
                 "result": {
-                    "url": "e2pFkQYolFsJUkLW",
-                    "title": "Jibaku Shounen Hanako-kun 2nd Season",
-                    "author": "Lerche",
-                    "description": "Second season of Jibaku Shounen Hanako-kun.",
-                    "genre": "School, Shounen, Supernatural",
+                    "url": "TkowwdI0lu0a8He5",
+                    "title": "Mahoutsukai no Yakusoku",
+                    "author": "LIDENFILMS",
+                    "description": "On a moonlit night, Akira Masaki finds herself in a magical world where wizards and humans coexist. Every year, they must face an enormous, deadly moon that attacks the planet. Their only hope lies with the Wizards of the Sage, appointed to fight the supernatural threat. But Akira soon discovers she wasn't summoned by chance—she was chosen to lead them in battle.\n\n(Source: Crunchyroll)",
+                    "genre": "Fantasy, Isekai",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/e2pFkQYolFsJUkLW",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/TkowwdI0lu0a8He5",
                     "initialized": true
                 },
                 "passed": true
@@ -374,8 +374,13 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "e2pFkQYolFsJUkLW/video/1",
-                        "name": "Episode 1: Hanako-kun of the Bathroom",
+                        "url": "TkowwdI0lu0a8He5/video/2",
+                        "name": "Episode 2: Those Who Defy the Cruel Moon",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "TkowwdI0lu0a8He5/video/1",
+                        "name": "Episode 1: The Wind Is Strong, and the Cats Are in a Frenzy",
                         "episode_number": 1.0
                     }
                 ],
@@ -384,16 +389,16 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/e2pFkQYolFsJUkLW/1/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/TkowwdI0lu0a8He5/2/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/e2pFkQYolFsJUkLW/1/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/TkowwdI0lu0a8He5/2/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/e2pFkQYolFsJUkLW/en-US/1",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/TkowwdI0lu0a8He5/en-US/2",
                                 "lang": "English"
                             }
                         ]

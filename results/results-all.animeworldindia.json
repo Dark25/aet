@@ -3,15 +3,15 @@
         "name": "AnimeWorld India (ALL)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "details": {
@@ -32,27 +32,27 @@
         "name": "AnimeWorld India (BN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6581683807668469982/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6581683807668469982/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6581683807668469982/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html lang=\"en.....",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html lang=\"en.....",
                 "passed": false
             }
         }
@@ -61,15 +61,15 @@
         "name": "AnimeWorld India (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "details": {
@@ -90,15 +90,15 @@
         "name": "AnimeWorld India (HI)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "details": {
@@ -119,27 +119,27 @@
         "name": "AnimeWorld India (JA)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html lang=\"en.....",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html lang=\"en.....",
                 "passed": false
             }
         }
@@ -148,23 +148,23 @@
         "name": "AnimeWorld India (ML)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\n<html lang=\"en.....",
                 "passed": false
             },
             "videos": {
@@ -177,15 +177,15 @@
         "name": "AnimeWorld India (MR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "details": {
@@ -206,19 +206,19 @@
         "name": "AnimeWorld India (TA)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
@@ -235,15 +235,15 @@
         "name": "AnimeWorld India (TE)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "details": {

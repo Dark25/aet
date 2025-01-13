@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series-online/ver-asura.html",
+                                "title": "Asura",
+                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/asura.jpg"
+                            },
+                            {
                                 "url": "/series-online/ver-erase-una-vez-el-oeste.html",
                                 "title": "Érase una vez el Oeste",
                                 "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/erase-una-vez-el-oeste.jpg"
@@ -125,11 +130,6 @@
                                 "url": "/series-online/ver-af-ehad-lo-ozev-et-palo-alto.html",
                                 "title": "Af Ehad Lo Ozev et Palo Alto",
                                 "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/af-ehad-lo-ozev-et-palo-alto.jpg"
-                            },
-                            {
-                                "url": "/series-online/ver-univerxo-dabiz.html",
-                                "title": "UniverXO Dabiz",
-                                "thumbnail_url": "https://www.verseriesonline.net//storage/poster/series/univerxo-dabiz.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -274,10 +274,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/series-online/ver-erase-una-vez-el-oeste.html",
+                    "url": "/series-online/ver-asura.html",
                     "author": "",
-                    "description": "Una madre y su hijo huyen de su pasado y forman una nueva familia mientras se enfrentan a un duro panorama de libertad y crueldad en el viejo Oeste.",
-                    "genre": "Western",
+                    "description": "En el Tokio de 1979, cuatro hermanas se enteran de la infidelidad de su padre y, poco a poco, van perdiendo la sonrisa y la capacidad de reprimir sus emociones.",
+                    "genre": "Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -285,14 +285,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/series-online/erase-una-vez-el-oeste/temporada-1/130660-ver-episodio-6.html",
-                        "name": "Temporada 1 - Capítulo 6",
-                        "episode_number": 6.0
+                        "url": "/series-online/asura/temporada-1/130667-ver-episodio-7.html",
+                        "name": "Temporada 1 - Capítulo 7",
+                        "episode_number": 7.0
                     },
                     {
-                        "url": "/series-online/erase-una-vez-el-oeste/temporada-1/130659-ver-episodio-5.html",
-                        "name": "Temporada 1 - Capítulo 5",
-                        "episode_number": 5.0
+                        "url": "/series-online/asura/temporada-1/130666-ver-episodio-6.html",
+                        "name": "Temporada 1 - Capítulo 6",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
@@ -300,49 +300,25 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-iaowrnazdxuc0gfr.voe-network.net/engine/hls2/01/13304/k3codawfjqdp_,n,.urlset/index-v1-a1.m3u8?t=__x4F-xs0KlkcIufamI5qu78YovEQUWXNCV8wBk0Y_k&s=1736705228&e=14400&f=66520986&node=t+AsGec0tqyzimoTeyh//PLu+DKoSGpjzvcOJNJMnHA=&i=172.183&sp=2500&asn=8075&q=n",
+                        "url": "https://delivery-node-qr0aegqhvu9n9dym.voe-network.net/engine/hls2/01/13316/zejwcup5vuj2_,n,.urlset/index-v1-a1.m3u8?t=smViC0PEDZBDOkOmyV2cwVbc3ojstg6kXaWKDd4DPLo&s=1736727602&e=14400&f=66581328&node=h9P2Oo5Af+bLaV1vM12dFB/6EqYhkHdfYLONXMTHzxQ=&i=20.169&sp=2500&asn=8075&q=n",
                         "quality": "Latino - Voe:720p",
-                        "videoUrl": "https://delivery-node-iaowrnazdxuc0gfr.voe-network.net/engine/hls2/01/13304/k3codawfjqdp_,n,.urlset/index-v1-a1.m3u8?t=__x4F-xs0KlkcIufamI5qu78YovEQUWXNCV8wBk0Y_k&s=1736705228&e=14400&f=66520986&node=t+AsGec0tqyzimoTeyh//PLu+DKoSGpjzvcOJNJMnHA=&i=172.183&sp=2500&asn=8075&q=n",
+                        "videoUrl": "https://delivery-node-qr0aegqhvu9n9dym.voe-network.net/engine/hls2/01/13316/zejwcup5vuj2_,n,.urlset/index-v1-a1.m3u8?t=smViC0PEDZBDOkOmyV2cwVbc3ojstg6kXaWKDd4DPLo&s=1736727602&e=14400&f=66581328&node=h9P2Oo5Af+bLaV1vM12dFB/6EqYhkHdfYLONXMTHzxQ=&i=20.169&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://m6.vudeo.ws/2vp3yhnjtavjdohilmybzpu2yogjak3zhkxdzytyer5bdj6p6rg34s6akt5q/v.mp4",
+                        "url": "https://m2.vudeo.ws/2vp3tti6syvjdohilparzpugqes66kczhilkna62kso3q24dfih5p7gpdqvq/v.mp4",
                         "quality": "Latino - Vudeo",
-                        "videoUrl": "https://m6.vudeo.ws/2vp3yhnjtavjdohilmybzpu2yogjak3zhkxdzytyer5bdj6p6rg34s6akt5q/v.mp4",
+                        "videoUrl": "https://m2.vudeo.ws/2vp3tti6syvjdohilparzpugqes66kczhilkna62kso3q24dfih5p7gpdqvq/v.mp4",
                         "headers": {
                             "referer": "https://vudeo.co/"
                         }
                     },
                     {
-                        "url": "https://m80.uqload.net/3rfkingt5nw2q4drdi77t75wbd5betchanodeuacocdzii7k63l6b4xjewka/v.mp4",
+                        "url": "https://m80.uqload.net/3rfkj3wu5jw2q4drdiwptk7wdftvftzvgjrjt44vnbnufbcoro7fhxqdy6bq/v.mp4",
                         "quality": "Latino -  Uqload",
-                        "videoUrl": "https://m80.uqload.net/3rfkingt5nw2q4drdi77t75wbd5betchanodeuacocdzii7k63l6b4xjewka/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.ws/"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-0avtzzldtufmmwtb.voe-network.net/engine/hls2-c/01/13304/yaufplerfqsz_,n,.urlset/index-v1-a1.m3u8?t=KVyTdWp1LBsC3eHPXsTJlXSCw96B4CiuXS_8UQROA2Y&s=1736705218&e=14400&f=66520534&node=bD/lps5uSqSMYAlXMvyfDVEjWOQtIkEp4xApKbuQ2bw=&i=172.183&sp=2500&asn=8075&q=n",
-                        "quality": "Castellano - Voe:720p",
-                        "videoUrl": "https://delivery-node-0avtzzldtufmmwtb.voe-network.net/engine/hls2-c/01/13304/yaufplerfqsz_,n,.urlset/index-v1-a1.m3u8?t=KVyTdWp1LBsC3eHPXsTJlXSCw96B4CiuXS_8UQROA2Y&s=1736705218&e=14400&f=66520534&node=bD/lps5uSqSMYAlXMvyfDVEjWOQtIkEp4xApKbuQ2bw=&i=172.183&sp=2500&asn=8075&q=n",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://m10.vudeo.ws/2vp3unnjtavjdohilmybzignyhglxjf6riytb6f4uqx4w53m2rlgkr24gtza/v.mp4",
-                        "quality": "Castellano - Vudeo",
-                        "videoUrl": "https://m10.vudeo.ws/2vp3unnjtavjdohilmybzignyhglxjf6riytb6f4uqx4w53m2rlgkr24gtza/v.mp4",
-                        "headers": {
-                            "referer": "https://vudeo.co/"
-                        }
-                    },
-                    {
-                        "url": "https://m90.uqload.net/3rfk2ggt5nw2q4drdi77tmfbdfmvjolc2vrbn67moudzyky762abrb4jv3za/v.mp4",
-                        "quality": "Castellano -  Uqload",
-                        "videoUrl": "https://m90.uqload.net/3rfk2ggt5nw2q4drdi77tmfbdfmvjolc2vrbn67moudzyky762abrb4jv3za/v.mp4",
+                        "videoUrl": "https://m80.uqload.net/3rfkj3wu5jw2q4drdiwptk7wdftvftzvgjrjt44vnbnufbcoro7fhxqdy6bq/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.ws/"
                         }

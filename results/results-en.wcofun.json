@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/stugo",
+                                "title": "StuGo",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933869.jpg"
+                            },
+                            {
                                 "url": "/anime/sentai-red-isekai-de-boukensha-ni-naru",
                                 "title": "Sentai Red Isekai de Boukensha ni Naru",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933868.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/akuyaku-reijou-tensei-ojisan",
                                 "title": "Akuyaku Reijou Tensei Ojisan",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933854.jpg"
-                            },
-                            {
-                                "url": "/anime/magic-maker-how-to-make-magic-in-another-world",
-                                "title": "Magic Maker: How to Make Magic in Another World",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933853.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/sentai-red-isekai-de-boukensha-ni-naru",
-                    "title": "Sentai Red Isekai de Boukensha ni Naru",
-                    "description": "In the final battle against the evil Exterminators, Tougo Asagaki, a power ranger, traded his life for the enemy’s. It seemed like everything was over, but suddenly he found himself in another world! He becomes an adventurer, transforming into Kizuna Red, and continues fighting to save people in trouble! Here he meets a young Wizard named Idola and his journey in this new world begins!",
-                    "genre": "Action, Adventure, Comedy, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933868.jpg",
+                    "url": "/anime/stugo",
+                    "title": "StuGo",
+                    "description": "“StuGo” is an original animated series about six middle schoolers who get tricked into attending a fake academic summer camp by a mad scientist. They were looking forward to three months of learning, but will have to settle for the adventure of a lifetime on a tropical island filled with mind-reading manatees, giant fighting fungi and fashion-forward mutants.",
+                    "genre": "Animation, Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933869.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/stugo-episode-4-breakfast-at-chippanys-birdyguard",
+                        "name": "Season 1 - Episode 4",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/stugo-episode-3-diorama-drama-goat-racket",
+                        "name": "Season 1 - Episode 3",
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmda1AWgA5J6ZxbE_AqMSEZaRS-dDrtzMIqYASRyPxWpPLAJgJbhAuw3cDHSvi9Hesl-q6ntHrx9PUh1CilvcXG8s6xXey3qv3w4cgl2PHFDNrFzQiDR7LAMiPwiJ0FNzPThc7qjQVLK-3nQqAlc38N-jrJjjFPUuoF-F3cl7eQw8ibdF4hvyH7ohn40c1dDCNp96NCuVVw4_AXjHWWQp8trDIJfIkim2WpOB27pRW3bLqa1oOeGylpQuLX9lkzkqxtleRO62qSThbFvUdgnRkvUB1q-QHFQbB1LnaP2dlL93HJpA4e6UBoI2n-SzP10jCoVn7j8vy2q1lxZ1rw3MPIxIulMjhie3o3by7icNhvt1v28xHCm4BMubo_JY2Cvyw",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmda1AWgA5J6ZxbE_AqMSEZaRS-dDrtzMIqYASRyPxWpPLAJgJbhAuw3cDHSvi9Hesl-q6ntHrx9PUh1CilvcXG8s6xXey3qv3w4cgl2PHFDNrFzQiDR7LAMiPwiJ0FNzPThc7qjQVLK-3nQqAlc38N-jrJjjFPUuoF-F3cl7eQw8ibdF4hvyH7ohn40c1dDCNp96NCuVVw4_AXjHWWQp8trDIJfIkim2WpOB27pRW3bLqa1oOeGylpQuLX9lkzkqxtleRO62qSThbFvUdgnRkvUB1q-QHFQbB1LnaP2dlL93HJpA4e6UBoI2n-SzP10jCoVn7j8vy2q1lxZ1rw3MPIxIulMjhie3o3by7icNhvt1v28xHCm4BMubo_JY2Cvyw"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmda1AWgA5J6ZxbE_AqMSEZaRS-dDrtzMIqYASRyPxWpPLAJgJbhAuw3cDHSvi9Hesl-q6ntHrx9PUh1CilvcXG8s6xXey3qv3w4cgl2PHFDWBy8cdvmZ_oRMA5s7KCXtLOO3sem7BiChJDjZ76P8pJY0BhioZD20hdZOPoPdtpj7GYxFzQQJomDIbXxJPzq60ftpq7FGM69_IkpY45O9ianhulIJOG5JXh08KxvU4gyuPfD53daUCvVXaSUHvxlg4OFoEJasCwbaLXTcyTpVVaw0gnRw4u-sT0YWYYSrQ4fkrkeauBwpotxOaWilgiOw3b9-_LyLvNRwHRFlP1nkiT8GxeAgbfrXI7KpGQLdglHojbTUmDpqcrmWvJaxoPLwA",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmda1AWgA5J6ZxbE_AqMSEZaRS-dDrtzMIqYASRyPxWpPLAJgJbhAuw3cDHSvi9Hesl-q6ntHrx9PUh1CilvcXG8s6xXey3qv3w4cgl2PHFDWBy8cdvmZ_oRMA5s7KCXtLOO3sem7BiChJDjZ76P8pJY0BhioZD20hdZOPoPdtpj7GYxFzQQJomDIbXxJPzq60ftpq7FGM69_IkpY45O9ianhulIJOG5JXh08KxvU4gyuPfD53daUCvVXaSUHvxlg4OFoEJasCwbaLXTcyTpVVaw0gnRw4u-sT0YWYYSrQ4fkrkeauBwpotxOaWilgiOw3b9-_LyLvNRwHRFlP1nkiT8GxeAgbfrXI7KpGQLdglHojbTUmDpqcrmWvJaxoPLwA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmda1AWgA5J6ZxbE_AqMSEZaRS-dDrtzMIqYASRyPxWpPLAJgJbhAuw3cDHSvi9Hesl-q6ntHrx9PUh1CilvcXG8s6xXey3qv3w4cgl2PHFD-I2H57uoco_ygKE0ZgYgf8JMQLj16zEi-Hrx0H2p0X2crxODxjAX8zsDuHp1jYnZUUzG2ziIEyvyN2sU9ZpPQSQhHOeL8voU8qCkeChzWD14aay7PzCOLDKJygyr4soDMzmhlZxIixZgKZzos_Sir3mmq72Bp0otz49I-xrAXx0G_dBFwchqdXfjaRdDx8rlKTDHH_YINzEp89F8_NoJNyv0ZnlsrdYwi33muBBlpRD_JLDlpIg8VmhTPoxSlW_-",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmda1AWgA5J6ZxbE_AqMSEZaRS-dDrtzMIqYASRyPxWpPLAJgJbhAuw3cDHSvi9Hesl-q6ntHrx9PUh1CilvcXG8s6xXey3qv3w4cgl2PHFD-I2H57uoco_ygKE0ZgYgf8JMQLj16zEi-Hrx0H2p0X2crxODxjAX8zsDuHp1jYnZUUzG2ziIEyvyN2sU9ZpPQSQhHOeL8voU8qCkeChzWD14aay7PzCOLDKJygyr4soDMzmhlZxIixZgKZzos_Sir3mmq72Bp0otz49I-xrAXx0G_dBFwchqdXfjaRdDx8rlKTDHH_YINzEp89F8_NoJNyv0ZnlsrdYwi33muBBlpRD_JLDlpIg8VmhTPoxSlW_-"
+                    }
+                ],
+                "passed": true
             }
         }
     }

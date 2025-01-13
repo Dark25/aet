@@ -3,28 +3,432 @@
         "name": "Animes Otaku (PT)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/dandadan-dublado-assistir-online/",
+                                "title": "Dan Da Dan Dandadan Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/10/143719l.jpg"
+                            },
+                            {
+                                "url": "/anime/one-piece-dublado-assistir-online/",
+                                "title": "One Piece One Piece Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/09/138851l.jpg"
+                            },
+                            {
+                                "url": "/anime/one-piece-todos-episodios-full-hd-assistir-online/",
+                                "title": "ONE PIECE One Piece Todos Episodios Full Hd",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/one-piece.jpg"
+                            },
+                            {
+                                "url": "/anime/solo-leveling-segundo-despertar-filme-assistir-online/",
+                                "title": "Solo Leveling -ReAwakening- Solo Leveling Segundo Despertar Filme Assistir online",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/12/bx184694-EmVoCuV4uAGv-448x631.png"
+                            },
+                            {
+                                "url": "/anime/solo-leveling-dublado-todos-episodios-assistir-online/",
+                                "title": "Solo Leveling Solo Leveling Dublado ( Todos Episodios )",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/solo-levelling.jpg"
+                            },
+                            {
+                                "url": "/anime/mushoku-tensei-ii-isekai-ittara-honki-dasu-parte-2-dublado/",
+                                "title": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2 Mushoku Tensei II: Isekai Ittara Honki Dasu Parte 2 Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/mushoku-2-p2.jpg"
+                            },
+                            {
+                                "url": "/anime/bleach-sennen-kessen-hen-soukoku-tan-assistir-online/",
+                                "title": "Bleach: Thousand-Year Blood War - The Conflict Bleach: Sennen Kessen-hen - Soukoku-tan",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/09/144074l.jpg"
+                            },
+                            {
+                                "url": "/anime/kimetsu-no-yaiba-demon-slayer-4-temporada-dublado/",
+                                "title": "Kimetsu no Yaiba - Demon Slayer 4 Temporada Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/kimetsu-4.jpg"
+                            },
+                            {
+                                "url": "/anime/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-dublado-assistir-online/",
+                                "title": "Alya Sometimes Hides Her Feelings in Russian Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/08/tokidoki-bosotto-448x672.jpg"
+                            },
+                            {
+                                "url": "/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-1-temporada/",
+                                "title": "The Misfit of Demon King Academy Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou 1 Temporada",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/maou-gakuin-1.jpg"
+                            },
+                            {
+                                "url": "/anime/mushoku-tensei-isekai-ittara-honki-dasu-dublado/",
+                                "title": "Mushoku Tensei: Jobless Reincarnation Mushoku Tensei: Isekai Ittara Honki Dasu Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/mushoku-1.jpg"
+                            },
+                            {
+                                "url": "/anime/boku-no-hero-academia-7-temporada-dublado-assistir-online/",
+                                "title": "My Hero Academia Season 7 Boku no Hero Academia 7 Temporada Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/Boku-no-Hero-Academia-1.jpg"
+                            },
+                            {
+                                "url": "/anime/kimetsu-no-yaiba-demon-slayer-1-temporada-dublado-assistir-online/",
+                                "title": "Kimetsu no Yaiba - Demon Slayer 1 Temporada Dublado ( )",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/kimetsu-1.jpg"
+                            },
+                            {
+                                "url": "/anime/naruto-shippuuden-completo-assistir-online/",
+                                "title": "Naruto Shippuden Naruto Shippuuden Completo ( )",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/Naruto-Shippuuden.jpg"
+                            },
+                            {
+                                "url": "/anime/blue-lock-vs-u-20-japan-assistir-online/",
+                                "title": "Blue Lock Season 2 Blue Lock vs. U-20 Japan",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/09/144860l.jpg"
+                            },
+                            {
+                                "url": "/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-2-temporada-assistir-online/",
+                                "title": "Our Last Crusade or the Rise of a New World Season 2 Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen 2 Temporada",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/Kimi-to-Boku-no-Saigo-no-Senjou-Aruiwa-Sekai-ga-Hajimaru-Seisen-2.jpg"
+                            },
+                            {
+                                "url": "/anime/mushoku-tensei-isekai-ittara-honki-dasu-parte-2-dublado/",
+                                "title": "Mushoku Tensei: Jobless Reincarnation Part 2 Mushoku Tensei: Isekai Ittara Honki Dasu Parte 2 Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/mushoku-1-p2.jpg"
+                            },
+                            {
+                                "url": "/anime/maou-gakuin-no-futekigousha-ii-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-2-temporada/",
+                                "title": "The Misfit of Demon King Academy Ⅱ Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou 2 Temporada",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/139553.jpg"
+                            },
+                            {
+                                "url": "/anime/boku-no-hero-academia-2-temporada-dublado-assistir-online/",
+                                "title": "My Hero Academia Season 2 Boku no Hero Academia 2 Temporada Dublado ( )",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/Boku-no-Hero-Academia-2-Temporada.jpg"
+                            },
+                            {
+                                "url": "/anime/kimetsu-no-yaiba-demon-slayer-2-temporada-dublado/",
+                                "title": "Kimetsu no Yaiba - Demon Slayer 2 Temporada Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/kimetsu-2.jpg"
+                            },
+                            {
+                                "url": "/anime/kono-subarashii-sekai-ni-shukufuku-wo-3-temporada-assistir-online/",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo 3 Temporada Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/kono3.jpg"
+                            },
+                            {
+                                "url": "/anime/black-clover-dublado-assistir-online/",
+                                "title": "Black Clover Black Clover Dublado ( )",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/Black-Clover.jpg"
+                            },
+                            {
+                                "url": "/anime/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made-assistir-online/",
+                                "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/Hazurewaku-no-Joutai-Ijou-Skill-de-Saikyou-ni-Natta-Ore-ga-Subete-wo-Juurin-suru-made-1-448x672.jpg"
+                            },
+                            {
+                                "url": "/anime/boku-no-hero-academia-7-temporada-assistir-online/",
+                                "title": "My Hero Academia Season 7 Boku no Hero Academia 7 Temporada",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/Boku-no-Hero-Academia.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/sentai-red-isekai-de-boukensha-ni-naru-assistir-online/",
+                                "title": "The Red Ranger Becomes an Adventurer in Another World Sentai Red Isekai de Boukensha ni Naru",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/12/146918l.jpg"
+                            },
+                            {
+                                "url": "/anime/kinnikuman-kanpeki-chоujin-shiso-hen-2/",
+                                "title": "Kinnikuman: Perfect Origin Arc Season 2 Kinnikuman: Kanpeki Chоujin Shiso-hen 2",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/12/146704l.jpg"
+                            },
+                            {
+                                "url": "/anime/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-2/",
+                                "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2 Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/12/145470l.jpg"
+                            },
+                            {
+                                "url": "/anime/kisaki-kyouiku-kara-nigetai-watashi-assistir-online/",
+                                "title": "I Want to Escape from Princess Lessons Kisaki Kyouiku kara Nigetai Watashi",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/12/146319l.jpg"
+                            },
+                            {
+                                "url": "/anime/zenshuu-dublado-assistir-online/",
+                                "title": "Zenshu Zenshuu. Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2025/01/146841l.jpg"
+                            },
+                            {
+                                "url": "/anime/zenshuu-assistir-online/",
+                                "title": "ZENSHU Zenshuu.",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/12/146841l.jpg"
+                            },
+                            {
+                                "url": "/anime/solo-leveling-segundo-despertar-dublado-filme-assistir-online/",
+                                "title": "Solo Leveling: ReAwakening Solo Leveling Segundo Despertar Dublado Filme Assistir online",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/12/bx184694-EmVoCuV4uAGv-448x631.png"
+                            },
+                            {
+                                "url": "/anime/one-piece-gyojin-tou-hen-assistir-online/",
+                                "title": "One Piece Log: Fish-Man Island Saga One Piece: Gyojin Tou-hen",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/11/146063l.jpg"
+                            },
+                            {
+                                "url": "/anime/jibaku-shounen-hanako-kun-2-assistir-online/",
+                                "title": "Toilet-Bound Hanako-kun Season 2 Jibaku Shounen Hanako-kun 2",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/12/146291l.jpg"
+                            },
+                            {
+                                "url": "/anime/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-2/",
+                                "title": "Shangri-La Frontier Season 2 Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/10/144794l.jpg"
+                            },
+                            {
+                                "url": "/anime/blue-lock-vs-u-20-japan-dublado-assistir-online/",
+                                "title": "Blue Lock 2nd Season Blue Lock vs. U-20 Japan Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/10/144860l.jpg"
+                            },
+                            {
+                                "url": "/anime/maou-2099-dublado-assistir-online/",
+                                "title": "Demon Lord 2099 Maou 2099 Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/11/144605l.jpg"
+                            },
+                            {
+                                "url": "/anime/wonderful-precure-assistir-online/",
+                                "title": "Wonderful Precure! Wonderful Precure!",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/12/140786l.jpg"
+                            },
+                            {
+                                "url": "/anime/maou-sama-retry-dublado-assistir-online/",
+                                "title": "Demon Lord, Retry! Maou-sama, Retry! Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2025/01/113897l.jpg"
+                            },
+                            {
+                                "url": "/anime/solo-leveling-2-assistir-online/",
+                                "title": "Solo Leveling Season 2: Arise from the Shadow Solo Leveling 2 Assistir online",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/12/145502l.jpg"
+                            },
+                            {
+                                "url": "/anime/sakamoto-days-dublado-assistir-online/",
+                                "title": "Sakamoto Days Sakamoto Days Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2025/01/146459l.jpg"
+                            },
+                            {
+                                "url": "/anime/sakamoto-days-assistir-online/",
+                                "title": "Sakamoto Days Sakamoto Days",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/12/146459l.jpg"
+                            },
+                            {
+                                "url": "/anime/uniteup-unibirth-assistir-online/",
+                                "title": "UniteUp! -Uni:Birth- UniteUp! Uni:Birth",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2025/01/145507l.jpg"
+                            },
+                            {
+                                "url": "/anime/chi-chikyuu-no-undou-ni-tsuite-assistir-online/",
+                                "title": "Orb: On the Movements of the Earth Chi.: Chikyuu no Undou ni Tsuite",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/09/145922.jpg"
+                            },
+                            {
+                                "url": "/anime/babanbabanban-vampire-assistir-online/",
+                                "title": "Babanbabanban Vampire",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/12/146649l.jpg"
+                            },
+                            {
+                                "url": "/anime/neet-kunoichi-to-nazeka-dousei-hajimemashita-assistir-online/",
+                                "title": "I'm Living with an Otaku NEET Kunoichi!? NEET Kunoichi to Nazeka Dousei Hajimemashita",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/12/146392l.jpg"
+                            },
+                            {
+                                "url": "/anime/medalist-dublado-assistir-online/",
+                                "title": "Medalist Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2025/01/146850l.jpg"
+                            },
+                            {
+                                "url": "/anime/medalist-assistir-online/",
+                                "title": "Medalist",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/12/146850l.jpg"
+                            },
+                            {
+                                "url": "/anime/a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu/",
+                                "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/12/146455l.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/mushoku-tensei-ii-isekai-ittara-honki-dasu-parte-2-dublado/",
+                                "title": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2 Mushoku Tensei II: Isekai Ittara Honki Dasu Parte 2 Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/mushoku-2-p2.jpg"
+                            },
+                            {
+                                "url": "/anime/mushoku-tensei-isekai-ittara-honki-dasu-dublado/",
+                                "title": "Mushoku Tensei: Jobless Reincarnation Mushoku Tensei: Isekai Ittara Honki Dasu Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/mushoku-1.jpg"
+                            },
+                            {
+                                "url": "/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-2-temporada-assistir-online/",
+                                "title": "Our Last Crusade or the Rise of a New World Season 2 Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen 2 Temporada",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/Kimi-to-Boku-no-Saigo-no-Senjou-Aruiwa-Sekai-ga-Hajimaru-Seisen-2.jpg"
+                            },
+                            {
+                                "url": "/anime/mushoku-tensei-ii-isekai-ittara-honki-dasu-dublado/",
+                                "title": "Mushoku Tensei: Jobless Reincarnation Season 2 Mushoku Tensei II: Isekai Ittara Honki Dasu Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/mushoku-2.jpg"
+                            },
+                            {
+                                "url": "/anime/mushoku-tensei-isekai-ittara-honki-dasu-parte-1-legendado/",
+                                "title": "Mushoku Tensei: Jobless Reincarnation Mushoku Tensei: Isekai Ittara Honki Dasu Parte 1 Legendado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/mushoku-1.jpg"
+                            },
+                            {
+                                "url": "/anime/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-assistir-online/",
+                                "title": "A Journey Through Another World: Raising Kids While Adventuring Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/Isekai-Yururi-Kikou-Kosodateshinagara-Boukensha-Shimasu.jpg"
+                            },
+                            {
+                                "url": "/anime/arifureta-shokugyou-de-sekai-saikyou-3-dublado-assistir-online/",
+                                "title": "Arifureta: From Commonplace to World's Strongest Season 3 Arifureta Shokugyou de Sekai Saikyou 3 Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/11/145597l.jpg"
+                            },
+                            {
+                                "url": "/anime/hitoribocchi-no-isekai-kouryaku-assistir-online/",
+                                "title": "Loner Life in Another World Hitoribocchi no Isekai Kouryaku",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/09/Hitoribocchi-no-Isekai-Kouryaku-assistir-448x638.jpg"
+                            },
+                            {
+                                "url": "/anime/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu-dublado-assistir-online/",
+                                "title": "A Journey Through Another World: Raising Kids While Adventuring Isekai Yururi Kikou Kosodateshinagara Boukensha Shimasu Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/Isekai-Yururi-Kikou-Kosodateshinagara-Boukensha-Shimasu.jpg"
+                            },
+                            {
+                                "url": "/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-1-temporada-assistir-online/",
+                                "title": "Our Last Crusade or the Rise of a New World Kimi to Boku no Saigo no Senjou Aruiwa Sekai ga Hajimaru Seisen 1 Temporada",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/Kimi-to-Boku-no-Saigo-no-Senjou-Aruiwa-Sekai-ga-Hajimaru-Seisen-1-Temporada.jpg"
+                            },
+                            {
+                                "url": "/anime/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life-dublado-assistir-online/",
+                                "title": "Chillin' in Another World with Level 2 Super Cheat Powers Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/08/Lv2-kara-Cheat-datta-Motoyuusha-Kouho-no-Mattari-Isekai-Life.jpg"
+                            },
+                            {
+                                "url": "/anime/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita-assistir-online/",
+                                "title": "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/09/124788l.jpg"
+                            },
+                            {
+                                "url": "/anime/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-assistir-online/",
+                                "title": "How Not to Summon a Demon Lord Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/09/93412l.jpg"
+                            },
+                            {
+                                "url": "/anime/mushoku-tensei-ii-isekai-ittara-honki-dasu-parte-2-legendado/",
+                                "title": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2 Mushoku Tensei II: Isekai Ittara Honki Dasu Parte 2 Legendado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/mushoku-2-p2.jpg"
+                            },
+                            {
+                                "url": "/anime/rezero-kara-hajimeru-isekai-seikatsu-3-dublado-assistir-online/",
+                                "title": "Re:ZERO -Starting Life in Another World- Season 3 Re:Zero kara Hajimeru Isekai Seikatsu 3 Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/10/144725l.jpg"
+                            },
+                            {
+                                "url": "/anime/saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru/",
+                                "title": "The Most Notorious \"Talker\" Runs the World's Greatest Clan Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/09/Saikyou-no-Shienshoku-Wajutsushi-de-Aru-Ore-wa-Sekai-Saikyou-Clan-wo-Shitagaeru.jpg"
+                            },
+                            {
+                                "url": "/anime/mushoku-tensei-ii-isekai-ittara-honki-dasu-parte-1-legendado/",
+                                "title": "Mushoku Tensei: Jobless Reincarnation Season 2 Mushoku Tensei II: Isekai Ittara Honki Dasu Parte 1 Legendado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/07/mushoku-2.jpg"
+                            },
+                            {
+                                "url": "/anime/arifureta-shokugyou-de-sekai-saikyou-3-temporada-assistir-online/",
+                                "title": "Arifureta: From Commonplace to World's Strongest Season 3 Arifureta Shokugyou de Sekai Saikyou 3 Temporada",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/09/145597l.jpg"
+                            },
+                            {
+                                "url": "/anime/tensei-kizoku-kantei-skill-de-nariagaru-2-assistir-online/",
+                                "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2 Tensei Kizoku, Kantei Skill de Nariagaru 2 ( )",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/09/143705l.jpg"
+                            },
+                            {
+                                "url": "/anime/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life-assistir-online/",
+                                "title": "Chillin' in Another World with Level 2 Super Cheat Powers Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/08/Lv2-kara-Cheat-datta-Motoyuusha-Kouho-no-Mattari-Isekai-Life-1.jpg"
+                            },
+                            {
+                                "url": "/anime/isekai-meikyuu-de-harem-wo-assistir-online/",
+                                "title": "Harem in the Labyrinth of Another World Isekai Meikyuu de Harem wo",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/09/126919l.jpg"
+                            },
+                            {
+                                "url": "/anime/tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito-assistir-online/",
+                                "title": "The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/09/135255l.jpg"
+                            },
+                            {
+                                "url": "/anime/rezero-kara-hajimeru-isekai-seikatsu-3-temporada-assistir-online/",
+                                "title": "Re:ZERO -Starting Life in Another World- Season 3 Re:Zero kara Hajimeru Isekai Seikatsu 3 Temporada",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/09/144725l.jpg"
+                            },
+                            {
+                                "url": "/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-2-temporada-dublado-assistir-online/",
+                                "title": "Our Last Crusade or the Rise of a New World Season 2 Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen 2 Temporada Dublado",
+                                "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/08/Kimi-to-Boku-no-Saigo-no-Senjou-Aruiwa-Sekai-ga-Hajimaru-Seisen-2-Todos-os-Episodios-Online.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": {
+                    "url": "/anime/dandadan-dublado-assistir-online/",
+                    "title": "Dandadan Dublado",
+                    "artist": "Science Saru",
+                    "author": "Aniplex",
+                    "description": "Depois de ser rejeitada agressivamente, Momo Ayase se vê de mau humor quando se depara com um menino sendo intimidado. Salvo por sua bondade precipitada, o garoto obcecado por alienígenas tenta falar com ela sobre interesses extraterrestres que ele acredita que eles compartilham. Rejeitando suas alegações, Ayase proclamou que ela acredita em fantasmas, iniciando uma discussão entre os dois sobre o que é real. Em uma aposta para determinar quem está correto, os dois decidem visitar separadamente locais associados ao extraterrestre e ao sobrenatural - Ayase visitando o primeiro e o menino visitando o último. Quando os dois chegam a seus respectivos lugares, descobre-se que nenhum deles estava errado e que tanto alienígenas quanto fantasmas existem. Isso marca o início da aventura de Ayase e do menino, enquanto eles tentam consertar os elementos surreais, sobrenaturais e extraterrestres ao seu redor para retornar a uma vida normal. Dandadan Dublado Assistir Online .",
+                    "genre": "Action, Comedy, Supernatural",
+                    "thumbnail_url": "https://www.animesotaku.cc/wp-content/uploads/2024/10/143719l.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/watch/dandadan-dublado-assistir-online-episodio-12/",
+                        "name": "Episodio 12",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/watch/dandadan-dublado-assistir-online-episodio-11/",
+                        "name": "Episodio 11",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15124410083702795805/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://media.discordapp.net/attachments/1290275061923582025/1319409571806187641/dan-da-dan-dublado-ep-12-final.mp4.zeus1?ex=6784d6ab&is=6783852b&hm=6043eab09173cfcf6740f202c132a7ac289a2f29a938ac418f60a7ec11292751&",
+                        "quality": "Proxy CDN",
+                        "videoUrl": "https://media.discordapp.net/attachments/1290275061923582025/1319409571806187641/dan-da-dan-dublado-ep-12-final.mp4.zeus1?ex=6784d6ab&is=6783852b&hm=6043eab09173cfcf6740f202c132a7ac289a2f29a938ac418f60a7ec11292751&"
+                    }
+                ],
+                "passed": true
             }
         }
     }

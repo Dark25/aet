@@ -3,11 +3,11 @@
         "name": "أكوام (AR)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: ww1.akw-cdn1.link: Temporary failure in name resolution",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: ww1.akw-cdn1.link",
                 "passed": false
             },
             "details": {
@@ -22,7 +22,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "java.net.UnknownHostException: ww1.akw-cdn1.link",
                 "passed": false
             },
             "videos": {

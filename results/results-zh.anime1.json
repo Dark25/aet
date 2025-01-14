@@ -7,6 +7,13 @@
                     {
                         "animes": [
                             {
+                                "url": "https://anime1.pw/?cat=50",
+                                "title": "「只讓你摸1分鐘哦…」分租雅房不能說的祕密規定。",
+                                "genre": "2025, 冬, 桜都",
+                                "status": 1,
+                                "thumbnail_url": "https://sta.anicdn.com/playerImg/8.jpg"
+                            },
+                            {
                                 "url": "?cat=1586",
                                 "title": "魔法使的約定",
                                 "genre": "2025, 冬, ",
@@ -135,13 +142,6 @@
                             {
                                 "url": "?cat=1582",
                                 "title": "我獨自升級 第二季 -起於闇影-",
-                                "genre": "2025, 冬, ",
-                                "status": 1,
-                                "thumbnail_url": "https://sta.anicdn.com/playerImg/8.jpg"
-                            },
-                            {
-                                "url": "?cat=1583",
-                                "title": "我與尼特女忍者的莫名同居生活",
                                 "genre": "2025, 冬, ",
                                 "status": 1,
                                 "thumbnail_url": "https://sta.anicdn.com/playerImg/8.jpg"
@@ -157,6 +157,13 @@
                     {
                         "animes": [
                             {
+                                "url": "https://anime1.pw/?cat=50",
+                                "title": "「只讓你摸1分鐘哦…」分租雅房不能說的祕密規定。",
+                                "genre": "2025, 冬, 桜都",
+                                "status": 1,
+                                "thumbnail_url": "https://sta.anicdn.com/playerImg/8.jpg"
+                            },
+                            {
                                 "url": "?cat=1586",
                                 "title": "魔法使的約定",
                                 "genre": "2025, 冬, ",
@@ -285,13 +292,6 @@
                             {
                                 "url": "?cat=1582",
                                 "title": "我獨自升級 第二季 -起於闇影-",
-                                "genre": "2025, 冬, ",
-                                "status": 1,
-                                "thumbnail_url": "https://sta.anicdn.com/playerImg/8.jpg"
-                            },
-                            {
-                                "url": "?cat=1583",
-                                "title": "我與尼特女忍者的莫名同居生活",
                                 "genre": "2025, 冬, ",
                                 "status": 1,
                                 "thumbnail_url": "https://sta.anicdn.com/playerImg/8.jpg"
@@ -384,9 +384,9 @@
             },
             "details": {
                 "result": {
-                    "url": "?cat=1586",
-                    "title": "魔法使的約定",
-                    "genre": "2025, 冬, ",
+                    "url": "https://anime1.pw/?cat=50",
+                    "title": "「只讓你摸1分鐘哦…」分租雅房不能說的祕密規定。",
+                    "genre": "2025, 冬, 桜都",
                     "status": 1,
                     "status_name": "ONGOING",
                     "thumbnail_url": "https://sta.anicdn.com/playerImg/8.jpg"
@@ -394,32 +394,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/24846",
-                        "name": "魔法使的約定 [02]"
-                    },
-                    {
-                        "url": "/24785",
-                        "name": "魔法使的約定 [01]"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.UnknownHostException: anime1.mehttps: Name or service not known",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://muan.v.anime1.me/1586/2b.mp4",
-                        "quality": "video/mp4",
-                        "videoUrl": "https://muan.v.anime1.me/1586/2b.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "referer": "https://anime1.me/",
-                            "cookie": ""
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-1907201072029111261/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-1907201072029111261/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-1907201072029111261/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "passed": false
             }
         }
     }

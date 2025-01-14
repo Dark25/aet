@@ -304,6 +304,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/movie-43",
+                                "title": "Movie 43 (2013)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/thIEY0t1X9I5UH2TJNW5sVf1T2n.jpg"
+                            },
+                            {
                                 "url": "/pelicula/la-barbarie",
                                 "title": "La barbarie (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/m0yQyez8J8XUCTMBi7lJY4IhfAx.jpg"
@@ -417,11 +422,6 @@
                                 "url": "/pelicula/la-fuerza-del-carino",
                                 "title": "La fuerza del cariño (1983)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/iUa8SO1t0d89cXtDKOzYYsSge7M.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-ultimo-tango-en-paris",
-                                "title": "El último tango en París (1972)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/2G1j1RWBvmWc8f0HXjRZnn0ZlgD.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -681,10 +681,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/la-barbarie",
-                    "title": "La barbarie (2023)",
-                    "description": "Nacho huye de la violencia de su casa en Buenos Aires y busca un hogar al amparo de su padre, un estanciero con quien apenas tiene relación. En la estancia Santa Inés, un lugar donde predominan las diferencias sociales y la violencia contenida, Nacho tendrá que luchar para entender su lugar como patrón.",
-                    "genre": "Drama",
+                    "url": "/pelicula/movie-43",
+                    "title": "Movie 43 (2013)",
+                    "description": "Serie de sketches cómicos que cuentan 14 disparatadas historias, dirigidas entre otros por los Hermanos Farrelly y con un reparto coral espectacular, todas conectadas entre sí y cada cual más hilarante que la anterior. Desde cómo fracasa una cita de dos jóvenes cuando la chica se convierte en “mujer” hasta la cita rápida de un superhéroe.",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -694,7 +694,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/la-barbarie",
+                        "url": "/pelicula/movie-43",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -704,78 +704,88 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://r9fqlot2xe.guardstorage.net/hls_3/gyOIjLFyX6jz8EUOmZ7K41lk5BAxpns-YanuK6Grf89JMUydED42_iunHnEO1XR0_22iYsoHwvaElDLgvSA1ngEtjs56DcMF9VAdXHdjdmNtQ50v4_zZ_yuOXDKahAnJTXEZ9qtmAIbhFiavQcjUPE-UrbNNQF84w-nS33Pu36M6GICJ_BCnqAHmpc3tgyHlBm4nzR9Fd0u0cohNy_RWfQ/index-f3-v1-a1.m3u8?sig=NPD70MOxSVWijIenWH1_nA&expires=1736822894",
+                        "url": "https://qjvgi6dztq.guardstorage.net/hls_3/6BK8V2x5C9OYorvgnMEtvtUWZW07ZWiu2oJLBVoIBxb44FSuOX2dfPzYMC2kruGcHOh_77_0XELB9-UDparlxIm3ZCthtgkodv4Obqo6rIrcyFSxTRYhbpgFlN3rJvYzz6inzVTSaICDrXWp2C3Z20sFlA9HLT9WTC6bj-GDO7vnJCsub9QAVRKjRUQRietwTxjJLtPAq0_0OAEXZ2tHYA/index-f2-v1-a1.m3u8?sig=9r4lLjwtmhdnC1NsMpGXzg&expires=1736843903",
                         "quality": "[LAT] VidGuard:720p",
-                        "videoUrl": "https://r9fqlot2xe.guardstorage.net/hls_3/gyOIjLFyX6jz8EUOmZ7K41lk5BAxpns-YanuK6Grf89JMUydED42_iunHnEO1XR0_22iYsoHwvaElDLgvSA1ngEtjs56DcMF9VAdXHdjdmNtQ50v4_zZ_yuOXDKahAnJTXEZ9qtmAIbhFiavQcjUPE-UrbNNQF84w-nS33Pu36M6GICJ_BCnqAHmpc3tgyHlBm4nzR9Fd0u0cohNy_RWfQ/index-f3-v1-a1.m3u8?sig=NPD70MOxSVWijIenWH1_nA&expires=1736822894",
+                        "videoUrl": "https://qjvgi6dztq.guardstorage.net/hls_3/6BK8V2x5C9OYorvgnMEtvtUWZW07ZWiu2oJLBVoIBxb44FSuOX2dfPzYMC2kruGcHOh_77_0XELB9-UDparlxIm3ZCthtgkodv4Obqo6rIrcyFSxTRYhbpgFlN3rJvYzz6inzVTSaICDrXWp2C3Z20sFlA9HLT9WTC6bj-GDO7vnJCsub9QAVRKjRUQRietwTxjJLtPAq0_0OAEXZ2tHYA/index-f2-v1-a1.m3u8?sig=9r4lLjwtmhdnC1NsMpGXzg&expires=1736843903",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://pikao7r5wkee.acek-cdn.com/hls2/01/03532/988w9h7zzt2u_,l,n,.urlset/index-f2-v1-a1.m3u8?t=I0WPRGRrYM1lF4Bp1q2M8BH8o66_R-H80ikUVIOKIic&s=1736813871&e=129600&f=17663086&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=8075",
-                        "quality": "[LAT] StreamHideVid:720p",
-                        "videoUrl": "https://pikao7r5wkee.acek-cdn.com/hls2/01/03532/988w9h7zzt2u_,l,n,.urlset/index-f2-v1-a1.m3u8?t=I0WPRGRrYM1lF4Bp1q2M8BH8o66_R-H80ikUVIOKIic&s=1736813871&e=129600&f=17663086&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/v/988w9h7zzt2u"
-                        }
-                    },
-                    {
-                        "url": "https://streamsilk.com/data/6784fa44c6ab3/6784fa44c6ab3720.m3u8",
+                        "url": "https://streamsilk.com/data/6785336d578c2/6785336d578c2720.m3u8",
                         "quality": "[LAT] StreamSilk:720p",
-                        "videoUrl": "https://streamsilk.com/data/6784fa44c6ab3/6784fa44c6ab3720.m3u8",
+                        "videoUrl": "https://streamsilk.com/data/6785336d578c2/6785336d578c2720.m3u8",
                         "headers": {
                             "Referer": "https://streamsilk.com/",
                             "Origin": "https://streamsilk.com",
                             "Accept": "*/*"
-                        }
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://streamsilk.com/storage/subtitles/6785336d578c2/spa.srt",
+                                "lang": "spa"
+                            }
+                        ]
                     },
                     {
-                        "url": "https://zqvnzsxicfeh.premilkyway.com/hls2/01/07960/fun6sebuzfu8_n/index-v1-a1.m3u8?t=NRYVSFjOYuzD2-_ADRnQ3ly3VUErbPajP1ayX4eN0Pw&s=1736813867&e=129600&f=39802925&srv=3wegyoxZ9JubI3z&i=0.4&sp=500&p1=3wegyoxZ9JubI3z&p2=3wegyoxZ9JubI3z&asn=8075",
+                        "url": "https://wnsa7jyhmnmt12.premilkyway.com/hls2/01/07963/tddkbqf63khy_n/index-v1-a1.m3u8?t=pgvK_jrtmVMxyRt_AWUUW6xv41Oe7sd4puR9v06vcSE&s=1736834880&e=129600&f=39819768&srv=KsLkgBWej56z&i=0.4&sp=500&p1=KsLkgBWej56z&p2=KsLkgBWej56z&asn=8075",
                         "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://zqvnzsxicfeh.premilkyway.com/hls2/01/07960/fun6sebuzfu8_n/index-v1-a1.m3u8?t=NRYVSFjOYuzD2-_ADRnQ3ly3VUErbPajP1ayX4eN0Pw&s=1736813867&e=129600&f=39802925&srv=3wegyoxZ9JubI3z&i=0.4&sp=500&p1=3wegyoxZ9JubI3z&p2=3wegyoxZ9JubI3z&asn=8075",
+                        "videoUrl": "https://wnsa7jyhmnmt12.premilkyway.com/hls2/01/07963/tddkbqf63khy_n/index-v1-a1.m3u8?t=pgvK_jrtmVMxyRt_AWUUW6xv41Oe7sd4puR9v06vcSE&s=1736834880&e=129600&f=39819768&srv=KsLkgBWej56z&i=0.4&sp=500&p1=KsLkgBWej56z&p2=KsLkgBWej56z&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/fun6sebuzfu8"
-                        }
+                            "Referer": "https://streamwish.to/e/tddkbqf63khy"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://KsLkgBWej56z.premilkyway.com/vtt/01/07963/tddkbqf63khy_spa.vtt",
+                                "lang": "Argentina"
+                            }
+                        ]
                     },
                     {
-                        "url": "https://r9fqlot2xe.guardstorage.net/hls_3/gyOIjLFyX6jz8EUOmZ7K41lk5BAxpns-YanuK6Grf89JMUydED42_iunHnEO1XR0_22iYsoHwvaElDLgvSA1ngEtjs56DcMF9VAdXHdjdmNtQ50v4_zZ_yuOXDKahAnJTXEZ9qtmAIbhFiavQcjUPE-UrbNNQF84w-nS33Pu36M6GICJ_BCnqAHmpc3tgyHlBm4nzR9Fd0u0cohNy_RWfQ/index-f2-v1-a1.m3u8?sig=NPD70MOxSVWijIenWH1_nA&expires=1736822894",
-                        "quality": "[LAT] VidGuard:480p",
-                        "videoUrl": "https://r9fqlot2xe.guardstorage.net/hls_3/gyOIjLFyX6jz8EUOmZ7K41lk5BAxpns-YanuK6Grf89JMUydED42_iunHnEO1XR0_22iYsoHwvaElDLgvSA1ngEtjs56DcMF9VAdXHdjdmNtQ50v4_zZ_yuOXDKahAnJTXEZ9qtmAIbhFiavQcjUPE-UrbNNQF84w-nS33Pu36M6GICJ_BCnqAHmpc3tgyHlBm4nzR9Fd0u0cohNy_RWfQ/index-f2-v1-a1.m3u8?sig=NPD70MOxSVWijIenWH1_nA&expires=1736822894",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://pikao7r5wkee.acek-cdn.com/hls2/01/03532/988w9h7zzt2u_,l,n,.urlset/index-f1-v1-a1.m3u8?t=I0WPRGRrYM1lF4Bp1q2M8BH8o66_R-H80ikUVIOKIic&s=1736813871&e=129600&f=17663086&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=8075",
-                        "quality": "[LAT] StreamHideVid:480p",
-                        "videoUrl": "https://pikao7r5wkee.acek-cdn.com/hls2/01/03532/988w9h7zzt2u_,l,n,.urlset/index-f1-v1-a1.m3u8?t=I0WPRGRrYM1lF4Bp1q2M8BH8o66_R-H80ikUVIOKIic&s=1736813871&e=129600&f=17663086&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=8075",
+                        "url": "https://r4eeg9mngv6q.acek-cdn.com/hls2/01/03535/z3nnc91gqapa_,l,n,.urlset/index-f2-v1-a1.m3u8?t=PjrSBFcz8GCZpzsxE35hW8ca2XFWOkIBfXNBnroQUnQ&s=1736834878&e=129600&f=17676795&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=8075",
+                        "quality": "[LAT] StreamHideVid:720p",
+                        "videoUrl": "https://r4eeg9mngv6q.acek-cdn.com/hls2/01/03535/z3nnc91gqapa_,l,n,.urlset/index-f2-v1-a1.m3u8?t=PjrSBFcz8GCZpzsxE35hW8ca2XFWOkIBfXNBnroQUnQ&s=1736834878&e=129600&f=17676795&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/v/988w9h7zzt2u"
+                            "Referer": "https://vidhideplus.com/v/z3nnc91gqapa"
                         }
                     },
                     {
-                        "url": "https://streamsilk.com/data/6784fa44c6ab3/6784fa44c6ab3480.m3u8",
+                        "url": "https://streamsilk.com/data/6785336d578c2/6785336d578c2480.m3u8",
                         "quality": "[LAT] StreamSilk:480p",
-                        "videoUrl": "https://streamsilk.com/data/6784fa44c6ab3/6784fa44c6ab3480.m3u8",
+                        "videoUrl": "https://streamsilk.com/data/6785336d578c2/6785336d578c2480.m3u8",
                         "headers": {
                             "Referer": "https://streamsilk.com/",
                             "Origin": "https://streamsilk.com",
                             "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://streamsilk.com/storage/subtitles/6785336d578c2/spa.srt",
+                                "lang": "spa"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://r4eeg9mngv6q.acek-cdn.com/hls2/01/03535/z3nnc91gqapa_,l,n,.urlset/index-f1-v1-a1.m3u8?t=PjrSBFcz8GCZpzsxE35hW8ca2XFWOkIBfXNBnroQUnQ&s=1736834878&e=129600&f=17676795&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=8075",
+                        "quality": "[LAT] StreamHideVid:480p",
+                        "videoUrl": "https://r4eeg9mngv6q.acek-cdn.com/hls2/01/03535/z3nnc91gqapa_,l,n,.urlset/index-f1-v1-a1.m3u8?t=PjrSBFcz8GCZpzsxE35hW8ca2XFWOkIBfXNBnroQUnQ&s=1736834878&e=129600&f=17676795&srv=N9AMlcuPtQ8N&i=0.4&sp=500&p1=N9AMlcuPtQ8N&p2=N9AMlcuPtQ8N&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidhideplus.com",
+                            "Referer": "https://vidhideplus.com/v/z3nnc91gqapa"
                         }
                     },
                     {
-                        "url": "https://r9fqlot2xe.guardstorage.net/hls_3/gyOIjLFyX6jz8EUOmZ7K41lk5BAxpns-YanuK6Grf89JMUydED42_iunHnEO1XR0_22iYsoHwvaElDLgvSA1ngEtjs56DcMF9VAdXHdjdmNtQ50v4_zZ_yuOXDKahAnJTXEZ9qtmAIbhFiavQcjUPE-UrbNNQF84w-nS33Pu36M6GICJ_BCnqAHmpc3tgyHlBm4nzR9Fd0u0cohNy_RWfQ/index-f1-v1-a1.m3u8?sig=NPD70MOxSVWijIenWH1_nA&expires=1736822894",
-                        "quality": "[LAT] VidGuard:240p",
-                        "videoUrl": "https://r9fqlot2xe.guardstorage.net/hls_3/gyOIjLFyX6jz8EUOmZ7K41lk5BAxpns-YanuK6Grf89JMUydED42_iunHnEO1XR0_22iYsoHwvaElDLgvSA1ngEtjs56DcMF9VAdXHdjdmNtQ50v4_zZ_yuOXDKahAnJTXEZ9qtmAIbhFiavQcjUPE-UrbNNQF84w-nS33Pu36M6GICJ_BCnqAHmpc3tgyHlBm4nzR9Fd0u0cohNy_RWfQ/index-f1-v1-a1.m3u8?sig=NPD70MOxSVWijIenWH1_nA&expires=1736822894",
+                        "url": "https://qjvgi6dztq.guardstorage.net/hls_3/6BK8V2x5C9OYorvgnMEtvtUWZW07ZWiu2oJLBVoIBxb44FSuOX2dfPzYMC2kruGcHOh_77_0XELB9-UDparlxIm3ZCthtgkodv4Obqo6rIrcyFSxTRYhbpgFlN3rJvYzz6inzVTSaICDrXWp2C3Z20sFlA9HLT9WTC6bj-GDO7vnJCsub9QAVRKjRUQRietwTxjJLtPAq0_0OAEXZ2tHYA/index-f1-v1-a1.m3u8?sig=9r4lLjwtmhdnC1NsMpGXzg&expires=1736843903",
+                        "quality": "[LAT] VidGuard:360p",
+                        "videoUrl": "https://qjvgi6dztq.guardstorage.net/hls_3/6BK8V2x5C9OYorvgnMEtvtUWZW07ZWiu2oJLBVoIBxb44FSuOX2dfPzYMC2kruGcHOh_77_0XELB9-UDparlxIm3ZCthtgkodv4Obqo6rIrcyFSxTRYhbpgFlN3rJvYzz6inzVTSaICDrXWp2C3Z20sFlA9HLT9WTC6bj-GDO7vnJCsub9QAVRKjRUQRietwTxjJLtPAq0_0OAEXZ2tHYA/index-f1-v1-a1.m3u8?sig=9r4lLjwtmhdnC1NsMpGXzg&expires=1736843903",
                         "headers": {
                             "Accept": "*/*"
                         }
@@ -789,23 +799,23 @@
         "name": "PelisPlusPh (ES)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3694257635305645107/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3694257635305645107/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3694257635305645107/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4630360649713597914/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4630360649713597914/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4630360649713597914/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "search": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3694257635305645107/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3694257635305645107/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3694257635305645107/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4630360649713597914/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4630360649713597914/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4630360649713597914/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3694257635305645107/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3694257635305645107/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3694257635305645107/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4630360649713597914/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4630360649713597914/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4630360649713597914/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3694257635305645107/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3694257635305645107/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3694257635305645107/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4630360649713597914/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4630360649713597914/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4630360649713597914/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3694257635305645107/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3694257635305645107/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3694257635305645107/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4630360649713597914/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4630360649713597914/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4630360649713597914/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

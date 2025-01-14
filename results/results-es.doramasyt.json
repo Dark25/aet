@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/kairos-sub-espanol",
+                                "title": "Kairos",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/kairos-1736796445.webp?v=1.5"
+                            },
+                            {
                                 "url": "/dorama/love-of-nirvana-sub-espanol",
                                 "title": "Love Of Nirvana",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/love-of-nirvana-1736639240.webp?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/dorama/to-be-a-brave-one-sub-espanol",
                                 "title": "To Be A Brave One",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/to-be-a-brave-one-1726621076.webp?v=1.5"
-                            },
-                            {
-                                "url": "/dorama/girlfriend-2020-sub-espanol",
-                                "title": "Girlfriend (2020)",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/girlfriend-2020-1726568263.webp?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -404,13 +404,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/love-of-nirvana-sub-espanol",
-                    "title": "Love Of Nirvana",
-                    "description": "Un señor feudal secuestra a un superviviente para descubrir los secretos de su familia. Su plan se ve interrumpido cuando conoce a una mujer ayudada por un aliado. Desarrollan sentimientos y, luchan para derrocar a un emperador corrupto.",
-                    "genre": "Histórico",
+                    "url": "/dorama/kairos-sub-espanol",
+                    "title": "Kairos",
+                    "description": "Living a precarious life as a part-timer at a convenience store, Ae Ri works to support her mother, who is on a waiting list for a heart transplant. Unfortunately, her mother's physical condition worsens, leading her to forgo the long-awaited opportunity for the transplant, yet just like that, her mother disappears. Things were already chaotic enough for Ae Ri, and then she receives a phone call from a strange man claiming he's 31 days in the future.",
+                    "genre": "Thriller, Misterio, Fantasia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/love-of-nirvana-1736639240.webp?v=1.5",
+                    "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/kairos-1736796445.webp?v=1.5",
                     "initialized": true
                 },
                 "passed": true
@@ -418,21 +418,30 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/love-of-nirvana-episodio-40",
-                        "name": "Capítulo 40",
-                        "episode_number": 40.0
+                        "url": "/ver/kairos-episodio-16",
+                        "name": "Capítulo 16",
+                        "episode_number": 16.0
                     },
                     {
-                        "url": "/ver/love-of-nirvana-episodio-39",
-                        "name": "Capítulo 39",
-                        "episode_number": 39.0
+                        "url": "/ver/kairos-episodio-15",
+                        "name": "Capítulo 15",
+                        "episode_number": 15.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-p7xh0or5dp3h6tfm.voe-network.net/engine/hls2/01/13324/kyxv2vly1vin_,n,.urlset/index-v1-a1.m3u8?t=L4lH_UZJJ2rXwghbpwcKnzk5b1kjUjZmemEKhT9lsYs&s=1736813808&e=14400&f=66620415&node=6ulR/OxUUMCsqJIQSWHjwr0fJXNyI+Kk0KgF5VgTCHQ=&i=20.171&sp=2500&asn=8075&q=n",
+                        "quality": "Voe:1080p",
+                        "videoUrl": "https://delivery-node-p7xh0or5dp3h6tfm.voe-network.net/engine/hls2/01/13324/kyxv2vly1vin_,n,.urlset/index-v1-a1.m3u8?t=L4lH_UZJJ2rXwghbpwcKnzk5b1kjUjZmemEKhT9lsYs&s=1736813808&e=14400&f=66620415&node=6ulR/OxUUMCsqJIQSWHjwr0fJXNyI+Kk0KgF5VgTCHQ=&i=20.171&sp=2500&asn=8075&q=n",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

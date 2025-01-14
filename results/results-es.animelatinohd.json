@@ -3,27 +3,27 @@
         "name": "AnimeLatinoHD (ES)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Object doesn't exist: browser@16b45b078832615fa4f8df2dfc41975e",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Object doesn't exist: browser@0c6d21864e3d3394c702da5ee1fa5453",
                 "passed": false
             },
             "latest": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Cannot find object to call __adopt__: page@5f87efb73d0846ce25c50c04bf7b6d31",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Cannot find object to call close: page@42a07e243aca2de69c8e0aa954d21178",
                 "passed": false
             },
             "search": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Cannot find object to call __adopt__: browser-context@bf19ed832476058593baa6cd9423124b",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6444705566144513536/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6444705566144513536/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6444705566144513536/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "details": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6444705566144513536/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6444705566144513536/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6444705566144513536/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6444705566144513536/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6444705566144513536/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6444705566144513536/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6444705566144513536/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6444705566144513536/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6444705566144513536/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

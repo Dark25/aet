@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/gladiador-ii/",
+                                "title": "Gladiador II",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/342bly9MqveL65TnEFzx8TTUxcL.jpg"
+                            },
+                            {
+                                "url": "/filmes/ad-vitam/",
+                                "title": "Ad Vitam",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/86X5tsaIMmyE0en6Mt9nuT0xJ51.jpg"
+                            },
+                            {
                                 "url": "/filmes/sonic-3-o-filme/",
                                 "title": "Sonic 3: O Filme",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/8HzA55GCjRTEC2YhPGna8Lc8qHo.jpg"
@@ -55,16 +65,6 @@
                                 "url": "/filmes/moana-2/",
                                 "title": "Moana 2",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/3E9oViQjwbbrHJogG7NtfcKWRXw.jpg"
-                            },
-                            {
-                                "url": "/filmes/wicked/",
-                                "title": "Wicked",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg"
-                            },
-                            {
-                                "url": "/filmes/enfeiticados/",
-                                "title": "Enfeitiçados",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vuHOjZH8MBq0gS07S206W5dxGkW.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -135,6 +135,31 @@
                                 "url": "/series/cobra-kai/",
                                 "title": "Cobra Kai",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
+                            },
+                            {
+                                "url": "/series/plantao-policial/",
+                                "title": "Plantão Policial",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zclGqPFfnHrR3Oi0hwetm1Syibr.jpg"
+                            },
+                            {
+                                "url": "/series/quando-o-telefone-toca/",
+                                "title": "Quando o Telefone Toca",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jF0jc4GiLoA2UxTurcCh1ED3akU.jpg"
+                            },
+                            {
+                                "url": "/series/tyler-perrys-the-oval/",
+                                "title": "Tyler Perry’s The Oval",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/b5PTXErp18fzi8e2MQv2HlEiE23.jpg"
+                            },
+                            {
+                                "url": "/series/a-grande-descoberta/",
+                                "title": "A Grande Descoberta",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xMuTaOGVjXcBIa7etcw4abudbjZ.jpg"
+                            },
+                            {
+                                "url": "/series/a-jogada/",
+                                "title": "A Jogada",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/yqaRCjgG2dbBtCLrHISkHVCnGDE.jpg"
                             },
                             {
                                 "url": "/series/que-falta-voce-me-faz/",
@@ -260,31 +285,6 @@
                                 "url": "/series/senna/",
                                 "title": "Senna",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/zuAYVhC7vnKk9jsEuJQqJPB93Pm.jpg"
-                            },
-                            {
-                                "url": "/series/origem/",
-                                "title": "Origem",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg"
-                            },
-                            {
-                                "url": "/series/pantheon/",
-                                "title": "Pantheon",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aZupC6eJhTe82e5I0JRaOBjFHOd.jpg"
-                            },
-                            {
-                                "url": "/series/get-millie-black/",
-                                "title": "Get Millie Black",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ytXuD2ZP9Q82OzalMaGYoKUUPCG.jpg"
-                            },
-                            {
-                                "url": "/series/amor-da-minha-vida/",
-                                "title": "Amor da Minha Vida",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3dFVr9cMVVBuVKZTQWqBUGf3Phz.jpg"
-                            },
-                            {
-                                "url": "/series/spinners-vivendo-no-limite/",
-                                "title": "Spinners – Vivendo no Limite",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/uwiVqtc7NKIl61hVT4enJOxV9tW.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/sonic-3-o-filme/",
-                    "title": "Sonic 3: O Filme",
-                    "description": "Sonic, Knuckles e Tails se reúnem contra um novo e poderoso adversário, Shadow, um vilão misterioso com poderes diferentes de tudo que eles já enfrentaram antes. Com suas habilidades superadas em todos os sentidos, a Equipe Sonic deve buscar uma aliança improvável na esperança de parar Shadow e proteger o planeta.\n\nTítulo Original: Sonic the Hedgehog 3",
-                    "genre": "",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/8HzA55GCjRTEC2YhPGna8Lc8qHo.jpg",
+                    "url": "/filmes/gladiador-ii/",
+                    "title": "Gladiador II",
+                    "description": "Anos depois de testemunhar a trágica morte do reverenciado herói Maximus nas mãos de seu tio malvado, Lucius se vê forçado a lutar no Coliseu depois que sua terra natal é conquistada por dois imperadores tirânicos, que agora governam Roma. Com o coração ardendo de raiva e o destino do Império pendurado por um fio, Lucius deve enfrentar perigos e inimigos, redescobrindo em seu passado a força e a honra necessárias para trazer a glória de Roma de volta ao seu povo. Prepare-se para uma jornada épica de coragem e vingança na sangrenta arena do Coliseu.\n\nTítulo Original: Gladiator II",
+                    "genre": "Ação, Aventura, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/342bly9MqveL65TnEFzx8TTUxcL.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/sonic-3-o-filme/",
+                        "url": "/filmes/gladiador-ii/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

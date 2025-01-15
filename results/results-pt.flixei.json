@@ -3,11 +3,11 @@
         "name": "Flixei (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 405",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: Read timed out",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {

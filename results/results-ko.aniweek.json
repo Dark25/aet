@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/아마가미 씨네 인연 맺기",
+                                "title": "아마가미 씨네 인연 맺기",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/4d8c8e4ce62f4b0e7ffde45c35d863fc_1727806743_4554.jpg"
+                            },
+                            {
                                 "url": "/c/언네임드 메모리 Act.2",
                                 "title": "언네임드 메모리 Act.2",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/87ba3252feda20f351da3269474397a8_1736271877_7579.jpg"
@@ -362,11 +367,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/79e26b0e9d34cdcdf49d508d28e02a38_1729453986_8226.jpg"
                             },
                             {
-                                "url": "/c/아마가미 씨네 인연 맺기",
-                                "title": "아마가미 씨네 인연 맺기",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/4d8c8e4ce62f4b0e7ffde45c35d863fc_1727806743_4554.jpg"
-                            },
-                            {
                                 "url": "/c/던전에서 만남을 추구하면 안 되는 걸까 Ⅴ",
                                 "title": "던전에서 만남을 추구하면 안 되는 걸까 Ⅴ",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727979647_5952.jpg"
@@ -464,10 +464,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/언네임드 메모리 Act.2",
-                    "title": "언네임드 메모리 Act.2",
-                    "description": "원제: アンネームドメモリー Act.2\n원작: 후루미야 쿠지\n감독: 미우라 카즈야\n각본: 아카오 데코\n캐릭터 디자인: 노우미 치카\n음악: 마츠다 아키토\n장르: 판타지\n방영일: 2025.01.07 23:30 (화)\n등급: 15\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/87ba3252feda20f351da3269474397a8_1736271877_7579.jpg",
+                    "url": "/c/아마가미 씨네 인연 맺기",
+                    "title": "아마가미 씨네 인연 맺기",
+                    "description": "원제: 甘神さんちの縁結び\n원작: 나이토 마시\n감독: 아베 유지로\n각본: 아오키 야스코\n캐릭터 디자인: 이이즈카 하루코\n음악: 카와사키 료, 코노 토모유키\n장르: 로맨스, 코미디, 판타지, 하렘\n방영일: 2024.10.02 00:00 (수)\n등급: 12\n총화수: 24",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2410/4d8c8e4ce62f4b0e7ffde45c35d863fc_1727806743_4554.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -475,22 +475,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/언네임드 메모리 Act.2 2화",
-                        "name": "언네임드 메모리 Act.2 2화",
+                        "url": "/e/아마가미 씨네 인연 맺기 14화",
+                        "name": "아마가미 씨네 인연 맺기 14화",
                         "date_upload": 1736899200000,
-                        "episode_number": 2.0
+                        "episode_number": 14.0
                     },
                     {
-                        "url": "/e/언네임드 메모리 Act.2 1화",
-                        "name": "언네임드 메모리 Act.2 1화",
-                        "date_upload": 1736294400000,
-                        "episode_number": 1.0
+                        "url": "/e/아마가미 씨네 인연 맺기 13화",
+                        "name": "아마가미 씨네 인연 맺기 13화",
+                        "date_upload": 1735171200000,
+                        "episode_number": 13.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-18370059530684821155/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-18370059530684821155/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-18370059530684821155/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-13505913880778283986/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-13505913880778283986/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-13505913880778283986/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

@@ -3,7 +3,7 @@
         "name": "Pelisflix (ES)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "search": {
@@ -36,7 +36,7 @@
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {

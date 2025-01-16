@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/red-iron-road",
+                                "title": "Red Iron Road",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933870.jpg"
+                            },
+                            {
                                 "url": "/anime/stugo",
                                 "title": "StuGo",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933869.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta",
                                 "title": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933855.jpg"
-                            },
-                            {
-                                "url": "/anime/akuyaku-reijou-tensei-ojisan",
-                                "title": "Akuyaku Reijou Tensei Ojisan",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933854.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/stugo",
-                    "title": "StuGo",
-                    "description": "“StuGo” is an original animated series about six middle schoolers who get tricked into attending a fake academic summer camp by a mad scientist. They were looking forward to three months of learning, but will have to settle for the adventure of a lifetime on a tropical island filled with mind-reading manatees, giant fighting fungi and fashion-forward mutants.",
-                    "genre": "Animation, Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933869.jpg",
+                    "url": "/anime/red-iron-road",
+                    "title": "Red Iron Road",
+                    "description": "Red Iron Road is an animated horror anthology series, based on the works of famous European authors. Each of the episodes are between 10-20 minutes, produced with different creative partners in unique visual styles to suit each story.",
+                    "genre": "Animation, Horror, Suspense, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933870.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/stugo-episode-4-breakfast-at-chippanys-birdyguard",
-                        "name": "Season 1 - Episode 4",
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "/stugo-episode-3-diorama-drama-goat-racket",
-                        "name": "Season 1 - Episode 3",
-                        "episode_number": 3.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmda1AWgA5J6ZxbE_AqMSEZaRS-dDrtzMIqYASRyPxWpPLAJgJbhAuw3cDHSvi9Hesl-q6ntHrx9PUh1CilvcXG8s6xXey3qv3w4cgl2PHFDNrFzQiDR7LAMiPwiJ0FNzPThc7qjQVLK-3nQqAlc38N-jrJjjFPUuoF-F3cl7eQw8ibdF4hvyH7ohn40c1dDCNp96NCuVVw4_AXjHWWQp8trDIJfIkim2WpOB27pRW3bArws6Vk2v8CcrMmb1RQ8ylOLGIY9Q6IMzyC39mYBynpxJxjhFPm16lxvai6J-1ObvbuVsLmIWztiP64-rRPB8olSsMc2h_C3aibNbXkpz4ZW9aPg1-vITNKSLpMB9b1XlFZS115cwrNMpqN7uzKoew",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmda1AWgA5J6ZxbE_AqMSEZaRS-dDrtzMIqYASRyPxWpPLAJgJbhAuw3cDHSvi9Hesl-q6ntHrx9PUh1CilvcXG8s6xXey3qv3w4cgl2PHFDNrFzQiDR7LAMiPwiJ0FNzPThc7qjQVLK-3nQqAlc38N-jrJjjFPUuoF-F3cl7eQw8ibdF4hvyH7ohn40c1dDCNp96NCuVVw4_AXjHWWQp8trDIJfIkim2WpOB27pRW3bArws6Vk2v8CcrMmb1RQ8ylOLGIY9Q6IMzyC39mYBynpxJxjhFPm16lxvai6J-1ObvbuVsLmIWztiP64-rRPB8olSsMc2h_C3aibNbXkpz4ZW9aPg1-vITNKSLpMB9b1XlFZS115cwrNMpqN7uzKoew"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmda1AWgA5J6ZxbE_AqMSEZaRS-dDrtzMIqYASRyPxWpPLAJgJbhAuw3cDHSvi9Hesl-q6ntHrx9PUh1CilvcXG8s6xXey3qv3w4cgl2PHFDWBy8cdvmZ_oRMA5s7KCXtLOO3sem7BiChJDjZ76P8pJY0BhioZD20hdZOPoPdtpj7GYxFzQQJomDIbXxJPzq60ftpq7FGM69_IkpY45O9ianhulIJOG5JXh08KxvU4gyShu9HXlmIOpFMtLrIW7Oa4p-UMBLjAQoBpnYGw10ZhK1-JsYzdlmiEczG_gJ4QWLBg5gnoirx9n6P2lOMVcCdjqaD9bGouy3OpIwbKaDutpFJIF1PN5k2Yw13V_wTF1LVar9ErtCPPtJN-jlNO_dAg",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmda1AWgA5J6ZxbE_AqMSEZaRS-dDrtzMIqYASRyPxWpPLAJgJbhAuw3cDHSvi9Hesl-q6ntHrx9PUh1CilvcXG8s6xXey3qv3w4cgl2PHFDWBy8cdvmZ_oRMA5s7KCXtLOO3sem7BiChJDjZ76P8pJY0BhioZD20hdZOPoPdtpj7GYxFzQQJomDIbXxJPzq60ftpq7FGM69_IkpY45O9ianhulIJOG5JXh08KxvU4gyShu9HXlmIOpFMtLrIW7Oa4p-UMBLjAQoBpnYGw10ZhK1-JsYzdlmiEczG_gJ4QWLBg5gnoirx9n6P2lOMVcCdjqaD9bGouy3OpIwbKaDutpFJIF1PN5k2Yw13V_wTF1LVar9ErtCPPtJN-jlNO_dAg"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmda1AWgA5J6ZxbE_AqMSEZaRS-dDrtzMIqYASRyPxWpPLAJgJbhAuw3cDHSvi9Hesl-q6ntHrx9PUh1CilvcXG8s6xXey3qv3w4cgl2PHFD-I2H57uoco_ygKE0ZgYgf8JMQLj16zEi-Hrx0H2p0X2crxODxjAX8zsDuHp1jYnZUUzG2ziIEyvyN2sU9ZpPQSQhHOeL8voU8qCkeChzWD14aay7PzCOLDKJygyr4soDpkPotNvOeq7O96Pxq2b_TA70eYe5aHCYLDSyGvonRsHSEXG0Fl4Fp49-jYc8_KrpH6OsNqs26B80F4uZSCuboIrTQPeSQ_toXU-komJpU1ArOebcX_0jb0BNilma1_9LOtzfriUPl4IuYKlyazcVSA",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmda1AWgA5J6ZxbE_AqMSEZaRS-dDrtzMIqYASRyPxWpPLAJgJbhAuw3cDHSvi9Hesl-q6ntHrx9PUh1CilvcXG8s6xXey3qv3w4cgl2PHFD-I2H57uoco_ygKE0ZgYgf8JMQLj16zEi-Hrx0H2p0X2crxODxjAX8zsDuHp1jYnZUUzG2ziIEyvyN2sU9ZpPQSQhHOeL8voU8qCkeChzWD14aay7PzCOLDKJygyr4soDpkPotNvOeq7O96Pxq2b_TA70eYe5aHCYLDSyGvonRsHSEXG0Fl4Fp49-jYc8_KrpH6OsNqs26B80F4uZSCuboIrTQPeSQ_toXU-komJpU1ArOebcX_0jb0BNilma1_9LOtzfriUPl4IuYKlyazcVSA"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

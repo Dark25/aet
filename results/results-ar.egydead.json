@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/episode/برنامج-beast-games-الموسم-الاول-الحلقة-6-مترجمة/",
+                                "title": "برنامج Beast Games الموسم الاول الحلقة 6 مترجمة",
+                                "thumbnail_url": "https://egydead.org/wp-content/uploads/2024/12/برنامج-Beast-Games-الموسم-الاول-210x280.jpg"
+                            },
+                            {
                                 "url": "/episode/مسلسل-المؤسس-عثمان-الحلقة-177-مترجمة/",
                                 "title": "مسلسل المؤسس عثمان الحلقة 177 مترجمة",
                                 "thumbnail_url": "https://egydead.org/wp-content/uploads/2024/10/مسلسل-المؤسس-عثمان-الموسم-السادس-225x280.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/episode/مسلسل-american-primeval-الحلقة-1-مترجمة/",
                                 "title": "مسلسل American Primeval الحلقة 1 مترجمة",
                                 "thumbnail_url": "https://egydead.org/wp-content/uploads/2025/01/مسلسل-American-Primeval-2025-225x280.jpg"
-                            },
-                            {
-                                "url": "/episode/برنامج-beast-games-الموسم-الاول-الحلقة-5-مترجمة/",
-                                "title": "برنامج Beast Games الموسم الاول الحلقة 5 مترجمة",
-                                "thumbnail_url": "https://egydead.org/wp-content/uploads/2024/12/برنامج-Beast-Games-الموسم-الاول-210x280.jpg"
                             },
                             {
                                 "url": "/episode/برنامج-dubai-bling-الموسم-الثالث-الحلقة-1-مترجمة/",
@@ -163,19 +163,19 @@
                 "passed": true
             },
             "latest": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Object doesn't exist: tracing@cac6bf1ab9a2d2ebed70014241f16661",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Object doesn't exist: tracing@b0786a58437b03529954ef7d3971c40c",
                 "passed": false
             },
             "search": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-5808135595965524187/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-5808135595965524187/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-5808135595965524187/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Object doesn't exist: browser@964f91934a92a4010d680d2fb190fef6",
                 "passed": false
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-5808135595965524187/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-5808135595965524187/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-5808135595965524187/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Object doesn't exist: browser@555d42016c1ffe522819c2a71705757d",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-5808135595965524187/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-5808135595965524187/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-5808135595965524187/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-12287999644902066794/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-12287999644902066794/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-12287999644902066794/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

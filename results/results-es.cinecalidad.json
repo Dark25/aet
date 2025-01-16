@@ -7,9 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-serie/asura/",
+                                "title": "Asura",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/ver-pelicula/la-octava-clausula/",
+                                "title": "La octava cláusula",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//5CbVMeLvaGn87gx05waiIJ0JySr.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/cazafantasmas/",
+                                "title": "Cazafantasmas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//gG8Tv060zoUwmeGEk8lGBULO9hw.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/mi-padre-es-un-heroe/",
                                 "title": "Mi padre es un héroe",
-                                "thumbnail_url": ""
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//7TSEJk9ZZd6sVKh0lfRb0x7gl9Q.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/conjuros-del-mas-alla/",
@@ -50,21 +65,6 @@
                                 "url": "/ver-pelicula/quiz-show-el-dilema/",
                                 "title": "Quiz Show: El dilema",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342//knukAW6MVHZOZBnEguH4tYzJwPM.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/numero-23/",
-                                "title": "Número 23",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//h0T3FmHI7PFhUseoySCBPFjxP0O.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/devara-parte-1/",
-                                "title": "Devara: Parte 1",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//q9e5viGsiNXMpEKtr8KrL4rQmVW.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/ant-bully-las-aventuras-de-lucas/",
-                                "title": "Ant Bully: Las aventuras de Lucas",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//9OnDzKX1guuePRow1mz1JyWAOwi.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/ver-serie/asura/",
+                                "title": "Asura",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//sWLWPrAZIxns2yHguCUghsiKi1b.jpg"
+                            },
                             {
                                 "url": "/ver-serie/american-primeval/",
                                 "title": "American Primeval",
@@ -139,11 +144,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/mi-padre-es-un-heroe/",
-                    "artist": "Blackie Ko Shou-Liang",
-                    "description": "Kung Wei es un agente encubierto de la policía china por lo que no puede hablar a su esposa de su trabajo ni asistir a las competiciones de kung fu en las que participa su hijo Johnny. En su nueva misión, Kung se infiltra en una tríada de Hong Kong bajo el mando de Po Kwong, un psicópata criminal. Sin embargo todo se complica cuando se descubre que es policía y raptan a su hijo por lo que Kung Wei y Johnny tendrán que unir su habilidad y destreza en las artes marciales para poder sobrevivir.   ",
-                    "genre": "Acción, Aventura, Crimen, Suspenso",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w342//7TSEJk9ZZd6sVKh0lfRb0x7gl9Q.jpg",
+                    "url": "/ver-serie/asura/",
+                    "artist": "Jolene Kim",
+                    "author": "",
+                    "description": "Tokio, 1979. Cuatro hermanas muy distintas descubren que su padre es infiel, lo que desmorona sus vidas aparentemente felices y despierta emociones reprimidas.   ",
+                    "genre": "Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w342//sWLWPrAZIxns2yHguCUghsiKi1b.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -151,9 +157,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/mi-padre-es-un-heroe/",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
+                        "url": "/ver-el-episodio/asura-1x3/",
+                        "name": "T1 - E3 - Episodio 3",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/ver-el-episodio/asura-1x2/",
+                        "name": "T1 - E2 - Episodio 2",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true

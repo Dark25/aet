@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/그리자이아: 팬텀 트리거",
+                                "title": "그리자이아: 팬텀 트리거",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/c9b7ece970e1df1e5ff40fe687ce44af_1735761226_9015.jpg"
+                            },
+                            {
+                                "url": "/c/매직 메이커 이세계 마법을 만드는 법",
+                                "title": "매직 메이커 이세계 마법을 만드는 법",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/82de97fb8de61cb1c00fc51498e56361_1736358458_1665.jpg"
+                            },
+                            {
                                 "url": "/c/꽃은 피어난다, 수라와 같이",
                                 "title": "꽃은 피어난다, 수라와 같이",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/82de97fb8de61cb1c00fc51498e56361_1736346555_798.jpg"
@@ -307,19 +317,9 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/51c47162a7dc471378ecbd83b42266a3_1735794275_149.jpg"
                             },
                             {
-                                "url": "/c/그리자이아: 팬텀 트리거",
-                                "title": "그리자이아: 팬텀 트리거",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2501/c9b7ece970e1df1e5ff40fe687ce44af_1735761226_9015.jpg"
-                            },
-                            {
                                 "url": "/c/언젠가 최강의 연금술사",
                                 "title": "언젠가 최강의 연금술사",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/51c47162a7dc471378ecbd83b42266a3_1735799187_9884.jpg"
-                            },
-                            {
-                                "url": "/c/매직 메이커 이세계 마법을 만드는 법",
-                                "title": "매직 메이커 이세계 마법을 만드는 법",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2501/82de97fb8de61cb1c00fc51498e56361_1736358458_1665.jpg"
                             },
                             {
                                 "url": "/c/요괴 학교 선생님이 되었습니다",
@@ -464,10 +464,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/꽃은 피어난다, 수라와 같이",
-                    "title": "꽃은 피어난다, 수라와 같이",
-                    "description": "원제: 花は咲く、修羅の如く\n원작: 타케다 아야노, 뭇슈\n감독: 우와노 아유무\n각본: 후데야스 카즈유키\n캐릭터 디자인: 아이네 코우\n음악: 요코야마 마사루\n장르: 학원, 청춘\n방영일: 2025.01.08 01:35 (수)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/82de97fb8de61cb1c00fc51498e56361_1736346555_798.jpg",
+                    "url": "/c/그리자이아: 팬텀 트리거",
+                    "title": "그리자이아: 팬텀 트리거",
+                    "description": "원제: グリザイア:ファントムトリガー THE ANIMATION (TV)\n원작: 프론트 윙\n감독: 무라야마 코스케\n각본: 타카하시 타츠야\n캐릭터 디자인: 와타나베 아키오\n음악: 후지마 히토시, 타케다 유스케, 마츠모토 후미노리\n장르: 액션, 드라마\n방영일: 2025.01.02 01:00 (목)\n등급: 15\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/c9b7ece970e1df1e5ff40fe687ce44af_1735761226_9015.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -475,22 +475,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/꽃은 피어난다, 수라와 같이 2화",
-                        "name": "꽃은 피어난다, 수라와 같이 2화",
+                        "url": "/e/그리자이아: 팬텀 트리거 3화",
+                        "name": "그리자이아: 팬텀 트리거 3화",
                         "date_upload": 1736985600000,
-                        "episode_number": 2.0
+                        "episode_number": 3.0
                     },
                     {
-                        "url": "/e/꽃은 피어난다, 수라와 같이 1화",
-                        "name": "꽃은 피어난다, 수라와 같이 1화",
-                        "date_upload": 1736294400000,
-                        "episode_number": 1.0
+                        "url": "/e/그리자이아: 팬텀 트리거 2화",
+                        "name": "그리자이아: 팬텀 트리거 2화",
+                        "date_upload": 1736380800000,
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-12391544122820864536/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-12391544122820864536/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-12391544122820864536/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-8085895614606722825/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-8085895614606722825/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-8085895614606722825/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

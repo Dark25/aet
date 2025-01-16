@@ -1,6 +1,6 @@
 [
     {
-        "name": "AnimeSAGA (HI)",
+        "name": "Wbijam (PL)",
         "results": {
             "popular": {
                 "error": "java.util.NoSuchElementException: List is empty.",
@@ -15,21 +15,16 @@
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
-            },
-            "episodes": {
-                "result": [
-                    {
-                        "url": "/?usid=18&utid=29313917511",
-                        "name": "Movie",
-                        "episode_number": 1.0
-                    }
-                ],
+                "result": {
+                },
                 "passed": true
             },
+            "episodes": {
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
+            },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
                 "passed": false
             }
         }

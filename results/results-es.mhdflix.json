@@ -1,12 +1,8 @@
 [
     {
-        "name": "AnimeSAGA (HI)",
+        "name": "MhdFlix (ES)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
-            },
-            "latest": {
                 "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
@@ -15,14 +11,18 @@
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "description": "",
+                    "genre": "",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/?usid=20&utid=14191924028",
-                        "name": "Movie",
+                        "url": "/",
+                        "name": "Película",
                         "episode_number": 1.0
                     }
                 ],

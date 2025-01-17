@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/yu-gi-oh-go-rush",
+                                "title": "Yu-Gi-Oh! Go Rush!!",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933871.jpg"
+                            },
+                            {
                                 "url": "/anime/red-iron-road",
                                 "title": "Red Iron Road",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933870.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/around-40-otoko-no-isekai-tsuuhan",
                                 "title": "Around 40 Otoko no Isekai Tsuuhan",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933856.jpg"
-                            },
-                            {
-                                "url": "/anime/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta",
-                                "title": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933855.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,39 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/red-iron-road",
-                    "title": "Red Iron Road",
-                    "description": "Red Iron Road is an animated horror anthology series, based on the works of famous European authors. Each of the episodes are between 10-20 minutes, produced with different creative partners in unique visual styles to suit each story.",
-                    "genre": "Animation, Horror, Suspense, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933870.jpg",
+                    "url": "/anime/yu-gi-oh-go-rush",
+                    "title": "Yu-Gi-Oh! Go Rush!!",
+                    "description": "After inheriting the company from their parents, siblings Yuuhi and Yuamu Oudou have started to work at Ultraterrestrial Trouble Solutions, an organization that hunts aliens. Although they have never encountered aliens before, Yuuhi is desperate to meet one as he believes that an alien has stolen his important item called the “Earthdamar.”",
+                    "genre": "Action, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933871.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/yu-gi-oh-go-rush-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g3BhLRCrW0wnYfD55BCMQBUxkorc4ASGDvzJm141LzkK9kxw9RmhvdgX1g16G_BYG95kpefPQ5P_yfbv1xQWtGqbjhbnYNJzYvZ5kj_beY3yeEaZvm_mvXmk81Sz9_THUj3k-acJ-pZUQKXvBX3iRZrYCm7L-9O0B33jLlNcWYZPv8JxhKTAn5SzXtHuHgZetMXmEQg58TI3-Luj2y_OpQchXa2mQ1vNUMFlhmhSRn2IE8AOdrntB6ERlpKkZMgXP8r5DjGylFeyFBqhTmYaONQwpomTyJuyUDT4UjyFTAMwllfqsXO4RULBKbR5baJlIUcuBarX-3nJmnnDoOTh7-u0MzJ1HL1nR_3T9Xc-76Yhxkg_NaLGn3dX6N5wGXHN0W7oGrGG2BfOWheGkaAdUi",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g3BhLRCrW0wnYfD55BCMQBUxkorc4ASGDvzJm141LzkK9kxw9RmhvdgX1g16G_BYG95kpefPQ5P_yfbv1xQWtGqbjhbnYNJzYvZ5kj_beY3yeEaZvm_mvXmk81Sz9_THUj3k-acJ-pZUQKXvBX3iRZrYCm7L-9O0B33jLlNcWYZPv8JxhKTAn5SzXtHuHgZetMXmEQg58TI3-Luj2y_OpQchXa2mQ1vNUMFlhmhSRn2IE8AOdrntB6ERlpKkZMgXP8r5DjGylFeyFBqhTmYaONQwpomTyJuyUDT4UjyFTAMwllfqsXO4RULBKbR5baJlIUcuBarX-3nJmnnDoOTh7-u0MzJ1HL1nR_3T9Xc-76Yhxkg_NaLGn3dX6N5wGXHN0W7oGrGG2BfOWheGkaAdUi"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g3BhLRCrW0wnYfD55BCMQBUxkorc4ASGDvzJm141LzkK9kxw9RmhvdgX1g16G_BYG95kpefPQ5P_yfbv1xQWtGqbjhbnYNJzYvZ5kj_beY3yeEaZvm_mvXmk81Sz9_THX-4oC_x-ZgqSA2tol4FC5y0eHzHpikOqJPkuw0fUI04bByjWcLyECObMXBcuQvqVey7MOwErqcr06WGzx6GmVLt1Zz-ZUaYuV9IddofN__1wZJJVCOB7mvZrUlkfSVBJAD5JW09AEqBrpHhUGeLRaNFthK3WZYRTtyzO9kdRd18xGSbfOxJPY3ckIIqRH39s0W_jkKcaFU4dqDt5W4sQSpSj_ccmR9QKdoaGLcjtXqEHhGTtz5of1WR8Rbki8i-lIlgW8HXnZbBdyvIJCATz81",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g3BhLRCrW0wnYfD55BCMQBUxkorc4ASGDvzJm141LzkK9kxw9RmhvdgX1g16G_BYG95kpefPQ5P_yfbv1xQWtGqbjhbnYNJzYvZ5kj_beY3yeEaZvm_mvXmk81Sz9_THX-4oC_x-ZgqSA2tol4FC5y0eHzHpikOqJPkuw0fUI04bByjWcLyECObMXBcuQvqVey7MOwErqcr06WGzx6GmVLt1Zz-ZUaYuV9IddofN__1wZJJVCOB7mvZrUlkfSVBJAD5JW09AEqBrpHhUGeLRaNFthK3WZYRTtyzO9kdRd18xGSbfOxJPY3ckIIqRH39s0W_jkKcaFU4dqDt5W4sQSpSj_ccmR9QKdoaGLcjtXqEHhGTtz5of1WR8Rbki8i-lIlgW8HXnZbBdyvIJCATz81"
+                    }
+                ],
+                "passed": true
             }
         }
     }

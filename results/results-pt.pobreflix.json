@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/de-volta-a-acao/",
+                                "title": "De Volta à Ação",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/m4gzzzeYRmrwasrBdJmjhBmjS3U.jpg"
+                            },
+                            {
                                 "url": "/filmes/gladiador-ii/",
                                 "title": "Gladiador II",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/342bly9MqveL65TnEFzx8TTUxcL.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/nao-solte/",
                                 "title": "Não Solte!",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/rfg3teGg3A4X1WJxgOvBSs9yt09.jpg"
-                            },
-                            {
-                                "url": "/filmes/moana-2/",
-                                "title": "Moana 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3E9oViQjwbbrHJogG7NtfcKWRXw.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/gladiador-ii/",
-                    "title": "Gladiador II",
-                    "description": "Anos depois de testemunhar a trágica morte do reverenciado herói Maximus nas mãos de seu tio malvado, Lucius se vê forçado a lutar no Coliseu depois que sua terra natal é conquistada por dois imperadores tirânicos, que agora governam Roma. Com o coração ardendo de raiva e o destino do Império pendurado por um fio, Lucius deve enfrentar perigos e inimigos, redescobrindo em seu passado a força e a honra necessárias para trazer a glória de Roma de volta ao seu povo. Prepare-se para uma jornada épica de coragem e vingança na sangrenta arena do Coliseu.\n\nTítulo Original: Gladiator II",
-                    "genre": "Ação, Aventura, Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/342bly9MqveL65TnEFzx8TTUxcL.jpg",
+                    "url": "/filmes/de-volta-a-acao/",
+                    "title": "De Volta à Ação",
+                    "description": "Quinze anos depois de abandonar a CIA para formar uma família, os ex-agentes de elite Matt e Emily voltam ao mundo da espionagem ao terem seus disfarces revelados.\n\nTítulo Original: Back in Action",
+                    "genre": "Ação, Comédia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/m4gzzzeYRmrwasrBdJmjhBmjS3U.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,7 +466,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/gladiador-ii/",
+                        "url": "/filmes/de-volta-a-acao/",
                         "name": "Filme",
                         "episode_number": 1.0
                     }

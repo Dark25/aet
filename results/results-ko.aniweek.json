@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/약사의 혼잣말 2기",
+                                "title": "약사의 혼잣말 2기",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/82896ee8587420e3e50e69b9da45b9bc_1736534743_6923.jpg"
+                            },
+                            {
+                                "url": "/c/푸른 상자",
+                                "title": "푸른 상자",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727982170_7073.jpg"
+                            },
+                            {
+                                "url": "/c/어차피 사랑하고 만다",
+                                "title": "어차피 사랑하고 만다",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/77bc6a6333e062dc88fa1e1fe1f0c40e_1736524616_966.jpg"
+                            },
+                            {
                                 "url": "/c/악역영애 전생 아저씨",
                                 "title": "악역영애 전생 아저씨",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/b0deee87426b341e66a4f19185b82cea_1736454966_2182.jpg"
@@ -302,21 +317,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728071683_0959.jpg"
                             },
                             {
-                                "url": "/c/약사의 혼잣말 2기",
-                                "title": "약사의 혼잣말 2기",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2501/82896ee8587420e3e50e69b9da45b9bc_1736534743_6923.jpg"
-                            },
-                            {
-                                "url": "/c/어차피 사랑하고 만다",
-                                "title": "어차피 사랑하고 만다",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2501/77bc6a6333e062dc88fa1e1fe1f0c40e_1736524616_966.jpg"
-                            },
-                            {
-                                "url": "/c/푸른 상자",
-                                "title": "푸른 상자",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/61051374925490f68de15d1141481ad5_1727982170_7073.jpg"
-                            },
-                            {
                                 "url": "/c/트릴리온 게임",
                                 "title": "트릴리온 게임",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728056359_4728.jpg"
@@ -464,10 +464,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/악역영애 전생 아저씨",
-                    "title": "악역영애 전생 아저씨",
-                    "description": "원제: 悪役令嬢転生おじさん\n원작: 우에야마 미치로\n감독: 타케우치 테츠야\n각본: 이리에 신고\n캐릭터 디자인: 마츠나에 하루카\n음악: 츠치다 미사키, 타나카 츠쿠미\n장르: TS, 게임, 판타지\n방영일: 2025.01.10 00:26 (금)\n등급: 15\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/b0deee87426b341e66a4f19185b82cea_1736454966_2182.jpg",
+                    "url": "/c/약사의 혼잣말 2기",
+                    "title": "약사의 혼잣말 2기",
+                    "description": "원제: 薬屋のひとりごと 2期\n원작: 휴우가 나츠\n감독: 후데사카 아키노리\n각본: 나가누마 노리히로\n캐릭터 디자인: 나카타니 유키코\n음악: 코우사키 사토루, 오케하자마 아리사\n장르: 추리, 미스테리\n방영일: 2025.01.10 23:00 (금)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/82896ee8587420e3e50e69b9da45b9bc_1736534743_6923.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -475,22 +475,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/악역영애 전생 아저씨 2화",
-                        "name": "악역영애 전생 아저씨 2화",
-                        "date_upload": 1737072000000,
+                        "url": "/e/약사의 혼잣말 2기 2화",
+                        "name": "약사의 혼잣말 2기 2화",
+                        "date_upload": 1737158400000,
                         "episode_number": 2.0
                     },
                     {
-                        "url": "/e/악역영애 전생 아저씨 1화",
-                        "name": "악역영애 전생 아저씨 1화",
-                        "date_upload": 1736467200000,
+                        "url": "/e/약사의 혼잣말 2기 1화",
+                        "name": "약사의 혼잣말 2기 1화",
+                        "date_upload": 1736553600000,
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15260102935426578034/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15260102935426578034/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15260102935426578034/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15713488998296312824/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15713488998296312824/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15713488998296312824/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

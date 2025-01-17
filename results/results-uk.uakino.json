@@ -327,6 +327,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmy/genre-action/26143-veteran-2.html",
+                                "title": "Ветеран 2",
+                                "thumbnail_url": "https://uakino.club"
+                            },
+                            {
                                 "url": "/filmy/genre_melodrama/26227-bilyi-ptakh.html",
                                 "title": "Білий птах",
                                 "thumbnail_url": "https://uakino.club"
@@ -392,11 +397,6 @@
                                 "thumbnail_url": "https://uakino.club"
                             },
                             {
-                                "url": "/filmy/genre-action/26143-veteran-2.html",
-                                "title": "Ветеран 2",
-                                "thumbnail_url": "https://uakino.club"
-                            },
-                            {
                                 "url": "/filmy/genre_drama/26142-insha-ludyna.html",
                                 "title": "Інша людина",
                                 "thumbnail_url": "https://uakino.club"
@@ -425,6 +425,11 @@
                                 "url": "/filmy/genre_drama/26107-smertelnyi-klub-druzhyn.html",
                                 "title": "Смертельний клуб дружин",
                                 "thumbnail_url": "https://uakino.club"
+                            },
+                            {
+                                "url": "/filmy/genre-action/26143-veteran-2.html",
+                                "title": "Ветеран 2",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainshort/a8/d3ee6e11c46da53f80a4f65bbd6e75.png"
                             },
                             {
                                 "url": "/animeukr/anime-series/11987-hormya.html",
@@ -470,11 +475,6 @@
                                 "url": "/animeukr/anime-series/22280-zavtrashny-dzho-1-sezon.html",
                                 "title": "Завтрашній Джо",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainshort/32/368cb3694d657244e889ded5f5367b.jpg"
-                            },
-                            {
-                                "url": "/animeukr/anime-series/26172-dni-sakamoto-1-sezon.html",
-                                "title": "Дні Сакамото",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainshort/44/c36952cdec03767930ee207265c4cc.png"
                             },
                             {
                                 "url": "/filmy/genre_adventure/26125-povernennia-povernennia-odisseia.html",
@@ -552,6 +552,11 @@
                                 "thumbnail_url": "https://uakino.club"
                             },
                             {
+                                "url": "/seriesss/love_story_series/22221-vchna-tuga-za-toboyu-1-sezon.html",
+                                "title": "Вічна туга за тобою",
+                                "thumbnail_url": "https://uakino.club"
+                            },
+                            {
                                 "url": "/seriesss/drama_series/24859-zapalnyi-sviashchennyk-2-sezon.html",
                                 "title": "Запальний священник",
                                 "thumbnail_url": "https://uakino.club"
@@ -584,11 +589,6 @@
                             {
                                 "url": "/seriesss/doramy/12798-misha-1-sezon.html",
                                 "title": "Миша",
-                                "thumbnail_url": "https://uakino.club"
-                            },
-                            {
-                                "url": "/seriesss/love_story_series/22221-vchna-tuga-za-toboyu-1-sezon.html",
-                                "title": "Вічна туга за тобою",
                                 "thumbnail_url": "https://uakino.club"
                             },
                             {
@@ -868,7 +868,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-10215018318360651246/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-10215018318360651246/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-10215018318360651246/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4267811745720624182/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4267811745720624182/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4267811745720624182/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

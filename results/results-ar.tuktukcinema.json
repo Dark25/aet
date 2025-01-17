@@ -3,40 +3,27 @@
         "name": "توك توك سينما (AR)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: w.tuktokcinema.com: Temporary failure in name resolution",
                 "passed": false
             },
             "latest": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: w.tuktokcinema.com",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: w.tuktokcinema.com",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "author": "",
-                    "description": "",
-                    "genre": "",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.UnknownHostException: w.tuktokcinema.com",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "//watch/",
-                        "name": "مشاهدة"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.UnknownHostException: w.tuktokcinema.com",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.UnknownHostException: w.tuktokcinema.com",
                 "passed": false
             }
         }

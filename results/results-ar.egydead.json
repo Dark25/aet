@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/مشاهدة-فيلم-back-in-action-2025-مترجم/",
+                                "title": "مشاهدة فيلم Back in Action 2025 مترجم",
+                                "thumbnail_url": "https://egydead.org/wp-content/uploads/2025/01/فيلم-Back-in-Action-2025-مترجم-203x280.jpg"
+                            },
+                            {
                                 "url": "/episode/مسلسل-silo-الموسم-الثاني-الحلقة-10-مترجمة/",
                                 "title": "مسلسل Silo الموسم الثاني الحلقة 10 مترجمة",
                                 "thumbnail_url": "https://egydead.org/wp-content/uploads/2024/11/مسلسل-Silo-الموسم-الثاني-210x280.jpg"
@@ -107,11 +112,6 @@
                                 "thumbnail_url": "https://egydead.org/wp-content/uploads/2024/11/فيلم-Gladiator-2-2024-مترجم-1-225x280.jpg"
                             },
                             {
-                                "url": "/episode/مسلسل-dune-prophecy-الحلقة-6-مترج/",
-                                "title": "مسلسل Dune Prophecy الحلقة 6 مترجمة",
-                                "thumbnail_url": "https://egydead.org/wp-content/uploads/2024/11/مسلسل-Dune-Prophecy-2024-مترجم-210x280.jpg"
-                            },
-                            {
                                 "url": "/مشاهدة-فيلم-carry-on-2024-مترجم/",
                                 "title": "مشاهدة فيلم Carry On 2024 مترجم",
                                 "thumbnail_url": "https://egydead.org/wp-content/uploads/2024/12/فيلم-Carry-On-2024-مترجم-210x280.jpg"
@@ -163,19 +163,19 @@
                 "passed": true
             },
             "latest": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Cannot find object to call __adopt__: browser-context@c2335062c113c72142bb445060ce4450",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Object doesn't exist: page@06b234b76ea533285114213da0e236cc",
                 "passed": false
             },
             "search": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7209860256385171078/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7209860256385171078/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7209860256385171078/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3487556751705728264/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3487556751705728264/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3487556751705728264/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7209860256385171078/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7209860256385171078/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7209860256385171078/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3487556751705728264/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3487556751705728264/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3487556751705728264/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7209860256385171078/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7209860256385171078/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7209860256385171078/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3487556751705728264/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3487556751705728264/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3487556751705728264/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

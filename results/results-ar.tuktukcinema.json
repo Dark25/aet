@@ -3,27 +3,27 @@
         "name": "توك توك سينما (AR)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: w.tuktokcinema.com: Temporary failure in name resolution",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: w.tuktokcinema.com",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: w.tuktokcinema.com",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: w.tuktokcinema.com",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: w.tuktokcinema.com",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: w.tuktokcinema.com",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
                 "passed": false
             }
         }

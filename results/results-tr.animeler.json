@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/glorious-revenge-of-ye-feng/",
+                                "title": "Glorious Revenge of Ye Feng",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/f5935735da19a81abd2ffa1621037f18-224x320.jpg"
+                            },
+                            {
                                 "url": "/anime/ameku-takao-no-suiri-karte/",
                                 "title": "Ameku M.D.: Doctor Detective Ameku Takao no Suiri Karte",
                                 "thumbnail_url": "https://animeler.me/wp-content/uploads/2024/12/146750l.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/anime/yao-shen-ji-2-sezon/",
                                 "title": "Yao Shen Ji 2. Sezon",
                                 "thumbnail_url": "https://animeler.me/wp-content/uploads/2025/01/101532l.jpg"
-                            },
-                            {
-                                "url": "/anime/yao-shen-ji/",
-                                "title": "Tales of Demons and Gods Yao Shen Ji",
-                                "thumbnail_url": "https://animeler.me/wp-content/uploads/2025/01/88177l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,7 +393,7 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\r\n<html lang=\"t.....",
                 "passed": false
             },
             "episodes": {

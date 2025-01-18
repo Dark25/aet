@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/laid/",
+                                "title": "Laid",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/uehjCh6fx6KNjv6eWmslxLrPM0N.jpg"
+                            },
+                            {
                                 "url": "/serie/little-bird/",
                                 "title": "Little Bird",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "El Circo de los Muchachos",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/4I5TzRRCmNcOv5P9Bnbr8Wklv5h.jpg"
-                            },
-                            {
-                                "url": "/serie/dario-gomez-el-rey-del-despecho/",
-                                "title": "Darío Gómez: El rey del despecho",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/cVYgLakPa2GHqdP6ycdsnidcR4p.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,11 +240,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/little-bird/",
-                    "title": "Little Bird",
-                    "description": "Como parte de una política gubernamental racista ahora conocida como Sixties Scoop, Bezhig Little Bird es sacada de su casa en Long Pine Reserve en Saskatchewan y adoptada en una familia judía de Montreal a la edad de cinco años, convirtiéndose en Esther Rosenblum. Ahora, con veintitantos años, Bezhig añora a la familia que perdió y está dispuesta a sacrificarlo todo para encontrarla.",
-                    "genre": "Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yI314yQpzVTn5xp3texIFwG9wve.jpg",
+                    "url": "/serie/laid/",
+                    "title": "Laid",
+                    "description": "Una mujer descubre que sus antiguos amantes están muriendo de formas inusuales y debe retroceder en su línea de tiempo sexual para confrontar su pasado y poder seguir adelante.",
+                    "genre": "Comedia, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/uehjCh6fx6KNjv6eWmslxLrPM0N.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -252,14 +252,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/capitulo/little-bird-temporada-1-capitulo-6/",
-                        "name": "T1 - Episodio 6",
-                        "episode_number": 6.0
+                        "url": "/capitulo/laid-temporada-1-capitulo-8/",
+                        "name": "T1 - Episodio 8",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/capitulo/little-bird-temporada-1-capitulo-5/",
-                        "name": "T1 - Episodio 5",
-                        "episode_number": 5.0
+                        "url": "/capitulo/laid-temporada-1-capitulo-7/",
+                        "name": "T1 - Episodio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -267,9 +267,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s39.fastream.to/hls2/16/00071/nvika249kldi_x/index-v1-a1.m3u8?t=mxNBuz_LzmiVwOurjjgC13lW1qy41U6_70z351LKpXE&s=1737159418&e=43200&v=57624178&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/22/00071/i0r1b7omuumr_x/index-v1-a1.m3u8?t=ry3p-dgEWVWh8JNZAu86JMBIE0gPc7VQ6Q0KILkFHu0&s=1737180530&e=43200&v=57792596&i=0.3&sp=0",
                         "quality": "[CAST] Fastream:1080p",
-                        "videoUrl": "https://s39.fastream.to/hls2/16/00071/nvika249kldi_x/index-v1-a1.m3u8?t=mxNBuz_LzmiVwOurjjgC13lW1qy41U6_70z351LKpXE&s=1737159418&e=43200&v=57624178&i=0.3&sp=0",
+                        "videoUrl": "https://s39.fastream.to/hls2/22/00071/i0r1b7omuumr_x/index-v1-a1.m3u8?t=ry3p-dgEWVWh8JNZAu86JMBIE0gPc7VQ6Q0KILkFHu0&s=1737180530&e=43200&v=57792596&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -278,9 +278,20 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/16/00071/nvika249kldi_h/index-v1-a1.m3u8?t=mxNBuz_LzmiVwOurjjgC13lW1qy41U6_70z351LKpXE&s=1737159418&e=43200&v=57624178&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/06/00071/ki8y1yyy576z_h/index-v1-a1.m3u8?t=SIaODI60dHVU0e8S-Vy7uI-4BBHeUPxgU8kzmRwoLZc&s=1737180532&e=43200&v=57792609&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:720p",
+                        "videoUrl": "https://s39.fastream.to/hls2/06/00071/ki8y1yyy576z_h/index-v1-a1.m3u8?t=SIaODI60dHVU0e8S-Vy7uI-4BBHeUPxgU8kzmRwoLZc&s=1737180532&e=43200&v=57792609&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/22/00071/i0r1b7omuumr_h/index-v1-a1.m3u8?t=ry3p-dgEWVWh8JNZAu86JMBIE0gPc7VQ6Q0KILkFHu0&s=1737180530&e=43200&v=57792596&i=0.3&sp=0",
                         "quality": "[CAST] Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/16/00071/nvika249kldi_h/index-v1-a1.m3u8?t=mxNBuz_LzmiVwOurjjgC13lW1qy41U6_70z351LKpXE&s=1737159418&e=43200&v=57624178&i=0.3&sp=0",
+                        "videoUrl": "https://s39.fastream.to/hls2/22/00071/i0r1b7omuumr_h/index-v1-a1.m3u8?t=ry3p-dgEWVWh8JNZAu86JMBIE0gPc7VQ6Q0KILkFHu0&s=1737180530&e=43200&v=57792596&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -289,9 +300,20 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/16/00071/nvika249kldi_n/index-v1-a1.m3u8?t=mxNBuz_LzmiVwOurjjgC13lW1qy41U6_70z351LKpXE&s=1737159418&e=43200&v=57624178&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/06/00071/ki8y1yyy576z_n/index-v1-a1.m3u8?t=SIaODI60dHVU0e8S-Vy7uI-4BBHeUPxgU8kzmRwoLZc&s=1737180532&e=43200&v=57792609&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/06/00071/ki8y1yyy576z_n/index-v1-a1.m3u8?t=SIaODI60dHVU0e8S-Vy7uI-4BBHeUPxgU8kzmRwoLZc&s=1737180532&e=43200&v=57792609&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/22/00071/i0r1b7omuumr_n/index-v1-a1.m3u8?t=ry3p-dgEWVWh8JNZAu86JMBIE0gPc7VQ6Q0KILkFHu0&s=1737180530&e=43200&v=57792596&i=0.3&sp=0",
                         "quality": "[CAST] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/16/00071/nvika249kldi_n/index-v1-a1.m3u8?t=mxNBuz_LzmiVwOurjjgC13lW1qy41U6_70z351LKpXE&s=1737159418&e=43200&v=57624178&i=0.3&sp=0",
+                        "videoUrl": "https://s39.fastream.to/hls2/22/00071/i0r1b7omuumr_n/index-v1-a1.m3u8?t=ry3p-dgEWVWh8JNZAu86JMBIE0gPc7VQ6Q0KILkFHu0&s=1737180530&e=43200&v=57792596&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -300,9 +322,20 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/16/00071/nvika249kldi_l/index-v1-a1.m3u8?t=mxNBuz_LzmiVwOurjjgC13lW1qy41U6_70z351LKpXE&s=1737159418&e=43200&v=57624178&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/06/00071/ki8y1yyy576z_l/index-v1-a1.m3u8?t=SIaODI60dHVU0e8S-Vy7uI-4BBHeUPxgU8kzmRwoLZc&s=1737180532&e=43200&v=57792609&i=0.3&sp=0",
+                        "quality": "[SUB] Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/06/00071/ki8y1yyy576z_l/index-v1-a1.m3u8?t=SIaODI60dHVU0e8S-Vy7uI-4BBHeUPxgU8kzmRwoLZc&s=1737180532&e=43200&v=57792609&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/22/00071/i0r1b7omuumr_l/index-v1-a1.m3u8?t=ry3p-dgEWVWh8JNZAu86JMBIE0gPc7VQ6Q0KILkFHu0&s=1737180530&e=43200&v=57792596&i=0.3&sp=0",
                         "quality": "[CAST] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/16/00071/nvika249kldi_l/index-v1-a1.m3u8?t=mxNBuz_LzmiVwOurjjgC13lW1qy41U6_70z351LKpXE&s=1737159418&e=43200&v=57624178&i=0.3&sp=0",
+                        "videoUrl": "https://s39.fastream.to/hls2/22/00071/i0r1b7omuumr_l/index-v1-a1.m3u8?t=ry3p-dgEWVWh8JNZAu86JMBIE0gPc7VQ6Q0KILkFHu0&s=1737180530&e=43200&v=57792596&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",

@@ -410,21 +410,86 @@
                     {
                         "url": "/anime/feb8ql49/11",
                         "name": "Episode 11 : Idol",
-                        "date_upload": 1687910400000,
-                        "episode_number": 11.0
+                        "date_upload": 1687910400000
                     },
                     {
                         "url": "/anime/feb8ql49/10",
                         "name": "Episode 10 : Pressure",
-                        "date_upload": 1687305600000,
-                        "episode_number": 10.0
+                        "date_upload": 1687305600000
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<html lang=\"en.....",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/1080/playlist.m3u8",
+                        "quality": "ZeroBuild Source: BD Duration: 23:12 Audio: Japanese Hardsub: English - 1080p",
+                        "videoUrl": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/1080/playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizone.to",
+                            "Referer": "https://anizone.to/"
+                        }
+                    },
+                    {
+                        "url": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/1080/playlist.m3u8",
+                        "quality": "ZeroBuild Source: BD Duration: 23:12 Audio: English Hardsub: English - 1080p",
+                        "videoUrl": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/1080/playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizone.to",
+                            "Referer": "https://anizone.to/"
+                        }
+                    },
+                    {
+                        "url": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/720/playlist.m3u8",
+                        "quality": "ZeroBuild Source: BD Duration: 23:12 Audio: Japanese Hardsub: English - 720p",
+                        "videoUrl": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/720/playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizone.to",
+                            "Referer": "https://anizone.to/"
+                        }
+                    },
+                    {
+                        "url": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/360/playlist.m3u8",
+                        "quality": "ZeroBuild Source: BD Duration: 23:12 Audio: Japanese Hardsub: English - 360p",
+                        "videoUrl": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/360/playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizone.to",
+                            "Referer": "https://anizone.to/"
+                        }
+                    },
+                    {
+                        "url": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/720/playlist.m3u8",
+                        "quality": "ZeroBuild Source: BD Duration: 23:12 Audio: English Hardsub: English - 720p",
+                        "videoUrl": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/720/playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizone.to",
+                            "Referer": "https://anizone.to/"
+                        }
+                    },
+                    {
+                        "url": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/360/playlist.m3u8",
+                        "quality": "ZeroBuild Source: BD Duration: 23:12 Audio: English Hardsub: English - 360p",
+                        "videoUrl": "https://seiryuu.vid-cdn.xyz/4360614c-e22f-44db-ae8c-7f2705541fef/video/360/playlist.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizone.to",
+                            "Referer": "https://anizone.to/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

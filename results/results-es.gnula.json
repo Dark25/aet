@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/hombre-lobo",
+                                "title": "Hombre lobo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/xf4XvR20dKHP9KfnrFG3epQ5djz.jpg"
+                            },
+                            {
                                 "url": "/movies/la-habitacion-de-al-lado",
                                 "title": "La habitación de al lado",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/aFeEXvKtKZ9wY3EMsR7yp9Izfej.jpg"
@@ -44,7 +49,7 @@
                             {
                                 "url": "/movies/protocol-7",
                                 "title": "Protocol-7",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/img74ojiZaAChozjYeYyS7Lv35f.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2JxhRdPU54A3QHIortu3alX6nWo.jpg"
                             },
                             {
                                 "url": "/movies/once-upon-a-honeymoon",
@@ -60,11 +65,6 @@
                                 "url": "/movies/going-viral",
                                 "title": "Going Viral",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/qzvm41w8kauaIhtD8tEGnlDgtnk.jpg"
-                            },
-                            {
-                                "url": "/movies/hombre-lobo",
-                                "title": "Hombre lobo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/xf4XvR20dKHP9KfnrFG3epQ5djz.jpg"
                             },
                             {
                                 "url": "/movies/les-femmes-au-balcon",
@@ -362,14 +362,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/sHMeoaJaPbGIBYxvcydTvzBNgKU.jpg"
                             },
                             {
-                                "url": "/series/guerra-de-los-mundos",
-                                "title": "Guerra de los Mundos",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bxJ53tsvVtlNmtESf5n62NhzpG.jpg"
-                            },
-                            {
                                 "url": "/movies/007-el-mundo-no-basta",
                                 "title": "007: El mundo no basta",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/zOfcghObIuDXmiPyGzaRDXWrxWu.jpg"
+                            },
+                            {
+                                "url": "/series/guerra-de-los-mundos",
+                                "title": "Guerra de los Mundos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bxJ53tsvVtlNmtESf5n62NhzpG.jpg"
                             },
                             {
                                 "url": "/movies/el-portal-del-mas-alla",
@@ -387,14 +387,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/AloFW4KnDYNlH9WOFmJUZusSORh.jpg"
                             },
                             {
-                                "url": "/movies/billie-eilish-the-worlds-a-little-blurry",
-                                "title": "Billie Eilish: The world's a little blurry",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg"
-                            },
-                            {
                                 "url": "/movies/la-sociedad-de-la-justicia-de-america-segunda-guerra-mundial",
                                 "title": "La Sociedad De La Justicia De América: Segunda Guerra Mundial",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
+                            },
+                            {
+                                "url": "/movies/billie-eilish-the-worlds-a-little-blurry",
+                                "title": "Billie Eilish: The world's a little blurry",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/la-habitacion-de-al-lado",
-                    "title": "La habitación de al lado",
-                    "artist": "Julianne Moore",
-                    "description": "La exitosa escritora Ingrid retoma su relación con su amiga la periodista Martha con la que perdido contacto durante varios años. Pero mientras las dos se sumergen en su pasado, Martha tiene una petición que pone a prueba su vínculo recién fortalecido.",
-                    "genre": "Drama",
+                    "url": "/movies/hombre-lobo",
+                    "title": "Hombre lobo",
+                    "artist": "Christopher Abbott",
+                    "description": "Mientras su matrimonio se desmorona, Blake convence a su esposa Charlotte de tomarse un descanso de la ciudad y visitar su remoto hogar de la infancia en la zona rural de Oregón. Cuando llegan a la granja en plena noche, son atacados por un animal invisible y se atrincheran dentro de la casa mientras la criatura merodea por el perímetro. Pero a medida que avanza la noche, Blake comienza a comportarse de manera extraña y se transforma en algo irreconocible.",
+                    "genre": "Terror, Suspenso",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/aFeEXvKtKZ9wY3EMsR7yp9Izfej.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/xf4XvR20dKHP9KfnrFG3epQ5djz.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/la-habitacion-de-al-lado",
+                        "url": "/movies/hombre-lobo",
                         "name": "Película",
                         "episode_number": 1.0
                     }

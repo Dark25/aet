@@ -12,6 +12,11 @@
                                 "thumbnail_url": "https://egydead.world/wp-content/uploads/2024/12/انمي-Solo-Leveling-الموسم-الثاني-225x280.jpg"
                             },
                             {
+                                "url": "/مشاهدة-فيلم-alarum-2025-مترجم/",
+                                "title": "مشاهدة فيلم Alarum 2025 مترجم",
+                                "thumbnail_url": "https://egydead.world/wp-content/uploads/2025/01/فيلم-Alarum-2025-مترجم-203x280.jpg"
+                            },
+                            {
                                 "url": "/مشاهدة-فيلم-back-in-action-2025-مترجم/",
                                 "title": "مشاهدة فيلم Back in Action 2025 مترجم",
                                 "thumbnail_url": "https://egydead.world/wp-content/uploads/2025/01/فيلم-Back-in-Action-2025-مترجم-203x280.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/episode/مسلسل-the-penguin-الحلقة-8/",
                                 "title": "مسلسل The Penguin الحلقة 8 مترجمة",
                                 "thumbnail_url": "https://egydead.world/wp-content/uploads/2024/09/مسلسل-The-Penguin-2023-مترجم-225x280.jpg"
-                            },
-                            {
-                                "url": "/مشاهدة-فيلم-apocalypse-z-the-beginning-of-the-end-2024-مترجم/",
-                                "title": "مشاهدة فيلم Apocalypse Z 2024 مترجم",
-                                "thumbnail_url": "https://egydead.world/wp-content/uploads/2024/10/فيلم-Apocalypse-Z-The-Beginning-of-the-End-2024-مترجم-210x280.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -163,19 +163,19 @@
                 "passed": true
             },
             "latest": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17213452050545190950/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17213452050545190950/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17213452050545190950/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Object doesn't exist: frame@d352542072cffb2affe2d6a4fa56e2de",
                 "passed": false
             },
             "search": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17213452050545190950/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17213452050545190950/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17213452050545190950/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-448146807768327013/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-448146807768327013/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-448146807768327013/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17213452050545190950/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17213452050545190950/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17213452050545190950/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-448146807768327013/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-448146807768327013/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-448146807768327013/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17213452050545190950/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17213452050545190950/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17213452050545190950/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-448146807768327013/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-448146807768327013/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-448146807768327013/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

@@ -142,6 +142,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/okitsura-sub-indo/",
+                                "title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146843.jpg"
+                            },
+                            {
+                                "url": "/anime/neet-kuoichi-sub-indo/",
+                                "title": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146392.jpg"
+                            },
+                            {
                                 "url": "/anime/a-rank-party-sub-indo/",
                                 "title": "A-Rank Party wo Ridatsu shita Ore wa",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146267.jpg"
@@ -255,16 +265,6 @@
                                 "url": "/anime/around-40-otoko-isekai-tsuuhan-sub-indo/",
                                 "title": "Around 40 Otoko no Isekai Tsuuhan",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146512.jpg"
-                            },
-                            {
-                                "url": "/anime/ds-future-sub-indo/",
-                                "title": "Dr. Stone: Science Future",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146479.jpg"
-                            },
-                            {
-                                "url": "/anime/izure-saikysushi-sub-indo/",
-                                "title": "Izure Saikyou no Renkinjutsushi?",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146222.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4113325686444419248/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4113325686444419248/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4113325686444419248/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-1295542564407717797/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-1295542564407717797/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-1295542564407717797/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4113325686444419248/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4113325686444419248/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4113325686444419248/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-1295542564407717797/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-1295542564407717797/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-1295542564407717797/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/드래곤볼 DAIMA",
+                                "title": "드래곤볼 DAIMA",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728071683_0959.jpg"
+                            },
+                            {
+                                "url": "/c/사카모토 데이즈",
+                                "title": "사카모토 데이즈",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/cf73e6806cc6e93050f6d76f0740f3bb_1736615634_8269.jpg"
+                            },
+                            {
                                 "url": "/c/마법사 프리큐어!! ~MIRAI DAYS~",
                                 "title": "마법사 프리큐어!! ~MIRAI DAYS~",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/9463a5a2229c7a0e4ab314dc4dc8f29c_1736670965_25.jpg"
@@ -312,11 +322,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/aae2f44fc2e9ee2fce1e3d9775d8062d_1736116987_8132.jpg"
                             },
                             {
-                                "url": "/c/사카모토 데이즈",
-                                "title": "사카모토 데이즈",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2501/cf73e6806cc6e93050f6d76f0740f3bb_1736615634_8269.jpg"
-                            },
-                            {
                                 "url": "/c/파마기아",
                                 "title": "파마기아",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/cf73e6806cc6e93050f6d76f0740f3bb_1736607627_8586.jpg"
@@ -330,11 +335,6 @@
                                 "url": "/c/일본에 어서오세요 엘프 씨",
                                 "title": "일본에 어서오세요 엘프 씨",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/0af2b5930f6ccacb2ff9841d3f89ac28_1736586078_4238.jpg"
-                            },
-                            {
-                                "url": "/c/드래곤볼 DAIMA",
-                                "title": "드래곤볼 DAIMA",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728071683_0959.jpg"
                             },
                             {
                                 "url": "/c/트릴리온 게임",
@@ -464,10 +464,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/마법사 프리큐어!! ~MIRAI DAYS~",
-                    "title": "마법사 프리큐어!! ~MIRAI DAYS~",
-                    "description": "원제: 魔法つかいプリキュア!! ~MIRAI DAYS~\n원작: 토도 이즈미\n감독: 하마나 타카유키\n각본: 무라야마 이사오\n캐릭터 디자인: 소데야마 아사미\n음악: 타카키 히로시\n장르: 마법, 마법사, 전투, 변신, 백합\n방영일: 2025.01.12 02:00 (일)\n등급: 12\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/9463a5a2229c7a0e4ab314dc4dc8f29c_1736670965_25.jpg",
+                    "url": "/c/드래곤볼 DAIMA",
+                    "title": "드래곤볼 DAIMA",
+                    "description": "원제: ドラゴンボール DAIMA\n원작: 토리야마 아키라\n감독: 코마키 아야, 야시마 요시타카\n각본: 카키하라 유코\n캐릭터 디자인: 나카츠루 카츠요시\n음악: Zedd\n장르: 액션, 코미디, 능력, 전투, 전쟁, 외계인, 마법, 동물, 미스테리\n방영일: 2024.10.11 23:40 (금)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2410/9493e434b1e5511d1ad9f8fc692e265b_1728071683_0959.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -475,22 +475,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/마법사 프리큐어!! ~MIRAI DAYS~ 2화",
-                        "name": "마법사 프리큐어!! ~MIRAI DAYS~ 2화",
+                        "url": "/e/드래곤볼 DAIMA 14화",
+                        "name": "드래곤볼 DAIMA 14화",
                         "date_upload": 1737244800000,
-                        "episode_number": 2.0
+                        "episode_number": 14.0
                     },
                     {
-                        "url": "/e/마법사 프리큐어!! ~MIRAI DAYS~ 1화",
-                        "name": "마법사 프리큐어!! ~MIRAI DAYS~ 1화",
-                        "date_upload": 1736640000000,
-                        "episode_number": 1.0
+                        "url": "/e/드래곤볼 DAIMA 13화",
+                        "name": "드래곤볼 DAIMA 13화",
+                        "date_upload": 1736553600000,
+                        "episode_number": 13.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4908058587676934490/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4908058587676934490/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4908058587676934490/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-11849681472824554726/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-11849681472824554726/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-11849681472824554726/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

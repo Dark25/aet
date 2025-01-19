@@ -292,39 +292,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ok6-7.vkuser.net/?expires=1737353186491&srcIp=20.169.14.7&pr=10&srcAg=GECKO&ms=95.142.206.134&type=5&sig=IyCqiPFS6zg&ct=0&urls=185.226.55.22%3B185.226.52.20&clientType=0&zs=43&id=7760751168184",
-                        "quality": "Okru:1080p",
-                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1737353186491&srcIp=20.169.14.7&pr=10&srcAg=GECKO&ms=95.142.206.134&type=5&sig=IyCqiPFS6zg&ct=0&urls=185.226.55.22%3B185.226.52.20&clientType=0&zs=43&id=7760751168184"
-                    },
-                    {
-                        "url": "https://ok6-7.vkuser.net/?expires=1737353186491&srcIp=20.169.14.7&pr=10&srcAg=GECKO&ms=95.142.206.134&type=3&sig=njPezpSJU-E&ct=0&urls=185.226.55.22%3B185.226.52.20&clientType=0&zs=43&id=7760751168184",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1737353186491&srcIp=20.169.14.7&pr=10&srcAg=GECKO&ms=95.142.206.134&type=3&sig=njPezpSJU-E&ct=0&urls=185.226.55.22%3B185.226.52.20&clientType=0&zs=43&id=7760751168184"
-                    },
-                    {
-                        "url": "https://ok6-7.vkuser.net/?expires=1737353186491&srcIp=20.169.14.7&pr=10&srcAg=GECKO&ms=95.142.206.134&type=2&sig=cwaSmA7CVcc&ct=0&urls=185.226.55.22%3B185.226.52.20&clientType=0&zs=43&id=7760751168184",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1737353186491&srcIp=20.169.14.7&pr=10&srcAg=GECKO&ms=95.142.206.134&type=2&sig=cwaSmA7CVcc&ct=0&urls=185.226.55.22%3B185.226.52.20&clientType=0&zs=43&id=7760751168184"
-                    },
-                    {
-                        "url": "https://ok6-7.vkuser.net/?expires=1737353186491&srcIp=20.169.14.7&pr=10&srcAg=GECKO&ms=95.142.206.134&type=1&sig=D9h1IUVgHpo&ct=0&urls=185.226.55.22%3B185.226.52.20&clientType=0&zs=43&id=7760751168184",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1737353186491&srcIp=20.169.14.7&pr=10&srcAg=GECKO&ms=95.142.206.134&type=1&sig=D9h1IUVgHpo&ct=0&urls=185.226.55.22%3B185.226.52.20&clientType=0&zs=43&id=7760751168184"
-                    },
-                    {
-                        "url": "https://ok6-7.vkuser.net/?expires=1737353186491&srcIp=20.169.14.7&pr=10&srcAg=GECKO&ms=95.142.206.134&type=0&sig=_PH33is5rEY&ct=0&urls=185.226.55.22%3B185.226.52.20&clientType=0&zs=43&id=7760751168184",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1737353186491&srcIp=20.169.14.7&pr=10&srcAg=GECKO&ms=95.142.206.134&type=0&sig=_PH33is5rEY&ct=0&urls=185.226.55.22%3B185.226.52.20&clientType=0&zs=43&id=7760751168184"
-                    },
-                    {
-                        "url": "https://ok6-7.vkuser.net/?expires=1737353186491&srcIp=20.169.14.7&pr=10&srcAg=GECKO&ms=95.142.206.134&type=4&sig=lT7Q30T_8vE&ct=0&urls=185.226.55.22%3B185.226.52.20&clientType=0&zs=43&id=7760751168184",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1737353186491&srcIp=20.169.14.7&pr=10&srcAg=GECKO&ms=95.142.206.134&type=4&sig=lT7Q30T_8vE&ct=0&urls=185.226.55.22%3B185.226.52.20&clientType=0&zs=43&id=7760751168184"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

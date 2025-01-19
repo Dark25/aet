@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/the-magicians-raincoat",
+                                "title": "The Magician's Raincoat",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2sepxjUsrL265MGxu43CPbMZgxe.jpg"
+                            },
+                            {
+                                "url": "/movies/niko-la-aventura-de-las-narices-frias",
+                                "title": "Niko: La Aventura De Las Narices Frías",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/edIFOCPgAS8zBAlr3B5EvHpVM5l.jpg"
+                            },
+                            {
+                                "url": "/movies/the-painted",
+                                "title": "The Painted",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ws6ioyinc3CitoUi0RvbFkA4bJg.jpg"
+                            },
+                            {
                                 "url": "/movies/the-man-in-the-white-van",
                                 "title": "The Man in the White Van",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/vqw8nu9RfRjcc5Y9t7NFqqsBnAP.jpg"
@@ -115,21 +130,6 @@
                                 "url": "/movies/moon-ghost-returns",
                                 "title": "Moon Ghost Returns",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/6oBGCWwUW7FM555zrXvdYbtyFtN.jpg"
-                            },
-                            {
-                                "url": "/movies/listen-carefully",
-                                "title": "Listen Carefully",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/vivecYXQNAncYnogG61ahEjUhlM.jpg"
-                            },
-                            {
-                                "url": "/movies/the-intruder-1244643",
-                                "title": "The Intruder",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/kBQK0M7jWnVB7mHbYmZvvE6W3tB.jpg"
-                            },
-                            {
-                                "url": "/movies/rumours",
-                                "title": "Rumours",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/lAjLzQDyUXxCH4tOBxkRYDbBpY.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -212,6 +212,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/hQmDLJoygswaH0nQelyXC5HgM9Z.jpg"
                             },
                             {
+                                "url": "/movies/the-painted",
+                                "title": "The Painted",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ws6ioyinc3CitoUi0RvbFkA4bJg.jpg"
+                            },
+                            {
                                 "url": "/movies/sonic-3-la-pelicula",
                                 "title": "Sonic 3: La Película",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg"
@@ -260,11 +265,6 @@
                                 "url": "/movies/operation-blood-hunt",
                                 "title": "Operation Blood Hunt",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/wYf4Eq3c4iOa856tEwh3GHruHZW.jpg"
-                            },
-                            {
-                                "url": "/movies/maria",
-                                "title": "María",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/oIkS6IRBmj1g2EUUgJOMRwk5hRh.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -347,14 +347,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
                             },
                             {
-                                "url": "/movies/dune-world",
-                                "title": "Dune World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ztRN5ng5g2FSGjt1WexuFuRESgM.jpg"
-                            },
-                            {
                                 "url": "/movies/adios-mundo",
                                 "title": "Adios Mundo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/73Ek4bvUOUD0eHakQ8MTVxRbsJZ.jpg"
+                            },
+                            {
+                                "url": "/movies/dune-world",
+                                "title": "Dune World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ztRN5ng5g2FSGjt1WexuFuRESgM.jpg"
                             },
                             {
                                 "url": "/series/jurassic-world-campamento-cretacico",
@@ -362,14 +362,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/sHMeoaJaPbGIBYxvcydTvzBNgKU.jpg"
                             },
                             {
-                                "url": "/series/guerra-de-los-mundos",
-                                "title": "Guerra de los Mundos",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bxJ53tsvVtlNmtESf5n62NhzpG.jpg"
-                            },
-                            {
                                 "url": "/movies/007-el-mundo-no-basta",
                                 "title": "007: El mundo no basta",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/zOfcghObIuDXmiPyGzaRDXWrxWu.jpg"
+                            },
+                            {
+                                "url": "/series/guerra-de-los-mundos",
+                                "title": "Guerra de los Mundos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bxJ53tsvVtlNmtESf5n62NhzpG.jpg"
                             },
                             {
                                 "url": "/movies/el-portal-del-mas-alla",
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/the-man-in-the-white-van",
-                    "title": "The Man in the White Van",
-                    "artist": "Sean Astin",
-                    "description": "En la Florida de 1974, una siniestra furgoneta blanca comienza a acechar a una joven y conduce a una terrorífica pesadilla de Halloween.",
-                    "genre": "Terror, Suspenso",
+                    "url": "/movies/the-magicians-raincoat",
+                    "title": "The Magician's Raincoat",
+                    "artist": "Bryson Robinson",
+                    "description": "Three kids discover a magical raincoat that transports them into the body of its owner, a cursed magician. With a scorned witch hot on their trail, they must solve the mystery of the raincoat and break its curse before it's too late.",
+                    "genre": "Familia, Fantasía, Aventura, Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/vqw8nu9RfRjcc5Y9t7NFqqsBnAP.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/2sepxjUsrL265MGxu43CPbMZgxe.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/the-man-in-the-white-van",
+                        "url": "/movies/the-magicians-raincoat",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -427,8 +427,28 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-7pgolgo0pqd9eohb.voe-network.net/engine/hls2-c/01/13350/fwmemxwo6hsv_,n,.urlset/index-v1-a1.m3u8?t=YPO48ey1gxDXmGAoyNJ2cp_eY0bVZUCMss4ytrq6cGM&s=1737310011&e=14400&f=66883979&node=pWqV+ZPoqtprtyEAwyk0jtcBRJ1E7KKdFvCtlEKJqAw=&i=20.161&sp=2500&asn=8075&q=n",
+                        "quality": "[LAT]Voe:720p",
+                        "videoUrl": "https://delivery-node-7pgolgo0pqd9eohb.voe-network.net/engine/hls2-c/01/13350/fwmemxwo6hsv_,n,.urlset/index-v1-a1.m3u8?t=YPO48ey1gxDXmGAoyNJ2cp_eY0bVZUCMss4ytrq6cGM&s=1737310011&e=14400&f=66883979&node=pWqV+ZPoqtprtyEAwyk0jtcBRJ1E7KKdFvCtlEKJqAw=&i=20.161&sp=2500&asn=8075&q=n",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://yivvbteqw549.cdn-centaurus.com/hls2/01/08030/denjh6vn8pgc_h/index-v1-a1.m3u8?t=L_LxqTT25TPsGNdBskWkgfP8aGMHdU0WfzDPeVebhDg&s=1737310010&e=129600&f=40482317&srv=bd1pzzjq&i=0.4&sp=500&p1=bd1pzzjq&p2=bd1pzzjq&asn=8075",
+                        "quality": "[LAT] StreamWish:1080p",
+                        "videoUrl": "https://yivvbteqw549.cdn-centaurus.com/hls2/01/08030/denjh6vn8pgc_h/index-v1-a1.m3u8?t=L_LxqTT25TPsGNdBskWkgfP8aGMHdU0WfzDPeVebhDg&s=1737310010&e=129600&f=40482317&srv=bd1pzzjq&i=0.4&sp=500&p1=bd1pzzjq&p2=bd1pzzjq&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/g3lvgojdnmz4"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

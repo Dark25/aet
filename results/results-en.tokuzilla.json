@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/bakuage-sentai-boonboomger.html",
+                                "title": "Bakuage Sentai Boonboomger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-gavv.html",
+                                "title": "Kamen Rider Gavv",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gavv-thumb.png"
+                            },
+                            {
                                 "url": "/watch/tetsujin-28-go.html",
                                 "title": "Tetsujin 28-go",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/2025/01/tetsujin-28-go-1963-thumb.png"
@@ -55,16 +65,6 @@
                                 "url": "/watch/the-king-of-braves-gaogaigar-final-grand-glorious-gathering.html",
                                 "title": "The King of Braves GaoGaiGar FINAL Grand Glorious Gathering",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/2025/01/the-king-of-braves-gaogaigar-final-grand-glorious-gathering-thumb.png"
-                            },
-                            {
-                                "url": "/watch/the-king-of-braves-gaogaigar-final.html",
-                                "title": "The King of Braves GaoGaiGar FINAL",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/2025/01/the-king-of-braves-gaogaigar-final-thumb.png"
-                            },
-                            {
-                                "url": "/watch/the-king-of-braves-gaogaigar.html",
-                                "title": "The King of Braves GaoGaiGar",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/2025/01/the-king-of-braves-gaogaigar-thumb.png"
                             }
                         ],
                         "hasNextPage": true
@@ -144,14 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/tetsujin-28-go.html",
-                    "title": "Tetsujin 28-go",
-                    "author": "Year 1963",
-                    "description": "Tetsujin 28-go is an anime television series based on the manga series by Mitsuteru Yokoyama. It aired in Japan between October 20, 1963 and May 25, 1966, consisting of 97 episodes.",
-                    "genre": "Series, Tokusatsu Anime",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/2025/01/tetsujin-28-go-1963-thumb.png",
+                    "url": "/watch/bakuage-sentai-boonboomger.html",
+                    "title": "Bakuage Sentai Boonboomger",
+                    "author": "Year 2024",
+                    "description": "Bakuage Sentai Boonboomger is an upcoming Japanese Tokusatsu-drama and the 48th installment in Toei Company’s Super Sentai Series.",
+                    "genre": "Series, Super Sentai",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -159,15 +159,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/tetsujin-28-go.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=45#watch",
+                        "name": "Episode 45",
+                        "episode_number": 45.0
+                    },
+                    {
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=44#watch",
+                        "name": "Episode 44",
+                        "episode_number": 44.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had 'H' instead at path: $\nJSON input: HjmjPttJRVNrr80YBIB30fAK3dvR/E.....",
                 "passed": false
             }
         }

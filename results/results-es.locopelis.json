@@ -137,6 +137,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/20786/el-despertar-de-los-poderes.html",
+                                "title": "El Despertar de los P",
+                                "description": "Kaka es el hijo de un héroe. Su cuerpo es invadido por una fuerza maligna que se hace más fuerte a medida que él envejece. Con el tiempo, esta fuerza tendrá suficiente poder oscuro para destruir el mundo entero...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20786.webp"
+                            },
+                            {
+                                "url": "/pelicula/20785/dark-glasses.html",
+                                "title": "Dark Glasses",
+                                "description": "Diana, una joven que perdió la vista, encuentra a un guía en un joven niño chino llamado Chin. Juntos intentarán acabar con un peligroso asesino en serie a través de las zonas más oscuras de Italia....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20785.webp"
+                            },
+                            {
+                                "url": "/pelicula/20784/un-nuevo-sueno-de-una-noche-de-verano.html",
+                                "title": "Un nuevo sueño de un",
+                                "description": "La comedia clásica de Shakespeare: Jóvenes amantes que viven bajo un gobierno estatal opresivo huyen de su ciudad natal para cambiar sus vidas y terminan cambiando el mundo....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20784.webp"
+                            },
+                            {
+                                "url": "/pelicula/20783/hereje.html",
+                                "title": "Hereje",
+                                "description": "Dos jóvenes misioneras se ven obligadas a demostrar su fe cuando llaman a la puerta equivocada y son recibidas por el Sr. Reed. Los tres se verán envueltos en un brutal juego del gato y el ratón durante una larga noche de tormenta. ...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20783.webp"
+                            },
+                            {
                                 "url": "/pelicula/20782/combate-decisivo.html",
                                 "title": "Combate decisivo",
                                 "description": "Barney Ross, el orgullo del gueto, alcanza la fama al alzarse como campeón mundial de boxeo sin haber sido vencido en el ring. Durante la guerra, en Guadalcanal, se convierte en un héroe, y así regresa a su país; sin embargo, también trae consigo una fuerte adicción a la morfina que le obligar...",
@@ -231,30 +255,6 @@
                                 "title": "La bruja: La cacería",
                                 "description": "En algún lugar, una niña se despierta en un enorme laboratorio secreto. ¿Quién es esta chica misteriosa y por qué la persiguen?...",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/20766.webp"
-                            },
-                            {
-                                "url": "/pelicula/20765/el-titiritero.html",
-                                "title": "El titiritero",
-                                "description": "El Puppetman, un asesino convicto en el corredor de la muerte, siempre sostuvo su inocencia y que era una fuerza maligna la que controlaba su cuerpo mientras masacraba a sus víctimas. Ahora Michal, la hija del asesino, empieza a sospechar que puede haber algo de verdad en la afirmación de su padre...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20765.webp"
-                            },
-                            {
-                                "url": "/pelicula/20764/devara-parte-1.html",
-                                "title": "Devara: Parte 1",
-                                "description": "Un intrépido hombre llamado Devara se aventura en el traicionero mundo del mar para proteger la vida de su pueblo. Ignorante de la conspiración de su hermano Bhaira, acaba transmitiendo su legado a su apacible hijo Varada....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20764.webp"
-                            },
-                            {
-                                "url": "/pelicula/20763/un-silencio.html",
-                                "title": "Un silencio",
-                                "description": "Astrid, esposa de un reputado abogado, lleva 25 años silenciada. El equilibrio de su familia se derrumba de repente cuando sus hijos empiezan a buscar justicia....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20763.webp"
-                            },
-                            {
-                                "url": "/pelicula/20762/depravity.html",
-                                "title": "Depravity",
-                                "description": "Cuando tres vecinos sospechan que su solitario vecino es un asesino en serie, irrumpen en su apartamento para descubrir una fortuna oculta en obras de arte robadas. Pero su descubrimiento se convierte en una pesadilla al verse atrapados en un sádico juego de supervivencia, donde cada esquina escond...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/20762.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,8 +416,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjy4za7f6fh4hjya/qcezmadenk~9KWIENeWyH?token=faa3a98f24ktc5woxwz3px7v&expiry=1737266773659",
+                        "quality": "DoodStreamDoodstream  mirror",
+                        "videoUrl": "https://uda656pwn.cloudatacdn.com/u5kj3hsbmhglsdgge6ohynyhd3xcgn2sd7ajb657ltbdzjy4za7f6fh4hjya/qcezmadenk~9KWIENeWyH?token=faa3a98f24ktc5woxwz3px7v&expiry=1737266773659",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://https://dood.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

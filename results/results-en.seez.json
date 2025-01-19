@@ -3,11 +3,11 @@
         "name": "Seez (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 0",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 0",
                 "passed": false
             },
             "details": {

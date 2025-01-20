@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/전수",
+                                "title": "전수",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/aae2f44fc2e9ee2fce1e3d9775d8062d_1736116987_8132.jpg"
+                            },
+                            {
                                 "url": "/c/근육맨: 완벽초인시조 편 2기",
                                 "title": "근육맨: 완벽초인시조 편 2기",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/b22a93d7e9f82019630f16df6dade63a_1736727516_0912.jpg"
@@ -322,11 +327,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/b997cea165962c7eb15e99daba4420dc_1736025231_0017.jpg"
                             },
                             {
-                                "url": "/c/전수",
-                                "title": "전수",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2501/aae2f44fc2e9ee2fce1e3d9775d8062d_1736116987_8132.jpg"
-                            },
-                            {
                                 "url": "/c/파마기아",
                                 "title": "파마기아",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/cf73e6806cc6e93050f6d76f0740f3bb_1736607627_8586.jpg"
@@ -469,10 +469,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/근육맨: 완벽초인시조 편 2기",
-                    "title": "근육맨: 완벽초인시조 편 2기",
-                    "description": "원제: キン肉マン 完璧超人始祖編 2期\n원작: 유데타마고\n감독: 사토 아키라\n각본: 후카미 마코토\n캐릭터 디자인: 마루후지 히로타카\n음악: 타카나시 야스하루\n장르: 스포츠, 배틀, 개그\n방영일: 2025.01.12 23:30 (일)\n등급: 15\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/b22a93d7e9f82019630f16df6dade63a_1736727516_0912.jpg",
+                    "url": "/c/전수",
+                    "title": "전수",
+                    "description": "원제: 全修。\n원작: 우에노 키미코, Mappa\n감독: 야마사키 미츠에\n각본: 우에노 키미코\n캐릭터 디자인: 이시카와 카요코\n음악: 하시모토 유카리\n장르: 드라마, 이세계, 판타지\n방영일: 2025.01.05 23:45 (일)\n등급: 12\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/aae2f44fc2e9ee2fce1e3d9775d8062d_1736116987_8132.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -480,22 +480,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/근육맨: 완벽초인시조 편 2기 2화",
-                        "name": "근육맨: 완벽초인시조 편 2기 2화",
+                        "url": "/e/전수 3화",
+                        "name": "전수 3화",
                         "date_upload": 1737331200000,
-                        "episode_number": 2.0
+                        "episode_number": 3.0
                     },
                     {
-                        "url": "/e/근육맨: 완벽초인시조 편 2기 1화",
-                        "name": "근육맨: 완벽초인시조 편 2기 1화",
+                        "url": "/e/전수 2화",
+                        "name": "전수 2화",
                         "date_upload": 1736726400000,
-                        "episode_number": 1.0
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-12887227779855211595/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-12887227779855211595/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-12887227779855211595/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6897381415882715969/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6897381415882715969/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6897381415882715969/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

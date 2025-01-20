@@ -362,24 +362,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.co/playlist/265056?type=video&rendition=1080p&token=o82ihaOw3ZSK5jr2dmwXng&expires=1742559104&edge=au-u1-01",
-                        "quality": "1080p",
-                        "videoUrl": "https://vixcloud.co/playlist/265056?type=video&rendition=1080p&token=o82ihaOw3ZSK5jr2dmwXng&expires=1742559104&edge=au-u1-01"
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/265056?type=video&rendition=720p&token=cS7CrhS17rw_71Z82F0L4Q&expires=1742559104&edge=au-u1-01",
-                        "quality": "720p",
-                        "videoUrl": "https://vixcloud.co/playlist/265056?type=video&rendition=720p&token=cS7CrhS17rw_71Z82F0L4Q&expires=1742559104&edge=au-u1-01"
-                    },
-                    {
-                        "url": "https://vixcloud.co/playlist/265056?type=video&rendition=480p&token=-klBDc-DbXjA2JpAk03Cgg&expires=1742559104&edge=au-u1-01",
-                        "quality": "480p",
-                        "videoUrl": "https://vixcloud.co/playlist/265056?type=video&rendition=480p&token=-klBDc-DbXjA2JpAk03Cgg&expires=1742559104&edge=au-u1-01"
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-9085353945259598746/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-9085353945259598746/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-9085353945259598746/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/your-sky-sub-espanol/",
+                                "title": "Your Sky (10/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/oSCONy2yv6MbUBrtU1BZv7SkKX.jpg"
+                            },
+                            {
                                 "url": "/ikinari-kon-sub-espanol/",
                                 "title": "Ikinari Kon",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/wBCvtcsTJHXKdw8NHYlA5s3lVN.jpg"
@@ -105,11 +110,6 @@
                                 "url": "/the-boy-next-world/",
                                 "title": "The Boy Next World (2/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/2AmcQQ4GVhBeqx0clJVZ7LHf1hW.jpg"
-                            },
-                            {
-                                "url": "/your-sky-sub-espanol/",
-                                "title": "Your Sky (9/12)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/oSCONy2yv6MbUBrtU1BZv7SkKX.jpg"
                             },
                             {
                                 "url": "/subarashiki-kana-sensei-sub-espanol/",
@@ -264,14 +264,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/ikinari-kon-sub-espanol/",
-                    "title": "Ikinari Kon",
-                    "artist": "Kyoko Saito",
-                    "description": "Koshiba Mao, una oficinista de aspecto sencillo, descubre que su novio, con el que mantenía un romance de oficina, la engaña. A la mañana siguiente, desesperada y alcoholizada, se despierta en la cama de un apuesto desconocido. El apuesto hombre, Ando Hajime, se presenta como su nuevo jefe en el trabajo y le cuenta una impactante verdad... \"Ya no serás Koshiba Mao, sino Ando Mao\". Para su sorpresa, Mao se había casado en plena borrachera. La vida de Mao, que se suponía ordinaria, se ve perturbada por Hajime, que de alguna manera se encapricha de Mao, a la que acaba de conocer. A su alrededor están Mika, una mujer condescendiente que va detrás de Hajime, y Kota, un hombre moralmente acosador que engañó a Mao con Mika. Esta es una profunda historia de amor para adultos que revela una tras otra la razón por la que Hajime ama a Mao y las verdades ocultas de los personajes.",
-                    "genre": "Romance",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wBCvtcsTJHXKdw8NHYlA5s3lVN.jpg",
+                    "url": "/your-sky-sub-espanol/",
+                    "title": "Your Sky (10/12)",
+                    "artist": "Kongpob Jirojmontri",
+                    "description": "Debido a una situación imprevista, un ingenuo estudiante de primer año y el popular estudiante de último año del campus acuerdan fingir ser una pareja, pero su falso trato comienza a afectar sus verdaderos sentimientos.",
+                    "genre": "Comedia, Romance, Yaoi / BL",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/oSCONy2yv6MbUBrtU1BZv7SkKX.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -279,21 +279,118 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/paste/1636810/",
-                        "name": "Episodio 2",
-                        "episode_number": 2.0
+                        "url": "/paste/3636815/",
+                        "name": "Episodio 10",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "/paste/0436677/",
-                        "name": "Episodio 1",
-                        "episode_number": 1.0
+                        "url": "/paste/1736683/",
+                        "name": "Episodio 9",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vkvd160.okcdn.ru/?expires=1737612426101&srcIp=20.42.49.178&pr=40&srcAg=GECKO&ms=45.136.21.135&type=5&sig=tHGYAdK4bsA&ct=0&urls=185.226.55.175&clientType=13&appId=512000384397&zs=43&id=7854003391128",
+                        "quality": "Vk:1080p",
+                        "videoUrl": "https://vkvd160.okcdn.ru/?expires=1737612426101&srcIp=20.42.49.178&pr=40&srcAg=GECKO&ms=45.136.21.135&type=5&sig=tHGYAdK4bsA&ct=0&urls=185.226.55.175&clientType=13&appId=512000384397&zs=43&id=7854003391128",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vkvd160.okcdn.ru/?expires=1737612426101&srcIp=20.42.49.178&pr=40&srcAg=GECKO&ms=45.136.21.135&type=3&sig=srGL88H6vpQ&ct=0&urls=185.226.55.175&clientType=13&appId=512000384397&zs=43&id=7854003391128",
+                        "quality": "Vk:720p",
+                        "videoUrl": "https://vkvd160.okcdn.ru/?expires=1737612426101&srcIp=20.42.49.178&pr=40&srcAg=GECKO&ms=45.136.21.135&type=3&sig=srGL88H6vpQ&ct=0&urls=185.226.55.175&clientType=13&appId=512000384397&zs=43&id=7854003391128",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vkvd160.okcdn.ru/?expires=1737612426101&srcIp=20.42.49.178&pr=40&srcAg=GECKO&ms=45.136.21.135&type=2&sig=Sp9eqDwR_oE&ct=0&urls=185.226.55.175&clientType=13&appId=512000384397&zs=43&id=7854003391128",
+                        "quality": "Vk:480p",
+                        "videoUrl": "https://vkvd160.okcdn.ru/?expires=1737612426101&srcIp=20.42.49.178&pr=40&srcAg=GECKO&ms=45.136.21.135&type=2&sig=Sp9eqDwR_oE&ct=0&urls=185.226.55.175&clientType=13&appId=512000384397&zs=43&id=7854003391128",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vkvd160.okcdn.ru/?expires=1737612426101&srcIp=20.42.49.178&pr=40&srcAg=GECKO&ms=45.136.21.135&type=1&sig=mvM-JJ6zu_k&ct=0&urls=185.226.55.175&clientType=13&appId=512000384397&zs=43&id=7854003391128",
+                        "quality": "Vk:360p",
+                        "videoUrl": "https://vkvd160.okcdn.ru/?expires=1737612426101&srcIp=20.42.49.178&pr=40&srcAg=GECKO&ms=45.136.21.135&type=1&sig=mvM-JJ6zu_k&ct=0&urls=185.226.55.175&clientType=13&appId=512000384397&zs=43&id=7854003391128",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vkvd160.okcdn.ru/?expires=1737612426101&srcIp=20.42.49.178&pr=40&srcAg=GECKO&ms=45.136.21.135&type=0&sig=cds1zcb9voM&ct=0&urls=185.226.55.175&clientType=13&appId=512000384397&zs=43&id=7854003391128",
+                        "quality": "Vk:240p",
+                        "videoUrl": "https://vkvd160.okcdn.ru/?expires=1737612426101&srcIp=20.42.49.178&pr=40&srcAg=GECKO&ms=45.136.21.135&type=0&sig=cds1zcb9voM&ct=0&urls=185.226.55.175&clientType=13&appId=512000384397&zs=43&id=7854003391128",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vkvd160.okcdn.ru/?expires=1737612426101&srcIp=20.42.49.178&pr=40&srcAg=GECKO&ms=45.136.21.135&type=4&sig=6BbIgJsWRLk&ct=0&urls=185.226.55.175&clientType=13&appId=512000384397&zs=43&id=7854003391128",
+                        "quality": "Vk:144p",
+                        "videoUrl": "https://vkvd160.okcdn.ru/?expires=1737612426101&srcIp=20.42.49.178&pr=40&srcAg=GECKO&ms=45.136.21.135&type=4&sig=6BbIgJsWRLk&ct=0&urls=185.226.55.175&clientType=13&appId=512000384397&zs=43&id=7854003391128",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vd482.okcdn.ru/?expires=1737439626835&srcIp=20.42.49.178&pr=10&srcAg=GECKO&ms=45.136.22.23&type=5&sig=ZiwVeaXul7I&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=7543011084866",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd482.okcdn.ru/?expires=1737439626835&srcIp=20.42.49.178&pr=10&srcAg=GECKO&ms=45.136.22.23&type=5&sig=ZiwVeaXul7I&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=7543011084866"
+                    },
+                    {
+                        "url": "https://vd482.okcdn.ru/?expires=1737439626835&srcIp=20.42.49.178&pr=10&srcAg=GECKO&ms=45.136.22.23&type=3&sig=Q1u4VhS00O8&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=7543011084866",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd482.okcdn.ru/?expires=1737439626835&srcIp=20.42.49.178&pr=10&srcAg=GECKO&ms=45.136.22.23&type=3&sig=Q1u4VhS00O8&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=7543011084866"
+                    },
+                    {
+                        "url": "https://vd482.okcdn.ru/?expires=1737439626835&srcIp=20.42.49.178&pr=10&srcAg=GECKO&ms=45.136.22.23&type=2&sig=u2mDx1Oanbw&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=7543011084866",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd482.okcdn.ru/?expires=1737439626835&srcIp=20.42.49.178&pr=10&srcAg=GECKO&ms=45.136.22.23&type=2&sig=u2mDx1Oanbw&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=7543011084866"
+                    },
+                    {
+                        "url": "https://vd482.okcdn.ru/?expires=1737439626835&srcIp=20.42.49.178&pr=10&srcAg=GECKO&ms=45.136.22.23&type=1&sig=bSOVtiDvZio&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=7543011084866",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd482.okcdn.ru/?expires=1737439626835&srcIp=20.42.49.178&pr=10&srcAg=GECKO&ms=45.136.22.23&type=1&sig=bSOVtiDvZio&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=7543011084866"
+                    },
+                    {
+                        "url": "https://vd482.okcdn.ru/?expires=1737439626835&srcIp=20.42.49.178&pr=10&srcAg=GECKO&ms=45.136.22.23&type=0&sig=GK8Y90Ra7D8&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=7543011084866",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd482.okcdn.ru/?expires=1737439626835&srcIp=20.42.49.178&pr=10&srcAg=GECKO&ms=45.136.22.23&type=0&sig=GK8Y90Ra7D8&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=7543011084866"
+                    },
+                    {
+                        "url": "https://vd482.okcdn.ru/?expires=1737439626835&srcIp=20.42.49.178&pr=10&srcAg=GECKO&ms=45.136.22.23&type=4&sig=wDjgZLaiZto&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=7543011084866",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd482.okcdn.ru/?expires=1737439626835&srcIp=20.42.49.178&pr=10&srcAg=GECKO&ms=45.136.22.23&type=4&sig=wDjgZLaiZto&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=7543011084866"
+                    }
+                ],
+                "passed": true
             }
         }
     }

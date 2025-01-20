@@ -3,27 +3,40 @@
         "name": "توك توك سينما (AR)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "latest": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
-                "passed": false
+                "result": {
+                    "author": "",
+                    "description": "",
+                    "genre": "",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
-                "passed": false
+                "result": [
+                    {
+                        "url": "//watch/",
+                        "name": "مشاهدة"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

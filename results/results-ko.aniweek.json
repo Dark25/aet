@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/이 회사에 좋아하는 사람이 있습니다",
+                                "title": "이 회사에 좋아하는 사람이 있습니다",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736196370_5628.jpg"
+                            },
+                            {
                                 "url": "/c/쿠로이와 메다카에게 내 귀여움이 통하지 않아",
                                 "title": "쿠로이와 메다카에게 내 귀여움이 통하지 않아",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736188569_9274.jpg"
@@ -312,11 +317,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/87ba3252feda20f351da3269474397a8_1736271877_7579.jpg"
                             },
                             {
-                                "url": "/c/이 회사에 좋아하는 사람이 있습니다",
-                                "title": "이 회사에 좋아하는 사람이 있습니다",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736196370_5628.jpg"
-                            },
-                            {
                                 "url": "/c/모멘타리 릴리",
                                 "title": "모멘타리 릴리",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/a0c2b3bad8a86be1b0855305cc846fee_1735923521_3736.jpg"
@@ -469,10 +469,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/쿠로이와 메다카에게 내 귀여움이 통하지 않아",
-                    "title": "쿠로이와 메다카에게 내 귀여움이 통하지 않아",
-                    "description": "원제: 黒岩メダカに私の可愛いが通じない\n원작: 쿠제 란\n감독: 오쿠무라 요시아키\n각본: 후데야스 카즈유키\n캐릭터 디자인: 와타나베 마유미\n음악: 타테야마 아키유키\n장르: 일상, 코미디, 학원, 하렘\n방영일: 2025.01.07 00:00 (화)\n등급: 15\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736188569_9274.jpg",
+                    "url": "/c/이 회사에 좋아하는 사람이 있습니다",
+                    "title": "이 회사에 좋아하는 사람이 있습니다",
+                    "description": "원제: この会社に好きな人がいます\n원작: 에노모토 아카마루\n감독: 타케이치 나오코\n각본: 요코타니 마사히로\n캐릭터 디자인: 오오사와 미나\n음악: IM.Lab\n장르: 로맨스, 코미디\n방영일: 2025.01.06 23:00 (월)\n등급: 15\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736196370_5628.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -480,14 +480,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/쿠로이와 메다카에게 내 귀여움이 통하지 않아 3화",
-                        "name": "쿠로이와 메다카에게 내 귀여움이 통하지 않아 3화",
+                        "url": "/e/이 회사에 좋아하는 사람이 있습니다 3화",
+                        "name": "이 회사에 좋아하는 사람이 있습니다 3화",
                         "date_upload": 1737417600000,
                         "episode_number": 3.0
                     },
                     {
-                        "url": "/e/쿠로이와 메다카에게 내 귀여움이 통하지 않아 2화",
-                        "name": "쿠로이와 메다카에게 내 귀여움이 통하지 않아 2화",
+                        "url": "/e/이 회사에 좋아하는 사람이 있습니다 2화",
+                        "name": "이 회사에 좋아하는 사람이 있습니다 2화",
                         "date_upload": 1736812800000,
                         "episode_number": 2.0
                     }
@@ -495,7 +495,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-1054618378245165966/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-1054618378245165966/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-1054618378245165966/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-10943038129727161108/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-10943038129727161108/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-10943038129727161108/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

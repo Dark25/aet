@@ -149,8 +149,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vdo-c3d-2d.getromes.space/hls/xqx2ppf6fbokjiqbteecb6kcw4vvg3tlbfzjzmbzc4m3c7xy5yq547jhzeha/index-v1-a1.m3u8",
+                        "quality": "VidMoly - 720p",
+                        "videoUrl": "https://vdo-c3d-2d.getromes.space/hls/xqx2ppf6fbokjiqbteecb6kcw4vvg3tlbfzjzmbzc4m3c7xy5yq547jhzeha/index-v1-a1.m3u8",
+                        "headers": {
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/"
+                        }
+                    },
+                    {
+                        "url": "https://vdo-c3d-2d.getromes.space/hls/xqx2ppf6fbokjiqbteecb6kcw4vvg3tlbfzjzmbzcv63c7xy5yqya37mjcmq/index-v1-a1.m3u8",
+                        "quality": "VidMoly - 480p",
+                        "videoUrl": "https://vdo-c3d-2d.getromes.space/hls/xqx2ppf6fbokjiqbteecb6kcw4vvg3tlbfzjzmbzcv63c7xy5yqya37mjcmq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

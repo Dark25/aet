@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/nosferatu-2024/",
+                                "title": "Nosferatu (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/jivUhECegXI3OYtPVflWoIDtENt.jpg"
+                            },
+                            {
                                 "url": "/peliculas/de-vuelta-a-la-accion-2025/",
                                 "title": "De vuelta a la acción (2025)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Quiz Show: El dilema (1994)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/knukAW6MVHZOZBnEguH4tYzJwPM.jpg"
-                            },
-                            {
-                                "url": "/peliculas/numero-23-2007/",
-                                "title": "Número 23 (2007)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/h0T3FmHI7PFhUseoySCBPFjxP0O.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/de-vuelta-a-la-accion-2025/",
-                    "title": "De vuelta a la acción (2025)",
-                    "artist": "Cameron Diaz",
-                    "author": "Seth Gordon",
-                    "description": "Quince años después de desaparecer de la CIA y empezar una familia, los insuperables Matt y Emily regresan al mundo del espionaje cuando se revela su verdadera identidad.",
-                    "genre": "Acción, Comedia",
+                    "url": "/peliculas/nosferatu-2024/",
+                    "title": "Nosferatu (2024)",
+                    "artist": "Lily-Rose Depp",
+                    "author": "Josh Robertson",
+                    "description": "Una historia gótica de obsesiones entre una joven atormentada en la Alemania del siglo XIX y el antiguo vampiro de Transilvania que la acecha, trayendo consigo un inefable horror.",
+                    "genre": "Drama, Fantasía, Terror",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/mAvyQ2X3767LwXE2htvAd22ucd3.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/jivUhECegXI3OYtPVflWoIDtENt.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/de-vuelta-a-la-accion-2025/",
+                        "url": "/peliculas/nosferatu-2024/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -266,9 +266,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-cglm4j5ztiyc9g2z.voe-network.net/engine/hls2/01/13362/wki6uomzzju0_,n,.urlset/index-v1-a1.m3u8?t=FPoP7kPuiQ_nqs89G7yN0dGAMl09yu0I65mUk3XDbvw&s=1737461273&e=14400&f=66810015&node=R0rJpKnYBbJwDzzoMzSPnULaVxhDBR9daUQn1XDV8g0=&i=172.183&sp=2500&asn=8075&q=n",
+                        "url": "https://delivery-node-wrx6nwjzgsn74sdb.voe-network.net/engine/hls2-c/01/13395/6gufea0kwapi_,n,.urlset/index-v1-a1.m3u8?t=MA5pF6Wi_SG8y42aR8bS1VhZz3mPOk_9c3z1N4YpUkI&s=1737482810&e=14400&f=66975853&node=bfinFs4uSrnmOxDmHRx4b4ZjH1INnkx85htkLPWfDV4=&i=172.183&sp=2500&asn=8075&q=n",
                         "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-cglm4j5ztiyc9g2z.voe-network.net/engine/hls2/01/13362/wki6uomzzju0_,n,.urlset/index-v1-a1.m3u8?t=FPoP7kPuiQ_nqs89G7yN0dGAMl09yu0I65mUk3XDbvw&s=1737461273&e=14400&f=66810015&node=R0rJpKnYBbJwDzzoMzSPnULaVxhDBR9daUQn1XDV8g0=&i=172.183&sp=2500&asn=8075&q=n",
+                        "videoUrl": "https://delivery-node-wrx6nwjzgsn74sdb.voe-network.net/engine/hls2-c/01/13395/6gufea0kwapi_,n,.urlset/index-v1-a1.m3u8?t=MA5pF6Wi_SG8y42aR8bS1VhZz3mPOk_9c3z1N4YpUkI&s=1737482810&e=14400&f=66975853&node=bfinFs4uSrnmOxDmHRx4b4ZjH1INnkx85htkLPWfDV4=&i=172.183&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }

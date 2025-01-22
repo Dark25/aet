@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/siempre-el-mismo-dia-2011/",
+                                "title": "Siempre el mismo día (2011)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/pC7IS1LlDYtxN3HHaeRrhmlAVin.jpg"
+                            },
+                            {
                                 "url": "/peliculas/nosferatu-2024/",
                                 "title": "Nosferatu (2024)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Royal New Year’s Eve (2017)",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/rNzJ3GZqT1L3uszZMjqsmzuD3L6.jpg"
-                            },
-                            {
-                                "url": "/peliculas/quiz-show-el-dilema-1994/",
-                                "title": "Quiz Show: El dilema (1994)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/knukAW6MVHZOZBnEguH4tYzJwPM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,15 +240,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/nosferatu-2024/",
-                    "title": "Nosferatu (2024)",
-                    "artist": "Lily-Rose Depp",
-                    "author": "Josh Robertson",
-                    "description": "Una historia gótica de obsesiones entre una joven atormentada en la Alemania del siglo XIX y el antiguo vampiro de Transilvania que la acecha, trayendo consigo un inefable horror.",
-                    "genre": "Drama, Fantasía, Terror",
+                    "url": "/peliculas/siempre-el-mismo-dia-2011/",
+                    "title": "Siempre el mismo día (2011)",
+                    "artist": "Anne Hathaway",
+                    "author": "Lone Scherfig",
+                    "description": "Emma (Hathaway) y Dexter (Sturgess) se conocen el día de su graduación universitaria, un 15 de julio. Ella es una chica idealista de clase trabajadora. Él, en cambio, es un joven rico con ganas de comerse el mundo. Durante veinte años, cada 15 de julio, se muestra su vida cotidiana y lo extraordinaria que es su amistad. Por fin, un día se dan cuenta de que lo que habían estado buscando durante años lo tenían ante sí.",
+                    "genre": "Drama, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/jivUhECegXI3OYtPVflWoIDtENt.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w300/pC7IS1LlDYtxN3HHaeRrhmlAVin.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -256,7 +256,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/nosferatu-2024/",
+                        "url": "/peliculas/siempre-el-mismo-dia-2011/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -266,9 +266,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-wrx6nwjzgsn74sdb.voe-network.net/engine/hls2-c/01/13395/6gufea0kwapi_,n,.urlset/index-v1-a1.m3u8?t=MA5pF6Wi_SG8y42aR8bS1VhZz3mPOk_9c3z1N4YpUkI&s=1737482810&e=14400&f=66975853&node=bfinFs4uSrnmOxDmHRx4b4ZjH1INnkx85htkLPWfDV4=&i=172.183&sp=2500&asn=8075&q=n",
+                        "url": "https://delivery-node-73l7iixyatq3w8eu.voe-network.net/engine/hls2-c/01/13396/eg1hla2oyge5_,n,.urlset/index-v1-a1.m3u8?t=dVQUdabBTlafD2sPLMthVGwfzQcODieKc3-fBrbNV_Q&s=1737505037&e=14400&f=66984447&node=CcG+qOjROgZUTd3yvKUVtqHPJW1rxtjJmbg4P9ekU20=&i=20.25&sp=2500&asn=8075&q=n",
                         "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-wrx6nwjzgsn74sdb.voe-network.net/engine/hls2-c/01/13395/6gufea0kwapi_,n,.urlset/index-v1-a1.m3u8?t=MA5pF6Wi_SG8y42aR8bS1VhZz3mPOk_9c3z1N4YpUkI&s=1737482810&e=14400&f=66975853&node=bfinFs4uSrnmOxDmHRx4b4ZjH1INnkx85htkLPWfDV4=&i=172.183&sp=2500&asn=8075&q=n",
+                        "videoUrl": "https://delivery-node-73l7iixyatq3w8eu.voe-network.net/engine/hls2-c/01/13396/eg1hla2oyge5_,n,.urlset/index-v1-a1.m3u8?t=dVQUdabBTlafD2sPLMthVGwfzQcODieKc3-fBrbNV_Q&s=1737505037&e=14400&f=66984447&node=CcG+qOjROgZUTd3yvKUVtqHPJW1rxtjJmbg4P9ekU20=&i=20.25&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }

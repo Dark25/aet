@@ -142,6 +142,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/touharate-mahjong-sub-indo/",
+                                "title": "Touhai: Ura Rate Mahjong Touhai Roku",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/145571.jpg"
+                            },
+                            {
+                                "url": "/anime/unnamed-memo-s2-sub-indo/",
+                                "title": "Unnamed Memory Season 2",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/Unnamed-Memory-Season-2-Subtitle-Indonesia.jpg"
+                            },
+                            {
+                                "url": "/anime/kinomi-master-sub-indo/",
+                                "title": "Hazure Skill \"Kinomi Master\"",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146128.jpg"
+                            },
+                            {
+                                "url": "/anime/amagami-chi-sub-indo/",
+                                "title": "Amagami-san Chi no Enmusubi",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Amagami-san-Chi-no-Enmusubi.jpg"
+                            },
+                            {
                                 "url": "/anime/yokai-sensei-hajmeshita-sub-indo/",
                                 "title": "Youkai Gakkou no Sensei Hajimemashita!",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg"
@@ -237,11 +257,6 @@
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/147040.jpg"
                             },
                             {
-                                "url": "/anime/touharate-mahjong-sub-indo/",
-                                "title": "Touhai: Ura Rate Mahjong Touhai Roku",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/145571.jpg"
-                            },
-                            {
                                 "url": "/anime/sakamoto-day-sub-indo/",
                                 "title": "Sakamoto Days",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/147417l.jpg"
@@ -250,21 +265,6 @@
                                 "url": "/anime/s-rank-monster-behemoth-sub-indo/",
                                 "title": "S-Rank Monster no \"Behemoth\" dakedo",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/146916l.jpg"
-                            },
-                            {
-                                "url": "/anime/sorairo-util-sub-indo/",
-                                "title": "Sorairo Utility (TV)",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146787.jpg"
-                            },
-                            {
-                                "url": "/anime/ubel-blat-sub-indo/",
-                                "title": "Übel Blatt",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146961.jpg"
-                            },
-                            {
-                                "url": "/anime/girumasu-sub-indo/",
-                                "title": "Girumasu",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/144608.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6506519372364086071/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6506519372364086071/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6506519372364086071/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17432427684071693905/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17432427684071693905/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17432427684071693905/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6506519372364086071/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6506519372364086071/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6506519372364086071/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17432427684071693905/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17432427684071693905/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17432427684071693905/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

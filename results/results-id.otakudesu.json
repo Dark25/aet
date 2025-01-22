@@ -142,6 +142,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ishra-s2-sub-indo/",
+                                "title": "Ishura Season 2",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146979.jpg"
+                            },
+                            {
+                                "url": "/anime/hana-saku-shura-gotoku-sub-indo/",
+                                "title": "Hana wa Saku, Shura no Gotoku",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146809.jpg"
+                            },
+                            {
+                                "url": "/anime/the-imas-shiny-colors-s2-sub-indo/",
+                                "title": "The iDOLM@STER Shiny Colors Season 2",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/bx175533-p3Oq5xfbYycS.jpg"
+                            },
+                            {
                                 "url": "/anime/touharate-mahjong-sub-indo/",
                                 "title": "Touhai: Ura Rate Mahjong Touhai Roku",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/145571.jpg"
@@ -250,21 +265,6 @@
                                 "url": "/anime/medalist-sub-indo/",
                                 "title": "Medalist",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146850.jpg"
-                            },
-                            {
-                                "url": "/anime/ao-exorcist-yosuga-sub-indo/",
-                                "title": "Ao no Exorcist Season 5",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/147040.jpg"
-                            },
-                            {
-                                "url": "/anime/sakamoto-day-sub-indo/",
-                                "title": "Sakamoto Days",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/147417l.jpg"
-                            },
-                            {
-                                "url": "/anime/s-rank-monster-behemoth-sub-indo/",
-                                "title": "S-Rank Monster no \"Behemoth\" dakedo",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/12/146916l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15952026389253608231/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15952026389253608231/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15952026389253608231/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3454553756043359327/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3454553756043359327/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3454553756043359327/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-15952026389253608231/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-15952026389253608231/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-15952026389253608231/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3454553756043359327/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3454553756043359327/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3454553756043359327/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

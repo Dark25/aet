@@ -7,9 +7,14 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-serie/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": ""
+                            },
+                            {
                                 "url": "/ver-serie/desorden-publico/",
                                 "title": "Desorden público",
-                                "thumbnail_url": ""
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//6kEPPgQ1QuCfXNWnwNrehmHI4OL.jpg"
                             },
                             {
                                 "url": "/ver-serie/al-filo-del-deber/",
@@ -60,11 +65,6 @@
                                 "url": "/ver-pelicula/ad-vitam/",
                                 "title": "Ad vitam",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342//dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/shottas-hermanos-en-el-crimen/",
-                                "title": "Shottas: Hermanos en el crimen",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//amOWE3VqD0rKDiHZSWhYcpYZcxq.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -159,12 +159,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-serie/desorden-publico/",
-                    "artist": "Adriano Giannini",
-                    "author": "Carlo Bonini",
-                    "description": "Las desafortunadas consecuencias de una manifestación generan tensiones entre un escuadrón antimotines que batalla para separar la vida laboral de la personal.   ",
-                    "genre": "Acción y Aventura, Crimen, Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w342//6kEPPgQ1QuCfXNWnwNrehmHI4OL.jpg",
+                    "url": "/ver-serie/one-piece/",
+                    "artist": "Emily Rudd",
+                    "author": "Steven Maeda",
+                    "description": "Acompañado de su ecléctica tripulación, el joven pirata Monkey D. Luffy emprende un viaje en busca de un tesoro legendario.   ",
+                    "genre": "Acción y Aventura, Sci-Fi & Fantasy",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w342//fsQ2KHbZk12z3h3dba2ActMEudj.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -172,14 +172,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-el-episodio/desorden-publico-1x6/",
-                        "name": "T1 - E6 - Episodio 6",
-                        "episode_number": 6.0
+                        "url": "/ver-el-episodio/one-piece-1x8/",
+                        "name": "T1 - E8 - LO PEOR DEL ESTE",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/ver-el-episodio/desorden-publico-1x5/",
-                        "name": "T1 - E5 - Episodio 5",
-                        "episode_number": 5.0
+                        "url": "/ver-el-episodio/one-piece-1x7/",
+                        "name": "T1 - E7 - LA CHICA DEL PEZ SIERRA TATUADO",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -187,54 +187,11 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-mdmqn5yuy7gitjar.voe-network.net/engine/hls2/01/13389/hfbcaqzxfo7b_,n,l,.urlset/index-f1-v1-a1.m3u8?t=eCjNJeeUo9UsBEmTDLPVtEuHt_SJbFUeYcqeyoaWvPE&s=1737547672&e=14400&f=66948428&node=BCbKujZ+gpCvTQ52BMBH76z7kgXKxX0QM8HnxxVOPVc=&i=52.234&sp=2500&asn=8075&q=n,l",
+                        "url": "https://delivery-node-qqnuhrkg3bhbuzaa.voe-network.net/engine/hls2-c/01/09484/x078u4ke9oip_,n,.urlset/index-v1-a1.m3u8?t=OFm9nwFkvF4CVslYrj3-Dt_c9zlxw35PcXev9t46lUQ&s=1737569233&e=14400&f=47421377&node=UOx5276IumOH4BADikx4rlHC+ibdAWZ+mo07sx3WfaU=&i=52.234&sp=2500&asn=8075&q=n",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-mdmqn5yuy7gitjar.voe-network.net/engine/hls2/01/13389/hfbcaqzxfo7b_,n,l,.urlset/index-f1-v1-a1.m3u8?t=eCjNJeeUo9UsBEmTDLPVtEuHt_SJbFUeYcqeyoaWvPE&s=1737547672&e=14400&f=66948428&node=BCbKujZ+gpCvTQ52BMBH76z7kgXKxX0QM8HnxxVOPVc=&i=52.234&sp=2500&asn=8075&q=n,l",
+                        "videoUrl": "https://delivery-node-qqnuhrkg3bhbuzaa.voe-network.net/engine/hls2-c/01/09484/x078u4ke9oip_,n,.urlset/index-v1-a1.m3u8?t=OFm9nwFkvF4CVslYrj3-Dt_c9zlxw35PcXev9t46lUQ&s=1737569233&e=14400&f=47421377&node=UOx5276IumOH4BADikx4rlHC+ibdAWZ+mo07sx3WfaU=&i=52.234&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-mdmqn5yuy7gitjar.voe-network.net/engine/hls2/01/13389/hfbcaqzxfo7b_,n,l,.urlset/index-f2-v1-a1.m3u8?t=eCjNJeeUo9UsBEmTDLPVtEuHt_SJbFUeYcqeyoaWvPE&s=1737547672&e=14400&f=66948428&node=BCbKujZ+gpCvTQ52BMBH76z7kgXKxX0QM8HnxxVOPVc=&i=52.234&sp=2500&asn=8075&q=n,l",
-                        "quality": "Voe:480p",
-                        "videoUrl": "https://delivery-node-mdmqn5yuy7gitjar.voe-network.net/engine/hls2/01/13389/hfbcaqzxfo7b_,n,l,.urlset/index-f2-v1-a1.m3u8?t=eCjNJeeUo9UsBEmTDLPVtEuHt_SJbFUeYcqeyoaWvPE&s=1737547672&e=14400&f=66948428&node=BCbKujZ+gpCvTQ52BMBH76z7kgXKxX0QM8HnxxVOPVc=&i=52.234&sp=2500&asn=8075&q=n,l",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://gab0dp9jpu.cdn-centaurus.com/hls2/01/08128/sve47t3tvi8n_,l,n,.urlset/index-f2-v1-a1.m3u8?t=lNr8khBxZ6xJT71jyhSeJdS4Ki4wD8rHdNdGQVdw8FQ&s=1737547670&e=129600&f=40643301&srv=ot41pvhqfyh3&i=0.4&sp=500&p1=ot41pvhqfyh3&p2=ot41pvhqfyh3&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://gab0dp9jpu.cdn-centaurus.com/hls2/01/08128/sve47t3tvi8n_,l,n,.urlset/index-f2-v1-a1.m3u8?t=lNr8khBxZ6xJT71jyhSeJdS4Ki4wD8rHdNdGQVdw8FQ&s=1737547670&e=129600&f=40643301&srv=ot41pvhqfyh3&i=0.4&sp=500&p1=ot41pvhqfyh3&p2=ot41pvhqfyh3&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "*/*",
-                            "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/sve47t3tvi8n"
-                        }
-                    },
-                    {
-                        "url": "https://gab0dp9jpu.cdn-centaurus.com/hls2/01/08128/sve47t3tvi8n_,l,n,.urlset/index-f1-v1-a1.m3u8?t=lNr8khBxZ6xJT71jyhSeJdS4Ki4wD8rHdNdGQVdw8FQ&s=1737547670&e=129600&f=40643301&srv=ot41pvhqfyh3&i=0.4&sp=500&p1=ot41pvhqfyh3&p2=ot41pvhqfyh3&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://gab0dp9jpu.cdn-centaurus.com/hls2/01/08128/sve47t3tvi8n_,l,n,.urlset/index-f1-v1-a1.m3u8?t=lNr8khBxZ6xJT71jyhSeJdS4Ki4wD8rHdNdGQVdw8FQ&s=1737547670&e=129600&f=40643301&srv=ot41pvhqfyh3&i=0.4&sp=500&p1=ot41pvhqfyh3&p2=ot41pvhqfyh3&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "*/*",
-                            "Origin": "https://hlswish.com",
-                            "Referer": "https://hlswish.com/e/sve47t3tvi8n"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=492PbxGLjRSKjY8&expires=1737617667&ip=G0WsDRONKxSHDN&token=7Y4dU4NFLvQO",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=492PbxGLjRSKjY8&expires=1737617667&ip=G0WsDRONKxSHDN&token=7Y4dU4NFLvQO"
-                    },
-                    {
-                        "url": "https://s1.goodstream.one/vtt/02/00014/edy1l5lte55x_sli.vtt",
-                        "quality": "GoodStream: ",
-                        "videoUrl": "https://s1.goodstream.one/vtt/02/00014/edy1l5lte55x_sli.vtt",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0"
                         }
                     }
                 ],

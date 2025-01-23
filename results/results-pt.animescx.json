@@ -253,8 +253,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-9799704476847184033/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-9799704476847184033/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-9799704476847184033/package/lib/server/firefox/ffConnection.js:154:41\n}",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://download2261.mediafire.com/b9n3g50rft9gfQLlRutIpot3HLnmR6YsP2Y3W6vqQnBFGsM5jJXkrAAn6KhBmHG8Y5sBttK4ZoFREwTuOtiK9yyIwThhW37o1fX7cDqBc9NiaSkHg1FuMOtCyJ7d7M_5X2LiuSJ_tzRlAY6WGLtgKPIDtGe3Z_z_A3hMNkKi-hq_34s/43dijm1bd9673qj/%5BMahal%5D+-50kg+no+Cinderella+Ep+07+e+08.mp4",
+                        "quality": "Mediafire - FULL HD",
+                        "videoUrl": "https://download2261.mediafire.com/b9n3g50rft9gfQLlRutIpot3HLnmR6YsP2Y3W6vqQnBFGsM5jJXkrAAn6KhBmHG8Y5sBttK4ZoFREwTuOtiK9yyIwThhW37o1fX7cDqBc9NiaSkHg1FuMOtCyJ7d7M_5X2LiuSJ_tzRlAY6WGLtgKPIDtGe3Z_z_A3hMNkKi-hq_34s/43dijm1bd9673qj/%5BMahal%5D+-50kg+no+Cinderella+Ep+07+e+08.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0"
+                        }
+                    },
+                    {
+                        "url": "https://drive.usercontent.google.com/download?id=1SDJFpMy2yT24FiTCngfIdxGpCTaHpPQO",
+                        "quality": "GDrive - FULL HD",
+                        "videoUrl": "https://drive.usercontent.google.com/download?id=1SDJFpMy2yT24FiTCngfIdxGpCTaHpPQO",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                            "Cookie": ""
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

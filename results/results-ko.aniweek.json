@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/지박소년 하나코 군 2기",
+                                "title": "지박소년 하나코 군 2기",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/b22a93d7e9f82019630f16df6dade63a_1736736609_4633.jpg"
+                            },
+                            {
+                                "url": "/c/아마가미 씨네 인연 맺기",
+                                "title": "아마가미 씨네 인연 맺기",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/4d8c8e4ce62f4b0e7ffde45c35d863fc_1727806743_4554.jpg"
+                            },
+                            {
                                 "url": "/c/이수라 2기",
                                 "title": "이수라 2기",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/0af2b5930f6ccacb2ff9841d3f89ac28_1736388190_0827.jpg"
@@ -327,11 +337,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/87ba3252feda20f351da3269474397a8_1736251055_8189.jpg"
                             },
                             {
-                                "url": "/c/아마가미 씨네 인연 맺기",
-                                "title": "아마가미 씨네 인연 맺기",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/4d8c8e4ce62f4b0e7ffde45c35d863fc_1727806743_4554.jpg"
-                            },
-                            {
                                 "url": "/c/비밀의 아이프리",
                                 "title": "비밀의 아이프리",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2404/2c7f2d9b065a5953e536605d8c669e95_1712431564_9196.jpg"
@@ -340,11 +345,6 @@
                                 "url": "/c/전대 레드 이세계에서 모험가 되다",
                                 "title": "전대 레드 이세계에서 모험가 되다",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/b77d3480a414a0ff352b1ee21c4e77ad_1736776379_9929.jpg"
-                            },
-                            {
-                                "url": "/c/지박소년 하나코 군 2기",
-                                "title": "지박소년 하나코 군 2기",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2501/b22a93d7e9f82019630f16df6dade63a_1736736609_4633.jpg"
                             },
                             {
                                 "url": "/c/니트 쿠노이치와 어째서인지 동거 시작했습니다",
@@ -469,10 +469,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/이수라 2기",
-                    "title": "이수라 2기",
-                    "description": "원제: 異修羅 2期\n원작: 케이소\n감독: 타카하시 타케오\n각본: 이하라 켄타\n캐릭터 디자인: 키쿠치 요코, 타카시나 유카\n음악: 토쿠다 마사히로\n장르: 판타지\n방영일: 2025.01.08 23:00 (수)\n등급: 15\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/0af2b5930f6ccacb2ff9841d3f89ac28_1736388190_0827.jpg",
+                    "url": "/c/지박소년 하나코 군 2기",
+                    "title": "지박소년 하나코 군 2기",
+                    "description": "원제: 地縛少年花子くん2\n원작: 아이다 이로\n감독: 후쿠이 요헤이\n각본: 나카니시 야스히로\n캐릭터 디자인: 이토 마유카\n음악: 타카기 히로시\n장르: 귀신, 능력, 모험, 미스테리, 코미디, 공포\n방영일: 2025.01.12 16:30 (일)\n등급: 15\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/b22a93d7e9f82019630f16df6dade63a_1736736609_4633.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -480,22 +480,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/이수라 2기 3화",
-                        "name": "이수라 2기 3화",
+                        "url": "/e/지박소년 하나코 군 2기 2화",
+                        "name": "지박소년 하나코 군 2기 2화",
                         "date_upload": 1737590400000,
-                        "episode_number": 3.0
+                        "episode_number": 2.0
                     },
                     {
-                        "url": "/e/이수라 2기 2화",
-                        "name": "이수라 2기 2화",
-                        "date_upload": 1736985600000,
-                        "episode_number": 2.0
+                        "url": "/e/지박소년 하나코 군 2기 1화",
+                        "name": "지박소년 하나코 군 2기 1화",
+                        "date_upload": 1736726400000,
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-14161152871005667818/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-14161152871005667818/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-14161152871005667818/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-10479228934294015309/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-10479228934294015309/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-10479228934294015309/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

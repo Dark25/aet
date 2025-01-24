@@ -113,7 +113,7 @@
                 "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
                 "passed": false
             },
             "search": {
@@ -121,15 +121,28 @@
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
-                "passed": false
+                "result": {
+                    "url": "/movies/kinds-of-kindness/",
+                    "title": "Kinds of Kindness",
+                    "description": "Eine dreiteilige Fabel über einen Mann, der keine Wahl hat und versucht, sein Leben selbst in die Hand zu nehmen; über einen Polizisten, der beunruhigt ist, dass seine auf See vermisste Frau zurückgekehrt ist und ein anderer Mensch zu sein scheint; und über eine Frau, die entschlossen ist, einen bestimmten Menschen mit einer besonderen Fähigkeit zu finden, der dazu bestimmt ist, ein hervorragender geistiger Führer zu werden.\n\nOriginal title: Kinds of Kindness",
+                    "genre": "Drama, Komödie",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/ohXU0BSJvJuaEuKZJfNy1ZsWCUE.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/movies/kinds-of-kindness/",
+                        "name": "Movie",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

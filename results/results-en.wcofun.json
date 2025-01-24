@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/anyway-im-falling-in-love-with-you",
+                                "title": "Anyway, I'm Falling in Love with You.",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933878.jpg"
+                            },
+                            {
                                 "url": "/anime/ameku-m-d-doctor-detective",
                                 "title": "Ameku M.D.: Doctor Detective",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933877.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/dragon-ball-daima",
                                 "title": "Dragon Ball Daima",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933863.jpg"
-                            },
-                            {
-                                "url": "/anime/ubel-blatt",
-                                "title": "Übel Blatt",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933862.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/ameku-m-d-doctor-detective",
-                    "title": "Ameku M.D.: Doctor Detective",
-                    "description": "In Tenikai General Hospital’s general diagnostic department, patients who are deemed difficult to treat by other doctors are collected here. From mysteries of unknown illness to murders that even the police can’t handle. Genius doctor Takao Ameku reveals the shocking truth hidden behind these mysterious “diseases.”",
-                    "genre": "Mystery, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933877.jpg",
+                    "url": "/anime/anyway-im-falling-in-love-with-you",
+                    "title": "Anyway, I'm Falling in Love with You.",
+                    "description": "Mizuho’s 17th birthday is the pits. Her parents totally forgot, and the senpai she likes isn’t interested in her. But when her longtime childhood friend asks her out, Mizuho has to sort out what this change in relationship could mean. And her feelings may not be the only ones changing…!",
+                    "genre": "Drama, Romance, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933878.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ameku-m-d-doctor-detective-episode-2-english-dubbed",
-                        "name": "Season 1 - Episode 2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/ameku-m-d-doctor-detective-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hrYZeiBft15Hf5VLGXng2uE5wjHB_cycCyNmf17P3gdFJ5u4wryLliNpyV4sSiuAhRKBSF8vJgpb-vEouPGj5c5NNgH6uw8n95lP9k4MuCdn2iywVjIPYBW4wSbIzJ5Ru0JKanYUdmTORZy7WUJQTKrl0OL9CwTg7fIQ6sRnXimsYKRfmUKoQ1CPz4Lig7rp_0Gs5sBtfeEJBrZJBsoXmOnmrW1-bG3i8Wi6WE61-HotLhYoQUOEkVe9LHDzs3do_1Li5rC1oRpwylWzJXZLS-6RQyvXxzU4C4mLM23raQbEPPdBt27augDXksuWSNdmSJ4g8Ghy_ac3eo-8h3m7EoZDd44RuoVjvjQZyi6az-Fwc4veDUq5-zheDQSXdg0V1MbMbHaiuXRxhCW0N8ISaNXWzXSXxgDG7LX43I6lCuFJwhRQJ3l0kZv-VEPxmaBcQ",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hrYZeiBft15Hf5VLGXng2uE5wjHB_cycCyNmf17P3gdFJ5u4wryLliNpyV4sSiuAhRKBSF8vJgpb-vEouPGj5c5NNgH6uw8n95lP9k4MuCdn2iywVjIPYBW4wSbIzJ5Ru0JKanYUdmTORZy7WUJQTKrl0OL9CwTg7fIQ6sRnXimsYKRfmUKoQ1CPz4Lig7rp_0Gs5sBtfeEJBrZJBsoXmOnmrW1-bG3i8Wi6WE61-HotLhYoQUOEkVe9LHDzs3do_1Li5rC1oRpwylWzJXZLS-6RQyvXxzU4C4mLM23raQbEPPdBt27augDXksuWSNdmSJ4g8Ghy_ac3eo-8h3m7EoZDd44RuoVjvjQZyi6az-Fwc4veDUq5-zheDQSXdg0V1MbMbHaiuXRxhCW0N8ISaNXWzXSXxgDG7LX43I6lCuFJwhRQJ3l0kZv-VEPxmaBcQ"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hrYZeiBft15Hf5VLGXng2uE5wjHB_cycCyNmf17P3gdFJ5u4wryLliNpyV4sSiuAhRKBSF8vJgpb-vEouPGj5c5NNgH6uw8n95lP9k4MuCdn2iywVjIPYBW4wSbIzJ5Ru0JKanYUdmTORZy7WUJQTKT_C4MKtEimM3I8N7npa--QG8qnmUDa4csb2c7c5zpXD-FvYhOz6cxGP8RQYZfjIj0y_dYQMnLjd2k9IU7CmeUsWG38CMyY7HZAPGNJAwzML4XEeU7YO6MPlPxEtGCgwO5cj7fb6t6ZDi7Jyrpy9L9X6ZhbudEs_fgVqkj8joV15HeXL307HVvTBIpu1oV8WO7ZPYlW7No4qspntN9ZePS-7s3kVvoafpZRl1fBQ7ZcK0Ei5VpbWNfeD2dO1Lx_RJX8S-t7P63t9Tm06xUcFLMT6Gfxp1wwihfiX_ezxa0DY",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hrYZeiBft15Hf5VLGXng2uE5wjHB_cycCyNmf17P3gdFJ5u4wryLliNpyV4sSiuAhRKBSF8vJgpb-vEouPGj5c5NNgH6uw8n95lP9k4MuCdn2iywVjIPYBW4wSbIzJ5Ru0JKanYUdmTORZy7WUJQTKT_C4MKtEimM3I8N7npa--QG8qnmUDa4csb2c7c5zpXD-FvYhOz6cxGP8RQYZfjIj0y_dYQMnLjd2k9IU7CmeUsWG38CMyY7HZAPGNJAwzML4XEeU7YO6MPlPxEtGCgwO5cj7fb6t6ZDi7Jyrpy9L9X6ZhbudEs_fgVqkj8joV15HeXL307HVvTBIpu1oV8WO7ZPYlW7No4qspntN9ZePS-7s3kVvoafpZRl1fBQ7ZcK0Ei5VpbWNfeD2dO1Lx_RJX8S-t7P63t9Tm06xUcFLMT6Gfxp1wwihfiX_ezxa0DY"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hrYZeiBft15Hf5VLGXng2uE5wjHB_cycCyNmf17P3gdFJ5u4wryLliNpyV4sSiuAhRKBSF8vJgpb-vEouPGj5c5NNgH6uw8n95lP9k4MuCdn2iywVjIPYBW4wSbIzJ5Ru0JKanYUdmTORZy7WUJQTKRaqx6Nhc2LGCjv-wa_owi-NBR-ZZxIc0ypFAghEfAdnGtFdKmmyViT2xljo2U-jUqJCiA8zZqfzAR80XTevH8BlpQW9CmSZZ_nw11Auib4t-UzyrF2rFYImbaiVq7BqvxqeCs3ZGPLHOGR-IDC3dVPLI1R-YRyNKPonlfYT4g8Yw3Xi5NybMQO3GcVfABuzQg8S9zQHlyS9cEeDCi4ZzZHqX166th-cMwfLJHXU7kbn6FKYjTeI5i0UUx0iq_qO9NeP0hZaSwzAA0xxnpJVFtw",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2hrYZeiBft15Hf5VLGXng2uE5wjHB_cycCyNmf17P3gdFJ5u4wryLliNpyV4sSiuAhRKBSF8vJgpb-vEouPGj5c5NNgH6uw8n95lP9k4MuCdn2iywVjIPYBW4wSbIzJ5Ru0JKanYUdmTORZy7WUJQTKRaqx6Nhc2LGCjv-wa_owi-NBR-ZZxIc0ypFAghEfAdnGtFdKmmyViT2xljo2U-jUqJCiA8zZqfzAR80XTevH8BlpQW9CmSZZ_nw11Auib4t-UzyrF2rFYImbaiVq7BqvxqeCs3ZGPLHOGR-IDC3dVPLI1R-YRyNKPonlfYT4g8Yw3Xi5NybMQO3GcVfABuzQg8S9zQHlyS9cEeDCi4ZzZHqX166th-cMwfLJHXU7kbn6FKYjTeI5i0UUx0iq_qO9NeP0hZaSwzAA0xxnpJVFtw"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

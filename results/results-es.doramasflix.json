@@ -249,7 +249,7 @@
                             },
                             {
                                 "url": "/doramas-online/watashi-wa-seikei-bijin?id=6791628aca6086eb33b5ddc5",
-                                "title": "Watashi wa Seikei Bijin (私は整形美人)",
+                                "title": "Watashi wa Seikei Bijin (Soy Una Belleza de Plástico)",
                                 "description": "Adaptado del webtoon “My ID Is Gangnam Beauty”.\n\nMirei Katagiri transforma su vida con una cirugía plástica antes de comenzar la universidad, lo que le ha ganado la admiración de sus compañeros. Sin embargo, su mundo se derrumba cuando su secreto sale a la luz, coincidiendo con un reencuentro con su compañero de secundaria, Kei Sakaguchi.",
                                 "genre": "Drama, Romance",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/ze3VwQu9CzPyHzGxhossnrrCCnH.jpg"
@@ -636,17 +636,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/squid-game?id=6144809996deca380bd2c93e",
-                    "title": "Squid Game (El juego del calamar)",
-                    "artist": "Lee Jung-jae",
-                    "author": "Netflix",
-                    "description": "\"Squid Game\" describe la historia de personas que deciden convertirse en los jugadores de un misterioso juego de supervivencia que tiene en juego un enorme premio de 40 millones de dólares. Ki Hoon, parece derrotado de por vida después de ser despedido de su trabajo. Decide unirse al juego de supervivencia para ganar premios en metálico. Sang Woo, es el amigo de la infancia de Ki Hoon y también se une al juego ya que se mete en problemas en el trabajo a pesar de todo el arduo trabajo que ha hecho para estar donde está ahora.\n\n\"Squid Game\" es el nombre de un juego callejero que Ki Hoon y Sang Woo jugaban juntos cuando eran jóvenes. Es un juego bastante físico que solo termina cuando hay un ganador final, muy parecido al juego de supervivencia que juegan ahora. Se llama así porque los jugadores deben dibujar diferentes formas geométricas en el suelo, que, en su conjunto, parecen un calamar.",
-                    "genre": "Drama, Acción, Aventura, Thriller, Misterio, Terror",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/sXZhtWLo3fecavpDuOyJiayjt32.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7383510046248275593/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7383510046248275593/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7383510046248275593/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -666,25 +657,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ibude47yl4.cdn-centaurus.com/hls2/01/07578/71rgz179j9lr_n/index-v1-a1.m3u8?t=A1PFNVncoln-7mlABn8cIw3CYrMAr188K7DxLpa-EKA&s=1737634064&e=129600&f=37891290&srv=FRdn5eAUPJ&i=0.4&sp=500&p1=FRdn5eAUPJ&p2=FRdn5eAUPJ&asn=8075",
-                        "quality": "[COR] StreamWish:720p",
-                        "videoUrl": "https://ibude47yl4.cdn-centaurus.com/hls2/01/07578/71rgz179j9lr_n/index-v1-a1.m3u8?t=A1PFNVncoln-7mlABn8cIw3CYrMAr188K7DxLpa-EKA&s=1737634064&e=129600&f=37891290&srv=FRdn5eAUPJ&i=0.4&sp=500&p1=FRdn5eAUPJ&p2=FRdn5eAUPJ&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "*/*",
-                            "Origin": "https://sfastwish.com",
-                            "Referer": "https://sfastwish.com/e/71rgz179j9lr"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=DW8l72ykd1twr1&expires=1737704065&ip=FROsD0IAKxSHDN&token=CjaiAH8bVJ84",
-                        "quality": "[COR] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=DW8l72ykd1twr1&expires=1737704065&ip=FROsD0IAKxSHDN&token=CjaiAH8bVJ84"
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7383510046248275593/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7383510046248275593/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7383510046248275593/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "passed": false
             }
         }
     }

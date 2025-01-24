@@ -3,158 +3,35 @@
         "name": "BeatZ Anime (ES)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/web/kami-no-tou-ouji-no-kikan.html",
-                                "title": "Kami no Tou: Ouji no Kikan",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-web/KamiNoTouOujiNoKikan/kami-no-tou-ouji-no-kikan-07.jpg"
-                            },
-                            {
-                                "url": "/web/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3.html",
-                                "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-web/YoukosoJitsuryokuShijouShugiNoKyoushitsuE3/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3-10.jpg"
-                            },
-                            {
-                                "url": "/web/yubisaki-to-renren.html",
-                                "title": "Yubisaki to Renren",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-web/YubisakiToRenren/yubisaki-to-renren-01.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/web/fairy-tail-100-nen-quest.html",
-                                "title": "Fairy Tail: 100-nen Quest",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-web/FairyTail100NenQuest/fairy-tail-100-nen-quest-25.jpg"
-                            },
-                            {
-                                "url": "/bd/sousou-no-frieren.html",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-db/SousouNoFrieren/sousou-no-frieren-01.jpg"
-                            },
-                            {
-                                "url": "/web/kami-no-tou-ouji-no-kikan.html",
-                                "title": "Kami no Tou: Ouji no Kikan",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-web/KamiNoTouOujiNoKikan/kami-no-tou-ouji-no-kikan-07.jpg"
-                            },
-                            {
-                                "url": "/web/shinigami-bocchan-to-kuro-maid-3rd-season.html",
-                                "title": "Shinigami Bocchan to Kuro Maid 3rd Season",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-web/ShinigamiBocchanToKuroMaid3rdSeason/shinigami-bocchan-to-kuro-maid-3rd-season-12.jpg"
-                            },
-                            {
-                                "url": "/ova-peliculas/date-a-bullet.html",
-                                "title": "Date A Bullet",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-peli-ova/DateABullet/date-a-bullet-01.jpg"
-                            },
-                            {
-                                "url": "/bd/shigatsu-wa-kimi-no-uso.html",
-                                "title": "Shigatsu wa Kimi no Uso",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-db/ShigatsuWaKimiNoUso/shigatsu-wa-kimi-no-uso-01.jpg"
-                            },
-                            {
-                                "url": "/bd/mahou-tsukai-no-yome.html",
-                                "title": "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-peli-ova/MahoutsukaiNoYomeOva2/mahoutsukai-no-yome-ova2-01.jpg"
-                            },
-                            {
-                                "url": "/bd/senpai-ga-uzai-kouhai-no-hanashi.html",
-                                "title": "Senpai ga Uzai Kouhai no Hanashi",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-db/SenpaiGaUzaiKouhaiNoHanashi/senpai-ga-uzai-kouhai-no-hanashi-01.jpg"
-                            },
-                            {
-                                "url": "/bd/date-a-live-iv.html",
-                                "title": "Date A Live IV",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-db/DateALive4/date-a-live-iv-01.jpg"
-                            },
-                            {
-                                "url": "/bd/kinsou-no-vermeil.html",
-                                "title": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-db/KinsouNoVermeil/kinsou-no-vermeil-01.jpg"
-                            },
-                            {
-                                "url": "/bd/danmachi-iv.html",
-                                "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-db/DanMachi4/danmachi-iv-01.jpg"
-                            },
-                            {
-                                "url": "/web/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto.html",
-                                "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-web/Zom100ZombieNiNaruMadeNiShitai100NoKoto/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-02.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/ova-peliculas/hello-world.html",
-                                "title": "HELLO WORLD",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-peli-ova/HelloWorld/hello-world-port.jpg"
-                            },
-                            {
-                                "url": "/bd/sword-art-online-alicization-war-of-underworld.html",
-                                "title": "Sword Art Online: Alicization - War of Underworld",
-                                "thumbnail_url": "https://www.beatz-anime.net/img/img-db/SwordArtOnlineAlicizationWarOfUnderworld/sword-art-online-alicization-war-of-underworld-port.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/web/kami-no-tou-ouji-no-kikan.html",
-                    "title": "Kami no Tou: Ouji no Kikan",
-                    "description": "Parece que Ja Wangnan no puede pasar el piso 20. Incluso después de fracasar una y otra vez, se niega a darse por vencido. En su viaje, conoce a un personaje misterioso y poderoso llamado Viole. Wangnan invita a Viole a unirse a su equipo de Regulares. Su viaje continúa con nuevos desafíos a cada paso.\n\nSinónimos: Sin-ui Tap, 신의 탑, Tower of God: Return of the Prince, Kami no Tou 2nd Season",
-                    "genre": "Acción, Aventura, Drama, Fantasía, Misterio",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.beatz-anime.net/img/img-web/KamiNoTouOujiNoKikan/kami-no-tou-ouji-no-kikan-port.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/Kami no Tou - Ouji no Kikan/[One Fansub] Kami no Tou - Ouji no Kikan - 07 [WebRip 1080p HEVC-10bits AAC].mkv",
-                        "name": "[One Fansub] Kami no Tou - Ouji no Kikan - 07 [WebRip 1080p HEVC-10bits AAC].mkv",
-                        "scanlator": "533.58 MB"
-                    },
-                    {
-                        "url": "/Kami no Tou - Ouji no Kikan/[One Fansub] Kami no Tou - Ouji no Kikan - 06 [WebRip 1080p HEVC-10bits AAC].mkv",
-                        "name": "[One Fansub] Kami no Tou - Ouji no Kikan - 06 [WebRip 1080p HEVC-10bits AAC].mkv",
-                        "scanlator": "554.68 MB"
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://dd.beatz-anime.net/api/raw/?path=%2FKami%20no%20Tou%20-%20Ouji%20no%20Kikan%2F%5BOne%20Fansub%5D%20Kami%20no%20Tou%20-%20Ouji%20no%20Kikan%20-%2007%20%5BWebRip%201080p%20HEVC-10bits%20AAC%5D.mkv",
+                        "url": "https://dd.beatz-anime.net/api/raw/?path=",
                         "quality": "Video",
-                        "videoUrl": "https://dd.beatz-anime.net/api/raw/?path=%2FKami%20no%20Tou%20-%20Ouji%20no%20Kikan%2F%5BOne%20Fansub%5D%20Kami%20no%20Tou%20-%20Ouji%20no%20Kikan%20-%2007%20%5BWebRip%201080p%20HEVC-10bits%20AAC%5D.mkv",
+                        "videoUrl": "https://dd.beatz-anime.net/api/raw/?path=",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-                            "Referer": "https://dd.beatz-anime.net/Kami%20no%20Tou%20-%20Ouji%20no%20Kikan/"
+                            "Referer": "https://dd.beatz-anime.net//"
                         }
                     }
                 ],

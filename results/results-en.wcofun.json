@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/anyway-im-falling-in-love-with-you-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j8_fW34NA3d5u8qRRbQYt7qsxbr3Kl-gQCY2uDqxGBH2SzHnK2rv2TH1T5chMXkAh_EvVrt_688LOKPk2L7bbRjYPINu0F4PhIIKIODGBcgT9v3PwxZTG-dSIGWgpptQ9O2_TTIKCNZBpl4lbOjprC7V0jy9vcds_c2nrHNnzRPnxr5bIimpCAD_ZhVvGG0gqPW34hxPOwLY91Ate-iOmUARh2Ge1LoASxdC4S3o4JKpZftF_3rXFR-prPdpe2LI05dtTZd2xFTAdSV4n9Uip_Ok7jQObtE3064TQWjwtVrGMpOLvkek9ToVcemTJ83ER0c9d_tRnQ189E4QkqA0NWnuZ82c1XaxYp30TcKjmSctCZiPJmCq4M8jq46ha9YKm2ptWysr9PA0msuO4Tsyty2uSRvp9IeCxQq10x7TRgYoqYQczbM4mV1QcHMHe7ll4",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j8_fW34NA3d5u8qRRbQYt7qsxbr3Kl-gQCY2uDqxGBH2SzHnK2rv2TH1T5chMXkAh_EvVrt_688LOKPk2L7bbRjYPINu0F4PhIIKIODGBcgT9v3PwxZTG-dSIGWgpptQ9O2_TTIKCNZBpl4lbOjprC7V0jy9vcds_c2nrHNnzRPnxr5bIimpCAD_ZhVvGG0gqPW34hxPOwLY91Ate-iOmUARh2Ge1LoASxdC4S3o4JKpZftF_3rXFR-prPdpe2LI05dtTZd2xFTAdSV4n9Uip_Ok7jQObtE3064TQWjwtVrGMpOLvkek9ToVcemTJ83ER0c9d_tRnQ189E4QkqA0NWnuZ82c1XaxYp30TcKjmSctCZiPJmCq4M8jq46ha9YKm2ptWysr9PA0msuO4Tsyty2uSRvp9IeCxQq10x7TRgYoqYQczbM4mV1QcHMHe7ll4"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j8_fW34NA3d5u8qRRbQYt7qsxbr3Kl-gQCY2uDqxGBH2SzHnK2rv2TH1T5chMXkAh_EvVrt_688LOKPk2L7bbRjYPINu0F4PhIIKIODGBcgT9v3PwxZTG-dSIGWgpptQ9O2_TTIKCNZBpl4lbOjprC7V0jy9vcds_c2nrHNnzRPoRMZ6N3f9nKhqOEIp4M3Q8hlFCOa1Y_XV-mhpe3TkbgTlL-8zKpLeQGhgBJ3Jtt0hjqYp7z7daecSBn525mJJQmBDWaInBu6dCoonCJOp9GhRjftQep4umGVcjiIT0r_2mRdqX2Ck1CIs8mMCI90e9RbRq9NnsY0OeVwW5m8NC1gwXnGqgD22P_2KGwwFQqodTd1L-MMX98-I93oFxRIQfVywEvW5qnXm2F2TRNl28Y8nEhLyHGrpiGtXYRMK-P2LDPjMczTZRl7tSOSQ833u8",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j8_fW34NA3d5u8qRRbQYt7qsxbr3Kl-gQCY2uDqxGBH2SzHnK2rv2TH1T5chMXkAh_EvVrt_688LOKPk2L7bbRjYPINu0F4PhIIKIODGBcgT9v3PwxZTG-dSIGWgpptQ9O2_TTIKCNZBpl4lbOjprC7V0jy9vcds_c2nrHNnzRPoRMZ6N3f9nKhqOEIp4M3Q8hlFCOa1Y_XV-mhpe3TkbgTlL-8zKpLeQGhgBJ3Jtt0hjqYp7z7daecSBn525mJJQmBDWaInBu6dCoonCJOp9GhRjftQep4umGVcjiIT0r_2mRdqX2Ck1CIs8mMCI90e9RbRq9NnsY0OeVwW5m8NC1gwXnGqgD22P_2KGwwFQqodTd1L-MMX98-I93oFxRIQfVywEvW5qnXm2F2TRNl28Y8nEhLyHGrpiGtXYRMK-P2LDPjMczTZRl7tSOSQ833u8"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j8_fW34NA3d5u8qRRbQYt7qsxbr3Kl-gQCY2uDqxGBH2SzHnK2rv2TH1T5chMXkAh_EvVrt_688LOKPk2L7bbRjYPINu0F4PhIIKIODGBcgT9v3PwxZTG-dSIGWgpptQ9O2_TTIKCNZBpl4lbOjprC7V0jy9vcds_c2nrHNnzRPvs4JfMyjOXMQhct5ciHfFua-TEBdtoRs_45C4LZrk6i2FkrJQUj1O_LY1e2HBD_Gwvk3Pi-0219dVfkdVN1cMQPvmNPwn9lf8FdmsgGPgnJobhB6fQdf7cgjT1zV1Eq8r7HyeIj-06LQTGgr85Ugp2SyQxjKM95BTwxOI64975aKk_d-J34rjiCmVSKOuJPKdtVwEGvGuGnZT2OGnUa4M--vNzSvoj8f6kp2dHLQBOXmwydbUeEo9xo3MCEbwg61T7cdVI2f4i_KnBOFjgZTAA",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2j8_fW34NA3d5u8qRRbQYt7qsxbr3Kl-gQCY2uDqxGBH2SzHnK2rv2TH1T5chMXkAh_EvVrt_688LOKPk2L7bbRjYPINu0F4PhIIKIODGBcgT9v3PwxZTG-dSIGWgpptQ9O2_TTIKCNZBpl4lbOjprC7V0jy9vcds_c2nrHNnzRPvs4JfMyjOXMQhct5ciHfFua-TEBdtoRs_45C4LZrk6i2FkrJQUj1O_LY1e2HBD_Gwvk3Pi-0219dVfkdVN1cMQPvmNPwn9lf8FdmsgGPgnJobhB6fQdf7cgjT1zV1Eq8r7HyeIj-06LQTGgr85Ugp2SyQxjKM95BTwxOI64975aKk_d-J34rjiCmVSKOuJPKdtVwEGvGuGnZT2OGnUa4M--vNzSvoj8f6kp2dHLQBOXmwydbUeEo9xo3MCEbwg61T7cdVI2f4i_KnBOFjgZTAA"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g8c096km0K_tdvI9zzpcqh8HcrxutoT1sM4lsVkMnz7efVNSjbnJdGoTjyVAr93vSwz1W2rtCj4HgXpDcUvbuuUSFOWn4wZoapalmceFqEPg1CylPRhct8qlgghqoM7ku-hldzHNbj8fHssxztGAgHOX262C9QDQfC6Uqw-I-nSzBGhFRNgneEPjqJOmGrl1jSi3Q5pNgblT66UAZF3UcELuGarAtgg22OsaU2K4-rnY0jhodL70mKinAOTio5jdaio1CK0JPJmDzvl3vMmyIavlBkoyAFFsPIHixtnrWkrNy4tmmuQ6n0gM6IqvB8e00jiGHWXMWOVDDsa6wG-W6YC2de_iquJdPha7uxsFY0U4Ng0hyYB6lUCXJfJttP6T8kvNCYxHtk9oXnnJbBQHzkGreiFmF0LrHJrvRKaJ7MjilxCd9BdDkDMvr3p830iloIXhu3CF2xFK8JTTBYDD_-ONWY6u8-Q3LRd3jAqBG07d4azMGK0eyusFMtt7Al3R7RjXGN6QmEigyqQDJuw67qYKET4BQapodYNXnQD47rmA",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g8c096km0K_tdvI9zzpcqh8HcrxutoT1sM4lsVkMnz7efVNSjbnJdGoTjyVAr93vSwz1W2rtCj4HgXpDcUvbuuUSFOWn4wZoapalmceFqEPg1CylPRhct8qlgghqoM7ku-hldzHNbj8fHssxztGAgHOX262C9QDQfC6Uqw-I-nSzBGhFRNgneEPjqJOmGrl1jSi3Q5pNgblT66UAZF3UcELuGarAtgg22OsaU2K4-rnY0jhodL70mKinAOTio5jdaio1CK0JPJmDzvl3vMmyIavlBkoyAFFsPIHixtnrWkrNy4tmmuQ6n0gM6IqvB8e00jiGHWXMWOVDDsa6wG-W6YC2de_iquJdPha7uxsFY0U4Ng0hyYB6lUCXJfJttP6T8kvNCYxHtk9oXnnJbBQHzkGreiFmF0LrHJrvRKaJ7MjilxCd9BdDkDMvr3p830iloIXhu3CF2xFK8JTTBYDD_-ONWY6u8-Q3LRd3jAqBG07d4azMGK0eyusFMtt7Al3R7RjXGN6QmEigyqQDJuw67qYKET4BQapodYNXnQD47rmA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g8c096km0K_tdvI9zzpcqh8HcrxutoT1sM4lsVkMnz7efVNSjbnJdGoTjyVAr93vSwz1W2rtCj4HgXpDcUvbuuUSFOWn4wZoapalmceFqEPg1CylPRhct8qlgghqoM7ku-hldzHNbj8fHssxztGAgHOX262C9QDQfC6Uqw-I-nSzBGhFRNgneEPjqJOmGrl1jSi3Q5pNgblT66UAZF3UcELuGarAtgg22OsaU2K4-rnY0jhodL70mKinAOTio5jdaio1CK0JPJmDzvl3vMmyIaN5fChkx7R4p4sQ_N03Z8NpDFKnKgCLtbpJXv6LTKblch9n9qz5RloZAKLtVp-eDEipOTGG6wdm0c6gEY6Ewl1pUGVo7LRwjJDHnzkMjdrf6yKiL83WnvLJTTc-1d8JmQad0pdRgaNJs9t_UR9N3iOM0ARbcc9doRd9ULJuo1lCHltIBkqa8ZzQYs49DLikhg1ZERxSZmmuljtSAXuseVE0SYBciMDH_UsrMiht7SsZE7v4_bHszgXGbbGosdTKgQklu1qENsiveqvI1MH1MwGw",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g8c096km0K_tdvI9zzpcqh8HcrxutoT1sM4lsVkMnz7efVNSjbnJdGoTjyVAr93vSwz1W2rtCj4HgXpDcUvbuuUSFOWn4wZoapalmceFqEPg1CylPRhct8qlgghqoM7ku-hldzHNbj8fHssxztGAgHOX262C9QDQfC6Uqw-I-nSzBGhFRNgneEPjqJOmGrl1jSi3Q5pNgblT66UAZF3UcELuGarAtgg22OsaU2K4-rnY0jhodL70mKinAOTio5jdaio1CK0JPJmDzvl3vMmyIaN5fChkx7R4p4sQ_N03Z8NpDFKnKgCLtbpJXv6LTKblch9n9qz5RloZAKLtVp-eDEipOTGG6wdm0c6gEY6Ewl1pUGVo7LRwjJDHnzkMjdrf6yKiL83WnvLJTTc-1d8JmQad0pdRgaNJs9t_UR9N3iOM0ARbcc9doRd9ULJuo1lCHltIBkqa8ZzQYs49DLikhg1ZERxSZmmuljtSAXuseVE0SYBciMDH_UsrMiht7SsZE7v4_bHszgXGbbGosdTKgQklu1qENsiveqvI1MH1MwGw"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g8c096km0K_tdvI9zzpcqh8HcrxutoT1sM4lsVkMnz7efVNSjbnJdGoTjyVAr93vSwz1W2rtCj4HgXpDcUvbuuUSFOWn4wZoapalmceFqEPg1CylPRhct8qlgghqoM7ku-hldzHNbj8fHssxztGAgHOX262C9QDQfC6Uqw-I-nSzBGhFRNgneEPjqJOmGrl1jSi3Q5pNgblT66UAZF3UcELuGarAtgg22OsaU2K4-rnY0jhodL70mKinAOTio5jdaio1CK0JPJmDzvl3vMmyIaplm20_fmdeUsA8M6TuQG68QJvvkTY4mjcQLEr2_XRTgLR0uSz-J3OF-jO8YGuso8MhYwUhDt0Ko82f4Ap6t98W_o2E1r4ncw0IQXNj3AfBdd498Fs-oV4ChsfGGw6pCocJi6uKVntyp5W-D_6HYnHu1qpSRYcznZVi9W90pJNm_JJ36ZtzR3LdVJAo8GONskp4-7_9nMqp23TU1itze7Vqt4hUDxNzc2TbXzuIN26DfqxznGuZ7L7yocz4rY59I41ruPcq5wZwHETwXLSUWr9w",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUEjTZKDBk3UP_QgR0No2g8c096km0K_tdvI9zzpcqh8HcrxutoT1sM4lsVkMnz7efVNSjbnJdGoTjyVAr93vSwz1W2rtCj4HgXpDcUvbuuUSFOWn4wZoapalmceFqEPg1CylPRhct8qlgghqoM7ku-hldzHNbj8fHssxztGAgHOX262C9QDQfC6Uqw-I-nSzBGhFRNgneEPjqJOmGrl1jSi3Q5pNgblT66UAZF3UcELuGarAtgg22OsaU2K4-rnY0jhodL70mKinAOTio5jdaio1CK0JPJmDzvl3vMmyIaplm20_fmdeUsA8M6TuQG68QJvvkTY4mjcQLEr2_XRTgLR0uSz-J3OF-jO8YGuso8MhYwUhDt0Ko82f4Ap6t98W_o2E1r4ncw0IQXNj3AfBdd498Fs-oV4ChsfGGw6pCocJi6uKVntyp5W-D_6HYnHu1qpSRYcznZVi9W90pJNm_JJ36ZtzR3LdVJAo8GONskp4-7_9nMqp23TU1itze7Vqt4hUDxNzc2TbXzuIN26DfqxznGuZ7L7yocz4rY59I41ruPcq5wZwHETwXLSUWr9w"
+                    }
+                ],
+                "passed": true
             }
         }
     }

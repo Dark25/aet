@@ -303,8 +303,22 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=vwGMB8gxY3tJoW&expires=1737898413&ip=G0WsDRONKxSHDN&token=-utuYeZKYAj1",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=vwGMB8gxY3tJoW&expires=1737898413&ip=G0WsDRONKxSHDN&token=-utuYeZKYAj1"
+                    },
+                    {
+                        "url": "https://m20.uqload.net/3rfks4hn6nw2q4drdlk7tmned6zngwythdcjmlxwp4jq4lu2sp5sjjxgg7pa/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m20.uqload.net/3rfks4hn6nw2q4drdlk7tmned6zngwythdcjmlxwp4jq4lu2sp5sjjxgg7pa/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -300,8 +300,86 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hc20.v02.savethevideo.com/dailymotion-x9czw36-hls-720.mp4?filename=(4k)%20Battle%20Through%20the%20Heavens%20Season%205%20Episode%20131%20English%20Sub%20||%20sub%20indo.mp4",
+                        "quality": "All sub player - Video (StreamPlay)",
+                        "videoUrl": "https://hc20.v02.savethevideo.com/dailymotion-x9czw36-hls-720.mp4?filename=(4k)%20Battle%20Through%20the%20Heavens%20Season%205%20Episode%20131%20English%20Sub%20||%20sub%20indo.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://ultrahd.streamplay.co.in",
+                            "Referer": "https://ultrahd.streamplay.co.in/embed/2f301314-0ee7-47f6-ab06-a650f6419674"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://ultrahd.streamplay.co.in/subtitle.vtt?url=https%3A%2F%2Fultrahd.streamplay.co.in%2Fuploads%2Fsubtitles%2Fbtth%20131_English_Arabic-W79b4OPFw3uIEei.vtt",
+                                "lang": "Arabic"
+                            },
+                            {
+                                "url": "https://ultrahd.streamplay.co.in/subtitle.vtt?url=https%3A%2F%2Fultrahd.streamplay.co.in%2Fuploads%2Fsubtitles%2Fbtth%20131_English_Bengali-Oaf-cbozrL3dhNk.vtt",
+                                "lang": "Bengali"
+                            },
+                            {
+                                "url": "https://ultrahd.streamplay.co.in/subtitle.vtt?url=https%3A%2F%2Fultrahd.streamplay.co.in%2Fuploads%2Fsubtitles%2Fbtth%20131_English_French-FmAGrYB5n8WT.XV.vtt",
+                                "lang": "French"
+                            },
+                            {
+                                "url": "https://ultrahd.streamplay.co.in/subtitle.vtt?url=https%3A%2F%2Fultrahd.streamplay.co.in%2Fuploads%2Fsubtitles%2Fbtth%20131_English_German-ykr30BhjSd2WvXq.vtt",
+                                "lang": "German"
+                            },
+                            {
+                                "url": "https://ultrahd.streamplay.co.in/subtitle.vtt?url=https%3A%2F%2Fultrahd.streamplay.co.in%2Fuploads%2Fsubtitles%2Fbtth%20131_English_Indonesian-yko021ZJPuhTHeR.vtt",
+                                "lang": "Indonesian"
+                            },
+                            {
+                                "url": "https://ultrahd.streamplay.co.in/subtitle.vtt?url=https%3A%2F%2Fultrahd.streamplay.co.in%2Fuploads%2Fsubtitles%2Fbtth%20131_English_Italian-kBX4pCq1JtsOLvx.vtt",
+                                "lang": "Italian"
+                            },
+                            {
+                                "url": "https://ultrahd.streamplay.co.in/subtitle.vtt?url=https%3A%2F%2Fultrahd.streamplay.co.in%2Fuploads%2Fsubtitles%2Fbtth%20131_English_Khmer-MKH-VCvWrJl0w8t.vtt",
+                                "lang": "Cambodian"
+                            },
+                            {
+                                "url": "https://ultrahd.streamplay.co.in/subtitle.vtt?url=https%3A%2F%2Fultrahd.streamplay.co.in%2Fuploads%2Fsubtitles%2Fbtth%20131_English_Myanmar%20%28Burmese%29-TBF_NDYhSQy7ZKk.vtt",
+                                "lang": "Burmese"
+                            },
+                            {
+                                "url": "https://ultrahd.streamplay.co.in/subtitle.vtt?url=https%3A%2F%2Fultrahd.streamplay.co.in%2Fuploads%2Fsubtitles%2Fbtth%20131_English_Persian-0-JM16xFaucdrH..vtt",
+                                "lang": "Persian"
+                            },
+                            {
+                                "url": "https://ultrahd.streamplay.co.in/subtitle.vtt?url=https%3A%2F%2Fultrahd.streamplay.co.in%2Fuploads%2Fsubtitles%2Fbtth%20131_English_Polish-gVZYwJyWjDP9hEN.vtt",
+                                "lang": "Polish"
+                            },
+                            {
+                                "url": "https://ultrahd.streamplay.co.in/subtitle.vtt?url=https%3A%2F%2Fultrahd.streamplay.co.in%2Fuploads%2Fsubtitles%2Fbtth%20131_English_Portuguese-u5E4CVvf6zYyn.S.vtt",
+                                "lang": "Portuguese"
+                            },
+                            {
+                                "url": "https://ultrahd.streamplay.co.in/subtitle.vtt?url=https%3A%2F%2Fultrahd.streamplay.co.in%2Fuploads%2Fsubtitles%2Fbtth%20131_English_Russian-t3kjMXgYr_NbA0D.vtt",
+                                "lang": "Russian"
+                            },
+                            {
+                                "url": "https://ultrahd.streamplay.co.in/subtitle.vtt?url=https%3A%2F%2Fultrahd.streamplay.co.in%2Fuploads%2Fsubtitles%2Fbtth%20131_English_Spanish-b.EDPxjgsFAJae6.vtt",
+                                "lang": "Spanish"
+                            },
+                            {
+                                "url": "https://ultrahd.streamplay.co.in/subtitle.vtt?url=https%3A%2F%2Fultrahd.streamplay.co.in%2Fuploads%2Fsubtitles%2Fbtth%20131_English_Thai-AuBSgGCHxlX9ep4.vtt",
+                                "lang": "Thai"
+                            },
+                            {
+                                "url": "https://ultrahd.streamplay.co.in/subtitle.vtt?url=https%3A%2F%2Fultrahd.streamplay.co.in%2Fuploads%2Fsubtitles%2Fbtth%20131_English_Turkish-zUHRiWOq3ho2Gwa.vtt",
+                                "lang": "Turkish"
+                            },
+                            {
+                                "url": "https://ultrahd.streamplay.co.in/subtitle.vtt?url=https%3A%2F%2Fultrahd.streamplay.co.in%2Fuploads%2Fsubtitles%2Fbtth%20131_English_Vietnamese-8PujL_v2dEA6bYX.vtt",
+                                "lang": "Vietnamese"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

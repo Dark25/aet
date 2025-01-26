@@ -7,14 +7,14 @@
                     {
                         "animes": [
                             {
-                                "url": "{\"slug\":\"Solo-Leveling-Season-2-Arise-from-the-Shadow\",\"id\":\"67003839e9aec61796753c7b\"}",
-                                "title": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
-                                "thumbnail_url": "https://media.kitsu.app/anime/48671/poster_image/839ccca51b13f5ff13790f158795fbba.jpg"
-                            },
-                            {
                                 "url": "{\"slug\":\"sousou-no-frieren\",\"id\":\"NIUsb960SxtXls4h\"}",
                                 "title": "Sousou no Frieren",
                                 "thumbnail_url": "https://media.kitsu.app/anime/46474/poster_image/99d7df09d8cb9360b1e02825372ce612.jpg"
+                            },
+                            {
+                                "url": "{\"slug\":\"Solo-Leveling-Season-2-Arise-from-the-Shadow\",\"id\":\"67003839e9aec61796753c7b\"}",
+                                "title": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+                                "thumbnail_url": "https://media.kitsu.app/anime/48671/poster_image/839ccca51b13f5ff13790f158795fbba.jpg"
                             },
                             {
                                 "url": "{\"slug\":\"dandadan\",\"id\":\"656670f7e2837ade9babe512\"}",
@@ -259,9 +259,9 @@
             },
             "details": {
                 "result": {
-                    "url": "{\"slug\":\"Solo-Leveling-Season-2-Arise-from-the-Shadow\",\"id\":\"67003839e9aec61796753c7b\"}",
-                    "description": "The second season of Solo Leveling.\nMastering his new abilities in secret, Jin-U must battle humanity's toughest foes to save his mother.\n\n(Source: Crunchyroll News)",
-                    "genre": "Action, Adventure, Fantasy",
+                    "url": "{\"slug\":\"sousou-no-frieren\",\"id\":\"NIUsb960SxtXls4h\"}",
+                    "description": "The adventure is over but life goes on for an elf mage just beginning to learn what living is all about. Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her? Decades after their victory, the funeral of one her friends confronts Frieren with her own near immortality. Frieren sets out to fulfill the last wishes of her comrades and finds herself beginning a new adventure…\n\n(Source: Crunchyroll)",
+                    "genre": "Adventure, Drama, Fantasy",
                     "initialized": true
                 },
                 "passed": true
@@ -269,20 +269,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/d84338ca-993d-47c9-9c9e-fed7ba82e06f?origin=67003839e9aec61796753c7b",
-                        "name": "Ep. 4 - I Need To Stop Faking",
-                        "episode_number": 4.0
+                        "url": "/watch/cadd5567-63e8-4c6d-ab39-96a8ee30364b?origin=NIUsb960SxtXls4h",
+                        "name": "Ep. 28 - It Would Be Embarrassing When We Met Again",
+                        "episode_number": 28.0
                     },
                     {
-                        "url": "/watch/6ffa426a-fa7b-41b8-a59f-63ba041de9bf?origin=67003839e9aec61796753c7b",
-                        "name": "Ep. 3 - Still a Long Way to Go",
-                        "episode_number": 3.0
+                        "url": "/watch/70f3f7ce-685c-4d66-a726-6a304f4eb379?origin=NIUsb960SxtXls4h",
+                        "name": "Ep. 27 - An Era of Humans",
+                        "episode_number": 27.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Route GET:/storage/Ore%20dake%20Level%20Up%20na%20Ken:%20Season%202%20-%20Arise%20from%20the%20Shadow/4 not found",
+                "error": "java.lang.Exception: Route GET:/storage/Sousou%20no%20Frieren/28 not found",
                 "passed": false
             }
         }

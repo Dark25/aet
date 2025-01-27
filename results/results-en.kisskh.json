@@ -222,9 +222,39 @@
                                 "thumbnail_url": "https://image-7wk.pages.dev/93c14823-9319-491e-b117-b14d271af4fc.png"
                             },
                             {
+                                "url": "/api/DramaList/Drama/10169?isq=false",
+                                "title": "Fated to Love You (2023)",
+                                "thumbnail_url": "https://m.ykimg.com/0535000063D9DB4613EB660AA21E08BC"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/10168?isq=false",
+                                "title": "The Merciless",
+                                "thumbnail_url": "https://image-7wk.pages.dev/eb4fd10a-ba75-48d8-ae3d-6b26ce4a7065.jpg"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/10138?isq=false",
                                 "title": "XO, Kitty Season 2",
                                 "thumbnail_url": "https://occ-0-64-58.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcVptdad6rNVJOVGfI3jed0BWnKXusZjHg9schmd-_E9w8VHrYhj8fv-Ts-CNwavfX7pokRZXcZ-MbjKcquQF8OPmv0RDwNQs8xs.webp?r=33a"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/10097?isq=false",
+                                "title": "Love on the Edge of Divorce",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/ju6uvcrbw20mv201736471914375/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/10141?isq=false",
+                                "title": "Stolen Love - Take by Force",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/gf8lt8pyrwg0hzp1736833219221/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/10152?isq=false",
+                                "title": "Live or Love?",
+                                "thumbnail_url": "https://puui.wetvinfo.com/wetv/cms/4050_1737262306_19201080.jpeg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/10167?isq=false",
+                                "title": "The Gold Behind the Stone",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/mnl0hs42r74qc2a1737446554690/0"
                             },
                             {
                                 "url": "/api/DramaList/Drama/9827?isq=false",
@@ -312,11 +342,6 @@
                                 "thumbnail_url": "https://image-7wk.pages.dev/d20702e0-5fb9-4527-87b2-bd0bc7f24f45.png"
                             },
                             {
-                                "url": "/api/DramaList/Drama/10097?isq=false",
-                                "title": "Love on the Edge of Divorce",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/ju6uvcrbw20mv201736471914375/0"
-                            },
-                            {
                                 "url": "/api/DramaList/Drama/8093?isq=false",
                                 "title": "Legend of Xianwu 2nd Season",
                                 "thumbnail_url": "https://m.ykimg.com/0535000066F0F82F13EBC610165E6530"
@@ -325,21 +350,6 @@
                                 "url": "/api/DramaList/Drama/10106?isq=false",
                                 "title": "The Great Cao Xuan Xuan - Cao Xuanxuan's Love Journey",
                                 "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/ks0fotw9p1cf1uq1736576884606/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/10141?isq=false",
-                                "title": "Stolen Love - Take by Force",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/gf8lt8pyrwg0hzp1736833219221/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/10152?isq=false",
-                                "title": "Live or Love?",
-                                "thumbnail_url": "https://puui.wetvinfo.com/wetv/cms/4050_1737262306_19201080.jpeg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/10167?isq=false",
-                                "title": "The Gold Behind the Stone",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/mnl0hs42r74qc2a1737446554690/0"
                             },
                             {
                                 "url": "/api/DramaList/Drama/8524?isq=false",
@@ -405,16 +415,6 @@
                                 "url": "/api/DramaList/Drama/10062?isq=false",
                                 "title": "I Am Nobody: The Showdown Between Yin & Yang",
                                 "thumbnail_url": "https://image-7wk.pages.dev/485725cd-895c-45bb-bbe1-289d564f954a.png"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/10165?isq=false",
-                                "title": "Reopen My Journals",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/4xwunf5pnpzta101737605795159/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/10122?isq=false",
-                                "title": "Sakamoto Days",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/2BEocOFPIc1nniZ3l1YVMce91Jd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -560,7 +560,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-2849595148650409208/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-2849595148650409208/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-2849595148650409208/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-5620402108486960107/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-5620402108486960107/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-5620402108486960107/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

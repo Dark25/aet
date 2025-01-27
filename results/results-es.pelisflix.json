@@ -11,15 +11,15 @@
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }
@@ -28,23 +28,23 @@
         "name": "Seriesflix (ES)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

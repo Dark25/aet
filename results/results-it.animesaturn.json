@@ -3,28 +3,526 @@
         "name": "AnimeSaturn (IT)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/A-Terrified-Teacher-at-Ghoul-School",
+                                "title": "A Terrified Teacher at Ghoul School!",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/16e24abee10196ff2403c4f9616d52181730310135_full.jpg"
+                            },
+                            {
+                                "url": "/anime/A-Will-Eternal-2",
+                                "title": "A Will Eternal 2",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/AWillEternal2.png"
+                            },
+                            {
+                                "url": "/anime/Ameku-MD-Doctor-Detective",
+                                "title": "Ameku M.D.: Doctor Detective",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/c8d9ace86bc0c3080a3d6cac2f2dac00.png"
+                            },
+                            {
+                                "url": "/anime/Anyway-Im-Falling-in-Love-with-You",
+                                "title": "Anyway, I'm Falling in Love with You.",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/481f8501126dfbe370ed1f1f1354b896.png"
+                            },
+                            {
+                                "url": "/anime/Ao-no-Exorcist-Yosuga-hen",
+                                "title": "Ao no Exorcist: Yosuga-hen",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/26907_1_1.png"
+                            },
+                            {
+                                "url": "/anime/Aquarion-Myth-of-Emotions",
+                                "title": "Aquarion: Myth of Emotions",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/AquarionMyth.png?0"
+                            },
+                            {
+                                "url": "/anime/Arifureta-Shokugyou-de-Sekai-Saikyou-3",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou 3",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/27366_1_1.png"
+                            },
+                            {
+                                "url": "/anime/Baban-Baban-Ban-Vampire",
+                                "title": "Baban Baban Ban Vampire",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/Baban.png"
+                            },
+                            {
+                                "url": "/anime/BanG-Dream-Ave-Mujicaa",
+                                "title": "BanG Dream! Ave Mujica",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/27572_1_1.png?0"
+                            },
+                            {
+                                "url": "/anime/Beyblade-X-ITA",
+                                "title": "Beyblade X Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/BeybladeX.png"
+                            },
+                            {
+                                "url": "/anime/Bleach-Sennen-Kessen-hen---Soukoku-tan-ITA",
+                                "title": "Bleach: Sennen Kessen-hen - Soukoku-tan Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/bleach-animeKV_3rd.png"
+                            },
+                            {
+                                "url": "/anime/Blue-Box",
+                                "title": "Blue Box",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/BlueBox.png"
+                            },
+                            {
+                                "url": "/anime/Bogus-Skill-Fruitmaster-About-that-time-I-became-able-to-eat-unlimited-numbers-of-Skill-Fruits-that-kill-you",
+                                "title": "Bogus Skill <> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/27612_1_1.png"
+                            },
+                            {
+                                "url": "/anime/Busted-Darklord",
+                                "title": "Busted! Darklord.",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/BustedDarklord.png"
+                            },
+                            {
+                                "url": "/anime/DanMachi-5",
+                                "title": "DanMachi 5",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/27294_1_1.png"
+                            },
+                            {
+                                "url": "/anime/Detective-Conan-aa",
+                                "title": "Detective Conan",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/80ab25b76779d973d8868f875decb657.png"
+                            },
+                            {
+                                "url": "/anime/Dog-Signal",
+                                "title": "Dog Signal",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/DogSignal.png"
+                            },
+                            {
+                                "url": "/anime/Dr-Stone-4",
+                                "title": "Dr. Stone 4",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/27619_1_1.png"
+                            },
+                            {
+                                "url": "/anime/Dr-Stone-4-ITA",
+                                "title": "Dr. Stone 4 Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/27619_1_1.png"
+                            },
+                            {
+                                "url": "/anime/Dragon-Ball-Daima",
+                                "title": "Dragon Ball Daima",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/27355_1_1.png"
+                            },
+                            {
+                                "url": "/anime/Even-Given-the-Worthless-Appraiser-Class-Im-Actually-the-Strongest",
+                                "title": "Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/e4170bf29eb4e24a472e7ca86adb496d.png"
+                            },
+                            {
+                                "url": "/anime/Fairy-Tail-100-Years-Quest",
+                                "title": "Fairy Tail: 100 Years Quest",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/27218_1_1.png"
+                            },
+                            {
+                                "url": "/anime/Fairy-Tail-100-Years-Quest-ITA",
+                                "title": "Fairy Tail: 100 Years Quest Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/27218_1_1.png"
+                            },
+                            {
+                                "url": "/anime/Fantasy-Kaleidoscope-The-Memories-of-Phantasm",
+                                "title": "Fantasy Kaleidoscope ~The Memories of Phantasm~",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/TheMemoriesOfPhantasm.png"
+                            },
+                            {
+                                "url": "/anime/Farmagia",
+                                "title": "Farmagia",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/8dba39ed8dc81ca74bd816f358fa52ae.png"
+                            },
+                            {
+                                "url": "/anime/Fatestrange-Fake",
+                                "title": "Fate/strange Fake",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/FateStrangeFake.png"
+                            },
+                            {
+                                "url": "/anime/From-Bureaucrat-to-Villainess-Dads-Been-Reincarnated",
+                                "title": "From Bureaucrat to Villainess: Dad's Been Reincarnated!",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/27577_1_1.png"
+                            },
+                            {
+                                "url": "/anime/Grisaia-Phantom-Trigger",
+                                "title": "Grisaia: Phantom Trigger",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/51049d7b26753d4c2584740c704b13ac.png"
+                            },
+                            {
+                                "url": "/anime/Haigakura",
+                                "title": "Haigakura",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/27325_1_1.png"
+                            },
+                            {
+                                "url": "/anime/Hamidashi-Creative",
+                                "title": "Hamidashi Creative",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/copertine/HamidashiCreative.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/Castlevania-Nocturne-2-ITA",
+                                "title": "Castlevania: Nocturne 2 Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/Noct2.png"
+                            },
+                            {
+                                "url": "/anime/Castlevania-Nocturne-2",
+                                "title": "Castlevania: Nocturne 2",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/Noct2.png"
+                            },
+                            {
+                                "url": "/anime/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu---Eris-no-Goblin-Toubatsu-ITA",
+                                "title": "Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/bx141534-Tmnlz4mvYhaU.jpg"
+                            },
+                            {
+                                "url": "/anime/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu-Part-2-ITA",
+                                "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/UNNMY.jpg"
+                            },
+                            {
+                                "url": "/anime/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu-ITA",
+                                "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/bx108465-8QpU0ZSymA8R.jpg"
+                            },
+                            {
+                                "url": "/anime/The-Rising-of-the-Shield-Hero-2-ITA",
+                                "title": "The Rising of the Shield Hero 2 Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/bx111321-VHBQAti3dUtp.jpg"
+                            },
+                            {
+                                "url": "/anime/Fairy-Tail-100-Years-Quest-ITA",
+                                "title": "Fairy Tail: 100 Years Quest Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/8MC61.jpg"
+                            },
+                            {
+                                "url": "/anime/Grendizer-U-ITA",
+                                "title": "Grendizer U Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/Go2iM.jpg"
+                            },
+                            {
+                                "url": "/anime/My-Happy-Marriage-2-ITA",
+                                "title": "My Happy Marriage 2 Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/UMexu.jpg"
+                            },
+                            {
+                                "url": "/anime/The-Lord-of-the-Rings-The-War-of-the-Rohirrim-ITA",
+                                "title": "The Lord of the Rings: The War of the Rohirrim Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/bx185613-9zocGYsTHeO5.jpg"
+                            },
+                            {
+                                "url": "/anime/Ao-no-Exorcist-Yosuga-hen",
+                                "title": "Ao no Exorcist: Yosuga-hen",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/bx185880-efBIcDBzPiHP.jpg"
+                            },
+                            {
+                                "url": "/anime/The-Lord-of-the-Rings-The-War-of-the-Rohirrim",
+                                "title": "The Lord of the Rings: The War of the Rohirrim",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/bx185613-9zocGYsTHeO5.jpg"
+                            },
+                            {
+                                "url": "/anime/bel-Blatt",
+                                "title": "Übel Blatt",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/J4TMS.jpg"
+                            },
+                            {
+                                "url": "/anime/ZENSHU-ITA",
+                                "title": "ZENSHU Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/U1aKT.jpg"
+                            },
+                            {
+                                "url": "/anime/ZENSHU",
+                                "title": "ZENSHU",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/U1aKT.jpg"
+                            },
+                            {
+                                "url": "/anime/Yami-Shibai-14-a",
+                                "title": "Yami Shibai 14",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/vtkGE.png"
+                            },
+                            {
+                                "url": "/anime/Witchy-Pretty-Cure-2",
+                                "title": "Witchy Pretty Cure! 2",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/VuJgE.jpg"
+                            },
+                            {
+                                "url": "/anime/Welcome-to-Japan-Ms-Elf",
+                                "title": "Welcome to Japan, Ms. Elf!",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/Bd8XY.jpg"
+                            },
+                            {
+                                "url": "/anime/Unnamed-Memory-Act2",
+                                "title": "Unnamed Memory Act.2",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/SGjYC.jpg"
+                            },
+                            {
+                                "url": "/anime/UniteUp--UniBirth-",
+                                "title": "UniteUp! -Uni:Birth-",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/Y89LY.png"
+                            },
+                            {
+                                "url": "/anime/The-Red-Ranger-Becomes-an-Adventurer-in-Another-World",
+                                "title": "The Red Ranger Becomes an Adventurer in Another World",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/lcXNh.jpg"
+                            },
+                            {
+                                "url": "/anime/The-Daily-Life-of-a-Middle-Aged-Online-Shopper-in-Another-World",
+                                "title": "The Daily Life of a Middle-Aged Online Shopper in Another World",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/cFkkJ.jpg"
+                            },
+                            {
+                                "url": "/anime/The-Apothecary-Diaries-2",
+                                "title": "The Apothecary Diaries 2",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/VgMgs.jpg"
+                            },
+                            {
+                                "url": "/anime/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You-2",
+                                "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You 2",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/h83yG.jpg"
+                            },
+                            {
+                                "url": "/anime/Tasokare-Hotel",
+                                "title": "Tasokare Hotel",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/t3pfs.jpg"
+                            },
+                            {
+                                "url": "/anime/Sorairo-Utility-TV",
+                                "title": "Sorairo Utility (TV)",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/O8qTI.jpg"
+                            },
+                            {
+                                "url": "/anime/Possibly-the-Greatest-Alchemist-of-All-Time",
+                                "title": "Possibly the Greatest Alchemist of All Time",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/NHiDW.jpg"
+                            },
+                            {
+                                "url": "/anime/Solo-Leveling-2-Arise-from-the-Shadow-ITA",
+                                "title": "Solo Leveling 2: Arise from the Shadow Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/2J1Jh.jpg"
+                            },
+                            {
+                                "url": "/anime/Solo-Leveling-2-Arise-from-the-Shadow",
+                                "title": "Solo Leveling 2: Arise from the Shadow",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/2J1Jh.jpg"
+                            },
+                            {
+                                "url": "/anime/Sakamoto-Days-ITA",
+                                "title": "Sakamoto Days Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/bx177709-jBQ965JZG0l8.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/Accel-World",
+                                "title": "Accel World",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/55231l.jpg"
+                            },
+                            {
+                                "url": "/anime/World-Trigger-a",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/66705l.jpg"
+                            },
+                            {
+                                "url": "/anime/Another-World",
+                                "title": "Another World",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/102748l.jpg"
+                            },
+                            {
+                                "url": "/anime/Accel-World-EX",
+                                "title": "Accel World EX",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/41815l.jpg"
+                            },
+                            {
+                                "url": "/anime/World-Trigger-2-a",
+                                "title": "World Trigger 2",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/bx114087-lbgBqo5KmPuz.jpg"
+                            },
+                            {
+                                "url": "/anime/World-Trigger-3-a",
+                                "title": "World Trigger 3",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/1tSD0.jpg"
+                            },
+                            {
+                                "url": "/anime/Good-Night-World",
+                                "title": "Good Night World",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/a5Zzt.jpg"
+                            },
+                            {
+                                "url": "/anime/Dawn-of-the-World",
+                                "title": "Dawn of the World",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/90507l.jpg"
+                            },
+                            {
+                                "url": "/anime/Hello-World-ITA",
+                                "title": "Hello World Dub ITA",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/bx106240-XeWQ4YhKzv7h.png"
+                            },
+                            {
+                                "url": "/anime/Worlds-End-Harem",
+                                "title": "World's End Harem",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/gZnmN.jpg"
+                            },
+                            {
+                                "url": "/anime/Hetalia-World-Series",
+                                "title": "Hetalia World Series",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/75792l.jpg"
+                            },
+                            {
+                                "url": "/anime/Hetalia-WorldStars",
+                                "title": "Hetalia World★Stars",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/x-gcg.jpg"
+                            },
+                            {
+                                "url": "/anime/SD-Gundam-World-Heroes",
+                                "title": "SD Gundam World Heroes",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/t2-pw.jpg"
+                            },
+                            {
+                                "url": "/anime/Bananya-Around-the-World",
+                                "title": "Bananya Around the World",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/308533.jpg"
+                            },
+                            {
+                                "url": "/anime/Game-World-Reincarnation",
+                                "title": "Game World Reincarnation",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/bx135848-NokJPvqur7Tz.jpg"
+                            },
+                            {
+                                "url": "/anime/Musaigen-no-Phantom-World",
+                                "title": "Musaigen no Phantom World",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/76723l.jpg"
+                            },
+                            {
+                                "url": "/anime/Hetalia-The-World-Twinkle",
+                                "title": "Hetalia: The World Twinkle",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/71753l.jpg"
+                            },
+                            {
+                                "url": "/anime/In-This-Corner-of-the-World",
+                                "title": "In This Corner of the World",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/bx15227-1tG3lhprG0A9.jpg"
+                            },
+                            {
+                                "url": "/anime/Love-after-World-Domination",
+                                "title": "Love after World Domination",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/HIutU.jpg"
+                            },
+                            {
+                                "url": "/anime/Loner-Life-in-Another-World-a",
+                                "title": "Loner Life in Another World",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/bx173693-tRLdDE1BieXe.png"
+                            },
+                            {
+                                "url": "/anime/Seiken-Tsukai-no-World-Break",
+                                "title": "Seiken Tsukai no World Break",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/71769l.jpg"
+                            },
+                            {
+                                "url": "/anime/Hetalia-The-Beautiful-World",
+                                "title": "Hetalia: The Beautiful World",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/46073l.jpg"
+                            },
+                            {
+                                "url": "/anime/Farming-Life-in-Another-World-aaaaa",
+                                "title": "Farming Life in Another World",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/bx146850-xfeAFIE0M9hl.jpg"
+                            },
+                            {
+                                "url": "/anime/Accel-World-InfiniteBurst",
+                                "title": "Accel World: Infinite∞Burst",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/87145l.jpg"
+                            },
+                            {
+                                "url": "/anime/Train-to-the-End-of-the-World",
+                                "title": "Train to the End of the World",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/Q8i6f.jpg"
+                            },
+                            {
+                                "url": "/anime/Hetalia-WorldStars-Specials",
+                                "title": "Hetalia World★Stars Specials",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/b136137-x5i18VP1A76I.jpg"
+                            },
+                            {
+                                "url": "/anime/World-Witches-Hasshin-Shimasu",
+                                "title": "World Witches Hasshin Shimasu!",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/bx121681-yQBcravTSQhy.jpg"
+                            },
+                            {
+                                "url": "/anime/One-Piece-Movie-10-Strong-World",
+                                "title": "One Piece Movie 10: Strong World",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/bx4155-P5TDf6t6qFwX.png"
+                            },
+                            {
+                                "url": "/anime/Skeleton-Knight-in-Another-World",
+                                "title": "Skeleton Knight in Another World",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/MCDyz.jpg"
+                            },
+                            {
+                                "url": "/anime/Handyman-Saitou-in-Another-World",
+                                "title": "Handyman Saitou in Another World",
+                                "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/bx144092-8EKzzZQofFlW.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.lang.StringIndexOutOfBoundsException: begin 7, end -1, length 0",
-                "passed": false
+                "result": {
+                    "url": "/anime/A-Terrified-Teacher-at-Ghoul-School",
+                    "title": "A Terrified Teacher at Ghoul School! ",
+                    "author": "Commedia Fantasy Scolastico Shounen Studio: Satelight",
+                    "description": "Haruaki è timido e ha paura di tutto e di tutti, ma cerca comunque di essere un buon insegnante. Tuttavia, la nuova scuola in cui sta per iniziare a lavorare non è esattamente come se l'aspettava: i suoi studenti, infatti, sono mostri, demoni, fantasmi e ogni sorta di creatura soprannaturale!\n\nTitolo Alternativo: Youkai Gakkou no Sensei Hajimemashita!",
+                    "genre": "",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://cdn.animesaturn.cx/static/images/locandine/9Fi36.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/A-Terrified-Teacher-at-Ghoul-School-ep-15",
+                        "name": "Episodio 15",
+                        "episode_number": 15.0
+                    },
+                    {
+                        "url": "/episode/A-Terrified-Teacher-at-Ghoul-School-ep-14",
+                        "name": "Episodio 14",
+                        "episode_number": 14.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for &s=alt",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://srv18.onsen.streampeaker.org/DDL/ANIME/YoukaiGakkouNoSensei/YoukaiGakkouNoSensei_Ep_15_SUB_ITA.mp4",
+                        "quality": "Qualità predefinita",
+                        "videoUrl": "https://srv18.onsen.streampeaker.org/DDL/ANIME/YoukaiGakkouNoSensei/YoukaiGakkouNoSensei_Ep_15_SUB_ITA.mp4",
+                        "headers": {
+                            "Referer": "https://www.anisaturn.com/watch?file=5lNAWIlsb4MF8&s=alt"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

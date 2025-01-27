@@ -222,6 +222,26 @@
                                 "thumbnail_url": "https://image-7wk.pages.dev/93c14823-9319-491e-b117-b14d271af4fc.png"
                             },
                             {
+                                "url": "/api/DramaList/Drama/10171?isq=false",
+                                "title": "Red Blue",
+                                "thumbnail_url": "https://image-7wk.pages.dev/bc459ba0-ef01-40d4-9656-8a73132c0a34.jpg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/10056?isq=false",
+                                "title": "Ossan's Love Thailand",
+                                "thumbnail_url": "https://image-7wk.pages.dev/85675a4c-8ca6-4a37-b773-dbc707b16ffc.png"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9923?isq=false",
+                                "title": "Cinderella Game",
+                                "thumbnail_url": "https://prod-images.viu.com/1994399550/0597b331e16cebe1e8ad8895495cfb1e7c41e3b7?im=Resize,width=1920"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/9936?isq=false",
+                                "title": "Namib",
+                                "thumbnail_url": "https://1.vikiplatform.com/c/40730c/8dfc6d66f2.jpg?x=b&s=1920x1080"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/10161?isq=false",
                                 "title": "Perfect Match",
                                 "thumbnail_url": "https://occ-0-4152-325.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXI382tcbhQxBp0FUQCsIuX0XPVwI0aucm1-zY7Yt8dObBab8nJcnpG_CkUp1ePmUrV37fhXYikFhSSpFF2-Nr4ktXuVN1jp4K2RpNYYYpIRITuZq3yDEZT_p6b-ZDP2Lm_PQA.jpg?r=165"
@@ -395,26 +415,6 @@
                                 "url": "/api/DramaList/Drama/9580?isq=false",
                                 "title": "Petrichor: Uncut",
                                 "thumbnail_url": "https://imagecdn.app/v1/images/http%3A%2F%2Fpic8.iqiyipic.com%2Fimage%2F20241122%2Fc4%2F8e%2Fa_100588172_m_601_en_1920_1080.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/10035?isq=false",
-                                "title": "Love Scout",
-                                "thumbnail_url": "https://occ-0-4152-325.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYmvAnqHbxgdc8-ddD8GF9M9wvx0bevXck1qbUIR--1L7gYfOkbEKdMHVwPVb_Vd2tNPXX7lccKQFbTklnI4wRCWzDjUyYf9-_cD.webp?r=f57"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/10058?isq=false",
-                                "title": "Motel California",
-                                "thumbnail_url": "https://image-9vl.pages.dev/WBREU4ou4YLrwotL9YN119T3cdutHLCi.webp"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/10132?isq=false",
-                                "title": "Us (2025)",
-                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/kaSo1nmIVeUupYk64wwalQMkkam.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/10120?isq=false",
-                                "title": "I Will Turn Back This Time",
-                                "thumbnail_url": "https://img.gagaoolala.com/media/e4f068c6-427772-lg.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -560,7 +560,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-11412146896800552770/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-11412146896800552770/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-11412146896800552770/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-16653930226420125107/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-16653930226420125107/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-16653930226420125107/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

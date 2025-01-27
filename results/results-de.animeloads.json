@@ -239,20 +239,20 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/media/kinnikuman-kanpeki-choujin-shiso-hen-season-2#streams_episodes_1_2",
+                        "name": "Ep.3 Episode 3",
+                        "episode_number": 3.0
+                    },
+                    {
                         "url": "/media/kinnikuman-kanpeki-choujin-shiso-hen-season-2#streams_episodes_1_1",
                         "name": "Ep.2 Episode 2",
                         "episode_number": 2.0
-                    },
-                    {
-                        "url": "/media/kinnikuman-kanpeki-choujin-shiso-hen-season-2#streams_episodes_1_0",
-                        "name": "Ep.1 Episode 1",
-                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17259097844811258790/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17259097844811258790/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17259097844811258790/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-3998982841130192089/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-3998982841130192089/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-3998982841130192089/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

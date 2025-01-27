@@ -142,6 +142,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kono-kaisha-suki-imasu-sub-indo/",
+                                "title": "Kono Kaisha ni Suki na Hito ga Imasu",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146384.jpg"
+                            },
+                            {
+                                "url": "/anime/watashi-shiawase-s2-sub-indo/",
+                                "title": "Watashi no Shiawase na Kekkon Season 2",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146770.jpg"
+                            },
+                            {
+                                "url": "/anime/arifureta-s3-sub-indo/",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/Arifureta-Shokugyou-de-Sekai-Saikyou-Season-3.jpg"
+                            },
+                            {
                                 "url": "/anime/sentai-red-isekai-sub-indo/",
                                 "title": "Sentai Red Isekai de Boukensha ni Naru",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146918.jpg"
@@ -250,21 +265,6 @@
                                 "url": "/anime/tasokare-hotel-sub-indo/",
                                 "title": "Tasokare Hotel",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/147269.jpg"
-                            },
-                            {
-                                "url": "/anime/farmagia-sub-indo/",
-                                "title": "Farmagia",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146839.jpg"
-                            },
-                            {
-                                "url": "/anime/elf-san-episode-1-sub-indo/",
-                                "title": "Nihon e Youkoso Elf-san.",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146113.jpg"
-                            },
-                            {
-                                "url": "/anime/akuyaku-ojisan-sub-indo/",
-                                "title": "Akuyaku Reijou Tensei Ojisan",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146484.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7835710281694091954/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7835710281694091954/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7835710281694091954/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-1096690426571271027/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-1096690426571271027/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-1096690426571271027/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-7835710281694091954/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-7835710281694091954/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-7835710281694091954/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-1096690426571271027/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-1096690426571271027/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-1096690426571271027/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

@@ -201,24 +201,26 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/saving-80000-gold-in-another-world-for-my-retirement-18297?ref=search",
-                    "author": "Felix Film",
-                    "description": "Mitsuha Yamano could not have had it worse. After failing to enter her university of choice and losing her entire family in an accident, she finds herself plummeting off a cliff due to an especially fragile guardrail. Through what seems to be the only bit of the fortune left in her life, Mitsuha's firm unwillingness to die allows her to be transported to another world, where she ends up surviving. In this foreign land, Mitsuha wanders around for days before collapsing from exhaustion and being rescued by a little girl named Colette. Not long after, she finds herself in yet another life-threatening situation, and her indomitable will shines once more, granting her an audience with a divine cosmic being. The entity reveals to Mitsuha that she has acquired not only superhuman regeneration but also the ability to transport between worlds at will. Armed with this new information, Mitsuha brainstorms ways to utilize her newfound power to its full potential. Realizing that she can take goods from Earth and resell them to the other world at a higher price, she resolves to save up eighty thousand gold coins to be able to retire comfortably.\n\nAired: Jan 8, 2023 to Mar 26, 2023\nPremiered: Winter 2023\nSynonyms: Roukin\nJapanese: 老後に備えて異世界で８万枚の金貨を貯めます",
-                    "genre": "Fantasy, Isekai",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/e1/d7/e1d7a45381ab2aaf864898d6506b72f8/e1d7a45381ab2aaf864898d6506b72f8.jpg",
-                    "initialized": true
-                },
-                "passed": true
-            },
-            "episodes": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'html' is required for type with serial name 'eu.kanade.tachiyomi.multisrc.zorotheme.dto.HtmlResponse', but it was missing at path: $",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/watch/saving-80000-gold-in-another-world-for-my-retirement-18297?ep=99729",
+                        "name": "Ep. 12: Saving 80,000 Gold in Another World",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/watch/saving-80000-gold-in-another-world-for-my-retirement-18297?ep=99527",
+                        "name": "Ep. 11: The Messenger Goes into Battle",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
+            },
             "videos": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'html' is required for type with serial name 'eu.kanade.tachiyomi.multisrc.zorotheme.dto.HtmlResponse', but it was missing at path: $",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
                 "passed": false
             }
         }

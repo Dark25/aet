@@ -222,6 +222,11 @@
                                 "thumbnail_url": "https://image-7wk.pages.dev/93c14823-9319-491e-b117-b14d271af4fc.png"
                             },
                             {
+                                "url": "/api/DramaList/Drama/10172?isq=false",
+                                "title": "Star Trek: Section 31",
+                                "thumbnail_url": "https://media.themoviedb.org/t/p/w1000_and_h563_face/uTEyfiANeDBxN7lPmmnHoJZVrhm.jpg"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/10171?isq=false",
                                 "title": "Red Blue",
                                 "thumbnail_url": "https://image-7wk.pages.dev/bc459ba0-ef01-40d4-9656-8a73132c0a34.jpg"
@@ -410,11 +415,6 @@
                                 "url": "/api/DramaList/Drama/10166?isq=false",
                                 "title": "Flirt Milk",
                                 "thumbnail_url": "https://image-7wk.pages.dev/78fadd3a-003f-4883-b5ed-b3e4071b1776.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9580?isq=false",
-                                "title": "Petrichor: Uncut",
-                                "thumbnail_url": "https://imagecdn.app/v1/images/http%3A%2F%2Fpic8.iqiyipic.com%2Fimage%2F20241122%2Fc4%2F8e%2Fa_100588172_m_601_en_1920_1080.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -560,7 +560,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-16653930226420125107/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-16653930226420125107/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-16653930226420125107/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6810211971831959571/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6810211971831959571/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6810211971831959571/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/beleza-fatal",
+                                "title": "Beleza Fatal (2025)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/6cth8WrDsVPSHfXzfX5PHY7yvs9.jpg"
+                            },
+                            {
                                 "url": "/serie/los-4-fantasticos",
                                 "title": "Los 4 Fantásticos (1994)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/8ZnnVgar6YTZyR8XAkJSvzTSj9.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/el-rastro",
                                 "title": "El rastro (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/a0txtq4bL5CogdykQDdLMdtkc5C.jpg"
-                            },
-                            {
-                                "url": "/serie/la-dimension-desconocida",
-                                "title": "La dimensión desconocida (19591964)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/hCkoDjeFF3G619EQ58vCkYoIPsB.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/los-4-fantasticos",
-                    "title": "Los 4 Fantásticos (1994)",
-                    "description": "Serie de TV (1994-1996). 26 episodios. Las aventuras del mayor equipo de superhéroes de Marvel Comic.",
-                    "genre": "Animación, Sci-Fi & Fantasy, Action & Adventure, Kids",
+                    "url": "/serie/beleza-fatal",
+                    "title": "Beleza Fatal (2025)",
+                    "description": "Una joven huérfana y su nueva familia se unen en la búsqueda de venganza contra los responsables de sus tragedias personales..",
+                    "genre": "Drama, Soap",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8ZnnVgar6YTZyR8XAkJSvzTSj9.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6cth8WrDsVPSHfXzfX5PHY7yvs9.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/los-4-fantasticos/temporada/1/capitulo/26",
-                        "name": "T1 - E26: Episodio 26",
-                        "episode_number": 26.0
+                        "url": "/serie/beleza-fatal/temporada/1/capitulo/5",
+                        "name": "T1 - E5: Episodio 5",
+                        "episode_number": 5.0
                     },
                     {
-                        "url": "/serie/los-4-fantasticos/temporada/1/capitulo/25",
-                        "name": "T1 - E25: Episodio 25",
-                        "episode_number": 25.0
+                        "url": "/serie/beleza-fatal/temporada/1/capitulo/4",
+                        "name": "T1 - E4: Episodio 4",
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
@@ -293,33 +293,77 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn-0avtzzldtufmmwtb.orbitcache.com/engine/hls2-c/01/13435/uq9rq7uvqmn1_,l,.urlset/index-v1-a1.m3u8?t=R5vVH_At5Bgaw0XtGYH97zyyN1DbxCt8viWmSuLZypQ&s=1738001291&e=14400&f=67177302&node=ua4INj8KPwINXkGgkHOfcC8sUZMvgqMA4gKNZ5VOFbk=&i=20.57&sp=2500&asn=8075&q=l",
-                        "quality": "[LAT] Voe:480p",
-                        "videoUrl": "https://cdn-0avtzzldtufmmwtb.orbitcache.com/engine/hls2-c/01/13435/uq9rq7uvqmn1_,l,.urlset/index-v1-a1.m3u8?t=R5vVH_At5Bgaw0XtGYH97zyyN1DbxCt8viWmSuLZypQ&s=1738001291&e=14400&f=67177302&node=ua4INj8KPwINXkGgkHOfcC8sUZMvgqMA4gKNZ5VOFbk=&i=20.57&sp=2500&asn=8075&q=l",
+                        "url": "https://cdn-jaeuw3ehedpghzva.orbitcache.com/engine/hls2/01/13450/i2tkbfozrnie_,n,.urlset/index-v1-a1.m3u8?t=QvQdpkkLxDwM7T5vO9KVvOeuc1envBDVh1l5Dc1-hWM&s=1738023530&e=14400&f=67251456&node=zGBu5D2v5eB3O/KB4a4xtvGvDbBUNXxDrrO4ga1VLgc=&i=52.160&sp=2500&asn=8075&q=n",
+                        "quality": "[LAT] Voe:720p",
+                        "videoUrl": "https://cdn-jaeuw3ehedpghzva.orbitcache.com/engine/hls2/01/13450/i2tkbfozrnie_,n,.urlset/index-v1-a1.m3u8?t=QvQdpkkLxDwM7T5vO9KVvOeuc1envBDVh1l5Dc1-hWM&s=1738023530&e=14400&f=67251456&node=zGBu5D2v5eB3O/KB4a4xtvGvDbBUNXxDrrO4ga1VLgc=&i=52.160&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://hgc0uswxhnn8.acek-cdn.com/hls2/01/03712/fxqh14dnoea5_l/index-v1-a1.m3u8?t=XMwYvMTZkcgYv4JSyk60BwIM6RFC_HWGwaRNJrKaMwA&s=1738001289&e=129600&f=18560092&srv=LFDu7HStkKAt&i=0.4&sp=500&p1=LFDu7HStkKAt&p2=LFDu7HStkKAt&asn=8075",
-                        "quality": "[LAT] StreamHideVid:480p",
-                        "videoUrl": "https://hgc0uswxhnn8.acek-cdn.com/hls2/01/03712/fxqh14dnoea5_l/index-v1-a1.m3u8?t=XMwYvMTZkcgYv4JSyk60BwIM6RFC_HWGwaRNJrKaMwA&s=1738001289&e=129600&f=18560092&srv=LFDu7HStkKAt&i=0.4&sp=500&p1=LFDu7HStkKAt&p2=LFDu7HStkKAt&asn=8075",
+                        "url": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/03725/kco7avhkgezl_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=wwpeSFiOSK2ODoMun3JQ6JhVa56xj37xm697WakongA&s=1738023527&e=129600&f=18628180&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=8075",
+                        "quality": "[LAT] StreamHideVid:1080p",
+                        "videoUrl": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/03725/kco7avhkgezl_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=wwpeSFiOSK2ODoMun3JQ6JhVa56xj37xm697WakongA&s=1738023527&e=129600&f=18628180&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://vidhideplus.com",
-                            "Referer": "https://vidhideplus.com/embed/fxqh14dnoea5"
+                            "Referer": "https://vidhideplus.com/embed/kco7avhkgezl"
                         }
                     },
                     {
-                        "url": "https://in1rhjc5cqhz.premilkyway.com/hls2/01/08202/d96z80gc90h2_l/index-v1-a1.m3u8?t=sRjRuC73j0Tzq0pNsO_RfjooLESJ2KqpY-jSNaIwWjs&s=1738001286&e=129600&f=41012950&srv=g3qezmygwi76p&i=0.4&sp=500&p1=g3qezmygwi76p&p2=g3qezmygwi76p&asn=8075",
-                        "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://in1rhjc5cqhz.premilkyway.com/hls2/01/08202/d96z80gc90h2_l/index-v1-a1.m3u8?t=sRjRuC73j0Tzq0pNsO_RfjooLESJ2KqpY-jSNaIwWjs&s=1738001286&e=129600&f=41012950&srv=g3qezmygwi76p&i=0.4&sp=500&p1=g3qezmygwi76p&p2=g3qezmygwi76p&asn=8075",
+                        "url": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/08222/8ax1pelijl3l_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=ObBDP9NC-v3xdaVXvGmQpodRUKj6slkd3s_dG0BA2wM&s=1738023523&e=129600&f=41111000&srv=7npihg0ee2yuu&i=0.4&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "quality": "[LAT] StreamWish:1080p",
+                        "videoUrl": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/08222/8ax1pelijl3l_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=ObBDP9NC-v3xdaVXvGmQpodRUKj6slkd3s_dG0BA2wM&s=1738023523&e=129600&f=41111000&srv=7npihg0ee2yuu&i=0.4&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://playerwish.com",
-                            "Referer": "https://playerwish.com/e/d96z80gc90h2"
+                            "Referer": "https://playerwish.com/e/8ax1pelijl3l"
+                        }
+                    },
+                    {
+                        "url": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/03725/kco7avhkgezl_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=wwpeSFiOSK2ODoMun3JQ6JhVa56xj37xm697WakongA&s=1738023527&e=129600&f=18628180&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=8075",
+                        "quality": "[LAT] StreamHideVid:720p",
+                        "videoUrl": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/03725/kco7avhkgezl_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=wwpeSFiOSK2ODoMun3JQ6JhVa56xj37xm697WakongA&s=1738023527&e=129600&f=18628180&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidhideplus.com",
+                            "Referer": "https://vidhideplus.com/embed/kco7avhkgezl"
+                        }
+                    },
+                    {
+                        "url": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/08222/8ax1pelijl3l_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=ObBDP9NC-v3xdaVXvGmQpodRUKj6slkd3s_dG0BA2wM&s=1738023523&e=129600&f=41111000&srv=7npihg0ee2yuu&i=0.4&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "quality": "[LAT] StreamWish:720p",
+                        "videoUrl": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/08222/8ax1pelijl3l_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=ObBDP9NC-v3xdaVXvGmQpodRUKj6slkd3s_dG0BA2wM&s=1738023523&e=129600&f=41111000&srv=7npihg0ee2yuu&i=0.4&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playerwish.com",
+                            "Referer": "https://playerwish.com/e/8ax1pelijl3l"
+                        }
+                    },
+                    {
+                        "url": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/03725/kco7avhkgezl_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=wwpeSFiOSK2ODoMun3JQ6JhVa56xj37xm697WakongA&s=1738023527&e=129600&f=18628180&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=8075",
+                        "quality": "[LAT] StreamHideVid:480p",
+                        "videoUrl": "https://13nt2qnqm72d.acek-cdn.com/hls2/01/03725/kco7avhkgezl_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=wwpeSFiOSK2ODoMun3JQ6JhVa56xj37xm697WakongA&s=1738023527&e=129600&f=18628180&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidhideplus.com",
+                            "Referer": "https://vidhideplus.com/embed/kco7avhkgezl"
+                        }
+                    },
+                    {
+                        "url": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/08222/8ax1pelijl3l_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=ObBDP9NC-v3xdaVXvGmQpodRUKj6slkd3s_dG0BA2wM&s=1738023523&e=129600&f=41111000&srv=7npihg0ee2yuu&i=0.4&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/08222/8ax1pelijl3l_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=ObBDP9NC-v3xdaVXvGmQpodRUKj6slkd3s_dG0BA2wM&s=1738023523&e=129600&f=41111000&srv=7npihg0ee2yuu&i=0.4&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playerwish.com",
+                            "Referer": "https://playerwish.com/e/8ax1pelijl3l"
                         }
                     }
                 ],

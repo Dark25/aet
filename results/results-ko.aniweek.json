@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/쿠로이와 메다카에게 내 귀여움이 통하지 않아",
+                                "title": "쿠로이와 메다카에게 내 귀여움이 통하지 않아",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736188569_9274.jpg"
+                            },
+                            {
                                 "url": "/c/흔해빠진 직업으로 세계최강 3rd season",
                                 "title": "흔해빠진 직업으로 세계최강 3rd season",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2410/31b9624e6d40ab5ded28d92fcb06ed1d_1728922882_6593.jpg"
@@ -312,11 +317,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736196370_5628.jpg"
                             },
                             {
-                                "url": "/c/쿠로이와 메다카에게 내 귀여움이 통하지 않아",
-                                "title": "쿠로이와 메다카에게 내 귀여움이 통하지 않아",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736188569_9274.jpg"
-                            },
-                            {
                                 "url": "/c/너를 너무너무너무너무 좋아하는 100명의 그녀 2기",
                                 "title": "너를 너무너무너무너무 좋아하는 100명의 그녀 2기",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/b22a93d7e9f82019630f16df6dade63a_1736732924_9352.jpg"
@@ -469,10 +469,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/흔해빠진 직업으로 세계최강 3rd season",
-                    "title": "흔해빠진 직업으로 세계최강 3rd season",
-                    "description": "원제: ありふれた職業で世界最強 3rd season\n원작: 시라카메 료\n감독: 이와나가 아키라\n각본: 사토 쇼이치\n캐릭터 디자인: 코지마 치카\n음악: 타카하시 료\n장르: 판타지, 이세계, 하렘, 능력, 먼치킨\n방영일: 2024.10.14 23:00 (월)\n등급: 19\n총화수: 16",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2410/31b9624e6d40ab5ded28d92fcb06ed1d_1728922882_6593.jpg",
+                    "url": "/c/쿠로이와 메다카에게 내 귀여움이 통하지 않아",
+                    "title": "쿠로이와 메다카에게 내 귀여움이 통하지 않아",
+                    "description": "원제: 黒岩メダカに私の可愛いが通じない\n원작: 쿠제 란\n감독: 오쿠무라 요시아키\n각본: 후데야스 카즈유키\n캐릭터 디자인: 와타나베 마유미\n음악: 타테야마 아키유키\n장르: 일상, 코미디, 학원, 하렘\n방영일: 2025.01.07 00:00 (화)\n등급: 15\n총화수: 방영중",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736188569_9274.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -480,22 +480,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/흔해빠진 직업으로 세계최강 3rd season 13화",
-                        "name": "흔해빠진 직업으로 세계최강 3rd season 13화",
+                        "url": "/e/쿠로이와 메다카에게 내 귀여움이 통하지 않아 4화",
+                        "name": "쿠로이와 메다카에게 내 귀여움이 통하지 않아 4화",
                         "date_upload": 1738022400000,
-                        "episode_number": 13.0
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/e/흔해빠진 직업으로 세계최강 3rd season 12화",
-                        "name": "흔해빠진 직업으로 세계최강 3rd season 12화",
+                        "url": "/e/쿠로이와 메다카에게 내 귀여움이 통하지 않아 3화",
+                        "name": "쿠로이와 메다카에게 내 귀여움이 통하지 않아 3화",
                         "date_upload": 1737417600000,
-                        "episode_number": 12.0
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-1703239213772492266/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-1703239213772492266/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-1703239213772492266/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-16418641379414446458/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-16418641379414446458/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-16418641379414446458/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

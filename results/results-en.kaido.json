@@ -205,22 +205,11 @@
                 "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/watch/saving-80000-gold-in-another-world-for-my-retirement-18297?ep=99729",
-                        "name": "Ep. 12: Saving 80,000 Gold in Another World",
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "/watch/saving-80000-gold-in-another-world-for-my-retirement-18297?ep=99527",
-                        "name": "Ep. 11: The Messenger Goes into Battle",
-                        "episode_number": 11.0
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.MissingFieldException: Field 'html' is required for type with serial name 'eu.kanade.tachiyomi.multisrc.zorotheme.dto.HtmlResponse', but it was missing at path: $",
+                "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "kotlinx.serialization.MissingFieldException: Field 'html' is required for type with serial name 'eu.kanade.tachiyomi.multisrc.zorotheme.dto.HtmlResponse', but it was missing at path: $",
                 "passed": false
             }
         }

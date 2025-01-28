@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/rivales",
+                                "title": "Rivales (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/lqHG7Rd3X8JyfiiicNdZUiX2HFo.jpg"
+                            },
+                            {
+                                "url": "/serie/paradise",
+                                "title": "Paradise (2025)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/rkwqy7uE0ORdUxDFNeVq7vpJORN.jpg"
+                            },
+                            {
                                 "url": "/serie/beleza-fatal",
                                 "title": "Beleza Fatal (2025)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/6cth8WrDsVPSHfXzfX5PHY7yvs9.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/la-colina-de-los-perros",
                                 "title": "La colina de los perros (2025)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/m557NrOqnhK8mxhZC0xxwavVyBi.jpg"
-                            },
-                            {
-                                "url": "/serie/lockerbie-a-search-for-truth",
-                                "title": "Lockerbie: A Search for Truth (2025)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/1N0dY2EIxNyEjSAPyrROsGt9jlR.jpg"
-                            },
-                            {
-                                "url": "/serie/el-rastro",
-                                "title": "El rastro (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/a0txtq4bL5CogdykQDdLMdtkc5C.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/beleza-fatal",
-                    "title": "Beleza Fatal (2025)",
-                    "description": "Una joven huérfana y su nueva familia se unen en la búsqueda de venganza contra los responsables de sus tragedias personales..",
-                    "genre": "Drama, Soap",
+                    "url": "/serie/rivales",
+                    "title": "Rivales (2024)",
+                    "description": "Corre el año 1986 y Gran Bretaña está en pleno auge. \"Rivales\" se adentra en el despiadado mundo de la televisión, donde los peinados son grandes y las ambiciones son aún más grandes. Los acuerdos se negocian en las salas de juntas y en los dormitorios. Nadie puede estar seguro de quién saldrá vencedor. Con todos preocupados sólo por sí mismos, ¿podrá florecer el amor verdadero en esta adaptación tan esperada de la novela superventas Rutshire Chronicles de Jilly Cooper?.",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6cth8WrDsVPSHfXzfX5PHY7yvs9.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/lqHG7Rd3X8JyfiiicNdZUiX2HFo.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/beleza-fatal/temporada/1/capitulo/5",
-                        "name": "T1 - E5: Episodio 5",
-                        "episode_number": 5.0
+                        "url": "/serie/rivales/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Episodio 8",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/serie/beleza-fatal/temporada/1/capitulo/4",
-                        "name": "T1 - E4: Episodio 4",
-                        "episode_number": 4.0
+                        "url": "/serie/rivales/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -704,17 +704,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://b4x3vslslk.guardstorage.net/hls_3/NjzzfUhy7LOaYHhPORC0qW4nN8v5rZ3atpmXAdn50DHUc_Jka2FKiwUTtzFJNN0VirRnDbtrMU8xXRwlPPSQUEiW2-yDbVBTiCISxIuK6gI0gW60PASPXxO6qjJDRs5EQXAqlDG9Ym-QkM8fXgbkmx1VlP24riXoxolHcKccJCx44eNmlqiwrOawJ8G3F0hfODYDYZrTJeJPFg305HCPIA/index-f3-v1-a1.m3u8?sig=gLn1DvhAJdHMlKsC6cifkg&expires=1738075230",
+                        "url": "https://b4x3vslslk.guardstorage.net/hls_3/NjzzfUhy7LOaYHhPORC0qW4nN8v5rZ3atpmXAdn50DHUc_Jka2FKiwUTtzFJNN0VirRnDbtrMU8xXRwlPPSQUEiW2-yDbVBTiCISxIuK6gI0gW60PASPXxO6qjJDRs5EQXAqlDG9Ym-QkM8fXgbkmx1VlP24riXoxolHcKccJCx44eNmlqiwrOawJ8G3F0hfODYDYZrTJeJPFg305HCPIA/index-f3-v1-a1.m3u8?sig=jFyI3h0twb8p-V9RdFSeHQ&expires=1738096791",
                         "quality": "[LAT] VidGuard:1080p",
-                        "videoUrl": "https://b4x3vslslk.guardstorage.net/hls_3/NjzzfUhy7LOaYHhPORC0qW4nN8v5rZ3atpmXAdn50DHUc_Jka2FKiwUTtzFJNN0VirRnDbtrMU8xXRwlPPSQUEiW2-yDbVBTiCISxIuK6gI0gW60PASPXxO6qjJDRs5EQXAqlDG9Ym-QkM8fXgbkmx1VlP24riXoxolHcKccJCx44eNmlqiwrOawJ8G3F0hfODYDYZrTJeJPFg305HCPIA/index-f3-v1-a1.m3u8?sig=gLn1DvhAJdHMlKsC6cifkg&expires=1738075230",
+                        "videoUrl": "https://b4x3vslslk.guardstorage.net/hls_3/NjzzfUhy7LOaYHhPORC0qW4nN8v5rZ3atpmXAdn50DHUc_Jka2FKiwUTtzFJNN0VirRnDbtrMU8xXRwlPPSQUEiW2-yDbVBTiCISxIuK6gI0gW60PASPXxO6qjJDRs5EQXAqlDG9Ym-QkM8fXgbkmx1VlP24riXoxolHcKccJCx44eNmlqiwrOawJ8G3F0hfODYDYZrTJeJPFg305HCPIA/index-f3-v1-a1.m3u8?sig=jFyI3h0twb8p-V9RdFSeHQ&expires=1738096791",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03712/479o5sgopvvs_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Y_nYfTxjzXNZW6Guc5gbLdqnaAcXM4E6SwfEwJVBauA&s=1738066204&e=129600&f=18561890&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=8075",
+                        "url": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03712/479o5sgopvvs_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=ynJ-U0KXQbScLO5hu2PCxn_jCwO9Vc1iCEJrRV4Z1Ew&s=1738087767&e=129600&f=18561890&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=8075",
                         "quality": "[LAT] StreamHideVid:1080p",
-                        "videoUrl": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03712/479o5sgopvvs_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Y_nYfTxjzXNZW6Guc5gbLdqnaAcXM4E6SwfEwJVBauA&s=1738066204&e=129600&f=18561890&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=8075",
+                        "videoUrl": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03712/479o5sgopvvs_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=ynJ-U0KXQbScLO5hu2PCxn_jCwO9Vc1iCEJrRV4Z1Ew&s=1738087767&e=129600&f=18561890&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -723,17 +723,17 @@
                         }
                     },
                     {
-                        "url": "https://b4x3vslslk.guardstorage.net/hls_3/NjzzfUhy7LOaYHhPORC0qW4nN8v5rZ3atpmXAdn50DHUc_Jka2FKiwUTtzFJNN0VirRnDbtrMU8xXRwlPPSQUEiW2-yDbVBTiCISxIuK6gI0gW60PASPXxO6qjJDRs5EQXAqlDG9Ym-QkM8fXgbkmx1VlP24riXoxolHcKccJCx44eNmlqiwrOawJ8G3F0hfODYDYZrTJeJPFg305HCPIA/index-f2-v1-a1.m3u8?sig=gLn1DvhAJdHMlKsC6cifkg&expires=1738075230",
+                        "url": "https://b4x3vslslk.guardstorage.net/hls_3/NjzzfUhy7LOaYHhPORC0qW4nN8v5rZ3atpmXAdn50DHUc_Jka2FKiwUTtzFJNN0VirRnDbtrMU8xXRwlPPSQUEiW2-yDbVBTiCISxIuK6gI0gW60PASPXxO6qjJDRs5EQXAqlDG9Ym-QkM8fXgbkmx1VlP24riXoxolHcKccJCx44eNmlqiwrOawJ8G3F0hfODYDYZrTJeJPFg305HCPIA/index-f2-v1-a1.m3u8?sig=jFyI3h0twb8p-V9RdFSeHQ&expires=1738096791",
                         "quality": "[LAT] VidGuard:720p",
-                        "videoUrl": "https://b4x3vslslk.guardstorage.net/hls_3/NjzzfUhy7LOaYHhPORC0qW4nN8v5rZ3atpmXAdn50DHUc_Jka2FKiwUTtzFJNN0VirRnDbtrMU8xXRwlPPSQUEiW2-yDbVBTiCISxIuK6gI0gW60PASPXxO6qjJDRs5EQXAqlDG9Ym-QkM8fXgbkmx1VlP24riXoxolHcKccJCx44eNmlqiwrOawJ8G3F0hfODYDYZrTJeJPFg305HCPIA/index-f2-v1-a1.m3u8?sig=gLn1DvhAJdHMlKsC6cifkg&expires=1738075230",
+                        "videoUrl": "https://b4x3vslslk.guardstorage.net/hls_3/NjzzfUhy7LOaYHhPORC0qW4nN8v5rZ3atpmXAdn50DHUc_Jka2FKiwUTtzFJNN0VirRnDbtrMU8xXRwlPPSQUEiW2-yDbVBTiCISxIuK6gI0gW60PASPXxO6qjJDRs5EQXAqlDG9Ym-QkM8fXgbkmx1VlP24riXoxolHcKccJCx44eNmlqiwrOawJ8G3F0hfODYDYZrTJeJPFg305HCPIA/index-f2-v1-a1.m3u8?sig=jFyI3h0twb8p-V9RdFSeHQ&expires=1738096791",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://eomoacrfcwpd.premilkyway.com/hls2/01/08203/s70xptc8iet3_n/index-v1-a1.m3u8?t=8NQazIkpqnFLU3mNbKI-nO33gYTz-04XUplQe6hIEkw&s=1738066207&e=129600&f=41018182&srv=jtkd5kf4kett&i=0.4&sp=500&p1=jtkd5kf4kett&p2=jtkd5kf4kett&asn=8075",
+                        "url": "https://eomoacrfcwpd.premilkyway.com/hls2/01/08203/s70xptc8iet3_n/index-v1-a1.m3u8?t=vSVvXVru3aP1dRQeMbFE59SZO2T49SmpggLSNrtMn6w&s=1738087769&e=129600&f=41018182&srv=jtkd5kf4kett&i=0.4&sp=500&p1=jtkd5kf4kett&p2=jtkd5kf4kett&asn=8075",
                         "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://eomoacrfcwpd.premilkyway.com/hls2/01/08203/s70xptc8iet3_n/index-v1-a1.m3u8?t=8NQazIkpqnFLU3mNbKI-nO33gYTz-04XUplQe6hIEkw&s=1738066207&e=129600&f=41018182&srv=jtkd5kf4kett&i=0.4&sp=500&p1=jtkd5kf4kett&p2=jtkd5kf4kett&asn=8075",
+                        "videoUrl": "https://eomoacrfcwpd.premilkyway.com/hls2/01/08203/s70xptc8iet3_n/index-v1-a1.m3u8?t=vSVvXVru3aP1dRQeMbFE59SZO2T49SmpggLSNrtMn6w&s=1738087769&e=129600&f=41018182&srv=jtkd5kf4kett&i=0.4&sp=500&p1=jtkd5kf4kett&p2=jtkd5kf4kett&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -748,9 +748,9 @@
                         ]
                     },
                     {
-                        "url": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03712/479o5sgopvvs_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Y_nYfTxjzXNZW6Guc5gbLdqnaAcXM4E6SwfEwJVBauA&s=1738066204&e=129600&f=18561890&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=8075",
+                        "url": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03712/479o5sgopvvs_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=ynJ-U0KXQbScLO5hu2PCxn_jCwO9Vc1iCEJrRV4Z1Ew&s=1738087767&e=129600&f=18561890&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=8075",
                         "quality": "[LAT] StreamHideVid:720p",
-                        "videoUrl": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03712/479o5sgopvvs_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Y_nYfTxjzXNZW6Guc5gbLdqnaAcXM4E6SwfEwJVBauA&s=1738066204&e=129600&f=18561890&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=8075",
+                        "videoUrl": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03712/479o5sgopvvs_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=ynJ-U0KXQbScLO5hu2PCxn_jCwO9Vc1iCEJrRV4Z1Ew&s=1738087767&e=129600&f=18561890&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -759,9 +759,9 @@
                         }
                     },
                     {
-                        "url": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03712/479o5sgopvvs_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Y_nYfTxjzXNZW6Guc5gbLdqnaAcXM4E6SwfEwJVBauA&s=1738066204&e=129600&f=18561890&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=8075",
+                        "url": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03712/479o5sgopvvs_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=ynJ-U0KXQbScLO5hu2PCxn_jCwO9Vc1iCEJrRV4Z1Ew&s=1738087767&e=129600&f=18561890&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=8075",
                         "quality": "[LAT] StreamHideVid:480p",
-                        "videoUrl": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03712/479o5sgopvvs_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Y_nYfTxjzXNZW6Guc5gbLdqnaAcXM4E6SwfEwJVBauA&s=1738066204&e=129600&f=18561890&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=8075",
+                        "videoUrl": "https://goqp5vk8ekuqh.acek-cdn.com/hls2/01/03712/479o5sgopvvs_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=ynJ-U0KXQbScLO5hu2PCxn_jCwO9Vc1iCEJrRV4Z1Ew&s=1738087767&e=129600&f=18561890&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -770,9 +770,9 @@
                         }
                     },
                     {
-                        "url": "https://b4x3vslslk.guardstorage.net/hls_3/NjzzfUhy7LOaYHhPORC0qW4nN8v5rZ3atpmXAdn50DHUc_Jka2FKiwUTtzFJNN0VirRnDbtrMU8xXRwlPPSQUEiW2-yDbVBTiCISxIuK6gI0gW60PASPXxO6qjJDRs5EQXAqlDG9Ym-QkM8fXgbkmx1VlP24riXoxolHcKccJCx44eNmlqiwrOawJ8G3F0hfODYDYZrTJeJPFg305HCPIA/index-f1-v1-a1.m3u8?sig=gLn1DvhAJdHMlKsC6cifkg&expires=1738075230",
+                        "url": "https://b4x3vslslk.guardstorage.net/hls_3/NjzzfUhy7LOaYHhPORC0qW4nN8v5rZ3atpmXAdn50DHUc_Jka2FKiwUTtzFJNN0VirRnDbtrMU8xXRwlPPSQUEiW2-yDbVBTiCISxIuK6gI0gW60PASPXxO6qjJDRs5EQXAqlDG9Ym-QkM8fXgbkmx1VlP24riXoxolHcKccJCx44eNmlqiwrOawJ8G3F0hfODYDYZrTJeJPFg305HCPIA/index-f1-v1-a1.m3u8?sig=jFyI3h0twb8p-V9RdFSeHQ&expires=1738096791",
                         "quality": "[LAT] VidGuard:360p",
-                        "videoUrl": "https://b4x3vslslk.guardstorage.net/hls_3/NjzzfUhy7LOaYHhPORC0qW4nN8v5rZ3atpmXAdn50DHUc_Jka2FKiwUTtzFJNN0VirRnDbtrMU8xXRwlPPSQUEiW2-yDbVBTiCISxIuK6gI0gW60PASPXxO6qjJDRs5EQXAqlDG9Ym-QkM8fXgbkmx1VlP24riXoxolHcKccJCx44eNmlqiwrOawJ8G3F0hfODYDYZrTJeJPFg305HCPIA/index-f1-v1-a1.m3u8?sig=gLn1DvhAJdHMlKsC6cifkg&expires=1738075230",
+                        "videoUrl": "https://b4x3vslslk.guardstorage.net/hls_3/NjzzfUhy7LOaYHhPORC0qW4nN8v5rZ3atpmXAdn50DHUc_Jka2FKiwUTtzFJNN0VirRnDbtrMU8xXRwlPPSQUEiW2-yDbVBTiCISxIuK6gI0gW60PASPXxO6qjJDRs5EQXAqlDG9Ym-QkM8fXgbkmx1VlP24riXoxolHcKccJCx44eNmlqiwrOawJ8G3F0hfODYDYZrTJeJPFg305HCPIA/index-f1-v1-a1.m3u8?sig=jFyI3h0twb8p-V9RdFSeHQ&expires=1738096791",
                         "headers": {
                             "Accept": "*/*"
                         }
@@ -786,23 +786,23 @@
         "name": "PelisPlusPh (ES)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-12587325167595759174/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-12587325167595759174/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-12587325167595759174/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17729052430087562793/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17729052430087562793/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17729052430087562793/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "search": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-12587325167595759174/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-12587325167595759174/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-12587325167595759174/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17729052430087562793/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17729052430087562793/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17729052430087562793/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-12587325167595759174/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-12587325167595759174/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-12587325167595759174/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17729052430087562793/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17729052430087562793/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17729052430087562793/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-12587325167595759174/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-12587325167595759174/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-12587325167595759174/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17729052430087562793/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17729052430087562793/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17729052430087562793/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-12587325167595759174/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-12587325167595759174/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-12587325167595759174/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-17729052430087562793/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-17729052430087562793/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-17729052430087562793/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

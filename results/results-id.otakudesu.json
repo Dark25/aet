@@ -142,6 +142,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kinomi-master-sub-indo/",
+                                "title": "Hazure Skill \"Kinomi Master\"",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146128.jpg"
+                            },
+                            {
+                                "url": "/anime/yokai-sensei-hajmeshita-sub-indo/",
+                                "title": "Youkai Gakkou no Sensei Hajimemashita!",
+                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2024/10/145662.jpg"
+                            },
+                            {
                                 "url": "/anime/kuroiwa-watashi-kawaii-sub-indo/",
                                 "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/Kuroiwa-Medaka-ni-Watashi-no-Kawaii-ga-Tsuujinai.jpg"
@@ -255,16 +265,6 @@
                                 "url": "/anime/kanteishi-sub-indo/",
                                 "title": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
                                 "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146293.jpg"
-                            },
-                            {
-                                "url": "/anime/ubel-blat-sub-indo/",
-                                "title": "Übel Blatt",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/146961.jpg"
-                            },
-                            {
-                                "url": "/anime/class-daikirai-joshi-to-kekkon-sub-indo/",
-                                "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
-                                "thumbnail_url": "https://otakudesu.cloud/wp-content/uploads/2025/01/143713l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -358,11 +358,11 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-12533915668247879572/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-12533915668247879572/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-12533915668247879572/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4079942470399963058/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4079942470399963058/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4079942470399963058/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-12533915668247879572/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-12533915668247879572/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-12533915668247879572/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-4079942470399963058/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-4079942470399963058/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-4079942470399963058/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             },
             "videos": {

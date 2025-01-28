@@ -223,8 +223,64 @@
                 "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/the-red-ranger-becomes-an-adventurer-in-another-world/",
+                                "title": "The Red Ranger Becomes an Adventurer in Another World",
+                                "thumbnail_url": "https://i3.wp.com/animenosub.to/wp-content/uploads/2025/01/The-Red-Ranger-Becomes-an-Adventurer-in-Another-World-animenosub.jpg"
+                            },
+                            {
+                                "url": "/anime/the-daily-life-of-a-middle-aged-online-shopper-in-another-world/",
+                                "title": "The Daily Life of a Middle-Aged Online Shopper in Another World",
+                                "thumbnail_url": "https://i3.wp.com/animenosub.to/wp-content/uploads/2025/01/The-Daily-Life-of-a-Middle-Aged-Online-Shopper-in-Another-World.jpg"
+                            },
+                            {
+                                "url": "/anime/magic-maker-how-to-make-magic-in-another-world/",
+                                "title": "Magic Maker: How to Make Magic in Another World",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.to/wp-content/uploads/2025/01/Magic-Maker-How-to-Make-Magic-in-Another-World-anime-stream.jpg"
+                            },
+                            {
+                                "url": "/anime/headhunted-to-another-world-from-salaryman-to-big-four/",
+                                "title": "Headhunted to Another World: From Salaryman to Big Four!",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.to/wp-content/uploads/2024/12/Headhunted-to-Another-World-From-Salaryman-to-Big-Four.jpg"
+                            },
+                            {
+                                "url": "/anime/the-prince-of-tennis-ii-u-17-world-cup-semifinal/",
+                                "title": "The Prince of Tennis II U-17 World Cup Semifinal",
+                                "thumbnail_url": "https://i1.wp.com/animenosub.to/wp-content/uploads/2024/10/The-Prince-of-Tennis-II-U-17-World-Cup-Semifinal.jpg"
+                            },
+                            {
+                                "url": "/anime/loner-life-in-another-world/",
+                                "title": "Loner Life in Another World",
+                                "thumbnail_url": "https://i0.wp.com/animenosub.to/wp-content/uploads/2024/09/Loner-Life-in-Another-World.jpg"
+                            },
+                            {
+                                "url": "/anime/rezero-starting-life-in-another-world-season-2-bd/",
+                                "title": "Re:ZERO -Starting Life in Another World- Season 2 BD",
+                                "thumbnail_url": "https://i0.wp.com/animenosub.to/wp-content/uploads/2024/09/ReZERO-Starting-Life-in-Another-World-Season-2-BD.jpg"
+                            },
+                            {
+                                "url": "/anime/the-most-notorious-talker-runs-the-worlds-greatest-clan/",
+                                "title": "The Most Notorious “Talker” Runs the World’s Greatest Clan",
+                                "thumbnail_url": "https://i0.wp.com/animenosub.to/wp-content/uploads/2024/09/The-Most-Notorious-Talker-Runs-the-Worlds-Greatest-Clan.jpg"
+                            },
+                            {
+                                "url": "/anime/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-2/",
+                                "title": "As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the World Season 2",
+                                "thumbnail_url": "https://i3.wp.com/animenosub.to/wp-content/uploads/2024/09/As-a-Reincarnated-Aristocrat-Ill-Use-My-Appraisal-Skill-to-Rise-in-the-World-Season-2.png"
+                            },
+                            {
+                                "url": "/anime/rezero-starting-life-in-another-world-directors-cut-bd/",
+                                "title": "Re:ZERO -Starting Life in Another World- Director’s Cut BD",
+                                "thumbnail_url": "https://i3.wp.com/animenosub.to/wp-content/uploads/2024/09/973a6225c888f5b03efaa6d939a3a187.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
@@ -262,9 +318,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://str12.vtube.network/hls/x5s4zwn6pzyki6cgaptmr6fjgw6peiygskrxu6mlhtd2i6ib4hn3nrxczfta/index-v1-a1.m3u8",
+                        "url": "https://str12.vtube.network/hls/x5s4zwn6pzyki6cgaptmr6fjgw6peiygskrxu6mlhtd2jqpcuftk5clujqsq/index-v1-a1.m3u8",
                         "quality": "RAW - Vtube - 1080p ",
-                        "videoUrl": "https://str12.vtube.network/hls/x5s4zwn6pzyki6cgaptmr6fjgw6peiygskrxu6mlhtd2i6ib4hn3nrxczfta/index-v1-a1.m3u8",
+                        "videoUrl": "https://str12.vtube.network/hls/x5s4zwn6pzyki6cgaptmr6fjgw6peiygskrxu6mlhtd2jqpcuftk5clujqsq/index-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -274,25 +330,25 @@
                         }
                     },
                     {
-                        "url": "https://box-1103-o.vmeas.cloud/hls/xqx2pb4kdfokjiqbtgdsliiwwln7denymaslxep2qevdherkys2h6sz4eokq/index-v1-a1.m3u8",
+                        "url": "https://box-1103-o.vmeas.cloud/hls/xqx2pb4kdfokjiqbtgdsliiwwln7denymaslxep2qevdgkwjqqezvop6lhaa/index-v1-a1.m3u8",
                         "quality": "RAW - Omega - 480p",
-                        "videoUrl": "https://box-1103-o.vmeas.cloud/hls/xqx2pb4kdfokjiqbtgdsliiwwln7denymaslxep2qevdherkys2h6sz4eokq/index-v1-a1.m3u8",
+                        "videoUrl": "https://box-1103-o.vmeas.cloud/hls/xqx2pb4kdfokjiqbtgdsliiwwln7denymaslxep2qevdgkwjqqezvop6lhaa/index-v1-a1.m3u8",
                         "headers": {
                             "Referer": "https://vidmoly.to"
                         }
                     },
                     {
-                        "url": "https://box-1103-o.vmeas.cloud/hls/xqx2pb4kdfokjiqbtgdsliiwwln7denymaslxep2qnhdherkys2bv6uscrca/index-v1-a1.m3u8",
+                        "url": "https://box-1103-o.vmeas.cloud/hls/xqx2pb4kdfokjiqbtgdsliiwwln7denymaslxep2qnhdgkwjqqe3vo77b2ua/index-v1-a1.m3u8",
                         "quality": "RAW - Omega - 1080p",
-                        "videoUrl": "https://box-1103-o.vmeas.cloud/hls/xqx2pb4kdfokjiqbtgdsliiwwln7denymaslxep2qnhdherkys2bv6uscrca/index-v1-a1.m3u8",
+                        "videoUrl": "https://box-1103-o.vmeas.cloud/hls/xqx2pb4kdfokjiqbtgdsliiwwln7denymaslxep2qnhdgkwjqqe3vo77b2ua/index-v1-a1.m3u8",
                         "headers": {
                             "Referer": "https://vidmoly.to"
                         }
                     },
                     {
-                        "url": "https://str12.vtube.network/hls/x5s46qn5pzyki6cgaptmrof4guqzl6vbbeitnhf7x2wampf6kswx5fw4j7la/index-v1-a1.m3u8",
+                        "url": "https://str12.vtube.network/hls/x5s46qn5pzyki6cgaptmrof4guqzl6vbbeitnhf7x2wanbc5cqidbykd77fa/index-v1-a1.m3u8",
                         "quality": "Vtube - 1080p ",
-                        "videoUrl": "https://str12.vtube.network/hls/x5s46qn5pzyki6cgaptmrof4guqzl6vbbeitnhf7x2wampf6kswx5fw4j7la/index-v1-a1.m3u8",
+                        "videoUrl": "https://str12.vtube.network/hls/x5s46qn5pzyki6cgaptmrof4guqzl6vbbeitnhf7x2wanbc5cqidbykd77fa/index-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
@@ -302,17 +358,17 @@
                         }
                     },
                     {
-                        "url": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4mf3ytmwuu5duulfmggq/index-v1-a1.m3u8",
+                        "url": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4mf3z5lv4wd552ivax3a/index-v1-a1.m3u8",
                         "quality": "Omega - 480p",
-                        "videoUrl": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4mf3ytmwuu5duulfmggq/index-v1-a1.m3u8",
+                        "videoUrl": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4mf3z5lv4wd552ivax3a/index-v1-a1.m3u8",
                         "headers": {
                             "Referer": "https://vidmoly.to"
                         }
                     },
                     {
-                        "url": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4fx3ytmwuu5hgvf3i54q/index-v1-a1.m3u8",
+                        "url": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4fx3z5lv4wds4xq6icpq/index-v1-a1.m3u8",
                         "quality": "Omega - 1080p",
-                        "videoUrl": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4fx3ytmwuu5hgvf3i54q/index-v1-a1.m3u8",
+                        "videoUrl": "https://box-1009-u.vmeas.cloud/hls/xqx2pvukdfokjiqbtgdsl4chw5hfjhh45fq7mkaw4fx3z5lv4wds4xq6icpq/index-v1-a1.m3u8",
                         "headers": {
                             "Referer": "https://vidmoly.to"
                         }

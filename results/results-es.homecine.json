@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/desorden-publico/",
+                                "title": "Desorden público",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6kEPPgQ1QuCfXNWnwNrehmHI4OL.jpg"
+                            },
+                            {
+                                "url": "/serie/erase-una-vez-el-oeste/",
+                                "title": "Érase una vez el Oeste",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/38ekdiOvFe04uzZbpaCPO9QhFMk.jpg"
+                            },
+                            {
                                 "url": "/serie/como-cargarse-el-amor/",
                                 "title": "Cómo cargarse el amor",
                                 "description": "",
@@ -101,18 +113,6 @@
                                 "title": "UniverXO Dabiz",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/o4H9xlstZzLJZw0NJA95IaU1yor.jpg"
-                            },
-                            {
-                                "url": "/serie/elena-de-avalor/",
-                                "title": "Elena de Ávalor",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/se8bejjwLz56qm1gOCLpVjK8iVk.jpg"
-                            },
-                            {
-                                "url": "/serie/oddbods-shorts/",
-                                "title": "Oddbods (Shorts)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6DkseP0FAzsqGS80rPxAMXIWBMN.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,11 +240,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/como-cargarse-el-amor/",
-                    "title": "Cómo cargarse el amor",
-                    "description": "How to Ruin Love Convencida de que su novio la engaña, Zoleka decide pillarlo con las manos en la masa... pero lo único que consigue es chafar su propia pedida de mano. ¿Logrará recuperar a su chico?",
-                    "genre": "Comedia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/mQQfU6f2cbJks8zXuNU3k3xQFl6.jpg",
+                    "url": "/serie/desorden-publico/",
+                    "title": "Desorden público",
+                    "description": "ACAB: La Serie Tras las fatídicas secuelas de una manifestación, las tensiones afloran dentro de un escuadrón antidisturbios que lucha por separar lo personal de lo profesional.",
+                    "genre": "Action & Adventure, Crimen, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6kEPPgQ1QuCfXNWnwNrehmHI4OL.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -252,14 +252,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/capitulo/como-cargarse-el-amor-temporada-1-capitulo-4/",
-                        "name": "T1 - Episodio 4",
-                        "episode_number": 4.0
+                        "url": "/capitulo/desorden-publico-temporada-1-capitulo-6/",
+                        "name": "T1 - Episodio 6",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/capitulo/como-cargarse-el-amor-temporada-1-capitulo-3/",
-                        "name": "T1 - Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/capitulo/desorden-publico-temporada-1-capitulo-5/",
+                        "name": "T1 - Episodio 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -267,9 +267,20 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s39.fastream.to/hls2/07/00071/sk6w1d6eqb0t_h/index-v1-a1.m3u8?t=y8tx5HGerxn7NFMJ1TXhntbCfR04X7j4b_2N2Noqcnk&s=1738023482&e=43200&v=1227481&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/08/00071/vb09ig861bii_x/index-v1-a1.m3u8?t=UotypkID5y2Hln2xrthucneY5ZmvMAGpCTzmqOVSZgI&s=1738044458&e=43200&v=1372657&i=0.3&sp=0",
+                        "quality": "[LAT] Fastream:1080p",
+                        "videoUrl": "https://s40.fastream.to/hls2/08/00071/vb09ig861bii_x/index-v1-a1.m3u8?t=UotypkID5y2Hln2xrthucneY5ZmvMAGpCTzmqOVSZgI&s=1738044458&e=43200&v=1372657&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s40.fastream.to/hls2/08/00071/vb09ig861bii_h/index-v1-a1.m3u8?t=UotypkID5y2Hln2xrthucneY5ZmvMAGpCTzmqOVSZgI&s=1738044458&e=43200&v=1372657&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/07/00071/sk6w1d6eqb0t_h/index-v1-a1.m3u8?t=y8tx5HGerxn7NFMJ1TXhntbCfR04X7j4b_2N2Noqcnk&s=1738023482&e=43200&v=1227481&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/08/00071/vb09ig861bii_h/index-v1-a1.m3u8?t=UotypkID5y2Hln2xrthucneY5ZmvMAGpCTzmqOVSZgI&s=1738044458&e=43200&v=1372657&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -278,9 +289,9 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/07/00071/sk6w1d6eqb0t_n/index-v1-a1.m3u8?t=y8tx5HGerxn7NFMJ1TXhntbCfR04X7j4b_2N2Noqcnk&s=1738023482&e=43200&v=1227481&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/08/00071/vb09ig861bii_n/index-v1-a1.m3u8?t=UotypkID5y2Hln2xrthucneY5ZmvMAGpCTzmqOVSZgI&s=1738044458&e=43200&v=1372657&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/07/00071/sk6w1d6eqb0t_n/index-v1-a1.m3u8?t=y8tx5HGerxn7NFMJ1TXhntbCfR04X7j4b_2N2Noqcnk&s=1738023482&e=43200&v=1227481&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/08/00071/vb09ig861bii_n/index-v1-a1.m3u8?t=UotypkID5y2Hln2xrthucneY5ZmvMAGpCTzmqOVSZgI&s=1738044458&e=43200&v=1372657&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -289,9 +300,9 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/07/00071/sk6w1d6eqb0t_l/index-v1-a1.m3u8?t=y8tx5HGerxn7NFMJ1TXhntbCfR04X7j4b_2N2Noqcnk&s=1738023482&e=43200&v=1227481&i=0.3&sp=0",
+                        "url": "https://s40.fastream.to/hls2/08/00071/vb09ig861bii_l/index-v1-a1.m3u8?t=UotypkID5y2Hln2xrthucneY5ZmvMAGpCTzmqOVSZgI&s=1738044458&e=43200&v=1372657&i=0.3&sp=0",
                         "quality": "[LAT] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/07/00071/sk6w1d6eqb0t_l/index-v1-a1.m3u8?t=y8tx5HGerxn7NFMJ1TXhntbCfR04X7j4b_2N2Noqcnk&s=1738023482&e=43200&v=1227481&i=0.3&sp=0",
+                        "videoUrl": "https://s40.fastream.to/hls2/08/00071/vb09ig861bii_l/index-v1-a1.m3u8?t=UotypkID5y2Hln2xrthucneY5ZmvMAGpCTzmqOVSZgI&s=1738044458&e=43200&v=1372657&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -300,9 +311,9 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/19/00071/lryvuw3tn0dm_h/index-v1-a1.m3u8?t=2-FM9MXthCPI6N0cSbuGBI8FnQHD406D8ufv5FjWd6I&s=1738023484&e=43200&v=1227501&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:720p",
-                        "videoUrl": "https://s39.fastream.to/hls2/19/00071/lryvuw3tn0dm_h/index-v1-a1.m3u8?t=2-FM9MXthCPI6N0cSbuGBI8FnQHD406D8ufv5FjWd6I&s=1738023484&e=43200&v=1227501&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/25/00071/5mltd33vkfpd_x/index-v1-a1.m3u8?t=WGYOHsZR9_pYl609F-Z1HSk4RlgIkL3dTSBOZpi4oM4&s=1738044460&e=43200&v=1372659&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:1080p",
+                        "videoUrl": "https://s39.fastream.to/hls2/25/00071/5mltd33vkfpd_x/index-v1-a1.m3u8?t=WGYOHsZR9_pYl609F-Z1HSk4RlgIkL3dTSBOZpi4oM4&s=1738044460&e=43200&v=1372659&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -311,9 +322,9 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/19/00071/lryvuw3tn0dm_n/index-v1-a1.m3u8?t=2-FM9MXthCPI6N0cSbuGBI8FnQHD406D8ufv5FjWd6I&s=1738023484&e=43200&v=1227501&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:480p",
-                        "videoUrl": "https://s39.fastream.to/hls2/19/00071/lryvuw3tn0dm_n/index-v1-a1.m3u8?t=2-FM9MXthCPI6N0cSbuGBI8FnQHD406D8ufv5FjWd6I&s=1738023484&e=43200&v=1227501&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/25/00071/5mltd33vkfpd_h/index-v1-a1.m3u8?t=WGYOHsZR9_pYl609F-Z1HSk4RlgIkL3dTSBOZpi4oM4&s=1738044460&e=43200&v=1372659&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:720p",
+                        "videoUrl": "https://s39.fastream.to/hls2/25/00071/5mltd33vkfpd_h/index-v1-a1.m3u8?t=WGYOHsZR9_pYl609F-Z1HSk4RlgIkL3dTSBOZpi4oM4&s=1738044460&e=43200&v=1372659&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",
@@ -322,9 +333,20 @@
                         }
                     },
                     {
-                        "url": "https://s39.fastream.to/hls2/19/00071/lryvuw3tn0dm_l/index-v1-a1.m3u8?t=2-FM9MXthCPI6N0cSbuGBI8FnQHD406D8ufv5FjWd6I&s=1738023484&e=43200&v=1227501&i=0.3&sp=0",
-                        "quality": "[SUB] Fastream:360p",
-                        "videoUrl": "https://s39.fastream.to/hls2/19/00071/lryvuw3tn0dm_l/index-v1-a1.m3u8?t=2-FM9MXthCPI6N0cSbuGBI8FnQHD406D8ufv5FjWd6I&s=1738023484&e=43200&v=1227501&i=0.3&sp=0",
+                        "url": "https://s39.fastream.to/hls2/25/00071/5mltd33vkfpd_n/index-v1-a1.m3u8?t=WGYOHsZR9_pYl609F-Z1HSk4RlgIkL3dTSBOZpi4oM4&s=1738044460&e=43200&v=1372659&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:480p",
+                        "videoUrl": "https://s39.fastream.to/hls2/25/00071/5mltd33vkfpd_n/index-v1-a1.m3u8?t=WGYOHsZR9_pYl609F-Z1HSk4RlgIkL3dTSBOZpi4oM4&s=1738044460&e=43200&v=1372659&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s39.fastream.to/hls2/25/00071/5mltd33vkfpd_l/index-v1-a1.m3u8?t=WGYOHsZR9_pYl609F-Z1HSk4RlgIkL3dTSBOZpi4oM4&s=1738044460&e=43200&v=1372659&i=0.3&sp=0",
+                        "quality": "[CAST] Fastream:360p",
+                        "videoUrl": "https://s39.fastream.to/hls2/25/00071/5mltd33vkfpd_l/index-v1-a1.m3u8?t=WGYOHsZR9_pYl609F-Z1HSk4RlgIkL3dTSBOZpi4oM4&s=1738044460&e=43200&v=1372659&i=0.3&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Referer": "https://fastream.to/",

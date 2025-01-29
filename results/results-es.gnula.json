@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/de-vuelta-a-la-accion",
+                                "title": "De vuelta a la acción",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/mAvyQ2X3767LwXE2htvAd22ucd3.jpg"
+                            },
+                            {
+                                "url": "/movies/un-dolor-real",
+                                "title": "Un dolor real",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/vWU2KEMssv8IFVUVkeN2rIOQLB.jpg"
+                            },
+                            {
+                                "url": "/movies/a-sacrifice",
+                                "title": "A Sacrifice",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/7qTHPqnbXWzbZLCllNSIrd03oeQ.jpg"
+                            },
+                            {
                                 "url": "/movies/beware-the-night-nurse",
                                 "title": "Beware the Night Nurse",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/gHuPdBehV9leQFiDgyS3nB2C7Es.jpg"
@@ -115,21 +130,6 @@
                                 "url": "/movies/black-tea",
                                 "title": "Black Tea",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/7nNVLiIRxlCX0z4nPOs2mSPg8zw.jpg"
-                            },
-                            {
-                                "url": "/movies/respira-720321",
-                                "title": "Respira",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/oujEGO5eXnP8PsFRPJHZfUzlKFK.jpg"
-                            },
-                            {
-                                "url": "/movies/a-midsummer-nights-dream-617006",
-                                "title": "A Midsummer Night's Dream",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bTkXnpnOsjUjUIZnglMa4ZV3Dqp.jpg"
-                            },
-                            {
-                                "url": "/movies/ad-vitam",
-                                "title": "Ad vitam",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -157,19 +157,24 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/p6ALxjTM4YUdiCRmHCkZLE6r2pG.jpg"
                             },
                             {
+                                "url": "/movies/de-vuelta-a-la-accion",
+                                "title": "De vuelta a la acción",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/mAvyQ2X3767LwXE2htvAd22ucd3.jpg"
+                            },
+                            {
                                 "url": "/movies/the-intruder-1244643",
                                 "title": "The Intruder",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/y6tjYgG458dOp948Oy6km7aCDlg.jpg"
                             },
                             {
-                                "url": "/movies/blood-pay",
-                                "title": "Blood pay",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ko6sIgAyCXI43Zx50R02adv8BLt.jpg"
-                            },
-                            {
                                 "url": "/movies/black-diamond",
                                 "title": "Black Diamond",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/6Tzq8vYW5ji0WQnMkg8kBFx3tWJ.jpg"
+                            },
+                            {
+                                "url": "/movies/blood-pay",
+                                "title": "Blood pay",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ko6sIgAyCXI43Zx50R02adv8BLt.jpg"
                             },
                             {
                                 "url": "/movies/ad-vitam",
@@ -260,11 +265,6 @@
                                 "url": "/movies/maria",
                                 "title": "María",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/oIkS6IRBmj1g2EUUgJOMRwk5hRh.jpg"
-                            },
-                            {
-                                "url": "/movies/vacaciones-desastrosas",
-                                "title": "Vacaciones desastrosas",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/1oO6GCEHme4A7HbdxebxYVjMaTG.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -342,14 +342,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
                             },
                             {
-                                "url": "/movies/dune-world",
-                                "title": "Dune World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ztRN5ng5g2FSGjt1WexuFuRESgM.jpg"
-                            },
-                            {
                                 "url": "/movies/adios-mundo",
                                 "title": "Adios Mundo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/73Ek4bvUOUD0eHakQ8MTVxRbsJZ.jpg"
+                            },
+                            {
+                                "url": "/movies/dune-world",
+                                "title": "Dune World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ztRN5ng5g2FSGjt1WexuFuRESgM.jpg"
                             },
                             {
                                 "url": "/series/jurassic-world-campamento-cretacico",
@@ -382,14 +382,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/AloFW4KnDYNlH9WOFmJUZusSORh.jpg"
                             },
                             {
-                                "url": "/movies/la-sociedad-de-la-justicia-de-america-segunda-guerra-mundial",
-                                "title": "La Sociedad De La Justicia De América: Segunda Guerra Mundial",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
-                            },
-                            {
                                 "url": "/movies/billie-eilish-the-worlds-a-little-blurry",
                                 "title": "Billie Eilish: The world's a little blurry",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg"
+                            },
+                            {
+                                "url": "/movies/la-sociedad-de-la-justicia-de-america-segunda-guerra-mundial",
+                                "title": "La Sociedad De La Justicia De América: Segunda Guerra Mundial",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
                             },
                             {
                                 "url": "/movies/shakira-in-concert-el-dorado-world-tour",
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/beware-the-night-nurse",
-                    "title": "Beware the Night Nurse",
-                    "artist": "Vitoria Setta",
-                    "description": "Zach y Claire tienen un hijo recién nacido llamado Owen, contratan a Vera como la niñera del bebé, lo que proporciona un poco de alivio a los nuevos padres, pero ¿qué llevó a su sustituta Liz a suicidarse?",
-                    "genre": "Suspenso",
+                    "url": "/movies/de-vuelta-a-la-accion",
+                    "title": "De vuelta a la acción",
+                    "artist": "Cameron Diaz",
+                    "description": "Quince años después de desaparecer de la CIA y empezar una familia, los insuperables Matt y Emily regresan al mundo del espionaje cuando se revela su verdadera identidad.",
+                    "genre": "Acción, Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/gHuPdBehV9leQFiDgyS3nB2C7Es.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/mAvyQ2X3767LwXE2htvAd22ucd3.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/beware-the-night-nurse",
+                        "url": "/movies/de-vuelta-a-la-accion",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,44 +429,93 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn-0f49rzor22huapc5.orbitcache.com/engine/hls2/01/13427/gpjiwezgo8hs_,n,.urlset/index-v1-a1.m3u8?t=S4HNJubrRdgrl8cOknvP9dzDUTI-NX04i8A86w4qOI4&s=1738152491&e=14400&f=67281053&node=SZHSsRvkCzi+vj394EwIn1FNSsrLyGHN5gEj3UffCak=&i=20.42&sp=2500&asn=8075&q=n",
-                        "quality": "[CAST]Voe:720p",
-                        "videoUrl": "https://cdn-0f49rzor22huapc5.orbitcache.com/engine/hls2/01/13427/gpjiwezgo8hs_,n,.urlset/index-v1-a1.m3u8?t=S4HNJubrRdgrl8cOknvP9dzDUTI-NX04i8A86w4qOI4&s=1738152491&e=14400&f=67281053&node=SZHSsRvkCzi+vj394EwIn1FNSsrLyGHN5gEj3UffCak=&i=20.42&sp=2500&asn=8075&q=n",
+                        "url": "https://cdn-3glcsqmthpmfb8um.orbitcache.com/engine/hls2-c/01/13451/wudpi2a4qcsy_,n,.urlset/index-v1-a1.m3u8?t=1OTmw4ZKKSy9PMCbGsMha5C3Qa0z8fKuZ8NRfXIog40&s=1738174027&e=14400&f=67330348&node=FvLLQmFLPprhIaaK7QxxW1GPH4U48RVkH2s8+1QkG/U=&i=20.102&sp=2500&asn=8075&q=n",
+                        "quality": "[LAT]Voe:720p",
+                        "videoUrl": "https://cdn-3glcsqmthpmfb8um.orbitcache.com/engine/hls2-c/01/13451/wudpi2a4qcsy_,n,.urlset/index-v1-a1.m3u8?t=1OTmw4ZKKSy9PMCbGsMha5C3Qa0z8fKuZ8NRfXIog40&s=1738174027&e=14400&f=67330348&node=FvLLQmFLPprhIaaK7QxxW1GPH4U48RVkH2s8+1QkG/U=&i=20.102&sp=2500&asn=8075&q=n",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://gvtpbsgpgu.premilkyway.com/hls2/01/08226/8z320xw0t43h_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=upNIpd7fJm0Y_n_XStA09k_lbteg0FOpdOW2wLJrhmk&s=1738152490&e=129600&f=41133292&srv=Gy4KXLg7mXRDXE7k&i=0.4&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
-                        "quality": "[CAST] StreamWish:1080p",
-                        "videoUrl": "https://gvtpbsgpgu.premilkyway.com/hls2/01/08226/8z320xw0t43h_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=upNIpd7fJm0Y_n_XStA09k_lbteg0FOpdOW2wLJrhmk&s=1738152490&e=129600&f=41133292&srv=Gy4KXLg7mXRDXE7k&i=0.4&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
+                        "url": "https://mx9skjnui4es.premilkyway.com/hls2/01/08234/tr9qzmvo7jhm_,l,n,.urlset/index-f2-v1-a1.m3u8?t=7KsApskhp-R-s2FaNCpD-Caduc2IpOWXZ0Narhuw7u8&s=1738174026&e=129600&f=41173231&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "quality": "[LAT] StreamWish:720p",
+                        "videoUrl": "https://mx9skjnui4es.premilkyway.com/hls2/01/08234/tr9qzmvo7jhm_,l,n,.urlset/index-f2-v1-a1.m3u8?t=7KsApskhp-R-s2FaNCpD-Caduc2IpOWXZ0Narhuw7u8&s=1738174026&e=129600&f=41173231&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/8z320xw0t43h"
+                            "Referer": "https://streamwish.to/e/tr9qzmvo7jhm"
                         }
                     },
                     {
-                        "url": "https://gvtpbsgpgu.premilkyway.com/hls2/01/08226/8z320xw0t43h_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=upNIpd7fJm0Y_n_XStA09k_lbteg0FOpdOW2wLJrhmk&s=1738152490&e=129600&f=41133292&srv=Gy4KXLg7mXRDXE7k&i=0.4&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
+                        "url": "https://mx9skjnui4es.premilkyway.com/hls2/01/08234/tr9qzmvo7jhm_,l,n,.urlset/index-f1-v1-a1.m3u8?t=7KsApskhp-R-s2FaNCpD-Caduc2IpOWXZ0Narhuw7u8&s=1738174026&e=129600&f=41173231&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://mx9skjnui4es.premilkyway.com/hls2/01/08234/tr9qzmvo7jhm_,l,n,.urlset/index-f1-v1-a1.m3u8?t=7KsApskhp-R-s2FaNCpD-Caduc2IpOWXZ0Narhuw7u8&s=1738174026&e=129600&f=41173231&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/tr9qzmvo7jhm"
+                        }
+                    },
+                    {
+                        "url": "https://cdn-3exjmjcu02yez3zb.orbitcache.com/engine/hls2-c/01/13451/ul3jhdglzse4_,n,.urlset/index-v1-a1.m3u8?t=hx8i4iQ94JLNa6kPy8JrQjIMn-J9bN1BI8qDfW__qW4&s=1738174048&e=14400&f=67330332&node=FVRxQdVyfeFwCwcRINyxWqwgNHUrKwYasGcsLdw0uYM=&i=20.102&sp=2500&asn=8075&q=n",
+                        "quality": "[SUB]Voe:720p",
+                        "videoUrl": "https://cdn-3exjmjcu02yez3zb.orbitcache.com/engine/hls2-c/01/13451/ul3jhdglzse4_,n,.urlset/index-v1-a1.m3u8?t=hx8i4iQ94JLNa6kPy8JrQjIMn-J9bN1BI8qDfW__qW4&s=1738174048&e=14400&f=67330332&node=FVRxQdVyfeFwCwcRINyxWqwgNHUrKwYasGcsLdw0uYM=&i=20.102&sp=2500&asn=8075&q=n",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://cdn-puliq8eyobyawezd.orbitcache.com/engine/hls2/01/13451/lvqlpx9mie3s_,n,.urlset/index-v1-a1.m3u8?t=S7PGSqX0y3GRXflz_DGfelKAmrDyhV1uAHzHgAlJ45g&s=1738174042&e=14400&f=67330291&node=GFPfwkVxOrAbl//ZuqXIKuBqNdcTSLtB3WHIyH/iTtQ=&i=20.102&sp=2500&asn=8075&q=n",
+                        "quality": "[CAST]Voe:720p",
+                        "videoUrl": "https://cdn-puliq8eyobyawezd.orbitcache.com/engine/hls2/01/13451/lvqlpx9mie3s_,n,.urlset/index-v1-a1.m3u8?t=S7PGSqX0y3GRXflz_DGfelKAmrDyhV1uAHzHgAlJ45g&s=1738174042&e=14400&f=67330291&node=GFPfwkVxOrAbl//ZuqXIKuBqNdcTSLtB3WHIyH/iTtQ=&i=20.102&sp=2500&asn=8075&q=n",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://lvvb9d6p7p.premilkyway.com/hls2/01/08234/ahgnpxubzcge_,l,n,.urlset/index-f2-v1-a1.m3u8?t=CeggIJFfhvwfQP3kvvA3OWMEtwlbV3w2MgOvxs_FWTw&s=1738174049&e=129600&f=41173210&srv=0wnh534rdgf989&i=0.4&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=8075",
+                        "quality": "[SUB] StreamWish:720p",
+                        "videoUrl": "https://lvvb9d6p7p.premilkyway.com/hls2/01/08234/ahgnpxubzcge_,l,n,.urlset/index-f2-v1-a1.m3u8?t=CeggIJFfhvwfQP3kvvA3OWMEtwlbV3w2MgOvxs_FWTw&s=1738174049&e=129600&f=41173210&srv=0wnh534rdgf989&i=0.4&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/ahgnpxubzcge"
+                        }
+                    },
+                    {
+                        "url": "https://r63hfpdmodtc.premilkyway.com/hls2/01/08234/d5785zhtu9ri_,l,n,.urlset/index-f2-v1-a1.m3u8?t=8IBykWYmo-cKThGbrr17ff8YgUkWeMLJqH44uZSgAgA&s=1738174043&e=129600&f=41173155&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://gvtpbsgpgu.premilkyway.com/hls2/01/08226/8z320xw0t43h_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=upNIpd7fJm0Y_n_XStA09k_lbteg0FOpdOW2wLJrhmk&s=1738152490&e=129600&f=41133292&srv=Gy4KXLg7mXRDXE7k&i=0.4&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
+                        "videoUrl": "https://r63hfpdmodtc.premilkyway.com/hls2/01/08234/d5785zhtu9ri_,l,n,.urlset/index-f2-v1-a1.m3u8?t=8IBykWYmo-cKThGbrr17ff8YgUkWeMLJqH44uZSgAgA&s=1738174043&e=129600&f=41173155&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/8z320xw0t43h"
+                            "Referer": "https://streamwish.to/e/d5785zhtu9ri"
                         }
                     },
                     {
-                        "url": "https://gvtpbsgpgu.premilkyway.com/hls2/01/08226/8z320xw0t43h_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=upNIpd7fJm0Y_n_XStA09k_lbteg0FOpdOW2wLJrhmk&s=1738152490&e=129600&f=41133292&srv=Gy4KXLg7mXRDXE7k&i=0.4&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
-                        "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://gvtpbsgpgu.premilkyway.com/hls2/01/08226/8z320xw0t43h_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=upNIpd7fJm0Y_n_XStA09k_lbteg0FOpdOW2wLJrhmk&s=1738152490&e=129600&f=41133292&srv=Gy4KXLg7mXRDXE7k&i=0.4&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=8075",
+                        "url": "https://lvvb9d6p7p.premilkyway.com/hls2/01/08234/ahgnpxubzcge_,l,n,.urlset/index-f1-v1-a1.m3u8?t=CeggIJFfhvwfQP3kvvA3OWMEtwlbV3w2MgOvxs_FWTw&s=1738174049&e=129600&f=41173210&srv=0wnh534rdgf989&i=0.4&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=8075",
+                        "quality": "[SUB] StreamWish:480p",
+                        "videoUrl": "https://lvvb9d6p7p.premilkyway.com/hls2/01/08234/ahgnpxubzcge_,l,n,.urlset/index-f1-v1-a1.m3u8?t=CeggIJFfhvwfQP3kvvA3OWMEtwlbV3w2MgOvxs_FWTw&s=1738174049&e=129600&f=41173210&srv=0wnh534rdgf989&i=0.4&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/8z320xw0t43h"
+                            "Referer": "https://streamwish.to/e/ahgnpxubzcge"
+                        }
+                    },
+                    {
+                        "url": "https://r63hfpdmodtc.premilkyway.com/hls2/01/08234/d5785zhtu9ri_,l,n,.urlset/index-f1-v1-a1.m3u8?t=8IBykWYmo-cKThGbrr17ff8YgUkWeMLJqH44uZSgAgA&s=1738174043&e=129600&f=41173155&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://r63hfpdmodtc.premilkyway.com/hls2/01/08234/d5785zhtu9ri_,l,n,.urlset/index-f1-v1-a1.m3u8?t=8IBykWYmo-cKThGbrr17ff8YgUkWeMLJqH44uZSgAgA&s=1738174043&e=129600&f=41173155&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/d5785zhtu9ri"
                         }
                     }
                 ],

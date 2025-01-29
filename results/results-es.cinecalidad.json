@@ -7,9 +7,14 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-serie/heroes-de-guardia/",
+                                "title": "Héroes de guardia",
+                                "thumbnail_url": ""
+                            },
+                            {
                                 "url": "/ver-pelicula/duro-para-espiar/",
                                 "title": "Duro para espiar",
-                                "thumbnail_url": ""
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//s4riPKJX5DGClWgVESyP24r121N.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/变异狂蟒/",
@@ -60,11 +65,6 @@
                                 "url": "/ver-serie/prime-target-objetivo-clave/",
                                 "title": "Prime Target: Objetivo clave",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342//hqLcyZ2vkWVmCzODU6vtc71RHBr.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/siempre-el-mismo-dia/",
-                                "title": "Siempre el mismo día",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//pC7IS1LlDYtxN3HHaeRrhmlAVin.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/ver-serie/heroes-de-guardia/",
+                                "title": "Héroes de guardia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//o0gcDBhbiQOq8pKCBbGcjismLWD.jpg"
+                            },
                             {
                                 "url": "/ver-pelicula/star-trek-seccion-31/",
                                 "title": "Star Trek: Sección 31",
@@ -179,11 +184,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/duro-para-espiar/",
-                    "artist": "'Weird Al' Yankovic",
-                    "description": "El agente SAE 2040, más conocido como Dick Steele, abandonó La Agencia siendo el mejor espía de la compañía. Tiempo después, el director de La Agencia intenta convencer a Steele para que vuelva al servicio por una buena causa: su enemigo el general Rancor, presuntamente muerto hace quince años en una pelea con Steele, está todavía vivo, aunque manco. Y el agente SAE 2040 es el único que puede atraparle e impedir que consiga el poder. Steel debe volver al servicio y, para dar con el malvado, cuenta con la ayuda de la bella y misteriosa agente 3.14.   ",
-                    "genre": "Acción, Comedia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w342//s4riPKJX5DGClWgVESyP24r121N.jpg",
+                    "url": "/ver-serie/heroes-de-guardia/",
+                    "artist": "김선영",
+                    "author": "",
+                    "description": "Un médico veterano de guerra llega para crear un centro de trauma de primer nivel y, con métodos directos pero eficaces, convertir a su equipo en rebeldes que salvan vidas.   ",
+                    "genre": "Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w342//o0gcDBhbiQOq8pKCBbGcjismLWD.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -191,9 +197,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/duro-para-espiar/",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
+                        "url": "/ver-el-episodio/heroes-de-guardia-1x3/",
+                        "name": "T1 - E3 - Seguir corriendo",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/ver-el-episodio/heroes-de-guardia-1x2/",
+                        "name": "T1 - E2 - Nace el primer protegido",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/uma-mente-excepcional/",
+                                "title": "Uma Mente Excepcional",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/84WCX4iMn9gmzXMaYhXE3nNO5ie.jpg"
+                            },
+                            {
                                 "url": "/filmes/o-jogo-do-assassino/",
                                 "title": "O Jogo do Assassino",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/pPmxLP2eMJEFiY7KZ3WkSFQ1b20.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/venom-a-ultima-rodada/",
                                 "title": "Venom: A Última Rodada",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/jQ92em8SMpu0ufGUtZNVlvxO4Qr.jpg"
-                            },
-                            {
-                                "url": "/series/producao-de-sonhos/",
-                                "title": "Produção de Sonhos",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tdrfeW1E1K7DuscNS0nX8BhoT5q.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -76,6 +76,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/uma-mente-excepcional/",
+                                "title": "Uma Mente Excepcional",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/84WCX4iMn9gmzXMaYhXE3nNO5ie.jpg"
+                            },
                             {
                                 "url": "/series/round-6/",
                                 "title": "Round 6",
@@ -132,9 +137,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/xEC4nyJvcWcOu7QaobLcqz6iRUL.jpg"
                             },
                             {
-                                "url": "/series/cobra-kai/",
-                                "title": "Cobra Kai",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
+                                "url": "/series/uma-mente-excepcional/",
+                                "title": "Uma Mente Excepcional",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/84WCX4iMn9gmzXMaYhXE3nNO5ie.jpg"
+                            },
+                            {
+                                "url": "/series/escandalo-bem-britanico/",
+                                "title": "Escândalo Bem Britânico",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rCa2Cdb3JNx2jka2LQJeaSTCIeH.jpg"
                             },
                             {
                                 "url": "/series/fight-night-the-million-dollar-heist/",
@@ -275,16 +285,6 @@
                                 "url": "/series/the-trunk/",
                                 "title": "The Trunk",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/s0hxhkL7zet7yAIdnqglbITiB86.jpg"
-                            },
-                            {
-                                "url": "/series/asaf/",
-                                "title": "Asaf",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zlBMoPwyGOalN0Bu8H6ylsfaYHf.jpg"
-                            },
-                            {
-                                "url": "/series/irracional/",
-                                "title": "Irracional",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/pPNjfBEmBOMYObd7gBHAlmh3aJR.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -454,11 +454,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filmes/o-jogo-do-assassino/",
-                    "title": "O Jogo do Assassino",
-                    "description": "Um matador de elite é diagnosticado com uma doença terminal e terá que enfrentar um exército de outros assassinos para reconquistar o amor de sua vida antes que seja tarde demais.\n\nTítulo Original: The Killer's Game",
-                    "genre": "Ação, Comédia, Crime",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/pPmxLP2eMJEFiY7KZ3WkSFQ1b20.jpg",
+                    "url": "/series/uma-mente-excepcional/",
+                    "title": "Uma Mente Excepcional",
+                    "description": "Morgan, uma mãe solteira com três filhos e uma mente excepcional, ajuda a resolver um crime insolúvel quando reorganiza algumas evidências durante seu turno como faxineira do departamento de polícia. Quando descobrem que ela tem um talento especial para colocar as coisas em ordem por causa de seu alto potencial intelectual, ela é contratada como consultora para trabalhar com um detetive experiente e fiel às regras, Karadec. Juntos, eles formam uma equipe incomum e imparável.\n\nTítulo Original: High Potential\nTemporadas: 1\nEpisódios: 13",
+                    "genre": "Crime, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/84WCX4iMn9gmzXMaYhXE3nNO5ie.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -466,9 +466,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filmes/o-jogo-do-assassino/",
-                        "name": "Filme",
-                        "episode_number": 1.0
+                        "url": "/episodes/uma-mente-excepcional-1x13/",
+                        "name": "Temporada 1 x 13 - Episódio 13",
+                        "date_upload": 1739232000000,
+                        "episode_number": 13.0
+                    },
+                    {
+                        "url": "/episodes/uma-mente-excepcional-1x12/",
+                        "name": "Temporada 1 x 12 - Episódio 12",
+                        "date_upload": 1738627200000,
+                        "episode_number": 12.0
                     }
                 ],
                 "passed": true

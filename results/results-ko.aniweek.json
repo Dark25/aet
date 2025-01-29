@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/c/아마가미 씨네 인연 맺기",
+                                "title": "아마가미 씨네 인연 맺기",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2410/4d8c8e4ce62f4b0e7ffde45c35d863fc_1727806743_4554.jpg"
+                            },
+                            {
+                                "url": "/c/언네임드 메모리 Act.2",
+                                "title": "언네임드 메모리 Act.2",
+                                "thumbnail_url": "https://aniweek.com/data/editor/2501/87ba3252feda20f351da3269474397a8_1736271877_7579.jpg"
+                            },
+                            {
                                 "url": "/c/이 회사에 좋아하는 사람이 있습니다",
                                 "title": "이 회사에 좋아하는 사람이 있습니다",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736196370_5628.jpg"
@@ -287,11 +297,6 @@
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/b22a93d7e9f82019630f16df6dade63a_1736736609_4633.jpg"
                             },
                             {
-                                "url": "/c/아마가미 씨네 인연 맺기",
-                                "title": "아마가미 씨네 인연 맺기",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2410/4d8c8e4ce62f4b0e7ffde45c35d863fc_1727806743_4554.jpg"
-                            },
-                            {
                                 "url": "/c/이수라 2기",
                                 "title": "이수라 2기",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/0af2b5930f6ccacb2ff9841d3f89ac28_1736388190_0827.jpg"
@@ -335,11 +340,6 @@
                                 "url": "/c/밤은 고양이와 함께 (2024)",
                                 "title": "밤은 고양이와 함께 (2024)",
                                 "thumbnail_url": "https://aniweek.com/data/editor/2501/bf2d4eb551d4812ee2b7d60527428479_1735754877_3422.jpg"
-                            },
-                            {
-                                "url": "/c/언네임드 메모리 Act.2",
-                                "title": "언네임드 메모리 Act.2",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2501/87ba3252feda20f351da3269474397a8_1736271877_7579.jpg"
                             },
                             {
                                 "url": "/c/샹그릴라 프론티어 망겜 헌터, 갓겜에 도전하다 2nd Season",
@@ -469,10 +469,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/c/이 회사에 좋아하는 사람이 있습니다",
-                    "title": "이 회사에 좋아하는 사람이 있습니다",
-                    "description": "원제: この会社に好きな人がいます\n원작: 에노모토 아카마루\n감독: 타케이치 나오코\n각본: 요코타니 마사히로\n캐릭터 디자인: 오오사와 미나\n음악: IM.Lab\n장르: 로맨스, 코미디\n방영일: 2025.01.06 23:00 (월)\n등급: 15\n총화수: 방영중",
-                    "thumbnail_url": "https://aniweek.com/data/editor/2501/c20ff012b2859ab7201d941a84f160db_1736196370_5628.jpg",
+                    "url": "/c/아마가미 씨네 인연 맺기",
+                    "title": "아마가미 씨네 인연 맺기",
+                    "description": "원제: 甘神さんちの縁結び\n원작: 나이토 마시\n감독: 아베 유지로\n각본: 아오키 야스코\n캐릭터 디자인: 이이즈카 하루코\n음악: 카와사키 료, 코노 토모유키\n장르: 로맨스, 코미디, 판타지, 하렘\n방영일: 2024.10.02 00:00 (수)\n등급: 12\n총화수: 24",
+                    "thumbnail_url": "https://aniweek.com/data/editor/2410/4d8c8e4ce62f4b0e7ffde45c35d863fc_1727806743_4554.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -480,22 +480,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/e/이 회사에 좋아하는 사람이 있습니다 4화",
-                        "name": "이 회사에 좋아하는 사람이 있습니다 4화",
+                        "url": "/e/아마가미 씨네 인연 맺기 16화",
+                        "name": "아마가미 씨네 인연 맺기 16화",
                         "date_upload": 1738108800000,
-                        "episode_number": 4.0
+                        "episode_number": 16.0
                     },
                     {
-                        "url": "/e/이 회사에 좋아하는 사람이 있습니다 3화",
-                        "name": "이 회사에 좋아하는 사람이 있습니다 3화",
-                        "date_upload": 1737417600000,
-                        "episode_number": 3.0
+                        "url": "/e/아마가미 씨네 인연 맺기 15화",
+                        "name": "아마가미 씨네 인연 맺기 15화",
+                        "date_upload": 1737590400000,
+                        "episode_number": 15.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-11691535811936420818/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-11691535811936420818/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-11691535811936420818/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-16014697802899978819/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-16014697802899978819/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-16014697802899978819/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

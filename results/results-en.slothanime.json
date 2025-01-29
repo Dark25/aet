@@ -3,7 +3,7 @@
         "name": "SlothAnime (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
                 "passed": false
             },
             "latest": {
@@ -25,9 +25,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=%2FOow%2B0Qe3OSc3S9UTNhpyw%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=1IueouA7B%2B3tvZY8i4W4TQ%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=%2FOow%2B0Qe3OSc3S9UTNhpyw%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=1IueouA7B%2B3tvZY8i4W4TQ%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",

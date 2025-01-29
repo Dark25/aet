@@ -253,27 +253,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://download2262.mediafire.com/br4bawm41ocgKAxyIpybTDhA0zUoTc6VC0q9fsZv7GerKpAo6X1sVl7HXvPu_gMv3HKCcfUQHxxFhKkdkMRy-N1nljj442DPWXcl8qToH5_JmqtS08FFm0zBhBfOSirgMSuMAAz3fupCqYa55DHqf3mDlBp6X3odEKKcJwRPZy0/43dijm1bd9673qj/%5BMahal%5D+-50kg+no+Cinderella+Ep+07+e+08.mp4",
-                        "quality": "Mediafire - FULL HD",
-                        "videoUrl": "https://download2262.mediafire.com/br4bawm41ocgKAxyIpybTDhA0zUoTc6VC0q9fsZv7GerKpAo6X1sVl7HXvPu_gMv3HKCcfUQHxxFhKkdkMRy-N1nljj442DPWXcl8qToH5_JmqtS08FFm0zBhBfOSirgMSuMAAz3fupCqYa55DHqf3mDlBp6X3odEKKcJwRPZy0/43dijm1bd9673qj/%5BMahal%5D+-50kg+no+Cinderella+Ep+07+e+08.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0"
-                        }
-                    },
-                    {
-                        "url": "https://drive.usercontent.google.com/download?id=1SDJFpMy2yT24FiTCngfIdxGpCTaHpPQO",
-                        "quality": "GDrive - FULL HD",
-                        "videoUrl": "https://drive.usercontent.google.com/download?id=1SDJFpMy2yT24FiTCngfIdxGpCTaHpPQO",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:120.0) Gecko/20100101 Firefox/120.0",
-                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-                            "Cookie": ""
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketException: Network is unreachable",
+                "passed": false
             }
         }
     }

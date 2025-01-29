@@ -232,6 +232,36 @@
                                 "thumbnail_url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202501/the-trailer-for-jisoos-upcoming-film--newtopia--has-been-unveiled-240914829-16x9_0.jpg"
                             },
                             {
+                                "url": "/api/DramaList/Drama/10135?isq=false",
+                                "title": "Impression of Youth",
+                                "thumbnail_url": "https://image-7wk.pages.dev/73838203-bdf1-4129-8426-946b2bd9a573.png"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/10097?isq=false",
+                                "title": "Love on the Edge of Divorce",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/ju6uvcrbw20mv201736471914375/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/10141?isq=false",
+                                "title": "Stolen Love - Take by Force",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/gf8lt8pyrwg0hzp1736833219221/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/10152?isq=false",
+                                "title": "Live or Love?",
+                                "thumbnail_url": "https://puui.wetvinfo.com/wetv/cms/4050_1737262306_19201080.jpeg"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/10167?isq=false",
+                                "title": "The Gold Behind the Stone",
+                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/mnl0hs42r74qc2a1737446554690/0"
+                            },
+                            {
+                                "url": "/api/DramaList/Drama/10162?isq=false",
+                                "title": "Stepmother",
+                                "thumbnail_url": "https://occ-0-1223-58.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWRn_FTGhjgF-kcIPiK7Ga2Ous1dhshdurO2x48ocpJBOgWG0y-L-y9k1YHZTCQuD3InEhGo7VGjOaZrjMWnw-6PBDMy4JOkUBYp.jpg?r=9b7"
+                            },
+                            {
                                 "url": "/api/DramaList/Drama/10179?isq=false",
                                 "title": "Thirst (2009)",
                                 "thumbnail_url": "https://image-7wk.pages.dev/705f5ede-019b-4556-91eb-2dad09bed0b1.jpg"
@@ -270,11 +300,6 @@
                                 "url": "/api/DramaList/Drama/9856?isq=false",
                                 "title": "How to Spot a Red Flag",
                                 "thumbnail_url": "https://prod-images.viu.com/3882626068/b0817fe3059b3268d5435df200eff49b91b216b6?im=Resize,width=1920"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/10097?isq=false",
-                                "title": "Love on the Edge of Divorce",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/ju6uvcrbw20mv201736471914375/0"
                             },
                             {
                                 "url": "/api/DramaList/Drama/10177?isq=false",
@@ -320,21 +345,6 @@
                                 "url": "/api/DramaList/Drama/10173?isq=false",
                                 "title": "Sudden Marriage - Ikinari Kon",
                                 "thumbnail_url": "https://media.themoviedb.org/t/p/w1066_and_h600_bestv2/m6w5ll1FAoOGrhRlwxr2GpgkPAH.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/10141?isq=false",
-                                "title": "Stolen Love - Take by Force",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/gf8lt8pyrwg0hzp1736833219221/0"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/10152?isq=false",
-                                "title": "Live or Love?",
-                                "thumbnail_url": "https://puui.wetvinfo.com/wetv/cms/4050_1737262306_19201080.jpeg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/10167?isq=false",
-                                "title": "The Gold Behind the Stone",
-                                "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/mnl0hs42r74qc2a1737446554690/0"
                             },
                             {
                                 "url": "/api/DramaList/Drama/10172?isq=false",
@@ -405,16 +415,6 @@
                                 "url": "/api/DramaList/Drama/9740?isq=false",
                                 "title": "Perfect 10 Liners",
                                 "thumbnail_url": "https://vcover-hz-pic.wetvinfo.com/vcover_hz_pic/0/feag2shxw6mx76l1732864329122/0?.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9955?isq=false",
-                                "title": "The Boy Next World: Uncut",
-                                "thumbnail_url": "https://imagecdn.app/v1/images/http%3A%2F%2Fpic9.iqiyipic.com%2Fimage%2F20241213%2F55%2F12%2Fa_100597686_m_601_zh-CN_m1_1920_1080.jpg"
-                            },
-                            {
-                                "url": "/api/DramaList/Drama/9566?isq=false",
-                                "title": "Iron Family",
-                                "thumbnail_url": "https://prod-images.viu.com/2618648271/94e1e504d9ca6a487ae1f91bee3c055f417a3121?im=Resize,width=1920"
                             }
                         ],
                         "hasNextPage": true
@@ -560,7 +560,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6032059654822130123/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6032059654822130123/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6032059654822130123/package/lib/server/firefox/ffConnection.js:154:41\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Target page, context or browser has been closed\n  name='TargetClosedError\n  stack='TargetClosedError: Target page, context or browser has been closed\n    at FFPage.didClose (/tmp/playwright-java-6886305785626036241/package/lib/server/firefox/ffPage.js:301:23)\n    at FFBrowser._onDetachedFromTarget (/tmp/playwright-java-6886305785626036241/package/lib/server/firefox/ffBrowser.js:110:12)\n    at FFSession.emit (node:events:518:28)\n    at /tmp/playwright-java-6886305785626036241/package/lib/server/firefox/ffConnection.js:154:41\n}",
                 "passed": false
             }
         }

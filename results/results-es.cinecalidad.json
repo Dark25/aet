@@ -7,9 +7,14 @@
                     {
                         "animes": [
                             {
+                                "url": "/ver-pelicula/desaparecer-por-completo/",
+                                "title": "Desaparecer Por Completo",
+                                "thumbnail_url": ""
+                            },
+                            {
                                 "url": "/ver-serie/heroes-de-guardia/",
                                 "title": "Héroes de guardia",
-                                "thumbnail_url": ""
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//o0gcDBhbiQOq8pKCBbGcjismLWD.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/duro-para-espiar/",
@@ -60,11 +65,6 @@
                                 "url": "/ver-serie/severance/",
                                 "title": "Severance",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342//y1dTPyj2mE2x5sKLdSsYoh2tbP6.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/prime-target-objetivo-clave/",
-                                "title": "Prime Target: Objetivo clave",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342//hqLcyZ2vkWVmCzODU6vtc71RHBr.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -184,12 +184,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-serie/heroes-de-guardia/",
-                    "artist": "김선영",
-                    "author": "",
-                    "description": "Un médico veterano de guerra llega para crear un centro de trauma de primer nivel y, con métodos directos pero eficaces, convertir a su equipo en rebeldes que salvan vidas.   ",
-                    "genre": "Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w342//o0gcDBhbiQOq8pKCBbGcjismLWD.jpg",
+                    "url": "/ver-pelicula/desaparecer-por-completo/",
+                    "artist": "Carolina Contreras",
+                    "description": "",
+                    "genre": "Suspenso, Terror",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w342//uGlx6638wn7QGjagJnYduc6QakS.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -197,21 +196,25 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-el-episodio/heroes-de-guardia-1x3/",
-                        "name": "T1 - E3 - Seguir corriendo",
-                        "episode_number": 3.0
-                    },
-                    {
-                        "url": "/ver-el-episodio/heroes-de-guardia-1x2/",
-                        "name": "T1 - E2 - Nace el primer protegido",
-                        "episode_number": 2.0
+                        "url": "/ver-pelicula/desaparecer-por-completo/",
+                        "name": "PELÍCULA",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://cdn-15oxonghjuguwcfk.orbitcache.com/engine/hls2/01/13461/psvqticjghmj_,n,.urlset/index-v1-a1.m3u8?t=hMWT1fMKhk7jOoDMXcnYw8j7YbOJjelBKgAOM5sgBr4&s=1738130876&e=14400&f=67305754&node=AqlVVbsPMntfQIn+N+LIyvB9/lNgCKU+DTN0PFDbaek=&i=20.25&sp=2500&asn=8075&q=n",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://cdn-15oxonghjuguwcfk.orbitcache.com/engine/hls2/01/13461/psvqticjghmj_,n,.urlset/index-v1-a1.m3u8?t=hMWT1fMKhk7jOoDMXcnYw8j7YbOJjelBKgAOM5sgBr4&s=1738130876&e=14400&f=67305754&node=AqlVVbsPMntfQIn+N+LIyvB9/lNgCKU+DTN0PFDbaek=&i=20.25&sp=2500&asn=8075&q=n",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
